@@ -76,6 +76,11 @@ export default {
         return await getImage(key, env);
       }
 
+      // Public tracking endpoint (no auth, lightweight)
+      if (path === "/api/track" && request.method === "POST") {
+        return await trackPageView(request, env);
+      }
+
       // All other endpoints require auth
       if (!checkAuth(request, env)) {
         return unauthorized();
@@ -135,6 +140,20 @@ export default {
       // Sync keywords with existing articles
       if (path === "/api/keywords/sync" && request.method === "POST") {
         return await syncKeywords(env);
+      }
+
+      // Analytics
+      if (path === "/api/analytics/overview" && request.method === "GET") {
+        return await getAnalyticsOverview(url, env);
+      }
+      if (path === "/api/analytics/sites" && request.method === "GET") {
+        return await getAnalyticsBySite(url, env);
+      }
+      if (path === "/api/analytics/pages" && request.method === "GET") {
+        return await getAnalyticsByPage(url, env);
+      }
+      if (path === "/api/analytics/referrers" && request.method === "GET") {
+        return await getAnalyticsReferrers(url, env);
       }
 
       return json({ success: false, error: "Not found" }, 404);
@@ -541,4 +560,171 @@ async function getImage(key: string, env: Env): Promise<Response> {
   headers.set("Access-Control-Allow-Origin", "*");
 
   return new Response(object.body, { headers });
+}
+
+// === Analytics Tracking ===
+async function trackPageView(request: Request, env: Env): Promise<Response> {
+  try {
+    const body = await request.json() as { site_id: string; path: string; referrer?: string };
+
+    if (!body.site_id || !body.path) {
+      return json({ success: false, error: "site_id and path required" }, 400);
+    }
+
+    // Get country from Cloudflare headers
+    const country = request.headers.get("cf-ipcountry") || "unknown";
+    const userAgent = request.headers.get("user-agent") || "";
+
+    // Don't track bots
+    if (userAgent.toLowerCase().includes("bot") || userAgent.toLowerCase().includes("crawler")) {
+      return json({ success: true, data: { tracked: false, reason: "bot" } });
+    }
+
+    await env.DB.prepare(
+      "INSERT INTO page_views (site_id, path, referrer, user_agent, country) VALUES (?, ?, ?, ?, ?)"
+    )
+      .bind(body.site_id, body.path, body.referrer || null, userAgent.slice(0, 255), country)
+      .run();
+
+    return json({ success: true, data: { tracked: true } });
+  } catch (error) {
+    console.error("Tracking error:", error);
+    // Don't fail the request if tracking fails
+    return json({ success: true, data: { tracked: false, reason: "error" } });
+  }
+}
+
+// === Analytics Queries ===
+async function getAnalyticsOverview(url: URL, env: Env): Promise<Response> {
+  const days = parseInt(url.searchParams.get("days") || "30");
+  const dateLimit = new Date();
+  dateLimit.setDate(dateLimit.getDate() - days);
+
+  const [totalViews, viewsByDay, topSites, topPages] = await Promise.all([
+    // Total views
+    env.DB.prepare(
+      "SELECT COUNT(*) as total FROM page_views WHERE created_at >= ?"
+    ).bind(dateLimit.toISOString()).first<{ total: number }>(),
+
+    // Views by day
+    env.DB.prepare(`
+      SELECT DATE(created_at) as date, COUNT(*) as views
+      FROM page_views
+      WHERE created_at >= ?
+      GROUP BY DATE(created_at)
+      ORDER BY date DESC
+      LIMIT 30
+    `).bind(dateLimit.toISOString()).all<{ date: string; views: number }>(),
+
+    // Top sites
+    env.DB.prepare(`
+      SELECT site_id, COUNT(*) as views
+      FROM page_views
+      WHERE created_at >= ?
+      GROUP BY site_id
+      ORDER BY views DESC
+    `).bind(dateLimit.toISOString()).all<{ site_id: string; views: number }>(),
+
+    // Top pages
+    env.DB.prepare(`
+      SELECT site_id, path, COUNT(*) as views
+      FROM page_views
+      WHERE created_at >= ?
+      GROUP BY site_id, path
+      ORDER BY views DESC
+      LIMIT 20
+    `).bind(dateLimit.toISOString()).all<{ site_id: string; path: string; views: number }>(),
+  ]);
+
+  return json({
+    success: true,
+    data: {
+      period: { days, from: dateLimit.toISOString() },
+      totalViews: totalViews?.total || 0,
+      viewsByDay: viewsByDay.results,
+      topSites: topSites.results,
+      topPages: topPages.results,
+    },
+  });
+}
+
+async function getAnalyticsBySite(url: URL, env: Env): Promise<Response> {
+  const siteId = url.searchParams.get("site_id");
+  const days = parseInt(url.searchParams.get("days") || "30");
+  const dateLimit = new Date();
+  dateLimit.setDate(dateLimit.getDate() - days);
+
+  let query = `
+    SELECT site_id, COUNT(*) as views,
+           COUNT(DISTINCT DATE(created_at)) as active_days
+    FROM page_views
+    WHERE created_at >= ?
+  `;
+  const params: string[] = [dateLimit.toISOString()];
+
+  if (siteId) {
+    query += " AND site_id = ?";
+    params.push(siteId);
+  }
+
+  query += " GROUP BY site_id ORDER BY views DESC";
+
+  const result = await env.DB.prepare(query).bind(...params).all();
+
+  return json({ success: true, data: result.results });
+}
+
+async function getAnalyticsByPage(url: URL, env: Env): Promise<Response> {
+  const siteId = url.searchParams.get("site_id");
+  const days = parseInt(url.searchParams.get("days") || "30");
+  const limit = parseInt(url.searchParams.get("limit") || "50");
+  const dateLimit = new Date();
+  dateLimit.setDate(dateLimit.getDate() - days);
+
+  if (!siteId) {
+    return json({ success: false, error: "site_id required" }, 400);
+  }
+
+  const result = await env.DB.prepare(`
+    SELECT path, COUNT(*) as views,
+           MIN(created_at) as first_view,
+           MAX(created_at) as last_view
+    FROM page_views
+    WHERE site_id = ? AND created_at >= ?
+    GROUP BY path
+    ORDER BY views DESC
+    LIMIT ?
+  `).bind(siteId, dateLimit.toISOString(), limit).all();
+
+  return json({ success: true, data: result.results });
+}
+
+async function getAnalyticsReferrers(url: URL, env: Env): Promise<Response> {
+  const siteId = url.searchParams.get("site_id");
+  const days = parseInt(url.searchParams.get("days") || "30");
+  const dateLimit = new Date();
+  dateLimit.setDate(dateLimit.getDate() - days);
+
+  let query = `
+    SELECT
+      CASE
+        WHEN referrer IS NULL OR referrer = '' THEN 'Direct'
+        ELSE referrer
+      END as source,
+      COUNT(*) as views
+    FROM page_views
+    WHERE created_at >= ?
+  `;
+  const params: string[] = [dateLimit.toISOString()];
+
+  if (siteId) {
+    query += " AND site_id = ?";
+    params.push(siteId);
+  }
+
+  query += " GROUP BY source ORDER BY views DESC LIMIT 20";
+
+  const result = await env.DB.prepare(query).bind(...params).all();
+
+  return json({ success: true, data: result.results });
 }

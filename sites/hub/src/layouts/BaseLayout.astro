@@ -4,6 +4,7 @@ import BaseHead from "@growthgear/shared/components/BaseHead.astro";
 import Header from "@growthgear/shared/components/Header.astro";
 import Footer from "@growthgear/shared/components/Footer.astro";
 import SEO from "@growthgear/shared/components/SEO.astro";
+import Analytics from "@growthgear/shared/components/Analytics.astro";
 import type { SEOData } from "@growthgear/shared/types";
 import { siteConfig } from "../config";
 
@@ -30,5 +31,6 @@ const { site, navigation, footer } = siteConfig;
     </main>
     <Footer siteName={site.name} links={footer.links} social={footer.social} />
     <SEO type="website" siteUrl={siteConfig.seo.siteUrl} siteName={site.name} />
+    <Analytics siteId={site.id} />
   </body>
 </html>

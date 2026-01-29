@@ -1,0 +1,47 @@
+---
+interface Props {
+  siteId: string;
+}
+
+const { siteId } = Astro.props;
+const apiUrl = "https://growthgear-api.andrew-705.workers.dev";
+---
+
+<script define:vars={{ siteId, apiUrl }}>
+(function() {
+  // Don't track in development
+  if (window.location.hostname === 'localhost') return;
+
+  // Track page view
+  function trackPageView() {
+    const data = {
+      site_id: siteId,
+      path: window.location.pathname,
+      referrer: document.referrer ? new URL(document.referrer).hostname : null
+    };
+
+    // Use sendBeacon for reliable tracking (doesn't block page unload)
+    if (navigator.sendBeacon) {
+      navigator.sendBeacon(
+        apiUrl + '/api/track',
+        JSON.stringify(data)
+      );
+    } else {
+      // Fallback to fetch
+      fetch(apiUrl + '/api/track', {
+        method: 'POST',
+        headers: { 'Content-Type': 'application/json' },
+        body: JSON.stringify(data),
+        keepalive: true
+      }).catch(() => {});
+    }
+  }
+
+  // Track on page load
+  if (document.readyState === 'complete') {
+    trackPageView();
+  } else {
+    window.addEventListener('load', trackPageView);
+  }
+})();
+</script>
