@@ -1,0 +1,25 @@
+name = "growthgear-api"
+main = "src/index.ts"
+compatibility_date = "2024-01-01"
+workers_dev = true
+
+[[d1_databases]]
+binding = "DB"
+database_name = "growthgear-db"
+database_id = "0feac72f-0900-4c99-8d3b-65f9b550ac1d"
+
+# Cloudflare AI for image generation
+[ai]
+binding = "AI"
+
+# R2 for image storage (create bucket named 'growthgear-images' in dashboard)
+[[r2_buckets]]
+binding = "IMAGES"
+bucket_name = "growthgear-images"
+
+[vars]
+ENVIRONMENT = "production"
+
+# Secrets (set via wrangler secret put):
+# - ANTHROPIC_API_KEY
+# - ADMIN_API_KEY

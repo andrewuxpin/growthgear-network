@@ -1,0 +1,173 @@
+---
+interface Props {
+  title: string;
+}
+
+const { title } = Astro.props;
+const currentPath = Astro.url.pathname;
+
+const navItems = [
+  { href: "/", label: "Dashboard", icon: "home" },
+  { href: "/sites", label: "Sites", icon: "globe" },
+  { href: "/keywords", label: "Keywords", icon: "key" },
+  { href: "/articles", label: "Articles", icon: "document" },
+  { href: "/generate", label: "Generate", icon: "sparkles" },
+];
+---
+
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>{title} | GrowthGear Admin</title>
+    <link rel="icon" type="image/svg+xml" href="/favicon.svg" />
+  </head>
+  <body class="bg-gray-50 min-h-screen">
+    <div class="flex h-screen overflow-hidden">
+      <!-- Sidebar -->
+      <aside class="hidden md:flex md:flex-shrink-0">
+        <div class="flex flex-col w-64 bg-gray-900">
+          <div class="flex items-center h-16 px-4 bg-gray-800">
+            <span class="text-xl font-bold text-white">GrowthGear</span>
+          </div>
+          <nav class="flex-1 px-2 py-4 space-y-1">
+            {navItems.map((item) => (
+              <a
+                href={item.href}
+                class={`flex items-center px-4 py-2 text-sm font-medium rounded-lg transition-colors ${
+                  currentPath === item.href
+                    ? "bg-gray-800 text-white"
+                    : "text-gray-300 hover:bg-gray-800 hover:text-white"
+                }`}
+              >
+                {item.icon === "home" && (
+                  <svg class="w-5 h-5 mr-3" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                    <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M3 12l2-2m0 0l7-7 7 7M5 10v10a1 1 0 001 1h3m10-11l2 2m-2-2v10a1 1 0 01-1 1h-3m-6 0a1 1 0 001-1v-4a1 1 0 011-1h2a1 1 0 011 1v4a1 1 0 001 1m-6 0h6" />
+                  </svg>
+                )}
+                {item.icon === "globe" && (
+                  <svg class="w-5 h-5 mr-3" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                    <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M21 12a9 9 0 01-9 9m9-9a9 9 0 00-9-9m9 9H3m9 9a9 9 0 01-9-9m9 9c1.657 0 3-4.03 3-9s-1.343-9-3-9m0 18c-1.657 0-3-4.03-3-9s1.343-9 3-9m-9 9a9 9 0 019-9" />
+                  </svg>
+                )}
+                {item.icon === "key" && (
+                  <svg class="w-5 h-5 mr-3" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                    <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M15 7a2 2 0 012 2m4 0a6 6 0 01-7.743 5.743L11 17H9v2H7v2H4a1 1 0 01-1-1v-2.586a1 1 0 01.293-.707l5.964-5.964A6 6 0 1121 9z" />
+                  </svg>
+                )}
+                {item.icon === "document" && (
+                  <svg class="w-5 h-5 mr-3" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                    <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M9 12h6m-6 4h6m2 5H7a2 2 0 01-2-2V5a2 2 0 012-2h5.586a1 1 0 01.707.293l5.414 5.414a1 1 0 01.293.707V19a2 2 0 01-2 2z" />
+                  </svg>
+                )}
+                {item.icon === "sparkles" && (
+                  <svg class="w-5 h-5 mr-3" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                    <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M5 3v4M3 5h4M6 17v4m-2-2h4m5-16l2.286 6.857L21 12l-5.714 2.143L13 21l-2.286-6.857L5 12l5.714-2.143L13 3z" />
+                  </svg>
+                )}
+                {item.label}
+              </a>
+            ))}
+          </nav>
+          <div class="p-4 border-t border-gray-800">
+            <button
+              id="logout-btn"
+              class="flex items-center w-full px-4 py-2 text-sm font-medium text-gray-300 rounded-lg hover:bg-gray-800 hover:text-white"
+            >
+              <svg class="w-5 h-5 mr-3" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M17 16l4-4m0 0l-4-4m4 4H7m6 4v1a3 3 0 01-3 3H6a3 3 0 01-3-3V7a3 3 0 013-3h4a3 3 0 013 3v1" />
+              </svg>
+              Logout
+            </button>
+          </div>
+        </div>
+      </aside>
+
+      <!-- Main content -->
+      <div class="flex flex-col flex-1 overflow-hidden">
+        <!-- Top bar -->
+        <header class="flex items-center justify-between h-16 px-6 bg-white border-b">
+          <h1 class="text-xl font-semibold text-gray-900">{title}</h1>
+          <div class="flex items-center space-x-4">
+            <span class="text-sm text-gray-500" id="api-status">Checking API...</span>
+          </div>
+        </header>
+
+        <!-- Page content -->
+        <main class="flex-1 overflow-y-auto p-6">
+          <slot />
+        </main>
+      </div>
+    </div>
+
+    <!-- Auth Modal -->
+    <div id="auth-modal" class="fixed inset-0 bg-black bg-opacity-50 flex items-center justify-center z-50 hidden">
+      <div class="bg-white rounded-lg p-6 w-full max-w-md">
+        <h2 class="text-xl font-bold mb-4">Enter Admin API Key</h2>
+        <input
+          type="password"
+          id="api-key-input"
+          placeholder="Enter your API key"
+          class="w-full px-4 py-2 border rounded-lg focus:ring-2 focus:ring-primary-500 focus:border-transparent"
+        />
+        <button
+          id="save-api-key"
+          class="w-full mt-4 px-4 py-2 bg-primary-600 text-white rounded-lg hover:bg-primary-700"
+        >
+          Save & Connect
+        </button>
+      </div>
+    </div>
+
+    <script is:inline>
+      const API_URL = 'https://growthgear-api.andrew-705.workers.dev';
+
+      // Check for API key
+      const apiKey = localStorage.getItem('admin_api_key');
+      const authModal = document.getElementById('auth-modal');
+      const apiStatus = document.getElementById('api-status');
+
+      if (!apiKey) {
+        authModal.classList.remove('hidden');
+      } else {
+        checkApiConnection();
+      }
+
+      // Save API key
+      document.getElementById('save-api-key')?.addEventListener('click', () => {
+        const key = document.getElementById('api-key-input').value;
+        if (key) {
+          localStorage.setItem('admin_api_key', key);
+          authModal.classList.add('hidden');
+          checkApiConnection();
+          // Dispatch custom event for pages to reload data
+          window.dispatchEvent(new CustomEvent('apiKeySet'));
+        }
+      });
+
+      // Logout
+      document.getElementById('logout-btn')?.addEventListener('click', () => {
+        localStorage.removeItem('admin_api_key');
+        window.location.reload();
+      });
+
+      async function checkApiConnection() {
+        try {
+          const response = await fetch(`${API_URL}/health`);
+          const data = await response.json();
+          if (data.success) {
+            apiStatus.textContent = 'API Connected';
+            apiStatus.classList.add('text-green-600');
+          } else {
+            apiStatus.textContent = 'API Error';
+            apiStatus.classList.add('text-red-600');
+          }
+        } catch (error) {
+          apiStatus.textContent = 'API Offline';
+          apiStatus.classList.add('text-red-600');
+        }
+      }
+    </script>
+  </body>
+</html>

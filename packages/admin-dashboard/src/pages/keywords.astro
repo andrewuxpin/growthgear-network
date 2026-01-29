@@ -1,0 +1,268 @@
+---
+import AdminLayout from "../layouts/AdminLayout.astro";
+---
+
+<AdminLayout title="Keywords">
+  <div class="flex justify-between items-center mb-6">
+    <div>
+      <h2 class="text-lg font-semibold text-gray-900">Keyword Queue</h2>
+      <p class="text-sm text-gray-500">Manage keywords for automated content generation</p>
+    </div>
+    <button
+      id="add-keyword-btn"
+      class="px-4 py-2 bg-primary-600 text-white rounded-lg hover:bg-primary-700 flex items-center"
+    >
+      <svg class="w-5 h-5 mr-2" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+        <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M12 6v6m0 0v6m0-6h6m-6 0H6" />
+      </svg>
+      Add Keywords
+    </button>
+  </div>
+
+  <!-- Filters -->
+  <div class="bg-white rounded-lg shadow mb-6">
+    <div class="p-4 flex items-center space-x-4">
+      <select id="filter-site" class="px-4 py-2 border rounded-lg">
+        <option value="">All Sites</option>
+      </select>
+      <select id="filter-status" class="px-4 py-2 border rounded-lg">
+        <option value="">All Status</option>
+        <option value="queued">Queued</option>
+        <option value="processing">Processing</option>
+        <option value="completed">Completed</option>
+        <option value="failed">Failed</option>
+      </select>
+      <button id="refresh-btn" class="px-4 py-2 bg-gray-100 rounded-lg hover:bg-gray-200">
+        Refresh
+      </button>
+    </div>
+  </div>
+
+  <!-- Keywords Table -->
+  <div class="bg-white rounded-lg shadow overflow-hidden">
+    <table class="min-w-full divide-y divide-gray-200">
+      <thead class="bg-gray-50">
+        <tr>
+          <th class="px-6 py-3 text-left text-xs font-medium text-gray-500 uppercase tracking-wider">Keyword</th>
+          <th class="px-6 py-3 text-left text-xs font-medium text-gray-500 uppercase tracking-wider">Site</th>
+          <th class="px-6 py-3 text-left text-xs font-medium text-gray-500 uppercase tracking-wider">Volume</th>
+          <th class="px-6 py-3 text-left text-xs font-medium text-gray-500 uppercase tracking-wider">Status</th>
+          <th class="px-6 py-3 text-left text-xs font-medium text-gray-500 uppercase tracking-wider">Actions</th>
+        </tr>
+      </thead>
+      <tbody id="keywords-table" class="bg-white divide-y divide-gray-200">
+        <tr>
+          <td colspan="5" class="px-6 py-4 text-center text-gray-500">Loading...</td>
+        </tr>
+      </tbody>
+    </table>
+  </div>
+
+  <!-- Add Keyword Modal -->
+  <div id="add-modal" class="fixed inset-0 bg-black bg-opacity-50 flex items-center justify-center z-50 hidden">
+    <div class="bg-white rounded-lg p-6 w-full max-w-lg">
+      <h2 class="text-xl font-bold mb-4">Add Keywords</h2>
+      <form id="add-form" class="space-y-4">
+        <div>
+          <label class="block text-sm font-medium text-gray-700 mb-1">Site</label>
+          <select id="modal-site" required class="w-full px-4 py-2 border rounded-lg">
+            <option value="">Select a site...</option>
+          </select>
+        </div>
+        <div>
+          <label class="block text-sm font-medium text-gray-700 mb-1">Keywords (one per line)</label>
+          <textarea
+            id="modal-keywords"
+            rows="6"
+            required
+            placeholder="best AI tools 2024&#10;machine learning for beginners&#10;how to use ChatGPT"
+            class="w-full px-4 py-2 border rounded-lg"
+          ></textarea>
+          <p class="mt-1 text-sm text-gray-500">Enter one keyword per line</p>
+        </div>
+        <div class="flex justify-end space-x-3">
+          <button type="button" id="close-modal" class="px-4 py-2 bg-gray-100 rounded-lg hover:bg-gray-200">
+            Cancel
+          </button>
+          <button type="submit" class="px-4 py-2 bg-primary-600 text-white rounded-lg hover:bg-primary-700">
+            Add Keywords
+          </button>
+        </div>
+      </form>
+    </div>
+  </div>
+</AdminLayout>
+
+<script is:inline>
+(function() {
+  const API_URL = 'https://growthgear-api.andrew-705.workers.dev';
+  let sites = [];
+
+  async function loadSites() {
+    const apiKey = localStorage.getItem('admin_api_key');
+    if (!apiKey) return;
+
+    try {
+      const response = await fetch(`${API_URL}/api/sites`, {
+        headers: { 'Authorization': `Bearer ${apiKey}` }
+      });
+      const data = await response.json();
+
+      if (data.success) {
+        sites = data.data;
+        const selects = ['filter-site', 'modal-site'];
+        selects.forEach(id => {
+          const select = document.getElementById(id);
+          const firstOption = select.querySelector('option');
+          select.innerHTML = '';
+          select.appendChild(firstOption);
+          sites.forEach(site => {
+            const option = document.createElement('option');
+            option.value = site.id;
+            option.textContent = site.name;
+            select.appendChild(option);
+          });
+        });
+      }
+    } catch (error) {
+      console.error('Failed to load sites:', error);
+    }
+  }
+
+  async function loadKeywords() {
+    const apiKey = localStorage.getItem('admin_api_key');
+    if (!apiKey) return;
+
+    const siteId = document.getElementById('filter-site').value;
+    const status = document.getElementById('filter-status').value;
+
+    let url = `${API_URL}/api/keywords?`;
+    if (siteId) url += `site_id=${siteId}&`;
+    if (status) url += `status=${status}&`;
+
+    try {
+      const response = await fetch(url, {
+        headers: { 'Authorization': `Bearer ${apiKey}` }
+      });
+      const data = await response.json();
+
+      const tbody = document.getElementById('keywords-table');
+
+      if (data.success && data.data.length > 0) {
+        tbody.innerHTML = data.data.map(kw => `
+          <tr>
+            <td class="px-6 py-4 whitespace-nowrap">
+              <div class="text-sm font-medium text-gray-900">${kw.keyword}</div>
+            </td>
+            <td class="px-6 py-4 whitespace-nowrap text-sm text-gray-500">
+              ${sites.find(s => s.id === kw.site_id)?.name || kw.site_id}
+            </td>
+            <td class="px-6 py-4 whitespace-nowrap text-sm text-gray-500">
+              ${kw.search_volume || '-'}
+            </td>
+            <td class="px-6 py-4 whitespace-nowrap">
+              <span class="px-2 py-1 text-xs font-medium rounded-full ${getStatusClass(kw.status)}">
+                ${kw.status}
+              </span>
+            </td>
+            <td class="px-6 py-4 whitespace-nowrap text-sm">
+              ${kw.status === 'queued' ? `
+                <button onclick="generateForKeyword('${kw.keyword}', '${kw.site_id}')" class="text-primary-600 hover:text-primary-800">
+                  Generate
+                </button>
+              ` : kw.assigned_article_id ? `
+                <a href="/articles?id=${kw.assigned_article_id}" class="text-blue-600 hover:text-blue-800">
+                  View Article
+                </a>
+              ` : '-'}
+            </td>
+          </tr>
+        `).join('');
+      } else {
+        tbody.innerHTML = '<tr><td colspan="5" class="px-6 py-4 text-center text-gray-500">No keywords found</td></tr>';
+      }
+    } catch (error) {
+      console.error('Failed to load keywords:', error);
+    }
+  }
+
+  function getStatusClass(status) {
+    switch (status) {
+      case 'queued': return 'bg-yellow-100 text-yellow-800';
+      case 'processing': return 'bg-blue-100 text-blue-800';
+      case 'completed': return 'bg-green-100 text-green-800';
+      case 'failed': return 'bg-red-100 text-red-800';
+      default: return 'bg-gray-100 text-gray-800';
+    }
+  }
+
+  // Modal controls
+  document.getElementById('add-keyword-btn').addEventListener('click', () => {
+    document.getElementById('add-modal').classList.remove('hidden');
+  });
+
+  document.getElementById('close-modal').addEventListener('click', () => {
+    document.getElementById('add-modal').classList.add('hidden');
+  });
+
+  // Add keywords
+  document.getElementById('add-form').addEventListener('submit', async (e) => {
+    e.preventDefault();
+    const apiKey = localStorage.getItem('admin_api_key');
+    if (!apiKey) return;
+
+    const siteId = document.getElementById('modal-site').value;
+    const keywords = document.getElementById('modal-keywords').value
+      .split('\n')
+      .map(k => k.trim())
+      .filter(k => k.length > 0);
+
+    try {
+      for (const keyword of keywords) {
+        await fetch(`${API_URL}/api/keywords`, {
+          method: 'POST',
+          headers: {
+            'Authorization': `Bearer ${apiKey}`,
+            'Content-Type': 'application/json'
+          },
+          body: JSON.stringify({ site_id: siteId, keyword })
+        });
+      }
+
+      document.getElementById('add-modal').classList.add('hidden');
+      document.getElementById('modal-keywords').value = '';
+      loadKeywords();
+    } catch (error) {
+      alert('Failed to add keywords: ' + error.message);
+    }
+  });
+
+  // Generate for specific keyword
+  window.generateForKeyword = function(keyword, siteId) {
+    window.location.href = `/generate?keyword=${encodeURIComponent(keyword)}&site=${siteId}`;
+  };
+
+  // Filter changes
+  document.getElementById('filter-site').addEventListener('change', loadKeywords);
+  document.getElementById('filter-status').addEventListener('change', loadKeywords);
+  document.getElementById('refresh-btn').addEventListener('click', loadKeywords);
+
+  // Initialize
+  function init() {
+    if (localStorage.getItem('admin_api_key')) {
+      loadSites().then(loadKeywords);
+    }
+  }
+
+  if (document.readyState === 'loading') {
+    document.addEventListener('DOMContentLoaded', init);
+  } else {
+    init();
+  }
+
+  // Listen for custom event from AdminLayout when API key is set
+  window.addEventListener('apiKeySet', () => {
+    setTimeout(init, 100);
+  });
+})();
+</script>

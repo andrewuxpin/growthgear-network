@@ -1,0 +1,75 @@
+name: Deploy Sites
+
+on:
+  # Run daily after the content scheduler (7 AM UTC = 1 hour after scheduler)
+  schedule:
+    - cron: '0 7 * * *'
+
+  # Allow manual trigger
+  workflow_dispatch:
+    inputs:
+      site:
+        description: 'Site to deploy (ai, sales, marketing, hub, or all)'
+        required: true
+        default: 'all'
+        type: choice
+        options:
+          - all
+          - ai
+          - sales
+          - marketing
+          - hub
+
+  # Trigger via webhook (repository_dispatch)
+  repository_dispatch:
+    types: [deploy-sites]
+
+jobs:
+  deploy-ai:
+    if: github.event_name == 'schedule' || github.event_name == 'repository_dispatch' || github.event.inputs.site == 'all' || github.event.inputs.site == 'ai'
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Setup Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+
+      - name: Setup pnpm
+        uses: pnpm/action-setup@v2
+        with:
+          version: 9
+
+      - name: Install dependencies
+        run: pnpm install
+
+      - name: Sync articles from API
+        working-directory: sites/ai
+        run: npx tsx scripts/sync-articles.ts
+
+      - name: Build site
+        working-directory: sites/ai
+        run: pnpm run build
+
+      - name: Deploy to Cloudflare Pages
+        uses: cloudflare/wrangler-action@v3
+        with:
+          apiToken: ${{ secrets.CLOUDFLARE_API_TOKEN }}
+          accountId: ${{ secrets.CLOUDFLARE_ACCOUNT_ID }}
+          command: pages deploy dist --project-name=growthgear-ai --commit-dirty=true
+          workingDirectory: sites/ai
+
+  # Future sites can be added here
+  # deploy-sales:
+  #   if: github.event_name == 'schedule' || github.event_name == 'repository_dispatch' || github.event.inputs.site == 'all' || github.event.inputs.site == 'sales'
+  #   runs-on: ubuntu-latest
+  #   steps:
+  #     ...
+
+  # deploy-marketing:
+  #   ...
+
+  # deploy-hub:
+  #   ...

@@ -1,0 +1,174 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+  :root {
+    /* Default theme (AI site - purple/blue) */
+    --color-primary-50: 245 243 255;
+    --color-primary-100: 237 233 254;
+    --color-primary-200: 221 214 254;
+    --color-primary-300: 196 181 253;
+    --color-primary-400: 167 139 250;
+    --color-primary-500: 139 92 246;
+    --color-primary-600: 124 58 237;
+    --color-primary-700: 109 40 217;
+    --color-primary-800: 91 33 182;
+    --color-primary-900: 76 29 149;
+    --color-primary-950: 46 16 101;
+
+    --color-accent-50: 239 246 255;
+    --color-accent-100: 219 234 254;
+    --color-accent-200: 191 219 254;
+    --color-accent-300: 147 197 253;
+    --color-accent-400: 96 165 250;
+    --color-accent-500: 59 130 246;
+    --color-accent-600: 37 99 235;
+    --color-accent-700: 29 78 216;
+    --color-accent-800: 30 64 175;
+    --color-accent-900: 30 58 138;
+    --color-accent-950: 23 37 84;
+  }
+
+  /* AI Theme - Purple + Electric Blue */
+  [data-theme="ai"] {
+    --color-primary-50: 245 243 255;
+    --color-primary-100: 237 233 254;
+    --color-primary-200: 221 214 254;
+    --color-primary-300: 196 181 253;
+    --color-primary-400: 167 139 250;
+    --color-primary-500: 139 92 246;
+    --color-primary-600: 124 58 237;
+    --color-primary-700: 109 40 217;
+    --color-primary-800: 91 33 182;
+    --color-primary-900: 76 29 149;
+    --color-primary-950: 46 16 101;
+
+    --color-accent-50: 239 246 255;
+    --color-accent-100: 219 234 254;
+    --color-accent-200: 191 219 254;
+    --color-accent-300: 147 197 253;
+    --color-accent-400: 96 165 250;
+    --color-accent-500: 59 130 246;
+    --color-accent-600: 37 99 235;
+    --color-accent-700: 29 78 216;
+    --color-accent-800: 30 64 175;
+    --color-accent-900: 30 58 138;
+    --color-accent-950: 23 37 84;
+  }
+
+  /* Sales Theme - Navy + Gold */
+  [data-theme="sales"] {
+    --color-primary-50: 239 246 255;
+    --color-primary-100: 219 234 254;
+    --color-primary-200: 191 219 254;
+    --color-primary-300: 147 197 253;
+    --color-primary-400: 96 165 250;
+    --color-primary-500: 30 58 90;
+    --color-primary-600: 30 58 95;
+    --color-primary-700: 23 37 84;
+    --color-primary-800: 30 41 59;
+    --color-primary-900: 15 23 42;
+    --color-primary-950: 2 6 23;
+
+    --color-accent-50: 255 251 235;
+    --color-accent-100: 254 243 199;
+    --color-accent-200: 253 230 138;
+    --color-accent-300: 252 211 77;
+    --color-accent-400: 251 191 36;
+    --color-accent-500: 245 158 11;
+    --color-accent-600: 217 119 6;
+    --color-accent-700: 180 83 9;
+    --color-accent-800: 146 64 14;
+    --color-accent-900: 120 53 15;
+    --color-accent-950: 69 26 3;
+  }
+
+  /* Marketing Theme - Teal + Coral */
+  [data-theme="marketing"] {
+    --color-primary-50: 240 253 250;
+    --color-primary-100: 204 251 241;
+    --color-primary-200: 153 246 228;
+    --color-primary-300: 94 234 212;
+    --color-primary-400: 45 212 191;
+    --color-primary-500: 20 184 166;
+    --color-primary-600: 13 148 136;
+    --color-primary-700: 15 118 110;
+    --color-primary-800: 17 94 89;
+    --color-primary-900: 19 78 74;
+    --color-primary-950: 4 47 46;
+
+    --color-accent-50: 255 247 237;
+    --color-accent-100: 255 237 213;
+    --color-accent-200: 254 215 170;
+    --color-accent-300: 253 186 116;
+    --color-accent-400: 251 146 60;
+    --color-accent-500: 249 115 22;
+    --color-accent-600: 234 88 12;
+    --color-accent-700: 194 65 12;
+    --color-accent-800: 154 52 18;
+    --color-accent-900: 124 45 18;
+    --color-accent-950: 67 20 7;
+  }
+
+  /* Hub Theme - Neutral Gray + Gradient */
+  [data-theme="hub"] {
+    --color-primary-50: 249 250 251;
+    --color-primary-100: 243 244 246;
+    --color-primary-200: 229 231 235;
+    --color-primary-300: 209 213 219;
+    --color-primary-400: 156 163 175;
+    --color-primary-500: 107 114 128;
+    --color-primary-600: 75 85 99;
+    --color-primary-700: 55 65 81;
+    --color-primary-800: 31 41 55;
+    --color-primary-900: 17 24 39;
+    --color-primary-950: 3 7 18;
+
+    --color-accent-50: 245 243 255;
+    --color-accent-100: 237 233 254;
+    --color-accent-200: 221 214 254;
+    --color-accent-300: 196 181 253;
+    --color-accent-400: 167 139 250;
+    --color-accent-500: 139 92 246;
+    --color-accent-600: 124 58 237;
+    --color-accent-700: 109 40 217;
+    --color-accent-800: 91 33 182;
+    --color-accent-900: 76 29 149;
+    --color-accent-950: 46 16 101;
+  }
+
+  html {
+    scroll-behavior: smooth;
+  }
+
+  body {
+    @apply antialiased text-gray-900 bg-white;
+  }
+}
+
+@layer components {
+  .btn {
+    @apply inline-flex items-center justify-center px-4 py-2 text-sm font-medium rounded-lg transition-colors focus:outline-none focus:ring-2 focus:ring-offset-2;
+  }
+
+  .btn-primary {
+    @apply btn bg-primary-600 text-white hover:bg-primary-700 focus:ring-primary-500;
+  }
+
+  .btn-secondary {
+    @apply btn bg-gray-100 text-gray-900 hover:bg-gray-200 focus:ring-gray-500;
+  }
+
+  .btn-accent {
+    @apply btn bg-accent-500 text-white hover:bg-accent-600 focus:ring-accent-400;
+  }
+
+  .container-narrow {
+    @apply max-w-3xl mx-auto px-4 sm:px-6;
+  }
+
+  .container-wide {
+    @apply max-w-7xl mx-auto px-4 sm:px-6 lg:px-8;
+  }
+}

@@ -1,0 +1,33 @@
+name = "growthgear-content-scheduler"
+main = "src/index.ts"
+compatibility_date = "2024-01-01"
+
+[[d1_databases]]
+binding = "DB"
+database_name = "growthgear-db"
+database_id = "0feac72f-0900-4c99-8d3b-65f9b550ac1d"
+
+# Cloudflare AI for image generation
+[ai]
+binding = "AI"
+
+# R2 for image storage
+[[r2_buckets]]
+binding = "IMAGES"
+bucket_name = "growthgear-images"
+
+[vars]
+# Set to "true" to auto-publish articles, "false" to keep as draft
+AUTO_PUBLISH = "true"
+# Set to "true" to generate images for articles
+GENERATE_IMAGES = "true"
+# GitHub repo for triggering deploys (set after creating repo)
+# GITHUB_REPO = "your-username/growthgear-network"
+
+# Run daily at 6 AM UTC (5 PM AEST)
+[triggers]
+crons = ["0 6 * * *"]
+
+# Secrets (set via wrangler secret put):
+# - ANTHROPIC_API_KEY
+# - GITHUB_TOKEN (for triggering deploy action)

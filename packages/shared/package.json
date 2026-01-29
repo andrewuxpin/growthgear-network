@@ -1,0 +1,23 @@
+{
+  "name": "@growthgear/shared",
+  "version": "0.1.0",
+  "type": "module",
+  "exports": {
+    "./components/*": "./src/components/*",
+    "./utils": "./src/utils/index.ts",
+    "./types": "./src/types/index.ts",
+    "./styles": "./src/styles/base.css"
+  },
+  "scripts": {
+    "typecheck": "tsc --noEmit",
+    "lint": "eslint src/"
+  },
+  "peerDependencies": {
+    "astro": "^4.0.0"
+  },
+  "devDependencies": {
+    "astro": "^4.16.0",
+    "tailwindcss": "^3.4.0",
+    "typescript": "^5.7.0"
+  }
+}

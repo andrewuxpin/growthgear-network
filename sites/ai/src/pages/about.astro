@@ -1,0 +1,60 @@
+---
+import BaseLayout from "../layouts/BaseLayout.astro";
+import { siteConfig } from "../config";
+---
+
+<BaseLayout
+  seo={{
+    title: "About Us",
+    description: `Learn about ${siteConfig.site.name} and our mission to provide expert insights on artificial intelligence.`,
+  }}
+>
+  <div class="container-narrow py-16">
+    <h1 class="text-4xl font-bold text-gray-900">About {siteConfig.site.name}</h1>
+
+    <div class="mt-8 prose prose-lg">
+      <p>
+        Welcome to {siteConfig.site.name}, your trusted source for expert insights on
+        artificial intelligence, machine learning, and the future of intelligent
+        systems.
+      </p>
+
+      <h2>Our Mission</h2>
+      <p>
+        We believe that AI is transforming every industry, and staying informed is
+        crucial for professionals who want to remain competitive. Our mission is to
+        make complex AI concepts accessible through clear, actionable content.
+      </p>
+
+      <h2>What We Cover</h2>
+      <ul>
+        <li>
+          <strong>Machine Learning</strong> - Practical guides on algorithms,
+          frameworks, and implementation strategies.
+        </li>
+        <li>
+          <strong>AI Tools</strong> - Reviews and tutorials for the best AI tools
+          and platforms.
+        </li>
+        <li>
+          <strong>Deep Learning</strong> - In-depth explorations of neural networks,
+          transformers, and advanced architectures.
+        </li>
+      </ul>
+
+      <h2>Our Approach</h2>
+      <p>
+        Every article we publish is thoroughly researched and written to provide
+        real value. We focus on practical, actionable advice that you can apply
+        immediately, backed by real-world examples and expert insights.
+      </p>
+
+      <h2>Stay Connected</h2>
+      <p>
+        Follow us on social media and subscribe to our newsletter to stay up to date
+        with the latest in AI. Have questions or feedback? We'd love to hear from
+        you through our <a href="/contact">contact page</a>.
+      </p>
+    </div>
+  </div>
+</BaseLayout>

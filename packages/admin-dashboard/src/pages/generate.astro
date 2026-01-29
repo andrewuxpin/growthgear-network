@@ -1,0 +1,368 @@
+---
+import AdminLayout from "../layouts/AdminLayout.astro";
+---
+
+<AdminLayout title="Generate Content">
+  <div class="max-w-4xl">
+    <div class="bg-white rounded-lg shadow">
+      <div class="px-6 py-4 border-b">
+        <h2 class="text-lg font-semibold text-gray-900">Generate New Article</h2>
+        <p class="text-sm text-gray-500">Use AI to create SEO-optimized content</p>
+      </div>
+
+      <form id="generate-form" class="p-6 space-y-6">
+        <div class="grid grid-cols-1 md:grid-cols-2 gap-6">
+          <div>
+            <label for="site" class="block text-sm font-medium text-gray-700 mb-1">Site</label>
+            <select
+              id="site"
+              name="site"
+              required
+              class="w-full px-4 py-2 border rounded-lg focus:ring-2 focus:ring-primary-500 focus:border-transparent"
+            >
+              <option value="">Select a site...</option>
+            </select>
+          </div>
+
+          <div>
+            <label for="articleType" class="block text-sm font-medium text-gray-700 mb-1">Article Type</label>
+            <select
+              id="articleType"
+              name="articleType"
+              required
+              class="w-full px-4 py-2 border rounded-lg focus:ring-2 focus:ring-primary-500 focus:border-transparent"
+            >
+              <option value="guide">Guide</option>
+              <option value="listicle">Listicle</option>
+              <option value="how-to">How-To</option>
+              <option value="comparison">Comparison</option>
+              <option value="pillar">Pillar Content</option>
+            </select>
+          </div>
+        </div>
+
+        <div>
+          <label for="keyword" class="block text-sm font-medium text-gray-700 mb-1">Primary Keyword</label>
+          <input
+            type="text"
+            id="keyword"
+            name="keyword"
+            required
+            placeholder="e.g., best AI writing tools 2024"
+            class="w-full px-4 py-2 border rounded-lg focus:ring-2 focus:ring-primary-500 focus:border-transparent"
+          />
+          <p class="mt-1 text-sm text-gray-500">The main keyword to target for SEO</p>
+        </div>
+
+        <div>
+          <label for="niche" class="block text-sm font-medium text-gray-700 mb-1">Niche/Topic</label>
+          <input
+            type="text"
+            id="niche"
+            name="niche"
+            required
+            placeholder="e.g., artificial-intelligence"
+            class="w-full px-4 py-2 border rounded-lg focus:ring-2 focus:ring-primary-500 focus:border-transparent"
+          />
+        </div>
+
+        <div class="flex items-center justify-between pt-4 border-t">
+          <p class="text-sm text-gray-500">Generation typically takes 30-60 seconds</p>
+          <button
+            type="submit"
+            id="generate-btn"
+            class="px-6 py-2 bg-primary-600 text-white rounded-lg hover:bg-primary-700 disabled:opacity-50 disabled:cursor-not-allowed flex items-center"
+          >
+            <svg class="w-5 h-5 mr-2" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+              <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M5 3v4M3 5h4M6 17v4m-2-2h4m5-16l2.286 6.857L21 12l-5.714 2.143L13 21l-2.286-6.857L5 12l5.714-2.143L13 3z" />
+            </svg>
+            Generate Article
+          </button>
+        </div>
+      </form>
+    </div>
+
+    <!-- Result -->
+    <div id="result" class="mt-6 hidden">
+      <div class="bg-white rounded-lg shadow">
+        <div class="px-6 py-4 border-b flex items-center justify-between">
+          <h2 class="text-lg font-semibold text-gray-900">Generated Article</h2>
+          <div class="flex space-x-2">
+            <button id="generate-image-btn" class="px-4 py-2 text-sm bg-purple-600 text-white rounded-lg hover:bg-purple-700 flex items-center">
+              <svg class="w-4 h-4 mr-2" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M4 16l4.586-4.586a2 2 0 012.828 0L16 16m-2-2l1.586-1.586a2 2 0 012.828 0L20 14m-6-6h.01M6 20h12a2 2 0 002-2V6a2 2 0 00-2-2H6a2 2 0 00-2 2v12a2 2 0 002 2z" />
+              </svg>
+              Generate Image
+            </button>
+            <button id="copy-btn" class="px-4 py-2 text-sm bg-gray-100 rounded-lg hover:bg-gray-200">
+              Copy Markdown
+            </button>
+            <button id="publish-btn" class="px-4 py-2 text-sm bg-green-600 text-white rounded-lg hover:bg-green-700">
+              Publish
+            </button>
+          </div>
+        </div>
+        <div class="p-6">
+          <!-- Featured Image Section -->
+          <div id="image-section" class="mb-6 hidden">
+            <div class="relative">
+              <img id="featured-image" class="w-full h-64 object-cover rounded-lg" src="" alt="" />
+              <div id="image-loading" class="absolute inset-0 bg-gray-100 rounded-lg flex items-center justify-center hidden">
+                <div class="text-center">
+                  <div class="animate-spin rounded-full h-8 w-8 border-b-2 border-purple-600 mx-auto"></div>
+                  <p class="mt-2 text-sm text-gray-600">Generating image...</p>
+                </div>
+              </div>
+            </div>
+            <p id="image-prompt" class="mt-2 text-sm text-gray-500 italic"></p>
+          </div>
+          <div class="mb-4">
+            <h3 class="text-xl font-bold text-gray-900" id="result-title"></h3>
+            <p class="text-gray-600 mt-1" id="result-meta"></p>
+            <div class="flex items-center space-x-4 mt-2 text-sm text-gray-500">
+              <span id="result-words"></span>
+              <span id="result-faqs"></span>
+            </div>
+          </div>
+          <div class="prose max-w-none border-t pt-4" id="result-content"></div>
+        </div>
+      </div>
+    </div>
+
+    <!-- Loading -->
+    <div id="loading" class="mt-6 hidden">
+      <div class="bg-white rounded-lg shadow p-12 text-center">
+        <div class="animate-spin rounded-full h-12 w-12 border-b-2 border-primary-600 mx-auto"></div>
+        <p class="mt-4 text-gray-600">Generating article with Claude AI...</p>
+        <p class="text-sm text-gray-500">This may take up to 60 seconds</p>
+      </div>
+    </div>
+  </div>
+</AdminLayout>
+
+<script is:inline>
+(function() {
+  const API_URL = 'https://growthgear-api.andrew-705.workers.dev';
+  let generatedArticle = null;
+  let articleId = null;
+
+  // Load sites
+  async function loadSites() {
+    const apiKey = localStorage.getItem('admin_api_key');
+    if (!apiKey) return;
+
+    try {
+      const response = await fetch(`${API_URL}/api/sites`, {
+        headers: { 'Authorization': `Bearer ${apiKey}` }
+      });
+      const data = await response.json();
+
+      if (data.success) {
+        const select = document.getElementById('site');
+        data.data.forEach(site => {
+          const option = document.createElement('option');
+          option.value = site.id;
+          option.textContent = site.name;
+          option.dataset.niche = site.niche;
+          select.appendChild(option);
+        });
+
+        // Auto-fill niche when site is selected
+        select.addEventListener('change', (e) => {
+          const option = e.target.selectedOptions[0];
+          if (option.dataset.niche) {
+            document.getElementById('niche').value = option.dataset.niche;
+          }
+        });
+      }
+    } catch (error) {
+      console.error('Failed to load sites:', error);
+    }
+  }
+
+  // Generate article
+  document.getElementById('generate-form').addEventListener('submit', async (e) => {
+    e.preventDefault();
+
+    const apiKey = localStorage.getItem('admin_api_key');
+    if (!apiKey) {
+      alert('Please enter your API key first');
+      return;
+    }
+
+    const form = e.target;
+    const btn = document.getElementById('generate-btn');
+    const loading = document.getElementById('loading');
+    const result = document.getElementById('result');
+
+    btn.disabled = true;
+    loading.classList.remove('hidden');
+    result.classList.add('hidden');
+
+    try {
+      const response = await fetch(`${API_URL}/api/generate`, {
+        method: 'POST',
+        headers: {
+          'Authorization': `Bearer ${apiKey}`,
+          'Content-Type': 'application/json'
+        },
+        body: JSON.stringify({
+          siteId: form.site.value,
+          keyword: form.keyword.value,
+          niche: form.niche.value,
+          articleType: form.articleType.value
+        })
+      });
+
+      const data = await response.json();
+
+      if (data.success) {
+        generatedArticle = data.data.article;
+        articleId = data.data.id;
+
+        document.getElementById('result-title').textContent = generatedArticle.title;
+        document.getElementById('result-meta').textContent = generatedArticle.metaDescription;
+        document.getElementById('result-words').textContent = `${generatedArticle.wordCount} words`;
+        document.getElementById('result-faqs').textContent = `${generatedArticle.faq?.length || 0} FAQs`;
+
+        // Convert markdown to basic HTML for preview
+        const content = generatedArticle.content
+          .replace(/^### (.*$)/gm, '<h3 class="text-lg font-semibold mt-4 mb-2">$1</h3>')
+          .replace(/^## (.*$)/gm, '<h2 class="text-xl font-bold mt-6 mb-3">$1</h2>')
+          .replace(/^# (.*$)/gm, '<h1 class="text-2xl font-bold mt-6 mb-3">$1</h1>')
+          .replace(/\*\*(.*?)\*\*/g, '<strong>$1</strong>')
+          .replace(/\*(.*?)\*/g, '<em>$1</em>')
+          .replace(/^- (.*$)/gm, '<li class="ml-4">$1</li>')
+          .replace(/\n\n/g, '</p><p class="mb-4">')
+          .replace(/^/gm, '');
+
+        document.getElementById('result-content').innerHTML = `<p class="mb-4">${content}</p>`;
+
+        result.classList.remove('hidden');
+      } else {
+        alert('Generation failed: ' + (data.error || 'Unknown error'));
+      }
+    } catch (error) {
+      console.error('Generation error:', error);
+      alert('Generation failed: ' + error.message);
+    } finally {
+      btn.disabled = false;
+      loading.classList.add('hidden');
+    }
+  });
+
+  // Copy markdown
+  document.getElementById('copy-btn')?.addEventListener('click', () => {
+    if (generatedArticle) {
+      navigator.clipboard.writeText(generatedArticle.content);
+      alert('Markdown copied to clipboard!');
+    }
+  });
+
+  // Publish article
+  document.getElementById('publish-btn')?.addEventListener('click', async () => {
+    const apiKey = localStorage.getItem('admin_api_key');
+    if (!apiKey || !articleId) return;
+
+    try {
+      const response = await fetch(`${API_URL}/api/articles/${articleId}`, {
+        method: 'PUT',
+        headers: {
+          'Authorization': `Bearer ${apiKey}`,
+          'Content-Type': 'application/json'
+        },
+        body: JSON.stringify({
+          status: 'published',
+          published_at: new Date().toISOString()
+        })
+      });
+
+      const data = await response.json();
+      if (data.success) {
+        alert('Article published successfully!');
+        window.location.href = '/articles';
+      } else {
+        alert('Failed to publish: ' + (data.error || 'Unknown error'));
+      }
+    } catch (error) {
+      alert('Failed to publish: ' + error.message);
+    }
+  });
+
+  // Generate image
+  document.getElementById('generate-image-btn')?.addEventListener('click', async () => {
+    const apiKey = localStorage.getItem('admin_api_key');
+    if (!apiKey || !generatedArticle) return;
+
+    const imageSection = document.getElementById('image-section');
+    const imageLoading = document.getElementById('image-loading');
+    const featuredImage = document.getElementById('featured-image');
+    const imagePrompt = document.getElementById('image-prompt');
+    const generateBtn = document.getElementById('generate-image-btn');
+
+    // Show loading state
+    imageSection.classList.remove('hidden');
+    imageLoading.classList.remove('hidden');
+    featuredImage.classList.add('hidden');
+    generateBtn.disabled = true;
+
+    try {
+      const response = await fetch(`${API_URL}/api/generate-image`, {
+        method: 'POST',
+        headers: {
+          'Authorization': `Bearer ${apiKey}`,
+          'Content-Type': 'application/json'
+        },
+        body: JSON.stringify({
+          prompt: generatedArticle.imagePrompt || `Professional image for article about ${generatedArticle.title}`,
+          articleId: articleId
+        })
+      });
+
+      const data = await response.json();
+      if (data.success) {
+        featuredImage.src = `${API_URL}${data.data.url}`;
+        featuredImage.alt = generatedArticle.imageAltText || generatedArticle.title;
+        featuredImage.classList.remove('hidden');
+        imagePrompt.textContent = `Prompt: ${data.data.prompt}`;
+        generateBtn.textContent = 'Regenerate Image';
+      } else {
+        alert('Failed to generate image: ' + (data.error || 'Unknown error'));
+        imageSection.classList.add('hidden');
+      }
+    } catch (error) {
+      alert('Failed to generate image: ' + error.message);
+      imageSection.classList.add('hidden');
+    } finally {
+      imageLoading.classList.add('hidden');
+      generateBtn.disabled = false;
+    }
+  });
+
+  // Initialize
+  function init() {
+    if (localStorage.getItem('admin_api_key')) {
+      loadSites();
+    }
+  }
+
+  // Run on page load
+  if (document.readyState === 'loading') {
+    document.addEventListener('DOMContentLoaded', init);
+  } else {
+    init();
+  }
+
+  // Listen for custom event from AdminLayout when API key is set
+  window.addEventListener('apiKeySet', () => {
+    setTimeout(init, 100);
+  });
+
+  // Listen for storage changes (in case key is set in another tab)
+  window.addEventListener('storage', (e) => {
+    if (e.key === 'admin_api_key' && e.newValue) {
+      init();
+    }
+  });
+})();
+</script>

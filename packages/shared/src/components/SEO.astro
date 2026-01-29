@@ -1,0 +1,96 @@
+---
+import type { Article, BreadcrumbItem, FAQ } from "../types";
+
+interface Props {
+  type: "website" | "article" | "faq";
+  siteUrl: string;
+  siteName: string;
+  article?: Article;
+  breadcrumbs?: BreadcrumbItem[];
+  faq?: FAQ[];
+}
+
+const { type, siteUrl, siteName, article, breadcrumbs, faq } = Astro.props;
+const currentUrl = new URL(Astro.url.pathname, siteUrl).href;
+
+// Website schema
+const websiteSchema = {
+  "@context": "https://schema.org",
+  "@type": "WebSite",
+  name: siteName,
+  url: siteUrl,
+};
+
+// Article schema
+const articleSchema = article
+  ? {
+      "@context": "https://schema.org",
+      "@type": "Article",
+      headline: article.title,
+      description: article.description,
+      image: article.image ? new URL(article.image.src, siteUrl).href : undefined,
+      datePublished: article.publishedAt.toISOString(),
+      dateModified: (article.updatedAt || article.publishedAt).toISOString(),
+      author: {
+        "@type": "Person",
+        name: article.author.name,
+      },
+      publisher: {
+        "@type": "Organization",
+        name: siteName,
+        url: siteUrl,
+      },
+      mainEntityOfPage: {
+        "@type": "WebPage",
+        "@id": currentUrl,
+      },
+      wordCount: article.wordCount,
+    }
+  : null;
+
+// Breadcrumb schema
+const breadcrumbSchema = breadcrumbs?.length
+  ? {
+      "@context": "https://schema.org",
+      "@type": "BreadcrumbList",
+      itemListElement: breadcrumbs.map((item, index) => ({
+        "@type": "ListItem",
+        position: index + 1,
+        name: item.name,
+        item: new URL(item.href, siteUrl).href,
+      })),
+    }
+  : null;
+
+// FAQ schema
+const faqSchema = faq?.length
+  ? {
+      "@context": "https://schema.org",
+      "@type": "FAQPage",
+      mainEntity: faq.map((item) => ({
+        "@type": "Question",
+        name: item.question,
+        acceptedAnswer: {
+          "@type": "Answer",
+          text: item.answer,
+        },
+      })),
+    }
+  : null;
+---
+
+{type === "website" && (
+  <script type="application/ld+json" set:html={JSON.stringify(websiteSchema)} />
+)}
+
+{type === "article" && articleSchema && (
+  <script type="application/ld+json" set:html={JSON.stringify(articleSchema)} />
+)}
+
+{breadcrumbSchema && (
+  <script type="application/ld+json" set:html={JSON.stringify(breadcrumbSchema)} />
+)}
+
+{(type === "faq" || faq?.length) && faqSchema && (
+  <script type="application/ld+json" set:html={JSON.stringify(faqSchema)} />
+)}

@@ -1,0 +1,295 @@
+---
+import AdminLayout from "../layouts/AdminLayout.astro";
+---
+
+<AdminLayout title="Articles">
+  <div class="flex justify-between items-center mb-6">
+    <div>
+      <h2 class="text-lg font-semibold text-gray-900">Articles</h2>
+      <p class="text-sm text-gray-500">Manage and publish your content</p>
+    </div>
+    <a
+      href="/generate"
+      class="px-4 py-2 bg-primary-600 text-white rounded-lg hover:bg-primary-700 flex items-center"
+    >
+      <svg class="w-5 h-5 mr-2" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+        <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M12 6v6m0 0v6m0-6h6m-6 0H6" />
+      </svg>
+      New Article
+    </a>
+  </div>
+
+  <!-- Filters -->
+  <div class="bg-white rounded-lg shadow mb-6">
+    <div class="p-4 flex items-center space-x-4">
+      <select id="filter-site" class="px-4 py-2 border rounded-lg">
+        <option value="">All Sites</option>
+      </select>
+      <select id="filter-status" class="px-4 py-2 border rounded-lg">
+        <option value="">All Status</option>
+        <option value="draft">Draft</option>
+        <option value="published">Published</option>
+      </select>
+      <button id="refresh-btn" class="px-4 py-2 bg-gray-100 rounded-lg hover:bg-gray-200">
+        Refresh
+      </button>
+    </div>
+  </div>
+
+  <!-- Articles Table -->
+  <div class="bg-white rounded-lg shadow overflow-hidden">
+    <table class="min-w-full divide-y divide-gray-200">
+      <thead class="bg-gray-50">
+        <tr>
+          <th class="px-6 py-3 text-left text-xs font-medium text-gray-500 uppercase tracking-wider">Title</th>
+          <th class="px-6 py-3 text-left text-xs font-medium text-gray-500 uppercase tracking-wider">Site</th>
+          <th class="px-6 py-3 text-left text-xs font-medium text-gray-500 uppercase tracking-wider">Words</th>
+          <th class="px-6 py-3 text-left text-xs font-medium text-gray-500 uppercase tracking-wider">Status</th>
+          <th class="px-6 py-3 text-left text-xs font-medium text-gray-500 uppercase tracking-wider">Actions</th>
+        </tr>
+      </thead>
+      <tbody id="articles-table" class="bg-white divide-y divide-gray-200">
+        <tr>
+          <td colspan="5" class="px-6 py-4 text-center text-gray-500">Loading...</td>
+        </tr>
+      </tbody>
+    </table>
+  </div>
+
+  <!-- Article Preview Modal -->
+  <div id="preview-modal" class="fixed inset-0 bg-black bg-opacity-50 flex items-center justify-center z-50 hidden">
+    <div class="bg-white rounded-lg w-full max-w-4xl max-h-[90vh] overflow-hidden flex flex-col">
+      <div class="px-6 py-4 border-b flex items-center justify-between">
+        <h2 class="text-xl font-bold" id="preview-title"></h2>
+        <button id="close-preview" class="text-gray-500 hover:text-gray-700">
+          <svg class="w-6 h-6" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+            <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M6 18L18 6M6 6l12 12" />
+          </svg>
+        </button>
+      </div>
+      <div class="p-6 overflow-y-auto flex-1">
+        <div class="mb-4 p-4 bg-gray-50 rounded-lg">
+          <p class="text-sm text-gray-600" id="preview-meta"></p>
+          <p class="text-sm text-gray-500 mt-1">
+            <span id="preview-words"></span> words •
+            <span id="preview-keyword"></span>
+          </p>
+        </div>
+        <div class="prose max-w-none" id="preview-content"></div>
+      </div>
+      <div class="px-6 py-4 border-t flex justify-end space-x-3">
+        <button id="preview-copy" class="px-4 py-2 bg-gray-100 rounded-lg hover:bg-gray-200">
+          Copy Markdown
+        </button>
+        <button id="preview-publish" class="px-4 py-2 bg-green-600 text-white rounded-lg hover:bg-green-700">
+          Publish
+        </button>
+      </div>
+    </div>
+  </div>
+</AdminLayout>
+
+<script is:inline>
+(function() {
+  const API_URL = 'https://growthgear-api.andrew-705.workers.dev';
+  let sites = [];
+  let currentArticle = null;
+
+  async function loadSites() {
+    const apiKey = localStorage.getItem('admin_api_key');
+    if (!apiKey) return;
+
+    try {
+      const response = await fetch(`${API_URL}/api/sites`, {
+        headers: { 'Authorization': `Bearer ${apiKey}` }
+      });
+      const data = await response.json();
+
+      if (data.success) {
+        sites = data.data;
+        const select = document.getElementById('filter-site');
+        sites.forEach(site => {
+          const option = document.createElement('option');
+          option.value = site.id;
+          option.textContent = site.name;
+          select.appendChild(option);
+        });
+      }
+    } catch (error) {
+      console.error('Failed to load sites:', error);
+    }
+  }
+
+  async function loadArticles() {
+    const apiKey = localStorage.getItem('admin_api_key');
+    if (!apiKey) return;
+
+    const siteId = document.getElementById('filter-site').value;
+    const status = document.getElementById('filter-status').value;
+
+    let url = `${API_URL}/api/articles?`;
+    if (siteId) url += `site_id=${siteId}&`;
+    if (status) url += `status=${status}&`;
+
+    try {
+      const response = await fetch(url, {
+        headers: { 'Authorization': `Bearer ${apiKey}` }
+      });
+      const data = await response.json();
+
+      const tbody = document.getElementById('articles-table');
+
+      if (data.success && data.data.length > 0) {
+        tbody.innerHTML = data.data.map(article => `
+          <tr>
+            <td class="px-6 py-4">
+              <div class="text-sm font-medium text-gray-900">${article.title}</div>
+              <div class="text-sm text-gray-500">${article.slug}</div>
+            </td>
+            <td class="px-6 py-4 whitespace-nowrap text-sm text-gray-500">
+              ${sites.find(s => s.id === article.site_id)?.name || article.site_id}
+            </td>
+            <td class="px-6 py-4 whitespace-nowrap text-sm text-gray-500">
+              ${article.word_count || '-'}
+            </td>
+            <td class="px-6 py-4 whitespace-nowrap">
+              <span class="px-2 py-1 text-xs font-medium rounded-full ${
+                article.status === 'published' ? 'bg-green-100 text-green-800' : 'bg-yellow-100 text-yellow-800'
+              }">
+                ${article.status}
+              </span>
+            </td>
+            <td class="px-6 py-4 whitespace-nowrap text-sm space-x-2">
+              <button onclick="viewArticle(${article.id})" class="text-blue-600 hover:text-blue-800">
+                View
+              </button>
+              ${article.status === 'draft' ? `
+                <button onclick="publishArticle(${article.id})" class="text-green-600 hover:text-green-800">
+                  Publish
+                </button>
+              ` : ''}
+            </td>
+          </tr>
+        `).join('');
+      } else {
+        tbody.innerHTML = '<tr><td colspan="5" class="px-6 py-4 text-center text-gray-500">No articles found</td></tr>';
+      }
+    } catch (error) {
+      console.error('Failed to load articles:', error);
+    }
+  }
+
+  window.viewArticle = async function(id) {
+    const apiKey = localStorage.getItem('admin_api_key');
+    if (!apiKey) return;
+
+    try {
+      const response = await fetch(`${API_URL}/api/articles/${id}`, {
+        headers: { 'Authorization': `Bearer ${apiKey}` }
+      });
+      const data = await response.json();
+
+      if (data.success) {
+        currentArticle = data.data;
+
+        document.getElementById('preview-title').textContent = currentArticle.title;
+        document.getElementById('preview-meta').textContent = currentArticle.meta_description || '';
+        document.getElementById('preview-words').textContent = currentArticle.word_count || 0;
+        document.getElementById('preview-keyword').textContent = currentArticle.primary_keyword || 'No keyword';
+
+        // Convert markdown to HTML
+        const content = (currentArticle.content || '')
+          .replace(/^### (.*$)/gm, '<h3 class="text-lg font-semibold mt-4 mb-2">$1</h3>')
+          .replace(/^## (.*$)/gm, '<h2 class="text-xl font-bold mt-6 mb-3">$1</h2>')
+          .replace(/^# (.*$)/gm, '<h1 class="text-2xl font-bold mt-6 mb-3">$1</h1>')
+          .replace(/\*\*(.*?)\*\*/g, '<strong>$1</strong>')
+          .replace(/\*(.*?)\*/g, '<em>$1</em>')
+          .replace(/^- (.*$)/gm, '<li class="ml-4">$1</li>')
+          .replace(/\n\n/g, '</p><p class="mb-4">');
+
+        document.getElementById('preview-content').innerHTML = `<p class="mb-4">${content}</p>`;
+
+        // Update publish button visibility
+        const publishBtn = document.getElementById('preview-publish');
+        publishBtn.style.display = currentArticle.status === 'draft' ? 'block' : 'none';
+
+        document.getElementById('preview-modal').classList.remove('hidden');
+      }
+    } catch (error) {
+      console.error('Failed to load article:', error);
+    }
+  };
+
+  window.publishArticle = async function(id) {
+    const apiKey = localStorage.getItem('admin_api_key');
+    if (!apiKey) return;
+
+    if (!confirm('Are you sure you want to publish this article?')) return;
+
+    try {
+      const response = await fetch(`${API_URL}/api/articles/${id}`, {
+        method: 'PUT',
+        headers: {
+          'Authorization': `Bearer ${apiKey}`,
+          'Content-Type': 'application/json'
+        },
+        body: JSON.stringify({
+          status: 'published',
+          published_at: new Date().toISOString()
+        })
+      });
+
+      const data = await response.json();
+      if (data.success) {
+        loadArticles();
+        document.getElementById('preview-modal').classList.add('hidden');
+      } else {
+        alert('Failed to publish: ' + (data.error || 'Unknown error'));
+      }
+    } catch (error) {
+      alert('Failed to publish: ' + error.message);
+    }
+  };
+
+  // Modal controls
+  document.getElementById('close-preview').addEventListener('click', () => {
+    document.getElementById('preview-modal').classList.add('hidden');
+  });
+
+  document.getElementById('preview-copy').addEventListener('click', () => {
+    if (currentArticle?.content) {
+      navigator.clipboard.writeText(currentArticle.content);
+      alert('Markdown copied to clipboard!');
+    }
+  });
+
+  document.getElementById('preview-publish').addEventListener('click', () => {
+    if (currentArticle) {
+      publishArticle(currentArticle.id);
+    }
+  });
+
+  // Filter changes
+  document.getElementById('filter-site').addEventListener('change', loadArticles);
+  document.getElementById('filter-status').addEventListener('change', loadArticles);
+  document.getElementById('refresh-btn').addEventListener('click', loadArticles);
+
+  // Initialize
+  function init() {
+    if (localStorage.getItem('admin_api_key')) {
+      loadSites().then(loadArticles);
+    }
+  }
+
+  if (document.readyState === 'loading') {
+    document.addEventListener('DOMContentLoaded', init);
+  } else {
+    init();
+  }
+
+  // Listen for custom event from AdminLayout when API key is set
+  window.addEventListener('apiKeySet', () => {
+    setTimeout(init, 100);
+  });
+})();
+</script>
