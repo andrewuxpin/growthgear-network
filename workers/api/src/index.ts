@@ -132,6 +132,11 @@ export default {
         return await getStats(env);
       }
 
+      // Sync keywords with existing articles
+      if (path === "/api/keywords/sync" && request.method === "POST") {
+        return await syncKeywords(env);
+      }
+
       return json({ success: false, error: "Not found" }, 404);
     } catch (error) {
       console.error("API Error:", error);
@@ -315,7 +320,7 @@ async function updateArticle(id: string, request: Request, env: Env): Promise<Re
 
 // === Content Generation ===
 async function generateContent(request: Request, env: Env): Promise<Response> {
-  const body = await request.json() as ArticleRequest;
+  const body = await request.json() as ArticleRequest & { keywordId?: number };
 
   // Validate required fields
   if (!body.keyword || !body.siteId || !body.niche) {
@@ -353,6 +358,18 @@ async function generateContent(request: Request, env: Env): Promise<Response> {
     )
     .first<{ id: number }>();
 
+  // Update keyword status if keywordId provided, or find by keyword string
+  if (body.keywordId) {
+    await env.DB.prepare(
+      "UPDATE keywords SET status = 'completed', assigned_article_id = ? WHERE id = ?"
+    ).bind(result?.id, body.keywordId).run();
+  } else {
+    // Try to find and update keyword by keyword string (case-insensitive)
+    await env.DB.prepare(
+      "UPDATE keywords SET status = 'completed', assigned_article_id = ? WHERE site_id = ? AND LOWER(keyword) = LOWER(?) AND status IN ('queued', 'processing')"
+    ).bind(result?.id, body.siteId, body.keyword).run();
+  }
+
   return json({
     success: true,
     data: {
@@ -380,6 +397,35 @@ async function getStats(env: Env): Promise<Response> {
       totalSites: sites?.count || 0,
       articles: articles.results.reduce((acc, row) => ({ ...acc, [row.status]: row.count }), {}),
       keywords: keywords.results.reduce((acc, row) => ({ ...acc, [row.status]: row.count }), {}),
+    },
+  });
+}
+
+// === Keyword Sync ===
+async function syncKeywords(env: Env): Promise<Response> {
+  // Find keywords that have matching published articles but are still queued
+  const result = await env.DB.prepare(`
+    UPDATE keywords
+    SET status = 'completed',
+        assigned_article_id = (
+          SELECT a.id FROM articles a
+          WHERE a.site_id = keywords.site_id
+          AND LOWER(a.primary_keyword) = LOWER(keywords.keyword)
+          LIMIT 1
+        )
+    WHERE status IN ('queued', 'processing')
+    AND EXISTS (
+      SELECT 1 FROM articles a
+      WHERE a.site_id = keywords.site_id
+      AND LOWER(a.primary_keyword) = LOWER(keywords.keyword)
+    )
+  `).run();
+
+  return json({
+    success: true,
+    data: {
+      message: "Keywords synced with existing articles",
+      updated: result.meta.changes,
     },
   });
 }

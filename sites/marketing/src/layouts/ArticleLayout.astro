@@ -1,0 +1,140 @@
+---
+import "@growthgear/shared/styles";
+import BaseHead from "@growthgear/shared/components/BaseHead.astro";
+import Header from "@growthgear/shared/components/Header.astro";
+import Footer from "@growthgear/shared/components/Footer.astro";
+import SEO from "@growthgear/shared/components/SEO.astro";
+import Breadcrumbs from "@growthgear/shared/components/Breadcrumbs.astro";
+import TableOfContents from "@growthgear/shared/components/TableOfContents.astro";
+import FAQ from "@growthgear/shared/components/FAQ.astro";
+import { formatDate, readingTime, countWords } from "@growthgear/shared/utils";
+import type { SEOData, Article } from "@growthgear/shared/types";
+import { siteConfig, categories } from "../config";
+import type { CollectionEntry } from "astro:content";
+
+interface Props {
+  article: CollectionEntry<"articles">;
+  headings: { depth: number; slug: string; text: string }[];
+}
+
+const { article, headings } = Astro.props;
+const { data, body } = article;
+const { site, navigation, footer } = siteConfig;
+
+const wordCount = countWords(body);
+const readTime = readingTime(wordCount);
+
+const category = categories.find((c) => c.slug === data.category);
+
+const seo: SEOData = {
+  title: `${data.title} | ${site.name}`,
+  description: data.description,
+  type: "article",
+  image: data.image?.src,
+  publishedTime: data.publishedAt.toISOString(),
+  modifiedTime: data.updatedAt?.toISOString(),
+  author: data.author.name,
+  tags: data.tags,
+};
+
+const breadcrumbs = [
+  { name: category?.name || data.category, href: `/${data.category}` },
+  { name: data.title, href: `/${data.category}/${article.slug}` },
+];
+
+const articleData: Article = {
+  slug: article.slug,
+  title: data.title,
+  description: data.description,
+  content: body,
+  category: data.category,
+  author: data.author,
+  publishedAt: data.publishedAt,
+  updatedAt: data.updatedAt,
+  image: data.image,
+  tags: data.tags,
+  readingTime: readTime,
+  wordCount,
+  faq: data.faq,
+};
+---
+
+<!doctype html>
+<html lang="en" data-theme={site.theme}>
+  <BaseHead
+    seo={seo}
+    siteUrl={siteConfig.seo.siteUrl}
+    siteName={site.name}
+    theme={site.theme}
+  />
+  <body class="min-h-screen flex flex-col">
+    <Header siteName={site.name} navigation={navigation} />
+    <main class="flex-1">
+      <article class="container-narrow py-12">
+        <Breadcrumbs items={breadcrumbs} />
+
+        <header class="mb-8">
+          {category && (
+            <a
+              href={`/${data.category}`}
+              class="text-sm font-semibold uppercase tracking-wide text-primary-600 hover:text-primary-800"
+            >
+              {category.name}
+            </a>
+          )}
+          <h1 class="mt-2 text-3xl md:text-4xl font-bold text-gray-900">
+            {data.title}
+          </h1>
+          <p class="mt-4 text-lg text-gray-600">{data.description}</p>
+
+          <div class="mt-6 flex items-center gap-4 text-sm text-gray-500">
+            <div class="flex items-center gap-2">
+              {data.author.avatar && (
+                <img
+                  src={data.author.avatar}
+                  alt={data.author.name}
+                  class="w-8 h-8 rounded-full"
+                />
+              )}
+              <span>{data.author.name}</span>
+            </div>
+            <span class="text-gray-300">&bull;</span>
+            <time datetime={data.publishedAt.toISOString()}>
+              {formatDate(data.publishedAt)}
+            </time>
+            <span class="text-gray-300">&bull;</span>
+            <span>{readTime} min read</span>
+          </div>
+        </header>
+
+        {data.image && (
+          <figure class="mb-8">
+            <img
+              src={data.image.src}
+              alt={data.image.alt}
+              class="w-full rounded-xl"
+              loading="eager"
+            />
+          </figure>
+        )}
+
+        <TableOfContents headings={headings} />
+
+        <div class="prose prose-lg max-w-none">
+          <slot />
+        </div>
+
+        {data.faq && data.faq.length > 0 && <FAQ items={data.faq} />}
+      </article>
+    </main>
+    <Footer siteName={site.name} links={footer.links} social={footer.social} />
+    <SEO
+      type="article"
+      siteUrl={siteConfig.seo.siteUrl}
+      siteName={site.name}
+      article={articleData}
+      breadcrumbs={breadcrumbs}
+      faq={data.faq}
+    />
+  </body>
+</html>

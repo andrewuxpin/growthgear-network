@@ -105,6 +105,126 @@ importers:
         specifier: ^5.7.0
         version: 5.9.3
 
+  sites/hub:
+    dependencies:
+      '@astrojs/rss':
+        specifier: ^4.0.0
+        version: 4.0.15
+      '@astrojs/sitemap':
+        specifier: ^3.2.0
+        version: 3.7.0
+      '@astrojs/tailwind':
+        specifier: ^5.1.0
+        version: 5.1.5(astro@4.16.19(@types/node@18.19.130)(rollup@4.57.0)(typescript@5.9.3))(tailwindcss@3.4.19(tsx@4.21.0)(yaml@2.8.2))
+      '@growthgear/shared':
+        specifier: workspace:*
+        version: link:../../packages/shared
+      astro:
+        specifier: ^4.16.0
+        version: 4.16.19(@types/node@18.19.130)(rollup@4.57.0)(typescript@5.9.3)
+    devDependencies:
+      '@astrojs/check':
+        specifier: ^0.9.0
+        version: 0.9.6(prettier@3.8.1)(typescript@5.9.3)
+      '@tailwindcss/typography':
+        specifier: ^0.5.15
+        version: 0.5.19(tailwindcss@3.4.19(tsx@4.21.0)(yaml@2.8.2))
+      autoprefixer:
+        specifier: ^10.4.20
+        version: 10.4.23(postcss@8.5.6)
+      postcss:
+        specifier: ^8.4.49
+        version: 8.5.6
+      tailwindcss:
+        specifier: ^3.4.0
+        version: 3.4.19(tsx@4.21.0)(yaml@2.8.2)
+      tsx:
+        specifier: ^4.21.0
+        version: 4.21.0
+      typescript:
+        specifier: ^5.7.0
+        version: 5.9.3
+
+  sites/marketing:
+    dependencies:
+      '@astrojs/rss':
+        specifier: ^4.0.0
+        version: 4.0.15
+      '@astrojs/sitemap':
+        specifier: ^3.2.0
+        version: 3.7.0
+      '@astrojs/tailwind':
+        specifier: ^5.1.0
+        version: 5.1.5(astro@4.16.19(@types/node@18.19.130)(rollup@4.57.0)(typescript@5.9.3))(tailwindcss@3.4.19(tsx@4.21.0)(yaml@2.8.2))
+      '@growthgear/shared':
+        specifier: workspace:*
+        version: link:../../packages/shared
+      astro:
+        specifier: ^4.16.0
+        version: 4.16.19(@types/node@18.19.130)(rollup@4.57.0)(typescript@5.9.3)
+    devDependencies:
+      '@astrojs/check':
+        specifier: ^0.9.0
+        version: 0.9.6(prettier@3.8.1)(typescript@5.9.3)
+      '@tailwindcss/typography':
+        specifier: ^0.5.15
+        version: 0.5.19(tailwindcss@3.4.19(tsx@4.21.0)(yaml@2.8.2))
+      autoprefixer:
+        specifier: ^10.4.20
+        version: 10.4.23(postcss@8.5.6)
+      postcss:
+        specifier: ^8.4.49
+        version: 8.5.6
+      tailwindcss:
+        specifier: ^3.4.0
+        version: 3.4.19(tsx@4.21.0)(yaml@2.8.2)
+      tsx:
+        specifier: ^4.21.0
+        version: 4.21.0
+      typescript:
+        specifier: ^5.7.0
+        version: 5.9.3
+
+  sites/sales:
+    dependencies:
+      '@astrojs/rss':
+        specifier: ^4.0.0
+        version: 4.0.15
+      '@astrojs/sitemap':
+        specifier: ^3.2.0
+        version: 3.7.0
+      '@astrojs/tailwind':
+        specifier: ^5.1.0
+        version: 5.1.5(astro@4.16.19(@types/node@18.19.130)(rollup@4.57.0)(typescript@5.9.3))(tailwindcss@3.4.19(tsx@4.21.0)(yaml@2.8.2))
+      '@growthgear/shared':
+        specifier: workspace:*
+        version: link:../../packages/shared
+      astro:
+        specifier: ^4.16.0
+        version: 4.16.19(@types/node@18.19.130)(rollup@4.57.0)(typescript@5.9.3)
+    devDependencies:
+      '@astrojs/check':
+        specifier: ^0.9.0
+        version: 0.9.6(prettier@3.8.1)(typescript@5.9.3)
+      '@tailwindcss/typography':
+        specifier: ^0.5.15
+        version: 0.5.19(tailwindcss@3.4.19(tsx@4.21.0)(yaml@2.8.2))
+      autoprefixer:
+        specifier: ^10.4.20
+        version: 10.4.23(postcss@8.5.6)
+      postcss:
+        specifier: ^8.4.49
+        version: 8.5.6
+      tailwindcss:
+        specifier: ^3.4.0
+        version: 3.4.19(tsx@4.21.0)(yaml@2.8.2)
+      tsx:
+        specifier: ^4.21.0
+        version: 4.21.0
+      typescript:
+        specifier: ^5.7.0
+        version: 5.9.3
+
   workers/api:
     dependencies:
       '@growthgear/content-engine':
@@ -135,6 +255,22 @@ importers:
         version: 5.9.3
       wrangler:
         specifier: ^3.93.0
+        version: 3.114.17(@cloudflare/workers-types@4.20260128.0)
+
+  workers/keyword-generator:
+    dependencies:
+      '@anthropic-ai/sdk':
+        specifier: ^0.32.0
+        version: 0.32.1
+    devDependencies:
+      '@cloudflare/workers-types':
+        specifier: ^4.20240821.0
+        version: 4.20260128.0
+      typescript:
+        specifier: ^5.7.0
+        version: 5.9.3
+      wrangler:
+        specifier: ^3.114.0
         version: 3.114.17(@cloudflare/workers-types@4.20260128.0)
 
 packages:

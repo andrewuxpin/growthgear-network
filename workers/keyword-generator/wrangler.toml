@@ -1,0 +1,15 @@
+name = "growthgear-keyword-generator"
+main = "src/index.ts"
+compatibility_date = "2024-01-01"
+
+[[d1_databases]]
+binding = "DB"
+database_name = "growthgear-db"
+database_id = "0feac72f-0900-4c99-8d3b-65f9b550ac1d"
+
+# Run weekly on Sunday at midnight UTC
+[triggers]
+crons = ["0 0 * * SUN"]
+
+# Secrets (set via wrangler secret put):
+# - ANTHROPIC_API_KEY

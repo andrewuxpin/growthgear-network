@@ -1,0 +1,34 @@
+---
+import "@growthgear/shared/styles";
+import BaseHead from "@growthgear/shared/components/BaseHead.astro";
+import Header from "@growthgear/shared/components/Header.astro";
+import Footer from "@growthgear/shared/components/Footer.astro";
+import SEO from "@growthgear/shared/components/SEO.astro";
+import type { SEOData } from "@growthgear/shared/types";
+import { siteConfig } from "../config";
+
+interface Props {
+  seo: SEOData;
+}
+
+const { seo } = Astro.props;
+const { site, navigation, footer } = siteConfig;
+---
+
+<!doctype html>
+<html lang="en" data-theme={site.theme}>
+  <BaseHead
+    seo={seo}
+    siteUrl={siteConfig.seo.siteUrl}
+    siteName={site.name}
+    theme={site.theme}
+  />
+  <body class="min-h-screen flex flex-col">
+    <Header siteName={site.name} navigation={navigation} />
+    <main class="flex-1">
+      <slot />
+    </main>
+    <Footer siteName={site.name} links={footer.links} social={footer.social} />
+    <SEO type="website" siteUrl={siteConfig.seo.siteUrl} siteName={site.name} />
+  </body>
+</html>

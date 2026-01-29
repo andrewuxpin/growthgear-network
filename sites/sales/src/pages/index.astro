@@ -1,0 +1,107 @@
+---
+import BaseLayout from "../layouts/BaseLayout.astro";
+import ArticleCard from "@growthgear/shared/components/ArticleCard.astro";
+import { getCollection } from "astro:content";
+import { readingTime, countWords } from "@growthgear/shared/utils";
+import { siteConfig, categories } from "../config";
+
+const articles = await getCollection("articles");
+const sortedArticles = articles.sort(
+  (a, b) => b.data.publishedAt.valueOf() - a.data.publishedAt.valueOf()
+);
+
+const featuredArticle = sortedArticles[0];
+const recentArticles = sortedArticles.slice(1, 7);
+---
+
+<BaseLayout
+  seo={{
+    title: `${siteConfig.site.name} - ${siteConfig.seo.defaultDescription}`,
+    description: siteConfig.seo.defaultDescription,
+  }}
+>
+  <!-- Hero -->
+  <section class="bg-gradient-to-br from-primary-50 to-accent-50 py-16 md:py-24">
+    <div class="container-wide">
+      <div class="max-w-3xl">
+        <h1 class="text-4xl md:text-5xl font-bold text-gray-900">
+          Master the Art of
+          <span class="text-primary-600">Sales Excellence</span>
+        </h1>
+        <p class="mt-6 text-xl text-gray-600">
+          Proven strategies, techniques, and insights to close more deals,
+          build stronger relationships, and accelerate your sales career.
+        </p>
+        <div class="mt-8 flex flex-wrap gap-4">
+          {categories.map((category) => (
+            <a
+              href={`/${category.slug}`}
+              class="btn-secondary"
+            >
+              {category.name}
+            </a>
+          ))}
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <!-- Featured Article -->
+  {featuredArticle && (
+    <section class="container-wide py-12">
+      <h2 class="text-2xl font-bold text-gray-900 mb-8">Featured</h2>
+      <ArticleCard
+        title={featuredArticle.data.title}
+        description={featuredArticle.data.description}
+        href={`/${featuredArticle.data.category}/${featuredArticle.slug}`}
+        image={featuredArticle.data.image}
+        date={featuredArticle.data.publishedAt}
+        category={categories.find((c) => c.slug === featuredArticle.data.category)?.name}
+        categoryHref={`/${featuredArticle.data.category}`}
+        readingTime={readingTime(countWords(featuredArticle.body))}
+        featured={true}
+      />
+    </section>
+  )}
+
+  <!-- Recent Articles -->
+  {recentArticles.length > 0 && (
+    <section class="container-wide py-12 border-t border-gray-100">
+      <h2 class="text-2xl font-bold text-gray-900 mb-8">Recent Articles</h2>
+      <div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-8">
+        {recentArticles.map((article) => (
+          <ArticleCard
+            title={article.data.title}
+            description={article.data.description}
+            href={`/${article.data.category}/${article.slug}`}
+            image={article.data.image}
+            date={article.data.publishedAt}
+            category={categories.find((c) => c.slug === article.data.category)?.name}
+            categoryHref={`/${article.data.category}`}
+            readingTime={readingTime(countWords(article.body))}
+          />
+        ))}
+      </div>
+    </section>
+  )}
+
+  <!-- Categories -->
+  <section class="bg-gray-50 py-16">
+    <div class="container-wide">
+      <h2 class="text-2xl font-bold text-gray-900 mb-8">Browse by Category</h2>
+      <div class="grid grid-cols-1 md:grid-cols-3 gap-6">
+        {categories.map((category) => (
+          <a
+            href={`/${category.slug}`}
+            class="group p-6 bg-white rounded-xl border border-gray-200 hover:border-primary-300 hover:shadow-lg transition-all"
+          >
+            <h3 class="text-lg font-bold text-gray-900 group-hover:text-primary-600">
+              {category.name}
+            </h3>
+            <p class="mt-2 text-sm text-gray-600">{category.description}</p>
+          </a>
+        ))}
+      </div>
+    </div>
+  </section>
+</BaseLayout>

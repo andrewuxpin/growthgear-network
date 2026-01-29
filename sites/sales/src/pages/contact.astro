@@ -1,0 +1,120 @@
+---
+import BaseLayout from "../layouts/BaseLayout.astro";
+import { siteConfig } from "../config";
+---
+
+<BaseLayout
+  seo={{
+    title: "Contact Us",
+    description: `Get in touch with the ${siteConfig.site.name} team. We'd love to hear from you.`,
+  }}
+>
+  <div class="container-narrow py-16">
+    <h1 class="text-4xl font-bold text-gray-900">Contact Us</h1>
+    <p class="mt-4 text-lg text-gray-600">
+      Have a question, feedback, or business inquiry? We'd love to hear from you.
+    </p>
+
+    <div class="mt-12 grid gap-12 md:grid-cols-2">
+      <div>
+        <h2 class="text-xl font-bold text-gray-900 mb-4">Get in Touch</h2>
+        <form class="space-y-6">
+          <div>
+            <label for="name" class="block text-sm font-medium text-gray-700">
+              Name
+            </label>
+            <input
+              type="text"
+              id="name"
+              name="name"
+              required
+              class="mt-1 block w-full rounded-lg border border-gray-300 px-4 py-2 focus:border-primary-500 focus:ring-primary-500"
+            />
+          </div>
+
+          <div>
+            <label for="email" class="block text-sm font-medium text-gray-700">
+              Email
+            </label>
+            <input
+              type="email"
+              id="email"
+              name="email"
+              required
+              class="mt-1 block w-full rounded-lg border border-gray-300 px-4 py-2 focus:border-primary-500 focus:ring-primary-500"
+            />
+          </div>
+
+          <div>
+            <label for="subject" class="block text-sm font-medium text-gray-700">
+              Subject
+            </label>
+            <select
+              id="subject"
+              name="subject"
+              class="mt-1 block w-full rounded-lg border border-gray-300 px-4 py-2 focus:border-primary-500 focus:ring-primary-500"
+            >
+              <option>General Inquiry</option>
+              <option>Business Partnership</option>
+              <option>Sponsored Content</option>
+              <option>Feedback</option>
+              <option>Other</option>
+            </select>
+          </div>
+
+          <div>
+            <label for="message" class="block text-sm font-medium text-gray-700">
+              Message
+            </label>
+            <textarea
+              id="message"
+              name="message"
+              rows="5"
+              required
+              class="mt-1 block w-full rounded-lg border border-gray-300 px-4 py-2 focus:border-primary-500 focus:ring-primary-500"
+            ></textarea>
+          </div>
+
+          <button type="submit" class="btn-primary w-full">Send Message</button>
+        </form>
+      </div>
+
+      <div>
+        <h2 class="text-xl font-bold text-gray-900 mb-4">Other Ways to Connect</h2>
+        <div class="space-y-6 text-gray-600">
+          <div>
+            <h3 class="font-semibold text-gray-900">Business Inquiries</h3>
+            <p class="mt-1">
+              For partnerships, sponsored content, and business opportunities,
+              please select "Business Partnership" or "Sponsored Content" in the
+              form.
+            </p>
+          </div>
+
+          <div>
+            <h3 class="font-semibold text-gray-900">Social Media</h3>
+            <p class="mt-1">
+              Follow us on{" "}
+              <a href="https://twitter.com/growthgear" class="text-primary-600 hover:underline">
+                Twitter
+              </a>{" "}
+              and{" "}
+              <a href="https://linkedin.com/company/growthgear" class="text-primary-600 hover:underline">
+                LinkedIn
+              </a>{" "}
+              for updates and insights.
+            </p>
+          </div>
+
+          <div>
+            <h3 class="font-semibold text-gray-900">Response Time</h3>
+            <p class="mt-1">
+              We typically respond within 1-2 business days. For urgent matters,
+              please indicate so in your message.
+            </p>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</BaseLayout>
