@@ -150,10 +150,6 @@ jobs:
       - name: Install dependencies
         run: pnpm install
 
-      - name: Sync articles from API
-        working-directory: sites/hub
-        run: npx tsx scripts/sync-articles.ts
-
       - name: Build site
         working-directory: sites/hub
         run: pnpm run build

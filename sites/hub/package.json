@@ -4,9 +4,7 @@
   "type": "module",
   "scripts": {
     "dev": "astro dev",
-    "sync": "npx tsx scripts/sync-articles.ts",
     "build": "astro build",
-    "build:full": "npm run sync && npm run build",
     "preview": "astro preview",
     "typecheck": "astro check && tsc --noEmit"
   },

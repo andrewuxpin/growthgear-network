@@ -3,16 +3,16 @@ import type { SiteConfig } from "@growthgear/shared/types";
 export const siteConfig: SiteConfig = {
   site: {
     id: "hub",
-    name: "GrowthGear Hub",
+    name: "GrowthGear",
     niche: "business-growth",
     theme: "hub",
-    description: "Your central resource for business growth, productivity, and entrepreneurship insights.",
+    description: "Your network of expert resources for AI, sales, and marketing success.",
   },
   navigation: [
     { label: "Home", href: "/" },
-    { label: "Productivity", href: "/productivity" },
-    { label: "Entrepreneurship", href: "/entrepreneurship" },
-    { label: "Business Strategy", href: "/business-strategy" },
+    { label: "AI Insights", href: "https://growthgear-ai.pages.dev" },
+    { label: "Sales Mastery", href: "https://growthgear-sales.pages.dev" },
+    { label: "Marketing Edge", href: "https://growthgear-marketing.pages.dev" },
     { label: "About", href: "/about" },
   ],
   footer: {
@@ -28,26 +28,42 @@ export const siteConfig: SiteConfig = {
     ],
   },
   seo: {
-    titleTemplate: "%s | GrowthGear Hub",
-    defaultDescription: "Your central resource for business growth, productivity, and entrepreneurship insights.",
+    titleTemplate: "%s | GrowthGear",
+    defaultDescription: "Your network of expert resources for AI, sales, and marketing success.",
     siteUrl: "https://growthgear-hub.pages.dev",
   },
 };
 
-export const categories = [
+// Network sites for the hub directory
+export const networkSites = [
   {
-    slug: "productivity",
-    name: "Productivity",
-    description: "Tools, systems, and strategies to maximize your output and work smarter.",
+    id: "ai",
+    name: "AI Insights",
+    tagline: "Master Artificial Intelligence",
+    description: "Expert insights on AI, machine learning, and the future of intelligent systems. Stay ahead with actionable guides and the latest trends.",
+    url: "https://growthgear-ai.pages.dev",
+    color: "from-violet-500 to-purple-600",
+    icon: "🤖",
+    topics: ["Machine Learning", "AI Tools", "Deep Learning", "ChatGPT & LLMs"],
   },
   {
-    slug: "entrepreneurship",
-    name: "Entrepreneurship",
-    description: "Start, grow, and scale your business with proven entrepreneurial wisdom.",
+    id: "sales",
+    name: "Sales Mastery",
+    tagline: "Close More Deals",
+    description: "Proven strategies, techniques, and insights for B2B and B2C success. Master the art of selling and accelerate your revenue.",
+    url: "https://growthgear-sales.pages.dev",
+    color: "from-emerald-500 to-teal-600",
+    icon: "💼",
+    topics: ["B2B Sales", "Sales Techniques", "CRM & Tools", "Negotiation"],
   },
   {
-    slug: "business-strategy",
-    name: "Business Strategy",
-    description: "Strategic frameworks and insights for sustainable business growth.",
+    id: "marketing",
+    name: "Marketing Edge",
+    tagline: "Grow Your Audience",
+    description: "Cutting-edge digital marketing strategies, growth hacks, and insights to scale your business and build your brand.",
+    url: "https://growthgear-marketing.pages.dev",
+    color: "from-orange-500 to-red-600",
+    icon: "📈",
+    topics: ["Content Marketing", "SEO", "Social Media", "Growth Hacking"],
   },
 ];

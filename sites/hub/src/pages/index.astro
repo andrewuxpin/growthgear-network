@@ -1,104 +1,156 @@
 ---
 import BaseLayout from "../layouts/BaseLayout.astro";
-import ArticleCard from "@growthgear/shared/components/ArticleCard.astro";
-import { getCollection } from "astro:content";
-import { readingTime, countWords } from "@growthgear/shared/utils";
-import { siteConfig, categories } from "../config";
-
-const articles = await getCollection("articles");
-const sortedArticles = articles.sort(
-  (a, b) => b.data.publishedAt.valueOf() - a.data.publishedAt.valueOf()
-);
-
-const featuredArticle = sortedArticles[0];
-const recentArticles = sortedArticles.slice(1, 7);
+import { siteConfig, networkSites } from "../config";
 ---
 
 <BaseLayout
   seo={{
-    title: `${siteConfig.site.name} - ${siteConfig.seo.defaultDescription}`,
+    title: "GrowthGear - Your Network for Business Success",
     description: siteConfig.seo.defaultDescription,
   }}
 >
   <!-- Hero -->
-  <section class="bg-gradient-to-br from-primary-50 to-accent-50 py-16 md:py-24">
+  <section class="bg-gradient-to-br from-gray-900 via-gray-800 to-gray-900 py-20 md:py-32">
+    <div class="container-wide text-center">
+      <h1 class="text-4xl md:text-6xl font-bold text-white">
+        Grow Smarter with
+        <span class="bg-gradient-to-r from-primary-400 to-accent-400 bg-clip-text text-transparent">
+          GrowthGear
+        </span>
+      </h1>
+      <p class="mt-6 text-xl text-gray-300 max-w-2xl mx-auto">
+        Your network of expert resources for AI, sales, and marketing success.
+        Actionable insights to help you build and scale your business.
+      </p>
+      <div class="mt-10 flex flex-wrap justify-center gap-4">
+        <a href="#sites" class="btn-primary text-lg px-8 py-3">
+          Explore Our Sites
+        </a>
+      </div>
+    </div>
+  </section>
+
+  <!-- Network Sites -->
+  <section id="sites" class="py-20 bg-gray-50">
     <div class="container-wide">
-      <div class="max-w-3xl">
-        <h1 class="text-4xl md:text-5xl font-bold text-gray-900">
-          Your Central Hub for
-          <span class="text-primary-600">Business Growth</span>
-        </h1>
-        <p class="mt-6 text-xl text-gray-600">
-          Actionable insights on productivity, entrepreneurship, and strategy
-          to help you build and scale your business.
+      <div class="text-center mb-16">
+        <h2 class="text-3xl md:text-4xl font-bold text-gray-900">
+          Our Expert Networks
+        </h2>
+        <p class="mt-4 text-lg text-gray-600 max-w-2xl mx-auto">
+          Each site is dedicated to helping you master a critical area of business growth.
         </p>
-        <div class="mt-8 flex flex-wrap gap-4">
-          {categories.map((category) => (
-            <a
-              href={`/${category.slug}`}
-              class="btn-secondary"
-            >
-              {category.name}
-            </a>
-          ))}
+      </div>
+
+      <div class="grid grid-cols-1 md:grid-cols-3 gap-8">
+        {networkSites.map((site) => (
+          <a
+            href={site.url}
+            target="_blank"
+            rel="noopener"
+            class="group relative bg-white rounded-2xl shadow-lg hover:shadow-2xl transition-all duration-300 overflow-hidden"
+          >
+            <!-- Gradient Header -->
+            <div class={`h-32 bg-gradient-to-r ${site.color} flex items-center justify-center`}>
+              <span class="text-6xl">{site.icon}</span>
+            </div>
+
+            <!-- Content -->
+            <div class="p-6">
+              <div class="flex items-center gap-2 mb-2">
+                <h3 class="text-xl font-bold text-gray-900 group-hover:text-primary-600 transition-colors">
+                  {site.name}
+                </h3>
+                <svg class="w-5 h-5 text-gray-400 group-hover:text-primary-600 group-hover:translate-x-1 transition-all" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                  <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M10 6H6a2 2 0 00-2 2v10a2 2 0 002 2h10a2 2 0 002-2v-4M14 4h6m0 0v6m0-6L10 14" />
+                </svg>
+              </div>
+              <p class="text-sm font-medium text-primary-600 mb-3">{site.tagline}</p>
+              <p class="text-gray-600 text-sm mb-4">{site.description}</p>
+
+              <!-- Topics -->
+              <div class="flex flex-wrap gap-2">
+                {site.topics.map((topic) => (
+                  <span class="text-xs px-2 py-1 bg-gray-100 text-gray-600 rounded-full">
+                    {topic}
+                  </span>
+                ))}
+              </div>
+            </div>
+          </a>
+        ))}
+      </div>
+    </div>
+  </section>
+
+  <!-- Value Proposition -->
+  <section class="py-20">
+    <div class="container-wide">
+      <div class="text-center mb-16">
+        <h2 class="text-3xl md:text-4xl font-bold text-gray-900">
+          Why GrowthGear?
+        </h2>
+      </div>
+
+      <div class="grid grid-cols-1 md:grid-cols-3 gap-8">
+        <div class="text-center p-6">
+          <div class="w-16 h-16 bg-primary-100 rounded-full flex items-center justify-center mx-auto mb-4">
+            <svg class="w-8 h-8 text-primary-600" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+              <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M9.663 17h4.673M12 3v1m6.364 1.636l-.707.707M21 12h-1M4 12H3m3.343-5.657l-.707-.707m2.828 9.9a5 5 0 117.072 0l-.548.547A3.374 3.374 0 0014 18.469V19a2 2 0 11-4 0v-.531c0-.895-.356-1.754-.988-2.386l-.548-.547z" />
+            </svg>
+          </div>
+          <h3 class="text-xl font-bold text-gray-900 mb-2">Expert Insights</h3>
+          <p class="text-gray-600">
+            In-depth guides and strategies from industry experts to help you make informed decisions.
+          </p>
+        </div>
+
+        <div class="text-center p-6">
+          <div class="w-16 h-16 bg-primary-100 rounded-full flex items-center justify-center mx-auto mb-4">
+            <svg class="w-8 h-8 text-primary-600" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+              <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M13 10V3L4 14h7v7l9-11h-7z" />
+            </svg>
+          </div>
+          <h3 class="text-xl font-bold text-gray-900 mb-2">Actionable Content</h3>
+          <p class="text-gray-600">
+            No fluff. Every article provides practical steps you can implement immediately.
+          </p>
+        </div>
+
+        <div class="text-center p-6">
+          <div class="w-16 h-16 bg-primary-100 rounded-full flex items-center justify-center mx-auto mb-4">
+            <svg class="w-8 h-8 text-primary-600" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+              <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M12 8v4l3 3m6-3a9 9 0 11-18 0 9 9 0 0118 0z" />
+            </svg>
+          </div>
+          <h3 class="text-xl font-bold text-gray-900 mb-2">Always Fresh</h3>
+          <p class="text-gray-600">
+            New content published daily to keep you updated with the latest trends and best practices.
+          </p>
         </div>
       </div>
     </div>
   </section>
 
-  <!-- Featured Article -->
-  {featuredArticle && (
-    <section class="container-wide py-12">
-      <h2 class="text-2xl font-bold text-gray-900 mb-8">Featured</h2>
-      <ArticleCard
-        title={featuredArticle.data.title}
-        description={featuredArticle.data.description}
-        href={`/${featuredArticle.data.category}/${featuredArticle.slug}`}
-        image={featuredArticle.data.image}
-        date={featuredArticle.data.publishedAt}
-        category={categories.find((c) => c.slug === featuredArticle.data.category)?.name}
-        categoryHref={`/${featuredArticle.data.category}`}
-        readingTime={readingTime(countWords(featuredArticle.body))}
-        featured={true}
-      />
-    </section>
-  )}
-
-  <!-- Recent Articles -->
-  {recentArticles.length > 0 && (
-    <section class="container-wide py-12 border-t border-gray-100">
-      <h2 class="text-2xl font-bold text-gray-900 mb-8">Recent Articles</h2>
-      <div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-8">
-        {recentArticles.map((article) => (
-          <ArticleCard
-            title={article.data.title}
-            description={article.data.description}
-            href={`/${article.data.category}/${article.slug}`}
-            image={article.data.image}
-            date={article.data.publishedAt}
-            category={categories.find((c) => c.slug === article.data.category)?.name}
-            categoryHref={`/${article.data.category}`}
-            readingTime={readingTime(countWords(article.body))}
-          />
-        ))}
-      </div>
-    </section>
-  )}
-
-  <!-- Categories -->
-  <section class="bg-gray-50 py-16">
-    <div class="container-wide">
-      <h2 class="text-2xl font-bold text-gray-900 mb-8">Browse by Category</h2>
-      <div class="grid grid-cols-1 md:grid-cols-3 gap-6">
-        {categories.map((category) => (
+  <!-- CTA -->
+  <section class="bg-gradient-to-r from-primary-600 to-accent-600 py-16">
+    <div class="container-wide text-center">
+      <h2 class="text-3xl font-bold text-white mb-4">
+        Ready to Accelerate Your Growth?
+      </h2>
+      <p class="text-primary-100 text-lg mb-8 max-w-xl mx-auto">
+        Pick your focus area and start learning from our expert-curated content today.
+      </p>
+      <div class="flex flex-wrap justify-center gap-4">
+        {networkSites.map((site) => (
           <a
-            href={`/${category.slug}`}
-            class="group p-6 bg-white rounded-xl border border-gray-200 hover:border-primary-300 hover:shadow-lg transition-all"
+            href={site.url}
+            target="_blank"
+            rel="noopener"
+            class="inline-flex items-center gap-2 px-6 py-3 bg-white text-gray-900 font-semibold rounded-lg hover:bg-gray-100 transition-colors"
           >
-            <h3 class="text-lg font-bold text-gray-900 group-hover:text-primary-600">
-              {category.name}
-            </h3>
-            <p class="mt-2 text-sm text-gray-600">{category.description}</p>
+            <span>{site.icon}</span>
+            {site.name}
           </a>
         ))}
       </div>
