@@ -21,8 +21,8 @@ bucket_name = "growthgear-images"
 AUTO_PUBLISH = "true"
 # Set to "true" to generate images for articles
 GENERATE_IMAGES = "true"
-# GitHub repo for triggering deploys (set after creating repo)
-# GITHUB_REPO = "your-username/growthgear-network"
+# GitHub repo for triggering deploys
+GITHUB_REPO = "andrewuxpin/growthgear-network"
 
 # Run daily at 6 AM UTC (5 PM AEST)
 [triggers]
