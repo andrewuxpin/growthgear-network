@@ -8,7 +8,9 @@
     "build": "turbo build",
     "lint": "turbo lint",
     "clean": "turbo clean && rm -rf node_modules",
-    "typecheck": "turbo typecheck"
+    "typecheck": "turbo typecheck",
+    "sync:articles": "npx tsx scripts/sync-articles.ts",
+    "db:migrate": "echo 'Run migrations with: wrangler d1 execute growthgear-db --file=./database/migrations/XXX.sql'"
   },
   "devDependencies": {
     "turbo": "^2.3.0",

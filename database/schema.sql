@@ -31,8 +31,11 @@ CREATE TABLE articles (
   title TEXT NOT NULL,
   meta_description TEXT,
   primary_keyword TEXT,
+  category TEXT,
   content TEXT,
   word_count INTEGER,
+  featured_image TEXT,
+  image_alt TEXT,
   status TEXT DEFAULT 'draft',
   published_at DATETIME,
   refreshed_at DATETIME,
@@ -91,8 +94,21 @@ CREATE TABLE scheduled_jobs (
   error_message TEXT
 );
 
+-- Page Views (Analytics)
+CREATE TABLE page_views (
+  id INTEGER PRIMARY KEY AUTOINCREMENT,
+  site_id TEXT REFERENCES sites(id),
+  path TEXT NOT NULL,
+  referrer TEXT,
+  user_agent TEXT,
+  country TEXT,
+  created_at DATETIME DEFAULT CURRENT_TIMESTAMP
+);
+
 -- Indexes for performance
 CREATE INDEX idx_keywords_site_status ON keywords(site_id, status);
 CREATE INDEX idx_articles_site_status ON articles(site_id, status);
 CREATE INDEX idx_articles_published ON articles(published_at);
 CREATE INDEX idx_scheduled_jobs_status ON scheduled_jobs(status, scheduled_for);
+CREATE INDEX idx_page_views_site_date ON page_views(site_id, created_at);
+CREATE INDEX idx_page_views_path ON page_views(site_id, path);

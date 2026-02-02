@@ -5,6 +5,7 @@ export interface ArticleRequest {
   articleType: "listicle" | "how-to" | "comparison" | "pillar" | "guide";
   targetWordCount?: number;
   existingArticles?: { slug: string; title: string }[];
+  validCategories?: string[];
 }
 
 export interface GeneratedArticle {

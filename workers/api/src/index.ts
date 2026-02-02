@@ -252,7 +252,7 @@ async function getArticles(url: URL, env: Env): Promise<Response> {
   const status = url.searchParams.get("status");
   const limit = parseInt(url.searchParams.get("limit") || "50");
 
-  let query = "SELECT id, site_id, slug, title, meta_description, primary_keyword, word_count, status, published_at, is_sponsored FROM articles WHERE 1=1";
+  let query = "SELECT id, site_id, slug, title, meta_description, primary_keyword, word_count, featured_image, status, published_at, is_sponsored FROM articles WHERE 1=1";
   const params: (string | number)[] = [];
 
   if (siteId) {
@@ -362,8 +362,8 @@ async function generateContent(request: Request, env: Env): Promise<Response> {
 
   // Save to database
   const result = await env.DB.prepare(
-    `INSERT INTO articles (site_id, slug, title, meta_description, primary_keyword, content, word_count, status)
-     VALUES (?, ?, ?, ?, ?, ?, ?, 'draft')
+    `INSERT INTO articles (site_id, slug, title, meta_description, primary_keyword, category, content, word_count, image_alt, status)
+     VALUES (?, ?, ?, ?, ?, ?, ?, ?, ?, 'draft')
      RETURNING id`
   )
     .bind(
@@ -372,8 +372,10 @@ async function generateContent(request: Request, env: Env): Promise<Response> {
       article.title,
       article.metaDescription,
       body.keyword,
+      article.category || null,
       article.content,
-      article.wordCount
+      article.wordCount,
+      article.imageAltText || null
     )
     .first<{ id: number }>();
 
@@ -479,7 +481,7 @@ async function generateImage(request: Request, env: Env): Promise<Response> {
 
   try {
     // Enhance prompt for better results
-    const enhancedPrompt = `${body.prompt}, professional photography, high quality, detailed, sharp focus, well-lit, 4k, no text, no watermarks`;
+    const enhancedPrompt = `${body.prompt}, photorealistic, professional photography, sharp focus, cinematic lighting, 4k quality`;
 
     // Generate image using FLUX (fast and high quality)
     const response = await env.AI.run("@cf/black-forest-labs/flux-1-schnell", {
@@ -563,6 +565,41 @@ async function getImage(key: string, env: Env): Promise<Response> {
 }
 
 // === Analytics Tracking ===
+const BOT_PATTERNS = [
+  "bot", "crawler", "spider", "scraper", "curl", "wget", "python", "java",
+  "headless", "phantom", "selenium", "puppeteer", "playwright"
+];
+
+const VALID_PATH_PATTERN = /^\/([a-z0-9-]+\/?)*$/;
+
+function isBot(userAgent: string): boolean {
+  const ua = userAgent.toLowerCase();
+  return BOT_PATTERNS.some(pattern => ua.includes(pattern)) || !userAgent;
+}
+
+function isValidPath(path: string): boolean {
+  // Must start with /, only allow alphanumeric, hyphens, and slashes
+  // Reject paths that look like brand probing (single word paths that aren't known)
+  if (!VALID_PATH_PATTERN.test(path)) return false;
+
+  // Allow known valid paths
+  const knownPaths = ["/", "/about/", "/contact/", "/privacy/", "/terms/"];
+  const knownPrefixes = ["/machine-learning/", "/ai-tools/", "/deep-learning/",
+    "/b2b-sales/", "/sales-techniques/", "/crm-tools/",
+    "/content-marketing/", "/seo/", "/social-media/"];
+
+  if (knownPaths.includes(path)) return true;
+  if (knownPrefixes.some(p => path.startsWith(p))) return true;
+
+  // Reject single-segment paths that aren't categories (likely probing)
+  const segments = path.split("/").filter(Boolean);
+  if (segments.length === 1 && !knownPaths.includes("/" + segments[0] + "/")) {
+    return false;
+  }
+
+  return true;
+}
+
 async function trackPageView(request: Request, env: Env): Promise<Response> {
   try {
     const body = await request.json() as { site_id: string; path: string; referrer?: string };
@@ -576,8 +613,13 @@ async function trackPageView(request: Request, env: Env): Promise<Response> {
     const userAgent = request.headers.get("user-agent") || "";
 
     // Don't track bots
-    if (userAgent.toLowerCase().includes("bot") || userAgent.toLowerCase().includes("crawler")) {
+    if (isBot(userAgent)) {
       return json({ success: true, data: { tracked: false, reason: "bot" } });
+    }
+
+    // Don't track suspicious paths (likely probing/scanning)
+    if (!isValidPath(body.path)) {
+      return json({ success: true, data: { tracked: false, reason: "invalid_path" } });
     }
 
     await env.DB.prepare(

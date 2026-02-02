@@ -35,6 +35,5 @@ coverage/
 *.local
 .cache/
 
-# Synced articles (generated at build time from API)
-sites/*/src/content/articles/*.md
+# Keep article .gitkeep files
 !sites/*/src/content/articles/.gitkeep

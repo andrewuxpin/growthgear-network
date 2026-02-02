@@ -67,7 +67,7 @@ async function generateImage(
   env: Env
 ): Promise<string | null> {
   try {
-    const enhancedPrompt = `${prompt}, professional photography, high quality, detailed, sharp focus, well-lit, 4k, no text, no watermarks`;
+    const enhancedPrompt = `${prompt}, photorealistic, professional photography, sharp focus, cinematic lighting, 4k quality`;
 
     const response = await env.AI.run("@cf/black-forest-labs/flux-1-schnell", {
       prompt: enhancedPrompt,
@@ -172,8 +172,8 @@ export default {
 
             // Save article to database
             const result = await env.DB.prepare(
-              `INSERT INTO articles (site_id, slug, title, meta_description, primary_keyword, content, word_count, status, published_at)
-               VALUES (?, ?, ?, ?, ?, ?, ?, ?, ?)
+              `INSERT INTO articles (site_id, slug, title, meta_description, primary_keyword, category, content, word_count, image_alt, status, published_at)
+               VALUES (?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?)
                RETURNING id`
             )
               .bind(
@@ -182,8 +182,10 @@ export default {
                 article.title,
                 article.metaDescription,
                 kw.keyword,
+                article.category || null,
                 article.content,
                 article.wordCount,
+                article.imageAltText || null,
                 status,
                 publishedAt
               )

@@ -17,6 +17,13 @@ Your articles should:
 
 Always respond with valid JSON matching the requested format.`;
 
+// Default valid categories per site (must match site config.ts)
+const SITE_CATEGORIES: Record<string, string[]> = {
+  ai: ["machine-learning", "ai-tools", "deep-learning"],
+  sales: ["b2b-sales", "sales-techniques", "crm-tools"],
+  marketing: ["content-marketing", "seo", "social-media"],
+};
+
 function buildPrompt(request: ArticleRequest): string {
   const existingArticlesText = request.existingArticles?.length
     ? `\n**Existing articles to link to:**\n${request.existingArticles
@@ -24,12 +31,19 @@ function buildPrompt(request: ArticleRequest): string {
         .join("\n")}`
     : "";
 
+  // Get valid categories for this site
+  const validCategories = request.validCategories ||
+    SITE_CATEGORIES[request.siteId] ||
+    ["general"];
+  const categoriesText = `\n**Valid Categories (MUST use one of these):** ${validCategories.join(", ")}`;
+
   return `Write a comprehensive, SEO-optimized article on the following topic:
 
 **Primary Keyword:** ${request.keyword}
 **Niche:** ${request.niche}
 **Article Type:** ${request.articleType}
 **Target Word Count:** ${request.targetWordCount || 2500} words
+${categoriesText}
 ${existingArticlesText}
 
 **Requirements:**
@@ -45,6 +59,15 @@ ${existingArticlesText}
 10. Suggest 2-4 internal links from the existing articles list
 11. Suggest alt text and image generation prompt for featured image
 12. Generate a URL-safe slug from the title
+13. IMPORTANT: Category MUST be one of the valid categories listed above
+
+**Image Prompt Guidelines:**
+- Describe a specific visual SCENE related to the topic (people, objects, environment)
+- Focus on what can be SEEN: lighting, colors, composition, setting
+- NEVER include words like "text", "title", "heading", "label", "sign", "banner" - the AI will add unwanted text
+- Describe physical objects and actions, not abstract concepts
+- Example good prompt: "data scientist analyzing colorful charts on multiple monitors in modern tech office, dramatic blue lighting"
+- Example bad prompt: "machine learning concept with AI text overlay" (will generate ugly text)
 
 **Output Format (JSON only, no markdown code blocks):**
 {
@@ -53,7 +76,7 @@ ${existingArticlesText}
   "metaTitle": "SEO title under 60 chars",
   "metaDescription": "Meta description 150-160 chars with keyword and CTA",
   "content": "Full markdown article content with proper headings",
-  "category": "suggested category slug",
+  "category": "one-of-the-valid-categories",
   "faq": [
     {"question": "Question text?", "answer": "Detailed answer text"}
   ],
@@ -61,7 +84,7 @@ ${existingArticlesText}
     {"slug": "existing-article-slug", "anchorText": "anchor text to use"}
   ],
   "imageAltText": "Descriptive alt text for featured image",
-  "imagePrompt": "Detailed prompt for generating a photorealistic featured image"
+  "imagePrompt": "Visual scene description for photorealistic image - describe objects, people, lighting, setting - NO text/words/labels"
 }`;
 }
 
@@ -131,6 +154,25 @@ export class ContentGenerator {
     // Calculate word count
     const wordCount = countWords(parsed.content);
 
+    // Validate category against allowed list
+    const validCategories = request.validCategories ||
+      SITE_CATEGORIES[request.siteId] ||
+      [];
+    let category = parsed.category || request.niche;
+
+    // If category isn't valid, try to map it or use first valid category
+    if (validCategories.length > 0 && !validCategories.includes(category)) {
+      // Try common mappings
+      const lowerCategory = category.toLowerCase();
+      if (lowerCategory.includes("tool")) {
+        category = validCategories.find(c => c.includes("tool")) || validCategories[0];
+      } else if (lowerCategory.includes("learn") || lowerCategory.includes("ml")) {
+        category = validCategories.find(c => c.includes("learning")) || validCategories[0];
+      } else {
+        category = validCategories[0];
+      }
+    }
+
     return {
       title: parsed.title,
       slug,
@@ -142,7 +184,7 @@ export class ContentGenerator {
       internalLinks: parsed.internalLinks || [],
       imageAltText: parsed.imageAltText,
       imagePrompt: parsed.imagePrompt,
-      category: parsed.category || request.niche,
+      category,
     };
   }
 
