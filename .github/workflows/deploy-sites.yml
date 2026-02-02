@@ -24,9 +24,13 @@ on:
   repository_dispatch:
     types: [deploy-sites]
 
+env:
+  ADMIN_API_KEY: ${{ secrets.ADMIN_API_KEY }}
+  CLOUDFLARE_API_TOKEN: ${{ secrets.CLOUDFLARE_API_TOKEN }}
+  CLOUDFLARE_ACCOUNT_ID: ${{ secrets.CLOUDFLARE_ACCOUNT_ID }}
+
 jobs:
-  deploy-ai:
-    if: github.event_name == 'schedule' || github.event_name == 'repository_dispatch' || github.event.inputs.site == 'all' || github.event.inputs.site == 'ai'
+  sync-and-deploy:
     runs-on: ubuntu-latest
     steps:
       - name: Checkout
@@ -46,117 +50,35 @@ jobs:
         run: pnpm install
 
       - name: Sync articles from API
-        working-directory: sites/ai
-        run: npx tsx scripts/sync-articles.ts
-
-      - name: Build site
-        working-directory: sites/ai
-        run: pnpm run build
-
-      - name: Deploy to Cloudflare Pages
-        working-directory: sites/ai
-        run: npx wrangler pages deploy dist --project-name=growthgear-ai --commit-dirty=true
+        run: |
+          npx tsx scripts/sync-articles.ts 2>&1 || echo "Using committed articles"
         env:
-          CLOUDFLARE_API_TOKEN: ${{ secrets.CLOUDFLARE_API_TOKEN }}
-          CLOUDFLARE_ACCOUNT_ID: ${{ secrets.CLOUDFLARE_ACCOUNT_ID }}
+          ADMIN_API_KEY: ${{ secrets.ADMIN_API_KEY }}
 
-  deploy-sales:
-    if: github.event_name == 'schedule' || github.event_name == 'repository_dispatch' || github.event.inputs.site == 'all' || github.event.inputs.site == 'sales'
-    runs-on: ubuntu-latest
-    steps:
-      - name: Checkout
-        uses: actions/checkout@v4
+      - name: Build and Deploy AI Site
+        if: github.event_name == 'schedule' || github.event_name == 'repository_dispatch' || github.event.inputs.site == 'all' || github.event.inputs.site == 'ai'
+        run: |
+          cd sites/ai
+          pnpm run build
+          npx wrangler pages deploy dist --project-name=growthgear-ai --commit-dirty=true
 
-      - name: Setup Node.js
-        uses: actions/setup-node@v4
-        with:
-          node-version: '20'
+      - name: Build and Deploy Sales Site
+        if: github.event_name == 'schedule' || github.event_name == 'repository_dispatch' || github.event.inputs.site == 'all' || github.event.inputs.site == 'sales'
+        run: |
+          cd sites/sales
+          pnpm run build
+          npx wrangler pages deploy dist --project-name=growthgear-sales --commit-dirty=true
 
-      - name: Setup pnpm
-        uses: pnpm/action-setup@v2
-        with:
-          version: 9
+      - name: Build and Deploy Marketing Site
+        if: github.event_name == 'schedule' || github.event_name == 'repository_dispatch' || github.event.inputs.site == 'all' || github.event.inputs.site == 'marketing'
+        run: |
+          cd sites/marketing
+          pnpm run build
+          npx wrangler pages deploy dist --project-name=growthgear-marketing --commit-dirty=true
 
-      - name: Install dependencies
-        run: pnpm install
-
-      - name: Sync articles from API
-        working-directory: sites/sales
-        run: npx tsx scripts/sync-articles.ts
-
-      - name: Build site
-        working-directory: sites/sales
-        run: pnpm run build
-
-      - name: Deploy to Cloudflare Pages
-        working-directory: sites/sales
-        run: npx wrangler pages deploy dist --project-name=growthgear-sales --commit-dirty=true
-        env:
-          CLOUDFLARE_API_TOKEN: ${{ secrets.CLOUDFLARE_API_TOKEN }}
-          CLOUDFLARE_ACCOUNT_ID: ${{ secrets.CLOUDFLARE_ACCOUNT_ID }}
-
-  deploy-marketing:
-    if: github.event_name == 'schedule' || github.event_name == 'repository_dispatch' || github.event.inputs.site == 'all' || github.event.inputs.site == 'marketing'
-    runs-on: ubuntu-latest
-    steps:
-      - name: Checkout
-        uses: actions/checkout@v4
-
-      - name: Setup Node.js
-        uses: actions/setup-node@v4
-        with:
-          node-version: '20'
-
-      - name: Setup pnpm
-        uses: pnpm/action-setup@v2
-        with:
-          version: 9
-
-      - name: Install dependencies
-        run: pnpm install
-
-      - name: Sync articles from API
-        working-directory: sites/marketing
-        run: npx tsx scripts/sync-articles.ts
-
-      - name: Build site
-        working-directory: sites/marketing
-        run: pnpm run build
-
-      - name: Deploy to Cloudflare Pages
-        working-directory: sites/marketing
-        run: npx wrangler pages deploy dist --project-name=growthgear-marketing --commit-dirty=true
-        env:
-          CLOUDFLARE_API_TOKEN: ${{ secrets.CLOUDFLARE_API_TOKEN }}
-          CLOUDFLARE_ACCOUNT_ID: ${{ secrets.CLOUDFLARE_ACCOUNT_ID }}
-
-  deploy-hub:
-    if: github.event_name == 'schedule' || github.event_name == 'repository_dispatch' || github.event.inputs.site == 'all' || github.event.inputs.site == 'hub'
-    runs-on: ubuntu-latest
-    steps:
-      - name: Checkout
-        uses: actions/checkout@v4
-
-      - name: Setup Node.js
-        uses: actions/setup-node@v4
-        with:
-          node-version: '20'
-
-      - name: Setup pnpm
-        uses: pnpm/action-setup@v2
-        with:
-          version: 9
-
-      - name: Install dependencies
-        run: pnpm install
-
-      - name: Build site
-        working-directory: sites/hub
-        run: pnpm run build
-
-      - name: Deploy to Cloudflare Pages
-        working-directory: sites/hub
-        run: npx wrangler pages deploy dist --project-name=growthgear-hub --commit-dirty=true
-        env:
-          CLOUDFLARE_API_TOKEN: ${{ secrets.CLOUDFLARE_API_TOKEN }}
-          CLOUDFLARE_ACCOUNT_ID: ${{ secrets.CLOUDFLARE_ACCOUNT_ID }}
+      - name: Build and Deploy Hub Site
+        if: github.event_name == 'schedule' || github.event_name == 'repository_dispatch' || github.event.inputs.site == 'all' || github.event.inputs.site == 'hub'
+        run: |
+          cd sites/hub
+          pnpm run build
+          npx wrangler pages deploy dist --project-name=growthgear-hub --commit-dirty=true
