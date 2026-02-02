@@ -5,6 +5,9 @@ category: "sales-techniques"
 author:
   name: "GrowthGear Team"
 publishedAt: 2026-01-30
+image:
+  src: "https://growthgear-api.andrew-705.workers.dev/api/images/1769992231392-executive-presenting-to-boardroom-with-large-scree.png"
+  alt: "Featured image for How to Create Winning Sales Presentation Templates: Complete Guide for 2024"
 tags:
   - create
   - winning

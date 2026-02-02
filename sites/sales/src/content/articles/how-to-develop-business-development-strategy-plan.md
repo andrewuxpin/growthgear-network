@@ -5,6 +5,9 @@ category: "sales-techniques"
 author:
   name: "GrowthGear Team"
 publishedAt: 2026-02-01
+image:
+  src: "https://growthgear-api.andrew-705.workers.dev/api/images/1769992328278-handshake-between-business-partners-with-city-skyl.png"
+  alt: "Featured image for How to Develop a Business Development Strategy Plan: Complete Guide for 2024"
 tags:
   - develop
   - business

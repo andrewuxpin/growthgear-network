@@ -5,6 +5,9 @@ category: "crm-tools"
 author:
   name: "GrowthGear Team"
 publishedAt: 2026-01-31
+image:
+  src: "https://growthgear-api.andrew-705.workers.dev/api/images/1769992287923-crm-interface-on-large-monitor-with-sales-pipeline.png"
+  alt: "Featured image for Best Sales Automation Tools for Startups: Complete Guide to Scale Your Revenue in 2024"
 tags:
   - sales
   - automation

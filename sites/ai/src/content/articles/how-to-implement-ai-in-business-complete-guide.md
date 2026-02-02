@@ -5,6 +5,9 @@ category: "machine-learning"
 author:
   name: "GrowthGear Team"
 publishedAt: 2026-01-30
+image:
+  src: "https://growthgear-api.andrew-705.workers.dev/api/images/1769992202819-executive-in-modern-glass-office-reviewing-hologra.png"
+  alt: "Featured image for How to Implement AI in Business: A Complete Step-by-Step Guide for 2024"
 tags:
   - implement
   - business

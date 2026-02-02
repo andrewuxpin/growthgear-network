@@ -1,18 +1,19 @@
 ---
 title: "How to Build a Sales Pipeline From Scratch: Complete Guide for 2024"
 description: "Learn how to build a sales pipeline from scratch with proven strategies, templates, and best practices. Boost conversions and revenue with our step-by-step guide."
-publishedAt: 2026-01-29
 category: "sales-techniques"
 author:
-  name: "Sales Mastery Team"
-tags: ["how to build sales pipeline from scratch"]
-isSponsored: false
+  name: "GrowthGear Team"
+publishedAt: 2026-01-29
 image:
   src: "https://growthgear-api.andrew-705.workers.dev/api/images/1769726227323-confident-salesperson-shaking-hands-with-client-in.png"
-  alt: "How to Build a Sales Pipeline From Scratch: Complete Guide for 2024"
+  alt: "Featured image for How to Build a Sales Pipeline From Scratch: Complete Guide for 2024"
+tags:
+  - build
+  - sales
+  - pipeline
+  - scratch
 ---
-
-# How to Build a Sales Pipeline From Scratch: Complete Guide for 2024
 
 Building a successful sales organization requires more than just hiring talented salespeople—it demands a systematic approach to managing prospects and converting them into customers. Learning how to build a sales pipeline from scratch is essential for any business looking to scale revenue predictably and efficiently.
 

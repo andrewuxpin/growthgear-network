@@ -5,6 +5,9 @@ category: "b2b-sales"
 author:
   name: "GrowthGear Team"
 publishedAt: 2026-01-30
+image:
+  src: "https://growthgear-api.andrew-705.workers.dev/api/images/1769992225805-sales-funnel-visualization-with-business-professio.png"
+  alt: "Featured image for Best Lead Generation Strategies for B2B Companies: 12 Proven Methods That Drive Results in 2024"
 tags:
   - lead
   - generation

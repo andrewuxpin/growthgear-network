@@ -5,6 +5,9 @@ category: "machine-learning"
 author:
   name: "GrowthGear Team"
 publishedAt: 2026-01-31
+image:
+  src: "https://growthgear-api.andrew-705.workers.dev/api/images/1769992264376-security-camera-with-augmented-reality-overlay-det.png"
+  alt: "Featured image for What is Computer Vision Applications: 15 Real-World Uses Transforming Industries in 2024"
 tags:
   - computer
   - vision

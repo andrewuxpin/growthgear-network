@@ -5,6 +5,9 @@ category: "machine-learning"
 author:
   name: "GrowthGear Team"
 publishedAt: 2026-01-30
+image:
+  src: "https://growthgear-api.andrew-705.workers.dev/api/images/1769992208942-developer-workspace-with-multiple-monitors-showing.png"
+  alt: "Featured image for Best Open Source AI Frameworks 2024: Complete Developer Guide"
 tags:
   - open
   - source

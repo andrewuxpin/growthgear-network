@@ -5,6 +5,9 @@ category: "content-marketing"
 author:
   name: "GrowthGear Team"
 publishedAt: 2026-01-31
+image:
+  src: "https://growthgear-api.andrew-705.workers.dev/api/images/1769992298836-marketer-using-ai-interface-with-automated-campaig.png"
+  alt: "Featured image for Best AI Tools for Digital Marketing Automation: 15 Game-Changing Solutions for 2024"
 tags:
   - tools
   - digital

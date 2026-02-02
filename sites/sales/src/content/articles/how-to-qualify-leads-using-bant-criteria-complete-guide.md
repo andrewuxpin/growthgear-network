@@ -5,6 +5,9 @@ category: "sales-techniques"
 author:
   name: "GrowthGear Team"
 publishedAt: 2026-02-01
+image:
+  src: "https://growthgear-api.andrew-705.workers.dev/api/images/1769992339423-sales-rep-taking-notes-during-discovery-call-heads.png"
+  alt: "Featured image for How to Qualify Leads Using BANT Criteria: Complete Guide for Sales Teams"
 tags:
   - qualify
   - leads

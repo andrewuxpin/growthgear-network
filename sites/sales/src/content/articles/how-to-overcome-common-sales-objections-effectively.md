@@ -5,6 +5,9 @@ category: "sales-techniques"
 author:
   name: "GrowthGear Team"
 publishedAt: 2026-01-30
+image:
+  src: "https://growthgear-api.andrew-705.workers.dev/api/images/1769992220019-confident-salesperson-in-negotiation-meeting-moder.png"
+  alt: "Featured image for How to Overcome Common Sales Objections Effectively: A Complete Guide"
 tags:
   - overcome
   - common

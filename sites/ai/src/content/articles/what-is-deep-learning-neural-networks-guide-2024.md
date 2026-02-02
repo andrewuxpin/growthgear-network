@@ -5,6 +5,9 @@ category: "deep-learning"
 author:
   name: "GrowthGear Team"
 publishedAt: 2026-02-01
+image:
+  src: "https://growthgear-api.andrew-705.workers.dev/api/images/1769992322548-abstract-visualization-of-deep-neural-network-laye.png"
+  alt: "Featured image for What is Deep Learning Neural Networks: Complete Guide to AI Architecture in 2024"
 tags:
   - deep
   - learning

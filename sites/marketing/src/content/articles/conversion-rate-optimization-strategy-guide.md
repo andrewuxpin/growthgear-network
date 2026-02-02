@@ -1,18 +1,19 @@
 ---
 title: "Conversion Rate Optimization Strategy: The Complete Guide to Boosting Your Website Performance"
 description: "Learn what conversion rate optimization strategy is and how to implement proven tactics to boost your website conversions by up to 300%. Start optimizing today!"
-publishedAt: 2026-01-29
 category: "seo"
 author:
-  name: "Marketing Edge Team"
-tags: ["what is conversion rate optimization strategy"]
-isSponsored: false
+  name: "GrowthGear Team"
+publishedAt: 2026-01-29
 image:
   src: "https://growthgear-api.andrew-705.workers.dev/api/images/1769726201563-a-b-test-comparison-with-winning-variant-highlight.png"
-  alt: "Conversion Rate Optimization Strategy: The Complete Guide to Boosting Your Website Performance"
+  alt: "Featured image for Conversion Rate Optimization Strategy: The Complete Guide to Boosting Your Website Performance"
+tags:
+  - conversion
+  - rate
+  - optimization
+  - strategy
 ---
-
-# Conversion Rate Optimization Strategy: The Complete Guide to Boosting Your Website Performance
 
 What is conversion rate optimization strategy? It's the systematic approach to increasing the percentage of website visitors who complete desired actions, such as making purchases, signing up for newsletters, or filling out contact forms. A well-executed conversion rate optimization strategy can dramatically improve your business results without increasing traffic costs.
 

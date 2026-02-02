@@ -1,18 +1,19 @@
 ---
 title: "What Is Social Selling and Why Is It Important for Modern Sales Success"
 description: "Discover what social selling is and why it's crucial for sales success. Learn proven strategies, statistics, and best practices to boost your revenue today."
-publishedAt: 2026-01-29
 category: "sales-techniques"
 author:
-  name: "Sales Mastery Team"
-tags: ["what is social selling and why important"]
-isSponsored: false
+  name: "GrowthGear Team"
+publishedAt: 2026-01-29
 image:
   src: "https://growthgear-api.andrew-705.workers.dev/api/images/1769726217236-confident-salesperson-shaking-hands-with-client-in.png"
-  alt: "What Is Social Selling and Why Is It Important for Modern Sales Success"
+  alt: "Featured image for What Is Social Selling and Why Is It Important for Modern Sales Success"
+tags:
+  - social
+  - selling
+  - important
+  - modern
 ---
-
-# What Is Social Selling and Why Is It Important for Modern Sales Success
 
 In today's digital-first business landscape, understanding **what is social selling and why important** it has become can make the difference between hitting your sales targets and falling behind competitors. Social selling represents a fundamental shift from traditional cold calling and email outreach to building meaningful relationships through social media platforms.
 
