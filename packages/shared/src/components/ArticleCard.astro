@@ -17,12 +17,23 @@ interface Props {
 }
 
 const { title, description, href, image, date, category, categoryHref, readingTime, featured = false } = Astro.props;
+
+// Placeholder gradient colors for articles without images
+const placeholderColors = [
+  "from-blue-500 to-purple-600",
+  "from-green-500 to-teal-600",
+  "from-orange-500 to-red-600",
+  "from-pink-500 to-rose-600",
+  "from-indigo-500 to-blue-600",
+];
+const colorIndex = title.length % placeholderColors.length;
+const placeholderGradient = placeholderColors[colorIndex];
 ---
 
 <article class={`group ${featured ? "md:col-span-2" : ""}`}>
-  <a href={href} class="block">
-    {image && (
-      <div class={`relative overflow-hidden rounded-xl bg-gray-100 ${featured ? "aspect-[2/1]" : "aspect-[16/9]"}`}>
+  <a href={href} class="block cursor-pointer">
+    <div class={`relative overflow-hidden rounded-xl bg-gray-100 ${featured ? "aspect-[2/1]" : "aspect-[16/9]"}`}>
+      {image ? (
         <img
           src={image.src}
           alt={image.alt}
@@ -30,10 +41,14 @@ const { title, description, href, image, date, category, categoryHref, readingTi
           loading="lazy"
           decoding="async"
         />
-      </div>
-    )}
+      ) : (
+        <div class={`w-full h-full bg-gradient-to-br ${placeholderGradient} flex items-center justify-center transition-transform duration-300 group-hover:scale-105`}>
+          <span class="text-white text-4xl font-bold opacity-30">{title.charAt(0).toUpperCase()}</span>
+        </div>
+      )}
+    </div>
 
-    <div class={`${image ? "mt-4" : ""}`}>
+    <div class="mt-4">
       {category && (
         <div class="mb-2">
           {categoryHref ? (
