@@ -1,5 +1,6 @@
 import { defineConfig } from "astro/config";
 import tailwind from "@astrojs/tailwind";
+import sitemap from "@astrojs/sitemap";
 
 export default defineConfig({
   site: "https://ai.growthgear.com.au",
@@ -7,8 +8,7 @@ export default defineConfig({
     tailwind({
       configFile: "./tailwind.config.mjs",
     }),
-    // TODO: Re-enable sitemap after fixing version compatibility
-    // sitemap({ filter: (page) => !page.includes("/api/") }),
+    sitemap(),
   ],
   build: {
     inlineStylesheets: "auto",
