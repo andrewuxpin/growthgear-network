@@ -3,20 +3,34 @@ import AdminLayout from "../layouts/AdminLayout.astro";
 ---
 
 <AdminLayout title="Articles">
+  <!-- EasyMDE CSS -->
+  <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/easymde/dist/easymde.min.css" />
   <div class="flex justify-between items-center mb-6">
     <div>
       <h2 class="text-lg font-semibold text-gray-900">Articles</h2>
       <p class="text-sm text-gray-500">Manage and publish your content</p>
     </div>
-    <a
-      href="/generate"
-      class="px-4 py-2 bg-primary-600 text-white rounded-lg hover:bg-primary-700 flex items-center"
-    >
-      <svg class="w-5 h-5 mr-2" fill="none" stroke="currentColor" viewBox="0 0 24 24">
-        <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M12 6v6m0 0v6m0-6h6m-6 0H6" />
-      </svg>
-      New Article
-    </a>
+    <div class="flex space-x-3">
+      <button
+        id="republish-btn"
+        class="px-4 py-2 bg-orange-600 text-white rounded-lg hover:bg-orange-700 flex items-center disabled:opacity-50"
+        title="Trigger site deployment with latest article changes"
+      >
+        <svg class="w-5 h-5 mr-2" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+          <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M4 4v5h.582m15.356 2A8.001 8.001 0 004.582 9m0 0H9m11 11v-5h-.581m0 0a8.003 8.003 0 01-15.357-2m15.357 2H15" />
+        </svg>
+        Republish Sites
+      </button>
+      <a
+        href="/generate"
+        class="px-4 py-2 bg-primary-600 text-white rounded-lg hover:bg-primary-700 flex items-center"
+      >
+        <svg class="w-5 h-5 mr-2" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+          <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M12 6v6m0 0v6m0-6h6m-6 0H6" />
+        </svg>
+        New Article
+      </a>
+    </div>
   </div>
 
   <!-- Filters -->
@@ -43,7 +57,7 @@ import AdminLayout from "../layouts/AdminLayout.astro";
         <tr>
           <th class="px-6 py-3 text-left text-xs font-medium text-gray-500 uppercase tracking-wider">Title</th>
           <th class="px-6 py-3 text-left text-xs font-medium text-gray-500 uppercase tracking-wider">Site</th>
-          <th class="px-6 py-3 text-left text-xs font-medium text-gray-500 uppercase tracking-wider">Words</th>
+          <th class="px-6 py-3 text-left text-xs font-medium text-gray-500 uppercase tracking-wider">Category</th>
           <th class="px-6 py-3 text-left text-xs font-medium text-gray-500 uppercase tracking-wider">Status</th>
           <th class="px-6 py-3 text-left text-xs font-medium text-gray-500 uppercase tracking-wider">Actions</th>
         </tr>
@@ -87,13 +101,174 @@ import AdminLayout from "../layouts/AdminLayout.astro";
       </div>
     </div>
   </div>
+
+  <!-- Article Edit Modal -->
+  <div id="edit-modal" class="fixed inset-0 bg-black bg-opacity-50 flex items-center justify-center z-50 hidden">
+    <div class="bg-white rounded-lg w-full max-w-5xl max-h-[95vh] overflow-hidden flex flex-col">
+      <div class="px-6 py-4 border-b flex items-center justify-between">
+        <h2 class="text-xl font-bold">Edit Article</h2>
+        <button id="close-edit" class="text-gray-500 hover:text-gray-700">
+          <svg class="w-6 h-6" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+            <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M6 18L18 6M6 6l12 12" />
+          </svg>
+        </button>
+      </div>
+      <div class="p-6 overflow-y-auto flex-1">
+        <form id="edit-form" class="space-y-4">
+          <input type="hidden" id="edit-id" />
+
+          <div class="grid grid-cols-2 gap-4">
+            <div>
+              <label class="block text-sm font-medium text-gray-700 mb-1">Title</label>
+              <input type="text" id="edit-title" class="w-full px-4 py-2 border rounded-lg focus:ring-2 focus:ring-primary-500 focus:border-transparent" />
+            </div>
+            <div>
+              <label class="block text-sm font-medium text-gray-700 mb-1">Slug</label>
+              <input type="text" id="edit-slug" class="w-full px-4 py-2 border rounded-lg focus:ring-2 focus:ring-primary-500 focus:border-transparent" />
+            </div>
+          </div>
+
+          <div>
+            <label class="block text-sm font-medium text-gray-700 mb-1">Meta Description</label>
+            <textarea id="edit-meta-description" rows="2" class="w-full px-4 py-2 border rounded-lg focus:ring-2 focus:ring-primary-500 focus:border-transparent"></textarea>
+          </div>
+
+          <div class="grid grid-cols-3 gap-4">
+            <div>
+              <label class="block text-sm font-medium text-gray-700 mb-1">Category</label>
+              <select id="edit-category" class="w-full px-4 py-2 border rounded-lg focus:ring-2 focus:ring-primary-500 focus:border-transparent">
+                <optgroup label="AI Site">
+                  <option value="machine-learning">Machine Learning</option>
+                  <option value="ai-tools">AI Tools</option>
+                  <option value="deep-learning">Deep Learning</option>
+                </optgroup>
+                <optgroup label="Sales Site">
+                  <option value="sales-techniques">Sales Techniques</option>
+                  <option value="b2b-sales">B2B Sales</option>
+                  <option value="crm-tools">CRM Tools</option>
+                </optgroup>
+                <optgroup label="Marketing Site">
+                  <option value="content-marketing">Content Marketing</option>
+                  <option value="seo">SEO</option>
+                  <option value="social-media">Social Media</option>
+                </optgroup>
+              </select>
+            </div>
+            <div>
+              <label class="block text-sm font-medium text-gray-700 mb-1">Primary Keyword</label>
+              <input type="text" id="edit-keyword" class="w-full px-4 py-2 border rounded-lg focus:ring-2 focus:ring-primary-500 focus:border-transparent" />
+            </div>
+            <div>
+              <label class="block text-sm font-medium text-gray-700 mb-1">Status</label>
+              <select id="edit-status" class="w-full px-4 py-2 border rounded-lg focus:ring-2 focus:ring-primary-500 focus:border-transparent">
+                <option value="draft">Draft</option>
+                <option value="published">Published</option>
+              </select>
+            </div>
+          </div>
+
+          <div>
+            <label class="block text-sm font-medium text-gray-700 mb-1">Featured Image</label>
+            <div class="flex space-x-2">
+              <input type="text" id="edit-image" class="flex-1 px-4 py-2 border rounded-lg focus:ring-2 focus:ring-primary-500 focus:border-transparent" placeholder="Image filename or URL..." readonly />
+              <button type="button" id="generate-image-btn" class="px-4 py-2 bg-purple-600 text-white rounded-lg hover:bg-purple-700 disabled:opacity-50">
+                <span id="generate-image-text">Generate Image</span>
+                <span id="generate-image-loading" class="hidden">
+                  <svg class="animate-spin h-5 w-5 inline" xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24">
+                    <circle class="opacity-25" cx="12" cy="12" r="10" stroke="currentColor" stroke-width="4"></circle>
+                    <path class="opacity-75" fill="currentColor" d="M4 12a8 8 0 018-8V0C5.373 0 0 5.373 0 12h4zm2 5.291A7.962 7.962 0 014 12H0c0 3.042 1.135 5.824 3 7.938l3-2.647z"></path>
+                  </svg>
+                  Generating...
+                </span>
+              </button>
+              <button type="button" id="preview-image-btn" class="px-4 py-2 bg-gray-100 rounded-lg hover:bg-gray-200">Preview</button>
+            </div>
+            <div id="image-preview" class="mt-2 hidden">
+              <img id="image-preview-img" src="" alt="Preview" class="max-h-40 rounded-lg" />
+            </div>
+          </div>
+
+          <div>
+            <label class="block text-sm font-medium text-gray-700 mb-1">Image Alt Text (used as prompt for image generation)</label>
+            <input type="text" id="edit-image-alt" class="w-full px-4 py-2 border rounded-lg focus:ring-2 focus:ring-primary-500 focus:border-transparent" placeholder="Describe the image..." />
+          </div>
+
+          <div>
+            <label class="block text-sm font-medium text-gray-700 mb-1">
+              Content
+              <span class="text-gray-400 font-normal ml-2" id="edit-word-count">0 words</span>
+            </label>
+            <textarea id="edit-content"></textarea>
+          </div>
+        </form>
+      </div>
+      <div class="px-6 py-4 border-t flex justify-between">
+        <div class="text-sm text-gray-500" id="edit-save-status"></div>
+        <div class="flex space-x-3">
+          <button id="edit-cancel" class="px-4 py-2 bg-gray-100 rounded-lg hover:bg-gray-200">
+            Cancel
+          </button>
+          <button id="edit-save" class="px-4 py-2 bg-primary-600 text-white rounded-lg hover:bg-primary-700">
+            Save Changes
+          </button>
+          <button id="edit-republish" class="px-4 py-2 bg-orange-600 text-white rounded-lg hover:bg-orange-700 disabled:opacity-50 hidden">
+            <span class="republish-text">Save & Republish</span>
+            <span class="republish-loading hidden">
+              <svg class="animate-spin h-5 w-5 inline mr-1" xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24">
+                <circle class="opacity-25" cx="12" cy="12" r="10" stroke="currentColor" stroke-width="4"></circle>
+                <path class="opacity-75" fill="currentColor" d="M4 12a8 8 0 018-8V0C5.373 0 0 5.373 0 12h4zm2 5.291A7.962 7.962 0 014 12H0c0 3.042 1.135 5.824 3 7.938l3-2.647z"></path>
+              </svg>
+              Publishing...
+            </span>
+          </button>
+        </div>
+      </div>
+    </div>
+  </div>
+
+  <!-- Republish Info Modal -->
+  <div id="republish-modal" class="fixed inset-0 bg-black bg-opacity-50 flex items-center justify-center z-50 hidden">
+    <div class="bg-white rounded-lg w-full max-w-lg p-6">
+      <h2 class="text-xl font-bold mb-4">Republish Sites</h2>
+      <p class="text-gray-600 mb-4">
+        To publish your article changes to the live sites, you need to trigger a deployment.
+        This will sync all article changes from the database to the static sites.
+      </p>
+      <div class="bg-gray-50 p-4 rounded-lg mb-4">
+        <h3 class="font-medium mb-2">Option 1: GitHub Actions (Recommended)</h3>
+        <p class="text-sm text-gray-600 mb-2">Go to your GitHub repository and manually trigger the "Deploy Sites" workflow:</p>
+        <a
+          href="https://github.com/andrewuxpin/growthgear-network/actions/workflows/deploy-sites.yml"
+          target="_blank"
+          class="text-primary-600 hover:text-primary-700 text-sm underline"
+        >
+          Open GitHub Actions →
+        </a>
+      </div>
+      <div class="bg-gray-50 p-4 rounded-lg mb-4">
+        <h3 class="font-medium mb-2">Option 2: GitHub CLI</h3>
+        <p class="text-sm text-gray-600 mb-2">Run this command in your terminal:</p>
+        <code class="block bg-gray-200 px-3 py-2 rounded text-sm font-mono">
+          gh workflow run deploy-sites.yml
+        </code>
+      </div>
+      <div class="flex justify-end">
+        <button id="close-republish" class="px-4 py-2 bg-gray-100 rounded-lg hover:bg-gray-200">
+          Close
+        </button>
+      </div>
+    </div>
+  </div>
 </AdminLayout>
 
+<script src="https://cdn.jsdelivr.net/npm/easymde/dist/easymde.min.js"></script>
 <script is:inline>
 (function() {
   const API_URL = 'https://growthgear-api.andrew-705.workers.dev';
   let sites = [];
   let currentArticle = null;
+  let editingArticle = null;
+  let easyMDE = null;
 
   async function loadSites() {
     const apiKey = localStorage.getItem('admin_api_key');
@@ -143,14 +318,14 @@ import AdminLayout from "../layouts/AdminLayout.astro";
         tbody.innerHTML = data.data.map(article => `
           <tr>
             <td class="px-6 py-4">
-              <div class="text-sm font-medium text-gray-900">${article.title}</div>
-              <div class="text-sm text-gray-500">${article.slug}</div>
+              <div class="text-sm font-medium text-gray-900">${escapeHtml(article.title)}</div>
+              <div class="text-sm text-gray-500">${escapeHtml(article.slug)}</div>
             </td>
             <td class="px-6 py-4 whitespace-nowrap text-sm text-gray-500">
               ${sites.find(s => s.id === article.site_id)?.name || article.site_id}
             </td>
             <td class="px-6 py-4 whitespace-nowrap text-sm text-gray-500">
-              ${article.word_count || '-'}
+              ${escapeHtml(article.category || '-')}
             </td>
             <td class="px-6 py-4 whitespace-nowrap">
               <span class="px-2 py-1 text-xs font-medium rounded-full ${
@@ -162,6 +337,9 @@ import AdminLayout from "../layouts/AdminLayout.astro";
             <td class="px-6 py-4 whitespace-nowrap text-sm space-x-2">
               <button onclick="viewArticle(${article.id})" class="text-blue-600 hover:text-blue-800">
                 View
+              </button>
+              <button onclick="editArticle(${article.id})" class="text-indigo-600 hover:text-indigo-800">
+                Edit
               </button>
               ${article.status === 'draft' ? `
                 <button onclick="publishArticle(${article.id})" class="text-green-600 hover:text-green-800">
@@ -177,6 +355,13 @@ import AdminLayout from "../layouts/AdminLayout.astro";
     } catch (error) {
       console.error('Failed to load articles:', error);
     }
+  }
+
+  function escapeHtml(text) {
+    if (!text) return '';
+    const div = document.createElement('div');
+    div.textContent = text;
+    return div.innerHTML;
   }
 
   window.viewArticle = async function(id) {
@@ -220,6 +405,252 @@ import AdminLayout from "../layouts/AdminLayout.astro";
     }
   };
 
+  function initializeEditor(content) {
+    // Destroy existing editor if any
+    if (easyMDE) {
+      easyMDE.toTextArea();
+      easyMDE = null;
+    }
+
+    const textarea = document.getElementById('edit-content');
+    textarea.value = content || '';
+
+    easyMDE = new EasyMDE({
+      element: textarea,
+      spellChecker: false,
+      autosave: { enabled: false },
+      status: false,
+      minHeight: '400px',
+      toolbar: [
+        'bold', 'italic', 'heading', '|',
+        'quote', 'unordered-list', 'ordered-list', '|',
+        'link', 'image', '|',
+        'preview', 'side-by-side', 'fullscreen', '|',
+        'guide'
+      ],
+      placeholder: 'Write your article content here...',
+    });
+
+    // Update word count when content changes
+    easyMDE.codemirror.on('change', updateWordCount);
+  }
+
+  function destroyEditor() {
+    if (easyMDE) {
+      easyMDE.toTextArea();
+      easyMDE = null;
+    }
+  }
+
+  function getEditorContent() {
+    return easyMDE ? easyMDE.value() : document.getElementById('edit-content').value;
+  }
+
+  window.editArticle = async function(id) {
+    const apiKey = localStorage.getItem('admin_api_key');
+    if (!apiKey) return;
+
+    try {
+      const response = await fetch(`${API_URL}/api/articles/${id}`, {
+        headers: { 'Authorization': `Bearer ${apiKey}` }
+      });
+      const data = await response.json();
+
+      if (data.success) {
+        editingArticle = data.data;
+
+        // Populate form
+        document.getElementById('edit-id').value = editingArticle.id;
+        document.getElementById('edit-title').value = editingArticle.title || '';
+        document.getElementById('edit-slug').value = editingArticle.slug || '';
+        document.getElementById('edit-meta-description').value = editingArticle.meta_description || '';
+        document.getElementById('edit-category').value = editingArticle.category || '';
+        document.getElementById('edit-keyword').value = editingArticle.primary_keyword || '';
+        document.getElementById('edit-status').value = editingArticle.status || 'draft';
+        document.getElementById('edit-image').value = editingArticle.featured_image || '';
+        document.getElementById('edit-image-alt').value = editingArticle.image_alt || '';
+
+        // Show modal first so editor can initialize properly
+        document.getElementById('edit-save-status').textContent = '';
+        updateRepublishButton();
+        document.getElementById('edit-modal').classList.remove('hidden');
+
+        // Initialize the markdown editor with content
+        setTimeout(() => {
+          initializeEditor(editingArticle.content || '');
+          updateWordCount();
+        }, 100);
+
+        // Show image preview if exists
+        const imageUrl = editingArticle.featured_image;
+        if (imageUrl) {
+          const fullUrl = imageUrl.startsWith('http') ? imageUrl : `${API_URL}/api/images/${imageUrl}`;
+          document.getElementById('image-preview-img').src = fullUrl;
+          document.getElementById('image-preview').classList.remove('hidden');
+        } else {
+          document.getElementById('image-preview').classList.add('hidden');
+        }
+      }
+    } catch (error) {
+      console.error('Failed to load article:', error);
+      alert('Failed to load article for editing');
+    }
+  };
+
+  function updateWordCount() {
+    const content = getEditorContent();
+    const words = content.trim().split(/\s+/).filter(w => w.length > 0).length;
+    document.getElementById('edit-word-count').textContent = `${words} words`;
+  }
+
+  function getArticleUpdates() {
+    const content = getEditorContent();
+    const wordCount = content.trim().split(/\s+/).filter(w => w.length > 0).length;
+
+    return {
+      title: document.getElementById('edit-title').value,
+      slug: document.getElementById('edit-slug').value,
+      meta_description: document.getElementById('edit-meta-description').value,
+      category: document.getElementById('edit-category').value,
+      primary_keyword: document.getElementById('edit-keyword').value,
+      status: document.getElementById('edit-status').value,
+      featured_image: document.getElementById('edit-image').value,
+      image_alt: document.getElementById('edit-image-alt').value,
+      content: content,
+      word_count: wordCount
+    };
+  }
+
+  async function saveArticle() {
+    const apiKey = localStorage.getItem('admin_api_key');
+    if (!apiKey || !editingArticle) return;
+
+    const id = document.getElementById('edit-id').value;
+    const updates = getArticleUpdates();
+
+    // If publishing, set published_at
+    if (updates.status === 'published' && editingArticle.status !== 'published') {
+      updates.published_at = new Date().toISOString();
+    }
+
+    document.getElementById('edit-save-status').textContent = 'Saving...';
+
+    try {
+      const response = await fetch(`${API_URL}/api/articles/${id}`, {
+        method: 'PUT',
+        headers: {
+          'Authorization': `Bearer ${apiKey}`,
+          'Content-Type': 'application/json'
+        },
+        body: JSON.stringify(updates)
+      });
+
+      const data = await response.json();
+      if (data.success) {
+        document.getElementById('edit-save-status').textContent = 'Saved successfully!';
+        editingArticle = { ...editingArticle, ...updates };
+        updateRepublishButton();
+        setTimeout(() => {
+          destroyEditor();
+          document.getElementById('edit-modal').classList.add('hidden');
+          loadArticles();
+        }, 1000);
+      } else {
+        document.getElementById('edit-save-status').textContent = 'Error: ' + (data.error || 'Unknown error');
+      }
+    } catch (error) {
+      document.getElementById('edit-save-status').textContent = 'Error: ' + error.message;
+    }
+  }
+
+  async function saveAndRepublishArticle() {
+    const apiKey = localStorage.getItem('admin_api_key');
+    if (!apiKey || !editingArticle) return;
+
+    const id = document.getElementById('edit-id').value;
+    const updates = getArticleUpdates();
+
+    // Must be published to republish
+    if (updates.status !== 'published') {
+      alert('Article must be published before republishing. Change status to Published first.');
+      return;
+    }
+
+    const republishBtn = document.getElementById('edit-republish');
+    const textSpan = republishBtn.querySelector('.republish-text');
+    const loadingSpan = republishBtn.querySelector('.republish-loading');
+
+    republishBtn.disabled = true;
+    textSpan.classList.add('hidden');
+    loadingSpan.classList.remove('hidden');
+    document.getElementById('edit-save-status').textContent = 'Saving and republishing...';
+
+    try {
+      // First save the article
+      const saveResponse = await fetch(`${API_URL}/api/articles/${id}`, {
+        method: 'PUT',
+        headers: {
+          'Authorization': `Bearer ${apiKey}`,
+          'Content-Type': 'application/json'
+        },
+        body: JSON.stringify(updates)
+      });
+
+      const saveData = await saveResponse.json();
+      if (!saveData.success) {
+        throw new Error(saveData.error || 'Failed to save article');
+      }
+
+      document.getElementById('edit-save-status').textContent = 'Saved! Now publishing to live site...';
+
+      // Then trigger republish
+      const republishResponse = await fetch(`${API_URL}/api/articles/${id}/republish`, {
+        method: 'POST',
+        headers: {
+          'Authorization': `Bearer ${apiKey}`,
+          'Content-Type': 'application/json'
+        }
+      });
+
+      const republishData = await republishResponse.json();
+
+      if (republishData.success) {
+        const msg = republishData.data.deployed
+          ? `Published! Deploy started for ${republishData.data.site} site.`
+          : republishData.data.message;
+        document.getElementById('edit-save-status').innerHTML = `
+          <span class="text-green-600">${msg}</span>
+          ${republishData.data.commitUrl ? `<a href="${republishData.data.commitUrl}" target="_blank" class="ml-2 text-blue-600 underline">View commit</a>` : ''}
+        `;
+
+        setTimeout(() => {
+          destroyEditor();
+          document.getElementById('edit-modal').classList.add('hidden');
+          loadArticles();
+        }, 3000);
+      } else {
+        document.getElementById('edit-save-status').textContent = 'Saved but republish failed: ' + (republishData.error || 'Unknown error');
+      }
+    } catch (error) {
+      document.getElementById('edit-save-status').textContent = 'Error: ' + error.message;
+    } finally {
+      republishBtn.disabled = false;
+      textSpan.classList.remove('hidden');
+      loadingSpan.classList.add('hidden');
+    }
+  }
+
+  function updateRepublishButton() {
+    const republishBtn = document.getElementById('edit-republish');
+    const status = document.getElementById('edit-status').value;
+    // Show republish button only for published articles
+    if (status === 'published') {
+      republishBtn.classList.remove('hidden');
+    } else {
+      republishBtn.classList.add('hidden');
+    }
+  }
+
   window.publishArticle = async function(id) {
     const apiKey = localStorage.getItem('admin_api_key');
     if (!apiKey) return;
@@ -251,7 +682,7 @@ import AdminLayout from "../layouts/AdminLayout.astro";
     }
   };
 
-  // Modal controls
+  // Preview Modal controls
   document.getElementById('close-preview').addEventListener('click', () => {
     document.getElementById('preview-modal').classList.add('hidden');
   });
@@ -269,10 +700,115 @@ import AdminLayout from "../layouts/AdminLayout.astro";
     }
   });
 
+  // Edit Modal controls
+  document.getElementById('close-edit').addEventListener('click', () => {
+    destroyEditor();
+    document.getElementById('edit-modal').classList.add('hidden');
+  });
+
+  document.getElementById('edit-cancel').addEventListener('click', () => {
+    destroyEditor();
+    document.getElementById('edit-modal').classList.add('hidden');
+  });
+
+  document.getElementById('edit-save').addEventListener('click', saveArticle);
+  document.getElementById('edit-republish').addEventListener('click', saveAndRepublishArticle);
+  document.getElementById('edit-status').addEventListener('change', updateRepublishButton);
+
+  document.getElementById('preview-image-btn').addEventListener('click', () => {
+    const imageUrl = document.getElementById('edit-image').value;
+    if (imageUrl) {
+      const fullUrl = imageUrl.startsWith('http') ? imageUrl : `${API_URL}/api/images/${imageUrl}`;
+      document.getElementById('image-preview-img').src = fullUrl;
+      document.getElementById('image-preview').classList.remove('hidden');
+    }
+  });
+
+  document.getElementById('generate-image-btn').addEventListener('click', async () => {
+    const apiKey = localStorage.getItem('admin_api_key');
+    if (!apiKey || !editingArticle) return;
+
+    const imageAlt = document.getElementById('edit-image-alt').value;
+    if (!imageAlt) {
+      alert('Please enter an Image Alt Text first - this will be used as the prompt for image generation.');
+      return;
+    }
+
+    const btn = document.getElementById('generate-image-btn');
+    const textSpan = document.getElementById('generate-image-text');
+    const loadingSpan = document.getElementById('generate-image-loading');
+
+    btn.disabled = true;
+    textSpan.classList.add('hidden');
+    loadingSpan.classList.remove('hidden');
+
+    try {
+      const response = await fetch(`${API_URL}/api/generate-image`, {
+        method: 'POST',
+        headers: {
+          'Authorization': `Bearer ${apiKey}`,
+          'Content-Type': 'application/json'
+        },
+        body: JSON.stringify({
+          prompt: imageAlt,
+          articleId: editingArticle.id
+        })
+      });
+
+      const data = await response.json();
+
+      if (data.success) {
+        const filename = data.data.filename;
+        document.getElementById('edit-image').value = filename;
+
+        // Show preview
+        const fullUrl = `${API_URL}/api/images/${filename}`;
+        document.getElementById('image-preview-img').src = fullUrl;
+        document.getElementById('image-preview').classList.remove('hidden');
+
+        document.getElementById('edit-save-status').textContent = 'Image generated! Click Save to keep changes.';
+      } else {
+        alert('Failed to generate image: ' + (data.error || 'Unknown error'));
+      }
+    } catch (error) {
+      alert('Failed to generate image: ' + error.message);
+    } finally {
+      btn.disabled = false;
+      textSpan.classList.remove('hidden');
+      loadingSpan.classList.add('hidden');
+    }
+  });
+
+  // Republish Modal controls
+  document.getElementById('republish-btn').addEventListener('click', () => {
+    document.getElementById('republish-modal').classList.remove('hidden');
+  });
+
+  document.getElementById('close-republish').addEventListener('click', () => {
+    document.getElementById('republish-modal').classList.add('hidden');
+  });
+
   // Filter changes
   document.getElementById('filter-site').addEventListener('change', loadArticles);
   document.getElementById('filter-status').addEventListener('change', loadArticles);
   document.getElementById('refresh-btn').addEventListener('click', loadArticles);
+
+  // Keyboard shortcuts
+  document.addEventListener('keydown', (e) => {
+    if (e.key === 'Escape') {
+      document.getElementById('preview-modal').classList.add('hidden');
+      if (!document.getElementById('edit-modal').classList.contains('hidden')) {
+        destroyEditor();
+        document.getElementById('edit-modal').classList.add('hidden');
+      }
+      document.getElementById('republish-modal').classList.add('hidden');
+    }
+    // Ctrl+S to save when edit modal is open
+    if (e.ctrlKey && e.key === 's' && !document.getElementById('edit-modal').classList.contains('hidden')) {
+      e.preventDefault();
+      saveArticle();
+    }
+  });
 
   // Initialize
   function init() {
