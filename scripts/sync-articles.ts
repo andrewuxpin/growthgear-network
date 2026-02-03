@@ -75,6 +75,7 @@ interface Article {
   featured_image: string | null;
   image_alt: string | null;
   published_at: string;
+  refreshed_at: string | null;
   is_sponsored: boolean;
 }
 
@@ -83,9 +84,9 @@ interface FAQ {
   answer: string;
 }
 
-function parseArgs(): { siteId?: string; apiKey?: string } {
+function parseArgs(): { siteId?: string; apiKey?: string; force?: boolean } {
   const args = process.argv.slice(2);
-  const result: { siteId?: string; apiKey?: string } = {};
+  const result: { siteId?: string; apiKey?: string; force?: boolean } = {};
 
   for (let i = 0; i < args.length; i++) {
     if (args[i] === "--site" && args[i + 1]) {
@@ -94,6 +95,8 @@ function parseArgs(): { siteId?: string; apiKey?: string } {
     } else if (args[i] === "--api-key" && args[i + 1]) {
       result.apiKey = args[i + 1];
       i++;
+    } else if (args[i] === "--force") {
+      result.force = true;
     }
   }
 
@@ -177,7 +180,7 @@ author:
 publishedAt: ${publishedDate}
 ${imageYaml}
 ${tags.length > 0 ? `tags:
-${tags.map(t => `  - ${t}`).join("\n")}` : ""}
+${tags.map(t => `  - "${t}"`).join("\n")}` : ""}
 ${article.is_sponsored ? "isSponsored: true" : ""}
 ${faqYaml}
 ---`.replace(/\n\n+/g, "\n");
@@ -230,25 +233,53 @@ function getArticlesDir(siteId: string): string {
   return sitePath;
 }
 
-function articleExists(siteId: string, slug: string): boolean {
+function getArticleFilePath(siteId: string, slug: string): string {
   const articlesDir = getArticlesDir(siteId);
-  const filePath = path.join(articlesDir, `${slug}.md`);
-  return fs.existsSync(filePath);
+  return path.join(articlesDir, `${slug}.md`);
 }
 
-async function syncArticle(apiKey: string, article: Article): Promise<boolean> {
-  // Check if article already exists
-  if (articleExists(article.site_id, article.slug)) {
-    console.log(`  Skipping ${article.slug} (already exists)`);
-    return false;
+function articleExists(siteId: string, slug: string): boolean {
+  return fs.existsSync(getArticleFilePath(siteId, slug));
+}
+
+function getArticleFileModTime(siteId: string, slug: string): Date | null {
+  const filePath = getArticleFilePath(siteId, slug);
+  if (!fs.existsSync(filePath)) return null;
+  const stats = fs.statSync(filePath);
+  return stats.mtime;
+}
+
+function needsUpdate(article: Article): boolean {
+  // If file doesn't exist, needs sync
+  if (!articleExists(article.site_id, article.slug)) return true;
+
+  // If article has been refreshed, check if it's newer than the file
+  if (article.refreshed_at) {
+    const fileModTime = getArticleFileModTime(article.site_id, article.slug);
+    if (fileModTime) {
+      const refreshedAt = new Date(article.refreshed_at);
+      // Add 1 second buffer to account for timing differences
+      return refreshedAt > new Date(fileModTime.getTime() + 1000);
+    }
+  }
+
+  return false;
+}
+
+async function syncArticle(apiKey: string, article: Article, forceUpdate = false): Promise<{ synced: boolean; action: string }> {
+  const exists = articleExists(article.site_id, article.slug);
+  const requiresUpdate = needsUpdate(article);
+
+  // Skip if exists and doesn't need update (unless force)
+  if (exists && !requiresUpdate && !forceUpdate) {
+    return { synced: false, action: "skipped (up to date)" };
   }
 
   // Fetch full article content
   const fullArticle = await fetchFullArticle(apiKey, article.id);
 
   if (!fullArticle.content) {
-    console.log(`  Skipping ${article.slug} (no content)`);
-    return false;
+    return { synced: false, action: "skipped (no content)" };
   }
 
   // Extract FAQ from content if embedded
@@ -267,15 +298,15 @@ async function syncArticle(apiKey: string, article: Article): Promise<boolean> {
   }
 
   // Write file
-  const filePath = path.join(articlesDir, `${article.slug}.md`);
+  const filePath = getArticleFilePath(article.site_id, article.slug);
   fs.writeFileSync(filePath, markdown, "utf-8");
 
-  console.log(`  Synced: ${article.slug}`);
-  return true;
+  const action = exists ? "updated" : "created";
+  return { synced: true, action };
 }
 
 async function main() {
-  const { siteId, apiKey: argApiKey } = parseArgs();
+  const { siteId, apiKey: argApiKey, force } = parseArgs();
   const apiKey = argApiKey || process.env.ADMIN_API_KEY;
 
   if (!apiKey) {
@@ -284,6 +315,10 @@ async function main() {
   }
 
   console.log("Fetching published articles...");
+  if (force) {
+    console.log("Force mode enabled - will update all articles");
+  }
+
   const articles = await fetchArticles(apiKey, siteId);
   console.log(`Found ${articles.length} published articles`);
 
@@ -301,25 +336,37 @@ async function main() {
     return acc;
   }, {} as Record<string, Article[]>);
 
-  let synced = 0;
+  let created = 0;
+  let updated = 0;
   let skipped = 0;
+  let errors = 0;
 
   for (const [site, siteArticles] of Object.entries(bySite)) {
     console.log(`\nProcessing site: ${site} (${siteArticles.length} articles)`);
 
     for (const article of siteArticles) {
       try {
-        const wasSync = await syncArticle(apiKey, article);
-        if (wasSync) synced++;
-        else skipped++;
+        const result = await syncArticle(apiKey, article, force);
+        if (result.synced) {
+          if (result.action === "created") {
+            created++;
+            console.log(`  Created: ${article.slug}`);
+          } else {
+            updated++;
+            console.log(`  Updated: ${article.slug}`);
+          }
+        } else {
+          skipped++;
+          console.log(`  Skipped: ${article.slug} (${result.action})`);
+        }
       } catch (error) {
         console.error(`  Error syncing ${article.slug}:`, error);
-        skipped++;
+        errors++;
       }
     }
   }
 
-  console.log(`\nSync complete: ${synced} synced, ${skipped} skipped`);
+  console.log(`\nSync complete: ${created} created, ${updated} updated, ${skipped} skipped, ${errors} errors`);
 }
 
 main().catch(console.error);
