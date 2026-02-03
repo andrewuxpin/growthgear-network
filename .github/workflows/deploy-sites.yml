@@ -51,7 +51,8 @@ jobs:
 
       - name: Sync articles from API
         run: |
-          npx tsx scripts/sync-articles.ts 2>&1 || echo "Using committed articles"
+          pnpm add -g tsx
+          tsx scripts/sync-articles.ts --force
         env:
           ADMIN_API_KEY: ${{ secrets.ADMIN_API_KEY }}
 
