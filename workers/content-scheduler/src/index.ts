@@ -194,11 +194,22 @@ export default {
             const articleId = result?.id;
 
             // Generate image if enabled
-            if (generateImages && articleId && article.imagePrompt) {
-              console.log(`Generating image for article: ${article.title}`);
-              const imageFilename = await generateImage(article.imagePrompt, articleId, env);
-              if (imageFilename) {
-                console.log(`Image generated: ${imageFilename}`);
+            if (generateImages && articleId) {
+              // Use imagePrompt if available, otherwise fall back to imageAltText
+              const imagePrompt = article.imagePrompt || article.imageAltText;
+              if (imagePrompt) {
+                if (!article.imagePrompt) {
+                  console.log(`No imagePrompt, using imageAltText as fallback: ${imagePrompt}`);
+                }
+                console.log(`Generating image for article: ${article.title}`);
+                const imageFilename = await generateImage(imagePrompt, articleId, env);
+                if (imageFilename) {
+                  console.log(`Image generated: ${imageFilename}`);
+                } else {
+                  console.error(`Image generation failed for article: ${article.title}`);
+                }
+              } else {
+                console.error(`No image prompt available for article: ${article.title}`);
               }
             }
 

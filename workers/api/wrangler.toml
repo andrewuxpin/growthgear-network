@@ -23,3 +23,4 @@ ENVIRONMENT = "production"
 # Secrets (set via wrangler secret put):
 # - ANTHROPIC_API_KEY
 # - ADMIN_API_KEY
+# - GITHUB_TOKEN (for single-article republishing - needs repo and workflow scopes)

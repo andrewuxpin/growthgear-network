@@ -7,6 +7,7 @@ export interface Env {
   IMAGES: R2Bucket;
   ANTHROPIC_API_KEY: string;
   ADMIN_API_KEY: string;
+  GITHUB_TOKEN: string;
   ENVIRONMENT: string;
 }
 
@@ -116,6 +117,10 @@ export default {
       }
       if (path === "/api/articles" && request.method === "POST") {
         return await createArticle(request, env);
+      }
+      if (path.startsWith("/api/articles/") && path.endsWith("/republish") && request.method === "POST") {
+        const id = path.split("/")[3];
+        return await republishArticle(id, env);
       }
       if (path.startsWith("/api/articles/") && request.method === "PUT") {
         const id = path.split("/")[3];
@@ -252,7 +257,7 @@ async function getArticles(url: URL, env: Env): Promise<Response> {
   const status = url.searchParams.get("status");
   const limit = parseInt(url.searchParams.get("limit") || "50");
 
-  let query = "SELECT id, site_id, slug, title, meta_description, primary_keyword, word_count, featured_image, status, published_at, is_sponsored FROM articles WHERE 1=1";
+  let query = "SELECT id, site_id, slug, title, meta_description, primary_keyword, category, word_count, featured_image, image_alt, status, published_at, refreshed_at, is_sponsored FROM articles WHERE 1=1";
   const params: (string | number)[] = [];
 
   if (siteId) {
@@ -315,7 +320,10 @@ async function createArticle(request: Request, env: Env): Promise<Response> {
 
 async function updateArticle(id: string, request: Request, env: Env): Promise<Response> {
   const body = await request.json() as Record<string, unknown>;
-  const allowedFields = ["title", "meta_description", "content", "word_count", "status", "published_at"];
+  const allowedFields = [
+    "title", "meta_description", "content", "word_count", "status", "published_at",
+    "slug", "category", "featured_image", "image_alt", "primary_keyword"
+  ];
   const updates: string[] = [];
   const params: (string | number | null)[] = [];
 
@@ -326,7 +334,11 @@ async function updateArticle(id: string, request: Request, env: Env): Promise<Re
     }
   }
 
-  if (updates.length === 0) {
+  // Always update refreshed_at when article is edited
+  updates.push("refreshed_at = ?");
+  params.push(new Date().toISOString());
+
+  if (updates.length === 1) { // Only refreshed_at, no actual updates
     return json({ success: false, error: "No updates provided" }, 400);
   }
 
@@ -335,6 +347,236 @@ async function updateArticle(id: string, request: Request, env: Env): Promise<Re
     .bind(...params)
     .run();
   return json({ success: true });
+}
+
+// === Single Article Republish ===
+const GITHUB_REPO = "andrewuxpin/growthgear-network";
+const GITHUB_API = "https://api.github.com";
+
+// Category mappings for markdown generation
+const CATEGORY_MAPPINGS: Record<string, Record<string, string>> = {
+  ai: {
+    "artificial-intelligence": "machine-learning",
+    "ai": "ai-tools",
+    "machine-learning": "machine-learning",
+    "deep-learning": "deep-learning",
+    "ai-tools": "ai-tools",
+  },
+  sales: {
+    "sales-techniques": "sales-techniques",
+    "b2b-sales": "b2b-sales",
+    "crm-tools": "crm-tools",
+    "sales": "sales-techniques",
+  },
+  marketing: {
+    "content-marketing": "content-marketing",
+    "seo": "seo",
+    "social-media": "social-media",
+  },
+};
+
+const DEFAULT_CATEGORIES: Record<string, string> = {
+  ai: "machine-learning",
+  sales: "sales-techniques",
+  marketing: "content-marketing",
+};
+
+function mapCategory(siteId: string, category: string | null): string {
+  if (!category) return DEFAULT_CATEGORIES[siteId] || "general";
+  const normalized = category.toLowerCase().trim();
+  const mappings = CATEGORY_MAPPINGS[siteId] || {};
+  return mappings[normalized] || DEFAULT_CATEGORIES[siteId] || normalized;
+}
+
+interface ArticleData {
+  id: number;
+  site_id: string;
+  slug: string;
+  title: string;
+  meta_description: string | null;
+  primary_keyword: string | null;
+  category: string | null;
+  content: string | null;
+  featured_image: string | null;
+  image_alt: string | null;
+  published_at: string | null;
+  is_sponsored: boolean;
+}
+
+function generateMarkdown(article: ArticleData, apiUrl: string): string {
+  const category = mapCategory(article.site_id, article.category);
+  const publishedDate = article.published_at
+    ? new Date(article.published_at).toISOString().split("T")[0]
+    : new Date().toISOString().split("T")[0];
+
+  // Build image YAML
+  let imageYaml = "";
+  if (article.featured_image) {
+    const imageUrl = article.featured_image.startsWith("http")
+      ? article.featured_image
+      : `${apiUrl}/api/images/${article.featured_image}`;
+    const imageAlt = article.image_alt || `Featured image for ${article.title}`;
+    imageYaml = `image:
+  src: "${imageUrl}"
+  alt: "${imageAlt.replace(/"/g, '\\"')}"`;
+  }
+
+  // Build tags from keyword
+  const tags = article.primary_keyword
+    ? article.primary_keyword.split(/[,\s]+/).filter((t: string) => t.length > 2).slice(0, 5)
+    : [];
+
+  const frontmatter = `---
+title: "${article.title.replace(/"/g, '\\"')}"
+description: "${(article.meta_description || "").replace(/"/g, '\\"')}"
+category: "${category}"
+author:
+  name: "GrowthGear Team"
+publishedAt: ${publishedDate}
+${imageYaml}
+${tags.length > 0 ? `tags:
+${tags.map((t: string) => `  - ${t}`).join("\n")}` : ""}
+${article.is_sponsored ? "isSponsored: true" : ""}
+---`.replace(/\n\n+/g, "\n");
+
+  return `${frontmatter}\n\n${article.content || ""}`;
+}
+
+async function republishArticle(id: string, env: Env): Promise<Response> {
+  // Check if GitHub token is configured
+  if (!env.GITHUB_TOKEN) {
+    return json({ success: false, error: "GitHub token not configured. Add GITHUB_TOKEN secret to worker." }, 500);
+  }
+
+  // Fetch the article
+  const article = await env.DB.prepare("SELECT * FROM articles WHERE id = ?")
+    .bind(id)
+    .first<ArticleData>();
+
+  if (!article) {
+    return json({ success: false, error: "Article not found" }, 404);
+  }
+
+  if (article.status !== "published") {
+    return json({ success: false, error: "Article must be published before republishing" }, 400);
+  }
+
+  if (!article.content) {
+    return json({ success: false, error: "Article has no content" }, 400);
+  }
+
+  const apiUrl = "https://growthgear-api.andrew-705.workers.dev";
+  const markdown = generateMarkdown(article, apiUrl);
+  const filePath = `sites/${article.site_id}/src/content/articles/${article.slug}.md`;
+
+  try {
+    // Step 1: Check if file exists and get its SHA
+    let fileSha: string | null = null;
+    const getFileResponse = await fetch(`${GITHUB_API}/repos/${GITHUB_REPO}/contents/${filePath}`, {
+      headers: {
+        "Authorization": `Bearer ${env.GITHUB_TOKEN}`,
+        "Accept": "application/vnd.github.v3+json",
+        "User-Agent": "GrowthGear-API",
+      },
+    });
+
+    if (getFileResponse.ok) {
+      const fileData = await getFileResponse.json() as { sha: string };
+      fileSha = fileData.sha;
+    }
+
+    // Step 2: Create or update the file
+    const commitMessage = `Update article: ${article.title}`;
+    const contentBase64 = btoa(unescape(encodeURIComponent(markdown)));
+
+    const updatePayload: Record<string, unknown> = {
+      message: commitMessage,
+      content: contentBase64,
+      branch: "main",
+    };
+
+    if (fileSha) {
+      updatePayload.sha = fileSha;
+    }
+
+    const updateResponse = await fetch(`${GITHUB_API}/repos/${GITHUB_REPO}/contents/${filePath}`, {
+      method: "PUT",
+      headers: {
+        "Authorization": `Bearer ${env.GITHUB_TOKEN}`,
+        "Accept": "application/vnd.github.v3+json",
+        "User-Agent": "GrowthGear-API",
+        "Content-Type": "application/json",
+      },
+      body: JSON.stringify(updatePayload),
+    });
+
+    if (!updateResponse.ok) {
+      const errorData = await updateResponse.text();
+      console.error("GitHub file update failed:", errorData);
+      return json({ success: false, error: `Failed to commit file: ${updateResponse.status}` }, 500);
+    }
+
+    const commitData = await updateResponse.json() as { commit: { sha: string; html_url: string } };
+
+    // Step 3: Trigger the deploy workflow for just this site
+    const workflowResponse = await fetch(
+      `${GITHUB_API}/repos/${GITHUB_REPO}/actions/workflows/deploy-sites.yml/dispatches`,
+      {
+        method: "POST",
+        headers: {
+          "Authorization": `Bearer ${env.GITHUB_TOKEN}`,
+          "Accept": "application/vnd.github.v3+json",
+          "User-Agent": "GrowthGear-API",
+          "Content-Type": "application/json",
+        },
+        body: JSON.stringify({
+          ref: "main",
+          inputs: {
+            site: article.site_id,
+          },
+        }),
+      }
+    );
+
+    if (!workflowResponse.ok) {
+      const errorData = await workflowResponse.text();
+      console.error("GitHub workflow trigger failed:", errorData);
+      // File was committed, just workflow failed
+      return json({
+        success: true,
+        data: {
+          committed: true,
+          deployed: false,
+          commitSha: commitData.commit.sha,
+          commitUrl: commitData.commit.html_url,
+          message: "Article committed but deploy workflow failed to trigger. You may need to trigger it manually.",
+        },
+      });
+    }
+
+    // Update refreshed_at timestamp
+    await env.DB.prepare("UPDATE articles SET refreshed_at = ? WHERE id = ?")
+      .bind(new Date().toISOString(), id)
+      .run();
+
+    return json({
+      success: true,
+      data: {
+        committed: true,
+        deployed: true,
+        site: article.site_id,
+        commitSha: commitData.commit.sha,
+        commitUrl: commitData.commit.html_url,
+        message: `Article "${article.title}" republished to ${article.site_id} site. Deploy in progress.`,
+      },
+    });
+  } catch (error) {
+    console.error("Republish error:", error);
+    return json(
+      { success: false, error: error instanceof Error ? error.message : "Republish failed" },
+      500
+    );
+  }
 }
 
 // === Content Generation ===

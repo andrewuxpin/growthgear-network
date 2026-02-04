@@ -17,6 +17,7 @@ export interface GeneratedArticle {
   wordCount: number;
   faq: FAQ[];
   internalLinks: InternalLink[];
+  externalLinks: ExternalLink[];
   imageAltText: string;
   imagePrompt: string;
   category: string;
@@ -30,6 +31,12 @@ export interface FAQ {
 export interface InternalLink {
   slug: string;
   anchorText: string;
+}
+
+export interface ExternalLink {
+  url: string;
+  anchorText: string;
+  context?: string;
 }
 
 export interface ContentGeneratorConfig {
