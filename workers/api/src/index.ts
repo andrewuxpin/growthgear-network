@@ -82,6 +82,11 @@ export default {
         return await trackPageView(request, env);
       }
 
+      // Public contact form endpoint (no auth required)
+      if (path === "/api/public/contact" && request.method === "POST") {
+        return await handleContactSubmission(request, env);
+      }
+
       // All other endpoints require auth
       if (!checkAuth(request, env)) {
         return unauthorized();
@@ -711,6 +716,34 @@ async function getPublicArticles(url: URL, env: Env): Promise<Response> {
     .all();
 
   return json({ success: true, data: articles.results });
+}
+
+// === Contact Form ===
+async function handleContactSubmission(request: Request, env: Env): Promise<Response> {
+  const body = await request.json() as {
+    site_id?: string;
+    name?: string;
+    email?: string;
+    subject?: string;
+    message?: string;
+  };
+
+  if (!body.site_id || !body.name || !body.email || !body.subject || !body.message) {
+    return json({ success: false, error: "All fields are required: site_id, name, email, subject, message" }, 400);
+  }
+
+  // Basic email validation
+  if (!/^[^\s@]+@[^\s@]+\.[^\s@]+$/.test(body.email)) {
+    return json({ success: false, error: "Invalid email address" }, 400);
+  }
+
+  await env.DB.prepare(
+    "INSERT INTO contact_submissions (site_id, name, email, subject, message) VALUES (?, ?, ?, ?, ?)"
+  )
+    .bind(body.site_id, body.name, body.email, body.subject, body.message)
+    .run();
+
+  return json({ success: true, data: { message: "Your message has been sent successfully." } }, 201);
 }
 
 // === Image Generation ===

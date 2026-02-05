@@ -18,7 +18,15 @@ import { siteConfig } from "../config";
     <div class="mt-12 grid gap-12 md:grid-cols-2">
       <div>
         <h2 class="text-xl font-bold text-gray-900 mb-4">Get in Touch</h2>
-        <form class="space-y-6">
+
+        <div id="form-success" class="hidden mb-6 rounded-lg border border-green-200 bg-green-50 p-4 text-green-800">
+          Your message has been sent successfully. We'll get back to you soon.
+        </div>
+        <div id="form-error" class="hidden mb-6 rounded-lg border border-red-200 bg-red-50 p-4 text-red-800">
+          Something went wrong. Please try again or email us directly.
+        </div>
+
+        <form id="contact-form" class="space-y-6">
           <div>
             <label for="name" class="block text-sm font-medium text-gray-700">
               Name
@@ -75,13 +83,22 @@ import { siteConfig } from "../config";
             ></textarea>
           </div>
 
-          <button type="submit" class="btn-primary w-full">Send Message</button>
+          <button type="submit" id="submit-btn" class="btn-primary w-full">Send Message</button>
         </form>
       </div>
 
       <div>
         <h2 class="text-xl font-bold text-gray-900 mb-4">Other Ways to Connect</h2>
         <div class="space-y-6 text-gray-600">
+          <div>
+            <h3 class="font-semibold text-gray-900">Email</h3>
+            <p class="mt-1">
+              <a href="mailto:marketing@growthgear.com.au" class="text-primary-600 hover:underline">
+                marketing@growthgear.com.au
+              </a>
+            </p>
+          </div>
+
           <div>
             <h3 class="font-semibold text-gray-900">Business Inquiries</h3>
             <p class="mt-1">
@@ -118,3 +135,44 @@ import { siteConfig } from "../config";
     </div>
   </div>
 </BaseLayout>
+
+<script define:vars={{ siteId: siteConfig.site.id }}>
+  const form = document.getElementById('contact-form');
+  const successDiv = document.getElementById('form-success');
+  const errorDiv = document.getElementById('form-error');
+  const submitBtn = document.getElementById('submit-btn');
+
+  form.addEventListener('submit', async (e) => {
+    e.preventDefault();
+    successDiv.classList.add('hidden');
+    errorDiv.classList.add('hidden');
+    submitBtn.disabled = true;
+    submitBtn.textContent = 'Sending...';
+
+    try {
+      const res = await fetch('https://growthgear-api.andrew-705.workers.dev/api/public/contact', {
+        method: 'POST',
+        headers: { 'Content-Type': 'application/json' },
+        body: JSON.stringify({
+          site_id: siteId,
+          name: form.name.value,
+          email: form.email.value,
+          subject: form.subject.value,
+          message: form.message.value,
+        }),
+      });
+
+      if (res.ok) {
+        successDiv.classList.remove('hidden');
+        form.reset();
+      } else {
+        errorDiv.classList.remove('hidden');
+      }
+    } catch {
+      errorDiv.classList.remove('hidden');
+    } finally {
+      submitBtn.disabled = false;
+      submitBtn.textContent = 'Send Message';
+    }
+  });
+</script>
