@@ -6,7 +6,7 @@ export const GET: APIRoute = () => {
 User-agent: *
 Allow: /
 
-Sitemap: ${siteConfig.seo.siteUrl}/sitemap-index.xml
+Sitemap: ${siteConfig.seo.siteUrl}/sitemap.xml
 `.trim();
 
   return new Response(robotsTxt, {

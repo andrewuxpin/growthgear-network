@@ -30,7 +30,7 @@ export const siteConfig: SiteConfig = {
   seo: {
     titleTemplate: "%s | AI Insights",
     defaultDescription: "Expert insights on AI, machine learning, and the future of intelligent systems. Stay ahead with actionable advice and in-depth guides.",
-    siteUrl: "https://ai.growthgear.com.au",
+    siteUrl: "https://growthgear-ai.pages.dev",
   },
 };
 
