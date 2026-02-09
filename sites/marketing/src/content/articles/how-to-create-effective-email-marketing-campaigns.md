@@ -6,7 +6,7 @@ author:
   name: "GrowthGear Team"
 publishedAt: 2026-01-29
 image:
-  src: "https://growthgear-api.growthgear.workers.dev/api/images/1769726212414-creative-workspace-with-multiple-screens-showing-i.png"
+  src: "https://growthgear-api.growthgear.workers.dev/api/images/1770659406347-marketer-analyzing-funnel-metrics-on-tablet-in-bri.png"
   alt: "Featured image for How to Create Effective Email Marketing Campaigns That Drive Results in 2024"
 tags:
   - create

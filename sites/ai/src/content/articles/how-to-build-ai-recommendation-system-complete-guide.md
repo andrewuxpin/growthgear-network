@@ -6,7 +6,7 @@ author:
   name: "GrowthGear Team"
 publishedAt: 2026-02-01
 image:
-  src: "https://growthgear-api.growthgear.workers.dev/api/images/1769992310292-developer-workspace-with-multiple-monitors-showing.png"
+  src: "https://growthgear-api.growthgear.workers.dev/api/images/1770659324448-futuristic-ai-interface-with-holographic-data-disp.png"
   alt: "Featured image for How to Build AI Recommendation System: Complete Developer Guide 2024"
 tags:
   - build

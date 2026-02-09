@@ -6,7 +6,7 @@ author:
   name: "GrowthGear Team"
 publishedAt: 2026-01-29
 image:
-  src: "https://growthgear-api.growthgear.workers.dev/api/images/1769726244393-humanoid-robot-face-with-glowing-blue-neural-patte.png"
+  src: "https://growthgear-api.growthgear.workers.dev/api/images/1770659335142-futuristic-ai-interface-with-holographic-data-disp.png"
   alt: "Featured image for How to Train Machine Learning Models for Beginners: Complete Guide"
 tags:
   - train

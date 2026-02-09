@@ -6,7 +6,7 @@ author:
   name: "GrowthGear Team"
 publishedAt: 2026-01-30
 image:
-  src: "https://growthgear-api.growthgear.workers.dev/api/images/1769992202819-executive-in-modern-glass-office-reviewing-hologra.png"
+  src: "https://growthgear-api.growthgear.workers.dev/api/images/1770659328013-developer-workspace-with-multiple-monitors-showing.png"
   alt: "Featured image for How to Implement AI in Business: A Complete Step-by-Step Guide for 2024"
 tags:
   - implement

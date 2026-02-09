@@ -6,7 +6,7 @@ author:
   name: "GrowthGear Team"
 publishedAt: 2026-02-01
 image:
-  src: "https://growthgear-api.growthgear.workers.dev/api/images/1769992345109-finance-and-marketing-team-reviewing-cost-metrics-.png"
+  src: "https://growthgear-api.growthgear.workers.dev/api/images/1770659402878-marketer-analyzing-funnel-metrics-on-tablet-in-bri.png"
   alt: "Featured image for Customer Acquisition Cost Calculation and Optimization: The Complete Guide to Reducing CAC and Boosting ROI"
 tags:
   - customer

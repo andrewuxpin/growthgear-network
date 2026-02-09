@@ -6,7 +6,7 @@ author:
   name: "GrowthGear Team"
 publishedAt: 2026-01-29
 image:
-  src: "https://growthgear-api.growthgear.workers.dev/api/images/1769726221779-sales-team-celebrating-around-computer-showing-gro.png"
+  src: "https://growthgear-api.growthgear.workers.dev/api/images/1770659345755-professional-business-negotiation-in-sleek-corpora.png"
   alt: "Featured image for Best CRM Software for Small Business Teams: Complete Guide 2024"
 tags:
   - software

@@ -6,7 +6,7 @@ author:
   name: "GrowthGear Team"
 publishedAt: 2026-01-30
 image:
-  src: "https://growthgear-api.growthgear.workers.dev/api/images/1769992253637-analyst-reviewing-website-metrics-on-large-curved-.png"
+  src: "https://growthgear-api.growthgear.workers.dev/api/images/1770659420944-digital-marketing-analytics-dashboard-glowing-on-m.png"
   alt: "Featured image for How to Set Up Google Analytics 4: Complete Step-by-Step Guide for 2024"
 tags:
   - google

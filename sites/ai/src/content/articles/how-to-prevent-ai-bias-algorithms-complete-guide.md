@@ -6,7 +6,7 @@ author:
   name: "GrowthGear Team"
 publishedAt: 2026-02-03
 image:
-  src: "https://growthgear-api.growthgear.workers.dev/api/images/1770084351487-data-scientist-analyzing-colorful-fairness-metrics.png"
+  src: "https://growthgear-api.growthgear.workers.dev/api/images/1770659331505-developer-workspace-with-multiple-monitors-showing.png"
   alt: "Data scientist analyzing colorful fairness metrics and bias detection charts on multiple computer monitors in modern tech office"
 tags:
   - how

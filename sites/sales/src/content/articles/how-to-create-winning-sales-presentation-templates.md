@@ -6,7 +6,7 @@ author:
   name: "GrowthGear Team"
 publishedAt: 2026-01-30
 image:
-  src: "https://growthgear-api.growthgear.workers.dev/api/images/1769992231392-executive-presenting-to-boardroom-with-large-scree.png"
+  src: "https://growthgear-api.growthgear.workers.dev/api/images/1770659356961-professional-business-negotiation-in-sleek-corpora.png"
   alt: "Featured image for How to Create Winning Sales Presentation Templates: Complete Guide for 2024"
 tags:
   - create
