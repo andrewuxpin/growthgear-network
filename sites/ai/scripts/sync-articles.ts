@@ -3,7 +3,7 @@
  * Run this before building the site to get the latest published articles
  */
 
-const API_URL = "https://growthgear-api.andrew-705.workers.dev";
+const API_URL = "https://growthgear-api.growthgear.workers.dev";
 const SITE_ID = "ai";
 
 interface Article {

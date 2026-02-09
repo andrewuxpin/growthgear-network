@@ -6,7 +6,7 @@ author:
   name: "GrowthGear Team"
 publishedAt: 2026-02-01
 image:
-  src: "https://growthgear-api.andrew-705.workers.dev/api/images/1769992357596-ecommerce-manager-reviewing-email-campaign-results.png"
+  src: "https://growthgear-api.growthgear.workers.dev/api/images/1769992357596-ecommerce-manager-reviewing-email-campaign-results.png"
   alt: "Featured image for Best Email Marketing Platforms for Ecommerce: 15 Top Solutions to Boost Your Online Sales in 2024"
 tags:
   - best

@@ -12,13 +12,13 @@
  *
  * Environment variables:
  *   ADMIN_API_KEY - API key for authentication
- *   API_URL - API base URL (default: https://growthgear-api.andrew-705.workers.dev)
+ *   API_URL - API base URL (default: https://growthgear-api.growthgear.workers.dev)
  */
 
 import * as fs from "fs";
 import * as path from "path";
 
-const API_URL = process.env.API_URL || "https://growthgear-api.andrew-705.workers.dev";
+const API_URL = process.env.API_URL || "https://growthgear-api.growthgear.workers.dev";
 
 // Category mappings for each site
 // Maps AI-generated categories to valid site categories

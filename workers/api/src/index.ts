@@ -470,7 +470,7 @@ async function republishArticle(id: string, env: Env): Promise<Response> {
     return json({ success: false, error: "Article has no content" }, 400);
   }
 
-  const apiUrl = "https://growthgear-api.andrew-705.workers.dev";
+  const apiUrl = "https://growthgear-api.growthgear.workers.dev";
   const markdown = generateMarkdown(article, apiUrl);
   const filePath = `sites/${article.site_id}/src/content/articles/${article.slug}.md`;
 

@@ -6,7 +6,7 @@ author:
   name: "GrowthGear Team"
 publishedAt: 2026-01-29
 image:
-  src: "https://growthgear-api.andrew-705.workers.dev/api/images/1769726201563-a-b-test-comparison-with-winning-variant-highlight.png"
+  src: "https://growthgear-api.growthgear.workers.dev/api/images/1769726201563-a-b-test-comparison-with-winning-variant-highlight.png"
   alt: "Featured image for Conversion Rate Optimization Strategy: The Complete Guide to Boosting Your Website Performance"
 tags:
   - conversion

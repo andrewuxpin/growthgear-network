@@ -4,7 +4,7 @@
  * Usage: ADMIN_API_KEY=your-key node scripts/generate-missing-images.mjs
  */
 
-const API_URL = "https://growthgear-api.andrew-705.workers.dev";
+const API_URL = "https://growthgear-api.growthgear.workers.dev";
 
 // Map article topics to image prompts (no text/words in prompts!)
 function generateImagePrompt(title, siteId) {

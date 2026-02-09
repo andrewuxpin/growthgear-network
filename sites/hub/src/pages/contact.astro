@@ -150,7 +150,7 @@ import { siteConfig } from "../config";
     submitBtn.textContent = 'Sending...';
 
     try {
-      const res = await fetch('https://growthgear-api.andrew-705.workers.dev/api/public/contact', {
+      const res = await fetch('https://growthgear-api.growthgear.workers.dev/api/public/contact', {
         method: 'POST',
         headers: { 'Content-Type': 'application/json' },
         body: JSON.stringify({

@@ -6,7 +6,7 @@ workers_dev = true
 [[d1_databases]]
 binding = "DB"
 database_name = "growthgear-db"
-database_id = "0feac72f-0900-4c99-8d3b-65f9b550ac1d"
+database_id = "4e0f04ba-6d2c-4d18-b425-8c4145a53607"
 
 # Cloudflare AI for image generation
 [ai]

@@ -6,7 +6,7 @@ author:
   name: "GrowthGear Team"
 publishedAt: 2026-01-31
 image:
-  src: "https://growthgear-api.andrew-705.workers.dev/api/images/1769992304575-designer-reviewing-landing-page-layouts-on-tablet-.png"
+  src: "https://growthgear-api.growthgear.workers.dev/api/images/1769992304575-designer-reviewing-landing-page-layouts-on-tablet-.png"
   alt: "Featured image for How to Optimize Landing Pages for Conversions: The Complete 2024 Guide"
 tags:
   - optimize

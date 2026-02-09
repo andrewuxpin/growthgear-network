@@ -6,7 +6,7 @@ author:
   name: "GrowthGear Team"
 publishedAt: 2026-01-29
 image:
-  src: "https://growthgear-api.andrew-705.workers.dev/api/images/1769726227323-confident-salesperson-shaking-hands-with-client-in.png"
+  src: "https://growthgear-api.growthgear.workers.dev/api/images/1769726227323-confident-salesperson-shaking-hands-with-client-in.png"
   alt: "Featured image for How to Build a Sales Pipeline From Scratch: Complete Guide for 2024"
 tags:
   - build

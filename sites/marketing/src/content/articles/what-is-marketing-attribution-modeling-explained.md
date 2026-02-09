@@ -6,7 +6,7 @@ author:
   name: "GrowthGear Team"
 publishedAt: 2026-01-31
 image:
-  src: "https://growthgear-api.andrew-705.workers.dev/api/images/1769992293464-marketing-team-reviewing-customer-journey-visualiz.png"
+  src: "https://growthgear-api.growthgear.workers.dev/api/images/1769992293464-marketing-team-reviewing-customer-journey-visualiz.png"
   alt: "Featured image for What Is Marketing Attribution Modeling Explained: The Complete Guide to Data-Driven Marketing Success"
 tags:
   - marketing

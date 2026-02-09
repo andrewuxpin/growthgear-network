@@ -12,7 +12,7 @@ const __filename = fileURLToPath(import.meta.url);
 const __dirname = path.dirname(__filename);
 const projectRoot = path.resolve(__dirname, "..");
 
-const API_URL = "https://growthgear-api.andrew-705.workers.dev";
+const API_URL = "https://growthgear-api.growthgear.workers.dev";
 
 function escapeYaml(str) {
   if (!str) return "";

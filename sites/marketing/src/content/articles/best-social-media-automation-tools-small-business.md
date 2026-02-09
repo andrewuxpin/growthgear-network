@@ -6,7 +6,7 @@ author:
   name: "GrowthGear Team"
 publishedAt: 2026-01-29
 image:
-  src: "https://growthgear-api.andrew-705.workers.dev/api/images/1769726206566-multiple-smartphones-displaying-various-social-app.png"
+  src: "https://growthgear-api.growthgear.workers.dev/api/images/1769726206566-multiple-smartphones-displaying-various-social-app.png"
   alt: "Featured image for Best Social Media Automation Tools for Small Business: Complete Guide 2024"
 tags:
   - social

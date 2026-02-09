@@ -6,7 +6,7 @@ author:
   name: "GrowthGear Team"
 publishedAt: 2026-01-30
 image:
-  src: "https://growthgear-api.andrew-705.workers.dev/api/images/1769992214509-split-screen-visualization-of-robot-and-human-brai.png"
+  src: "https://growthgear-api.growthgear.workers.dev/api/images/1769992214509-split-screen-visualization-of-robot-and-human-brai.png"
   alt: "Featured image for AI vs Machine Learning: Key Differences Explained (2024 Guide)"
 tags:
   - machine

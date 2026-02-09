@@ -6,7 +6,7 @@ author:
   name: "GrowthGear Team"
 publishedAt: 2026-01-31
 image:
-  src: "https://growthgear-api.andrew-705.workers.dev/api/images/1769992275791-marketing-team-reviewing-target-account-profiles-o.png"
+  src: "https://growthgear-api.growthgear.workers.dev/api/images/1769992275791-marketing-team-reviewing-target-account-profiles-o.png"
   alt: "Featured image for What Is Account Based Marketing for Sales: Complete Guide to ABM Strategy Success"
 tags:
   - account

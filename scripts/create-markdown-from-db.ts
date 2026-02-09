@@ -7,7 +7,7 @@
 import * as fs from "fs";
 import * as path from "path";
 
-const API_URL = "https://growthgear-api.andrew-705.workers.dev";
+const API_URL = "https://growthgear-api.growthgear.workers.dev";
 
 interface Article {
   id: number;

@@ -6,7 +6,7 @@ author:
   name: "GrowthGear Team"
 publishedAt: 2026-01-29
 image:
-  src: "https://growthgear-api.andrew-705.workers.dev/api/images/1769726217236-confident-salesperson-shaking-hands-with-client-in.png"
+  src: "https://growthgear-api.growthgear.workers.dev/api/images/1769726217236-confident-salesperson-shaking-hands-with-client-in.png"
   alt: "Featured image for What Is Social Selling and Why Is It Important for Modern Sales Success"
 tags:
   - social

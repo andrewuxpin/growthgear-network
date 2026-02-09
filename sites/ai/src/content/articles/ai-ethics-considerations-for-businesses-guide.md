@@ -6,7 +6,7 @@ author:
   name: "GrowthGear Team"
 publishedAt: 2026-02-01
 image:
-  src: "https://growthgear-api.andrew-705.workers.dev/api/images/1769992316902-executive-in-modern-glass-office-reviewing-hologra.png"
+  src: "https://growthgear-api.growthgear.workers.dev/api/images/1769992316902-executive-in-modern-glass-office-reviewing-hologra.png"
   alt: "Featured image for AI Ethics Considerations for Businesses: A Complete Guide to Responsible AI Implementation"
 tags:
   - ethics

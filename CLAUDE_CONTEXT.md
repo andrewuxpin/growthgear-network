@@ -23,7 +23,7 @@ Each site has:
 ### Workers (Cloudflare Workers)
 | Worker | Purpose |
 |--------|---------|
-| `workers/api` | Main API (growthgear-api.andrew-705.workers.dev) |
+| `workers/api` | Main API (growthgear-api.growthgear.workers.dev) |
 | `workers/content-scheduler` | Content scheduling |
 | `workers/keyword-generator` | Keyword generation |
 | `workers/content-refresher` | Content refresh |

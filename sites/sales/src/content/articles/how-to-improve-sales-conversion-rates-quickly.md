@@ -6,7 +6,7 @@ author:
   name: "GrowthGear Team"
 publishedAt: 2026-01-31
 image:
-  src: "https://growthgear-api.andrew-705.workers.dev/api/images/1769992281940-sales-dashboard-showing-upward-trending-graphs-cel.png"
+  src: "https://growthgear-api.growthgear.workers.dev/api/images/1769992281940-sales-dashboard-showing-upward-trending-graphs-cel.png"
   alt: "Featured image for How to Improve Sales Conversion Rates Quickly: 15 Proven Strategies That Work in 2024"
 tags:
   - improve

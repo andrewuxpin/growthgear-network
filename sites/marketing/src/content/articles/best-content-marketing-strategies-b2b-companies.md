@@ -6,7 +6,7 @@ author:
   name: "GrowthGear Team"
 publishedAt: 2026-01-30
 image:
-  src: "https://growthgear-api.andrew-705.workers.dev/api/images/1769992247851-content-creator-at-desk-with-camera-and-microphone.png"
+  src: "https://growthgear-api.growthgear.workers.dev/api/images/1769992247851-content-creator-at-desk-with-camera-and-microphone.png"
   alt: "Featured image for Best Content Marketing Strategies for B2B Companies: A Complete Guide to Drive Growth in 2024"
 tags:
   - content

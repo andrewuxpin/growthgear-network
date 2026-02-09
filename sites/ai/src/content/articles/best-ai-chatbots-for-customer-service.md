@@ -6,7 +6,7 @@ author:
   name: "GrowthGear Team"
 publishedAt: 2026-01-29
 image:
-  src: "https://growthgear-api.andrew-705.workers.dev/api/images/1769726239704-brain-made-of-circuit-boards-and-glowing-synapses-.png"
+  src: "https://growthgear-api.growthgear.workers.dev/api/images/1769726239704-brain-made-of-circuit-boards-and-glowing-synapses-.png"
   alt: "Featured image for Best AI Chatbots for Customer Service: 12 Top Platforms to Transform Your Support"
 tags:
   - chatbots

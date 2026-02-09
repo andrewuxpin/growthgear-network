@@ -6,7 +6,7 @@ author:
   name: "GrowthGear Team"
 publishedAt: 2026-01-29
 image:
-  src: "https://growthgear-api.andrew-705.workers.dev/api/images/1769726233199-humanoid-robot-face-with-glowing-blue-neural-patte.png"
+  src: "https://growthgear-api.growthgear.workers.dev/api/images/1769726233199-humanoid-robot-face-with-glowing-blue-neural-patte.png"
   alt: "Featured image for What is Natural Language Processing Explained: A Complete Guide to NLP in 2024"
 tags:
   - natural
