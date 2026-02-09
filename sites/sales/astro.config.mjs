@@ -2,7 +2,7 @@ import { defineConfig } from "astro/config";
 import tailwind from "@astrojs/tailwind";
 
 export default defineConfig({
-  site: "https://growthgear-sales.pages.dev",
+  site: "https://sales.growthgear.com.au",
   integrations: [
     tailwind({
       configFile: "./tailwind.config.mjs",

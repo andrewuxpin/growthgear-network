@@ -10,10 +10,10 @@ Monorepo for GrowthGear marketing sites and API workers, built with Astro (sites
 ### Sites (Astro + Cloudflare Pages)
 | Site | ID | URL |
 |------|-----|-----|
-| AI | `ai` | https://growthgear-ai.pages.dev |
-| Sales | `sales` | https://growthgear-sales.pages.dev |
-| Marketing | `marketing` | https://growthgear-marketing.pages.dev |
-| Hub | `hub` | https://growthgear-hub.pages.dev |
+| AI | `ai` | https://ai.growthgear.com.au |
+| Sales | `sales` | https://sales.growthgear.com.au |
+| Marketing | `marketing` | https://marketing.growthgear.com.au |
+| Hub | `hub` | https://hub.growthgear.com.au |
 
 Each site has:
 - `src/pages/` - Astro pages

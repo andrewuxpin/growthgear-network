@@ -10,9 +10,9 @@ export const siteConfig: SiteConfig = {
   },
   navigation: [
     { label: "Home", href: "/" },
-    { label: "AI Insights", href: "https://growthgear-ai.pages.dev" },
-    { label: "Sales Mastery", href: "https://growthgear-sales.pages.dev" },
-    { label: "Marketing Edge", href: "https://growthgear-marketing.pages.dev" },
+    { label: "AI Insights", href: "https://ai.growthgear.com.au" },
+    { label: "Sales Mastery", href: "https://sales.growthgear.com.au" },
+    { label: "Marketing Edge", href: "https://marketing.growthgear.com.au" },
     { label: "About", href: "/about" },
   ],
   footer: {
@@ -30,7 +30,7 @@ export const siteConfig: SiteConfig = {
   seo: {
     titleTemplate: "%s | GrowthGear",
     defaultDescription: "Your network of expert resources for AI, sales, and marketing success.",
-    siteUrl: "https://growthgear-hub.pages.dev",
+    siteUrl: "https://hub.growthgear.com.au",
   },
 };
 
@@ -41,7 +41,7 @@ export const networkSites = [
     name: "AI Insights",
     tagline: "Master Artificial Intelligence",
     description: "Expert insights on AI, machine learning, and the future of intelligent systems. Stay ahead with actionable guides and the latest trends.",
-    url: "https://growthgear-ai.pages.dev",
+    url: "https://ai.growthgear.com.au",
     color: "from-violet-500 to-purple-600",
     icon: "🤖",
     topics: ["Machine Learning", "AI Tools", "Deep Learning", "ChatGPT & LLMs"],
@@ -51,7 +51,7 @@ export const networkSites = [
     name: "Sales Mastery",
     tagline: "Close More Deals",
     description: "Proven strategies, techniques, and insights for B2B and B2C success. Master the art of selling and accelerate your revenue.",
-    url: "https://growthgear-sales.pages.dev",
+    url: "https://sales.growthgear.com.au",
     color: "from-emerald-500 to-teal-600",
     icon: "💼",
     topics: ["B2B Sales", "Sales Techniques", "CRM & Tools", "Negotiation"],
@@ -61,7 +61,7 @@ export const networkSites = [
     name: "Marketing Edge",
     tagline: "Grow Your Audience",
     description: "Cutting-edge digital marketing strategies, growth hacks, and insights to scale your business and build your brand.",
-    url: "https://growthgear-marketing.pages.dev",
+    url: "https://marketing.growthgear.com.au",
     color: "from-orange-500 to-red-600",
     icon: "📈",
     topics: ["Content Marketing", "SEO", "Social Media", "Growth Hacking"],

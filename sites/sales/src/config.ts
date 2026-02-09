@@ -30,7 +30,7 @@ export const siteConfig: SiteConfig = {
   seo: {
     titleTemplate: "%s | Sales Mastery",
     defaultDescription: "Master the art of sales with proven strategies, techniques, and insights for B2B and B2C success.",
-    siteUrl: "https://growthgear-sales.pages.dev",
+    siteUrl: "https://sales.growthgear.com.au",
   },
 };
 
