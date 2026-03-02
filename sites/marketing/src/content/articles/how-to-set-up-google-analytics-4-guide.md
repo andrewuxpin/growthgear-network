@@ -218,6 +218,8 @@ Connecting GA4 with Google Ads enables better campaign optimization:
 2. **Link property**: Select your verified Search Console property
 3. **Choose data streams**: Select relevant web streams
 
+Once linked, use Search Console data alongside GA4 to diagnose organic traffic drops. Pairing this with a [technical SEO audit checklist](/seo/technical-seo-audit-checklist-complete-guide) helps you identify whether drops stem from crawl issues, Core Web Vitals regressions, or ranking changes.
+
 ### Benefits of Integration
 
 - **Improved attribution**: Better understand which channels drive conversions

@@ -121,7 +121,7 @@ Featured snippets can dramatically increase your organic traffic by placing your
 
 ## 5. Improve Your Website's Technical SEO
 
-Technical SEO issues can severely limit your organic traffic potential. Addressing these problems often leads to quick ranking improvements.
+Technical SEO issues can severely limit your organic traffic potential. Addressing these problems often leads to quick ranking improvements. For a structured approach, follow our [technical SEO audit checklist](/seo/technical-seo-audit-checklist-complete-guide) to systematically identify and prioritise every issue on your site.
 
 ### Critical Technical SEO Factors
 

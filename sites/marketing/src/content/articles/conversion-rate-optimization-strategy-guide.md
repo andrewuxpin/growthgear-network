@@ -147,7 +147,7 @@ Create targeted experiences for different user groups:
 
 ### Mobile Optimization
 
-With mobile traffic accounting for over 50% of web traffic, mobile CRO is crucial:
+With mobile traffic accounting for over 50% of web traffic, mobile CRO is crucial. Page speed directly impacts both conversions and rankings — before running CRO experiments, run a [technical SEO audit](/seo/technical-seo-audit-checklist-complete-guide) to eliminate Core Web Vitals issues that inflate bounce rates and suppress the organic traffic your tests rely on.
 
 #### Mobile-Specific Tactics
 - **Thumb-friendly design**: Place important elements within easy reach
