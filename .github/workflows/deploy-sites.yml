@@ -19,6 +19,14 @@ on:
           - sales
           - marketing
           - hub
+      skip_sync:
+        description: 'Skip article sync from API (use when articles are already committed)'
+        required: false
+        default: 'false'
+        type: choice
+        options:
+          - 'false'
+          - 'true'
 
   # Trigger via webhook (repository_dispatch)
   repository_dispatch:
@@ -50,6 +58,7 @@ jobs:
         run: pnpm install
 
       - name: Sync articles from API
+        if: github.event.inputs.skip_sync != 'true'
         run: |
           pnpm add -g tsx
           tsx scripts/sync-articles.ts --force
