@@ -347,7 +347,7 @@ Stay ahead by:
 
 ## Conclusion
 
-Improving sales conversion rates quickly requires a systematic approach combining strategy, tactics, and continuous optimization. Start with the quick wins outlined in this guide, then gradually implement more advanced techniques as you build momentum.
+Improving sales conversion rates quickly requires a systematic approach combining strategy, tactics, and continuous optimization. If you haven't formalized your underlying [sales strategy](/sales-techniques/how-to-create-sales-strategy-that-works), that's worth doing first—your ICP definition and sales process directly determine what conversion rate is achievable. Start with the quick wins outlined in this guide, then gradually implement more advanced techniques as you build momentum.
 
 Remember, even small improvements in conversion rates can have massive impacts on revenue. A 1% increase in conversion rate might seem minimal, but it could translate to thousands or millions in additional revenue depending on your business size.
 

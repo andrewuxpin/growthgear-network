@@ -21,7 +21,7 @@ According to recent studies, companies with documented business development stra
 
 ## What is a Business Development Strategy Plan?
 
-A business development strategy plan is a comprehensive document that outlines how your organization will identify, pursue, and capitalize on growth opportunities. Unlike sales strategies that focus primarily on closing deals, business development encompasses:
+A business development strategy plan is a comprehensive document that outlines how your organization will identify, pursue, and capitalize on growth opportunities. Unlike [sales strategies that focus primarily on closing deals](/sales-techniques/how-to-create-sales-strategy-that-works), business development encompasses:
 
 - **Market expansion initiatives**
 - **Strategic partnerships and alliances**
