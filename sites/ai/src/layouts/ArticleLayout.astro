@@ -7,6 +7,7 @@ import SEO from "@growthgear/shared/components/SEO.astro";
 import Breadcrumbs from "@growthgear/shared/components/Breadcrumbs.astro";
 import TableOfContents from "@growthgear/shared/components/TableOfContents.astro";
 import FAQ from "@growthgear/shared/components/FAQ.astro";
+import FloatingCTA from "@growthgear/shared/components/FloatingCTA.astro";
 import { formatDate, readingTime, countWords } from "@growthgear/shared/utils";
 import type { SEOData, Article } from "@growthgear/shared/types";
 import { siteConfig, categories } from "../config";
@@ -72,10 +73,11 @@ const articleData: Article = {
   <body class="min-h-screen flex flex-col">
     <Header siteName={site.name} navigation={navigation} />
     <main class="flex-1">
-      <article class="container-narrow py-12">
+      <!-- Article Header (full width) -->
+      <div class="container-wide py-12 pb-0">
         <Breadcrumbs items={breadcrumbs} />
 
-        <header class="mb-8">
+        <header class="mb-8 max-w-3xl">
           {category && (
             <a
               href={`/${data.category}`}
@@ -119,15 +121,35 @@ const articleData: Article = {
             />
           </figure>
         )}
+      </div>
 
-        <TableOfContents headings={headings} />
+      <!-- Two-column layout: Article + Sidebar -->
+      <div class="container-wide pb-12">
+        <div class="lg:grid lg:grid-cols-12 lg:gap-12">
+          <!-- Article Content -->
+          <article class="lg:col-span-8">
+            <TableOfContents headings={headings} />
 
-        <div class="prose prose-lg max-w-none">
-          <slot />
+            <div class="prose prose-lg max-w-none">
+              <slot />
+            </div>
+
+            {data.faq && data.faq.length > 0 && <FAQ items={data.faq} />}
+          </article>
+
+          <!-- Sticky Sidebar -->
+          <div class="hidden lg:block lg:col-span-4">
+            <div class="sticky top-24">
+              <FloatingCTA />
+            </div>
+          </div>
         </div>
 
-        {data.faq && data.faq.length > 0 && <FAQ items={data.faq} />}
-      </article>
+        <!-- Mobile CTA (shown below article on small screens) -->
+        <div class="mt-12 lg:hidden">
+          <FloatingCTA />
+        </div>
+      </div>
     </main>
     <Footer siteName={site.name} links={footer.links} social={footer.social} />
     <SEO
