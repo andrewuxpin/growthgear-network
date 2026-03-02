@@ -76,7 +76,7 @@ Modern NLP relies heavily on machine learning approaches:
 **Deep Learning**:
 - Recurrent Neural Networks (RNNs)
 - Long Short-Term Memory (LSTM) networks
-- Transformer architectures
+- [Transformer architectures](/deep-learning/what-is-a-transformer-in-machine-learning) — the architecture that powers GPT, BERT, and all modern LLMs
 
 **Large Language Models**:
 - GPT (Generative Pre-trained Transformer)

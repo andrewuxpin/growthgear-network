@@ -147,6 +147,8 @@ While many NLP applications use machine learning, some rely on:
 - Rule-based translation systems
 - Symbolic logic for understanding
 
+Modern NLP is dominated by [transformer architectures](/deep-learning/what-is-a-transformer-in-machine-learning), which power tools like ChatGPT, Claude, and Gemini through self-attention mechanisms.
+
 ### Machine Learning Specific Applications
 
 #### 1. Predictive Analytics
