@@ -30,7 +30,7 @@ B2B lead generation has evolved dramatically over the past decade. Today's appro
 - Consume 13 pieces of content before engaging with sales
 - Prefer self-service research over traditional sales outreach
 
-Successful lead generation strategies must account for these behavioral shifts while providing value at every touchpoint.
+Successful lead generation strategies must account for these behavioral shifts while providing value at every touchpoint. For teams selling technology products, these dynamics are even more pronounced—our guide to [IT sales techniques](/sales-techniques/it-sales-techniques-guide-for-technology-sellers) covers how to engage the 6-10 stakeholder committees common in enterprise technology purchases.
 
 ## 12 Best Lead Generation Strategies for B2B Companies
 
