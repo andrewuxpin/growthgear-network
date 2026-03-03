@@ -336,7 +336,7 @@ Constant monitoring and optimization are essential for sustaining organic traffi
 ### Essential Tools
 
 - **Google Analytics 4** for traffic analysis
-- **Google Search Console** for search performance
+- **Google Search Console** for search performance — see our [complete Google Search Console tutorial](/seo/google-search-console-tutorial-complete-guide) to get the most from every report
 - **SEO tools** like Ahrefs, SEMrush, or Moz
 - **Page speed testing tools** like GTmetrix or Google PageSpeed Insights
 

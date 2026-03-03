@@ -58,7 +58,7 @@ The businesses GrowthGear works with consistently see ranking improvements from 
 | Site Architecture | Internal links, depth, redirects | Screaming Frog, GA4 |
 | Advanced Technical | Schema, structured data, crawl budget | Search Console, Validator.schema.org |
 
-Before you start, open Google Search Console for your property. It's the ground truth for how Google sees your site, and you'll reference it throughout.
+Before you start, open Google Search Console for your property. It's the ground truth for how Google sees your site, and you'll reference it throughout. If you haven't fully explored GSC yet, our [Google Search Console tutorial](/seo/google-search-console-tutorial-complete-guide) covers every report in detail.
 
 ## Crawlability and Indexation Checks
 
