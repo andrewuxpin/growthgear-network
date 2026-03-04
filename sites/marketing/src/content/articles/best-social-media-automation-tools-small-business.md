@@ -226,7 +226,7 @@ MeetEdgar's unique approach automatically recycles your best content, ensuring m
 
 **Best for: Content marketing integration**
 
-CoSchedule combines social media automation with content marketing planning, perfect for businesses running blogs or content campaigns.
+CoSchedule combines social media automation with content marketing planning, perfect for businesses running blogs or content campaigns. Before choosing a scheduling tool, make sure you have a solid [social media content calendar](/social-media/how-to-create-social-media-content-calendar) strategy in place — the tool is only as good as the plan behind it.
 
 **Key Features:**
 - Unified marketing calendar

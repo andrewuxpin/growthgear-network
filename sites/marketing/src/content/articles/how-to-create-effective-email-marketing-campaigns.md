@@ -255,7 +255,7 @@ Go beyond "Hi [Name]" to create truly personalized experiences:
 ### Integration with Other Marketing Channels
 
 **Omnichannel Approach:**
-- Coordinate email campaigns with social media promotions
+- Coordinate email campaigns with social media promotions — use a [social media content calendar](/social-media/how-to-create-social-media-content-calendar) to align messaging across both channels
 - Use email to drive traffic to blog content and SEO efforts
 - Integrate with customer service for better user experience
 - Combine with paid advertising for cohesive messaging

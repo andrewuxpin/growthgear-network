@@ -246,7 +246,7 @@ B2B buyers want education and insights, not sales pitches. Follow the 80/20 rule
 Great content that can't be found won't drive results. Invest in keyword research, on-page optimization, and technical SEO.
 
 ### 4. Inconsistent Publishing
-Sporadic content creation hurts momentum and audience engagement. Develop realistic publishing schedules and stick to them.
+Sporadic content creation hurts momentum and audience engagement. Develop realistic publishing schedules and stick to them. A structured [social media content calendar](/social-media/how-to-create-social-media-content-calendar) is one of the most effective ways to enforce consistency across channels.
 
 ### 5. Not Measuring What Matters
 Vanity metrics like page views don't drive business growth. Focus on metrics that connect to revenue and business objectives.
