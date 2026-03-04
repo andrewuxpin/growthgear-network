@@ -29,7 +29,7 @@ Traditional data analysis methods often require extensive technical expertise an
 - **Scaling analysis** to handle massive datasets efficiently
 - **Reducing time-to-insight** from weeks to minutes
 
-According to McKinsey Global Institute, organizations that leverage AI in their analytics processes see up to 20% improvements in business outcomes and 15% increases in revenue growth.
+According to McKinsey Global Institute, organizations that leverage AI in their analytics processes see up to 20% improvements in business outcomes and 15% increases in revenue growth. If you're looking for broader AI tool coverage beyond analytics, our roundup of the [best AI productivity tools for business](/ai-tools/best-ai-productivity-tools-for-business) covers writing, automation, and workflow platforms as well.
 
 ## Key Features to Look for in AI Data Analysis Tools
 
