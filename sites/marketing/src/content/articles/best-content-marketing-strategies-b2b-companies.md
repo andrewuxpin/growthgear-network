@@ -220,6 +220,8 @@ Partner with customers, industry experts, and complementary businesses:
 
 ## Integration with Other Marketing Channels
 
+Executing a content strategy at this level requires dedicated expertise. Many B2B companies underestimate the depth of skill required — from keyword research and SEO execution to distribution and analytics. If you're building or evaluating your marketing team, understanding [what a digital marketing specialist does](/content-marketing/what-is-digital-marketing-specialist-skills-roles-guide) and which specializations to hire for can significantly accelerate your content program.
+
 Content marketing works best when integrated with other marketing activities:
 
 ### Email Marketing Integration

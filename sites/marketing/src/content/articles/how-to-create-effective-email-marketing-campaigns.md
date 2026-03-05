@@ -243,6 +243,8 @@ Go beyond "Hi [Name]" to create truly personalized experiences:
 
 ## Advanced Email Marketing Strategies
 
+Email marketing at this level is a specialization in its own right. Many companies benefit from dedicating a specific team member to own email strategy, list health, and campaign execution end-to-end. If you're assessing whether to hire for this function, our guide on [what a digital marketing specialist does](/content-marketing/what-is-digital-marketing-specialist-skills-roles-guide) covers the email and CRM skill set in detail — including how to evaluate candidates and set outcome-based performance targets.
+
 ### Interactive Email Elements
 
 **Emerging Trends:**
