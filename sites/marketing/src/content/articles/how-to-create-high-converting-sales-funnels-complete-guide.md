@@ -170,7 +170,7 @@ Your landing pages are critical conversion points. Here's what makes them effect
 
 ### Step 5: Craft Email Sequences That Nurture and Convert
 
-Email marketing remains one of the highest ROI channels, with an average return of $42 for every $1 spent. Your email sequences should:
+Email marketing remains one of the highest ROI channels, with an average return of $42 for every $1 spent. Before building your sequences, make sure your [email deployment infrastructure](/content-marketing/email-deployment-strategy-guide) is correctly configured — authentication, list hygiene, and segmentation all determine whether your funnel emails actually reach the inbox. Your email sequences should:
 
 **Welcome Series (Days 1-7)**
 - Thank subscribers and set expectations

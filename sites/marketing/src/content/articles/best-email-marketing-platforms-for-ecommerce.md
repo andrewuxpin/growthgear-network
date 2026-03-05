@@ -487,7 +487,7 @@ Regardless of which platform you choose, implementing these best practices will 
 - Optimize for mobile devices (60%+ of emails are opened on mobile)
 - Test send times and frequency
 - Use compelling CTAs and clear value propositions
-- Monitor deliverability and sender reputation
+- Monitor deliverability and sender reputation — see our [email deployment strategy guide](/content-marketing/email-deployment-strategy-guide) for SPF/DKIM setup and IP warming best practices
 
 ## Measuring Success: Key Metrics to Track
 

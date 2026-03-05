@@ -213,6 +213,8 @@ Go beyond "Hi [Name]" to create truly personalized experiences:
 
 ### Improving Email Deliverability
 
+Deliverability is the technical foundation of every email program. For a deep dive into infrastructure, IP warming, and list hygiene, see our [email deployment strategy guide](/content-marketing/email-deployment-strategy-guide).
+
 **Technical Setup:**
 - Authenticate your domain with SPF, DKIM, and DMARC records
 - Use a consistent "from" name and email address
