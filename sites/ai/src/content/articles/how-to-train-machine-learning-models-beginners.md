@@ -350,7 +350,7 @@ For those interested in exploring AI-powered content creation alongside model tr
    - Model evaluation techniques
 
 3. **Advanced** (6+ months)
-   - Deep learning
+   - Deep learning and [transfer learning](/deep-learning/transfer-learning-machine-learning-guide) — reusing pre-trained models to dramatically reduce data and compute requirements
    - Natural language processing
    - Computer vision
    - MLOps and deployment

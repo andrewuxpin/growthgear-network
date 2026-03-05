@@ -182,7 +182,7 @@ The firms that see 156% growth outcomes are those that treat AI as a workflow tr
 
 **API access (buy)**: Right for 80% of businesses. No infrastructure, pay-per-token, immediate access to frontier capabilities. Costs $500–$5,000/month for typical enterprise workloads.
 
-**Fine-tuning**: Right when you have 1,000+ domain-specific examples and generic models underperform. Fine-tuning GPT-4o or Claude costs $10,000–$50,000 in compute and yields 20–40% quality improvement on targeted tasks.
+**Fine-tuning**: Right when you have 1,000+ domain-specific examples and generic models underperform. Fine-tuning GPT-4o or Claude costs $10,000–$50,000 in compute and yields 20–40% quality improvement on targeted tasks. [Transfer learning techniques](/deep-learning/transfer-learning-machine-learning-guide) make fine-tuning far more economical than training from scratch — cutting compute requirements by 15–60×.
 
 **Training from scratch**: Reserved for well-resourced labs. A 7B parameter model costs ~$200,000 in compute. Most businesses have no reason to go here.
 
