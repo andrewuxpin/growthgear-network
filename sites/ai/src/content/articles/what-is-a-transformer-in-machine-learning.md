@@ -126,7 +126,7 @@ All three share the same fundamental bottleneck: sequential processing and a sin
 | CNN (1D) | Yes | Limited | Fast | Short sequences |
 | **Transformer** | **Yes** | **Excellent** | **Fast** | **All sequence tasks** |
 
-Understanding these tradeoffs is essential when choosing architectures for your own ML projects. Our guide on [how to train machine learning models](/machine-learning/how-to-train-machine-learning-models-beginners) covers the practical setup decisions in detail.
+Understanding these tradeoffs is essential when choosing architectures for your own ML projects. For a comprehensive breakdown of all major network families — CNNs, RNNs, LSTMs, GANs, and more — see our [complete guide to types of neural networks](/deep-learning/types-of-neural-networks-complete-guide). Our guide on [how to train machine learning models](/machine-learning/how-to-train-machine-learning-models-beginners) covers the practical setup decisions in detail.
 
 ### Convolutional Neural Networks and Vision Transformers
 

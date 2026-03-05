@@ -48,7 +48,7 @@ Supervised learning uses labeled data to train models. Common applications inclu
 - Decision Trees
 - Random Forest
 - Support Vector Machines (SVM)
-- Neural Networks (including [transformer architectures](/deep-learning/what-is-a-transformer-in-machine-learning), which power modern LLMs)
+- Neural Networks (including [transformer architectures](/deep-learning/what-is-a-transformer-in-machine-learning), which power modern LLMs) — see our [complete guide to types of neural networks](/deep-learning/types-of-neural-networks-complete-guide) to choose the right architecture for your problem
 
 ### Unsupervised Learning
 
