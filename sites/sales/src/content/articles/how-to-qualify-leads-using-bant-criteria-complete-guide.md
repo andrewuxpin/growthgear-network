@@ -15,7 +15,7 @@ tags:
   - bant
 ---
 
-Learning how to qualify leads using BANT criteria is essential for any sales professional looking to maximize their efficiency and close rates. The BANT framework—Budget, Authority, Need, and Timeline—has been the gold standard for lead qualification since IBM developed it in the 1950s. This proven methodology helps sales teams identify high-quality prospects and focus their efforts on leads most likely to convert.
+Learning how to qualify leads using BANT criteria is essential for any sales professional looking to maximize their efficiency and close rates. The BANT framework—Budget, Authority, Need, and Timeline—has been the gold standard for lead qualification since IBM developed it in the 1950s. This proven methodology helps sales teams identify high-quality prospects and focus their efforts on leads most likely to convert. Of course, qualification only matters when you have enough leads to qualify—if your pipeline is thin, start with the [lead generation techniques that consistently fill your pipeline](/sales-techniques/lead-generation-techniques-that-fill-your-pipeline) before optimizing the qualification filter.
 
 In today's competitive business environment, where sales teams receive countless leads daily, proper qualification can mean the difference between hitting quota and falling short. Studies show that companies using structured lead qualification processes experience 36% shorter sales cycles and 18% higher revenue growth compared to those without systematic approaches.
 

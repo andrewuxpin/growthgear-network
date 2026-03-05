@@ -117,7 +117,7 @@ Before you can effectively fill your pipeline, you must clearly understand who y
 
 ## Step 3: Develop Lead Generation Strategies
 
-With your ICP defined, you can now focus on generating qualified leads that match your target profile. Effective lead generation requires a multi-channel approach that meets prospects where they are in their buying journey.
+With your ICP defined, you can now focus on generating qualified leads that match your target profile. Effective lead generation requires a multi-channel approach that meets prospects where they are in their buying journey. For the specific execution mechanics—cold email sequencing, LinkedIn outreach cadences, referral program structure, and how to calculate the outreach volume needed to hit your pipeline targets—see our breakdown of [lead generation techniques that fill your pipeline](/sales-techniques/lead-generation-techniques-that-fill-your-pipeline).
 
 ### Digital Marketing Channels
 
