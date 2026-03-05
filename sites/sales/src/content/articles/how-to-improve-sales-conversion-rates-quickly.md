@@ -200,7 +200,7 @@ Conversion rate optimization is an ongoing process. Regularly test different app
 - Try different presentation formats
 - Test various follow-up sequences
 - Experiment with pricing presentations
-- Compare different closing techniques
+- Compare different closing techniques — for a comprehensive breakdown, see our guide to [sales closing techniques that actually work](/sales-techniques/sales-closing-techniques-that-actually-work)
 
 ## Common Conversion Rate Killers to Avoid
 

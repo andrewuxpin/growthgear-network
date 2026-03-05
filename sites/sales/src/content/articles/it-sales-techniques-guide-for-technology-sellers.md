@@ -177,7 +177,7 @@ For a deeper framework on handling these scenarios, the principles in [overcomin
 
 ### Closing Techniques That Work in Complex IT Sales
 
-Hard closes don't work in enterprise IT. The decision isn't in the hands of one person, and pressure tactics alienate the committee members you haven't built relationships with yet. What works:
+Hard closes don't work in enterprise IT. The decision isn't in the hands of one person, and pressure tactics alienate the committee members you haven't built relationships with yet. For a complete framework of which [sales closing techniques](/sales-techniques/sales-closing-techniques-that-actually-work) translate from general B2B to complex IT deals—particularly the Assumptive Close and Mutual Action Plan—see our dedicated guide. What works in IT specifically:
 
 - **The Mutual Action Plan** — A shared, documented timeline with milestones owned by both sides. When your champion agrees to a MAP, they're committing to internal actions that move the deal forward. Deals with signed MAPs close at significantly higher rates.
 - **The Executive Sponsor Meeting** — Request a meeting between your VP/CRO and their economic buyer. This signals commitment, elevates the conversation, and often surfaces hidden objections before the final stage.
