@@ -227,6 +227,8 @@ These tools address narrower use cases but deliver exceptional ROI in the right 
 
 **Perplexity for Teams** — AI-native search engine with citations. Where ChatGPT generates plausible text, Perplexity retrieves and cites current sources. Better for research tasks where accuracy and recency matter. Pricing: $20/user/month (Enterprise).
 
+**Google Agentspace** — Enterprise AI platform combining universal search across all company data sources (Google Workspace, Salesforce, Jira, SharePoint) with AI agent automation. Ideal for large teams with data sprawl across multiple systems. See the full [Google Agentspace enterprise AI guide](/ai-tools/google-agentspace-enterprise-ai-guide) for deployment details.
+
 **Gamma** — AI presentation builder. Describe your presentation topic, and Gamma generates a complete, designed deck in under 2 minutes. Dramatically faster than PowerPoint for internal decks and first drafts. Pricing: Free (limited) | $10/month (Plus).
 
 For a deeper look at how AI tools are transforming NLP-driven business processes, the [what is natural language processing](/machine-learning/what-is-natural-language-processing-explained) guide covers the underlying technology powering most modern AI productivity tools.

@@ -236,6 +236,8 @@ AI chatbots are just one piece of the broader productivity picture. For a comple
 - Requires technical expertise
 - Can become expensive at scale
 
+For organizations on Google Cloud looking for internal-facing AI beyond customer chatbots, [Google Agentspace](/ai-tools/google-agentspace-enterprise-ai-guide) extends the Google AI ecosystem to enterprise search and employee-facing agent workflows.
+
 ### 10. Rasa
 
 **Best for**: Organizations requiring full control and customization

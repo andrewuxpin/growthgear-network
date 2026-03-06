@@ -178,7 +178,7 @@ Use this framework to prioritize AI implementation opportunities:
 **Examples:**
 - Salesforce Einstein for CRM
 - Microsoft Dynamics 365 AI
-- Google Cloud AI Platform
+- Google Cloud AI Platform (including [Google Agentspace](/ai-tools/google-agentspace-enterprise-ai-guide) for enterprise search and agent automation)
 - IBM Watson solutions
 
 #### 2. Custom AI Development
