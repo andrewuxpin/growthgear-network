@@ -6,7 +6,7 @@ author:
   name: "GrowthGear Team"
 publishedAt: 2026-01-31
 image:
-  src: "https://growthgear-api.growthgear.workers.dev/api/images/1770659338658-futuristic-ai-interface-with-holographic-data-disp.png"
+  src: "/images/what-is-computer-vision-applications.webp"
   alt: "Featured image for What is Computer Vision Applications: 15 Real-World Uses Transforming Industries in 2024"
 tags:
   - computer

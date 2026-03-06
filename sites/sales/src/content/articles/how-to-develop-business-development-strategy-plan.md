@@ -6,7 +6,7 @@ author:
   name: "GrowthGear Team"
 publishedAt: 2026-02-01
 image:
-  src: "https://growthgear-api.growthgear.workers.dev/api/images/1770659360458-confident-salesperson-shaking-hands-with-client-in.png"
+  src: "/images/how-to-develop-business-development-strategy-plan.webp"
   alt: "Featured image for How to Develop a Business Development Strategy Plan: Complete Guide for 2024"
 tags:
   - develop

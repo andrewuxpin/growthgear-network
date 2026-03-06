@@ -6,7 +6,7 @@ author:
   name: "GrowthGear Team"
 publishedAt: 2026-01-30
 image:
-  src: "https://growthgear-api.growthgear.workers.dev/api/images/1770659328013-developer-workspace-with-multiple-monitors-showing.png"
+  src: "/images/how-to-implement-ai-in-business-complete-guide.webp"
   alt: "Featured image for How to Implement AI in Business: A Complete Step-by-Step Guide for 2024"
 tags:
   - implement

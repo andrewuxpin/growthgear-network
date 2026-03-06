@@ -6,7 +6,7 @@ author:
   name: "GrowthGear Team"
 publishedAt: 2026-01-29
 image:
-  src: "https://growthgear-api.growthgear.workers.dev/api/images/1770659345755-professional-business-negotiation-in-sleek-corpora.png"
+  src: "/images/best-crm-software-small-business-teams.webp"
   alt: "Featured image for Best CRM Software for Small Business Teams: Complete Guide 2024"
 tags:
   - software

@@ -6,7 +6,7 @@ author:
   name: "GrowthGear Team"
 publishedAt: 2026-01-31
 image:
-  src: "https://growthgear-api.growthgear.workers.dev/api/images/1770659320689-developer-workspace-with-multiple-monitors-showing.png"
+  src: "/images/best-ai-tools-for-data-analysis.webp"
   alt: "Featured image for Best AI Tools for Data Analysis: 15 Top Platforms for Advanced Analytics in 2024"
 tags:
   - tools

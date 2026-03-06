@@ -6,7 +6,7 @@ author:
   name: "GrowthGear Team"
 publishedAt: 2026-01-31
 image:
-  src: "https://growthgear-api.growthgear.workers.dev/api/images/1770659417447-digital-marketing-analytics-dashboard-glowing-on-m.png"
+  src: "/images/how-to-optimize-landing-pages-for-conversions-complete-guide.webp"
   alt: "Featured image for How to Optimize Landing Pages for Conversions: The Complete 2024 Guide"
 tags:
   - optimize

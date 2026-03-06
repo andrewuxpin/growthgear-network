@@ -6,7 +6,7 @@ author:
   name: "GrowthGear Team"
 publishedAt: 2026-01-30
 image:
-  src: "https://growthgear-api.growthgear.workers.dev/api/images/1770659367640-sales-team-reviewing-crm-dashboard-on-large-screen.png"
+  src: "/images/how-to-overcome-common-sales-objections-effectively.webp"
   alt: "Featured image for How to Overcome Common Sales Objections Effectively: A Complete Guide"
 tags:
   - overcome

@@ -6,7 +6,7 @@ author:
   name: "GrowthGear Team"
 publishedAt: 2026-01-30
 image:
-  src: "https://growthgear-api.growthgear.workers.dev/api/images/1770659413757-creative-team-brainstorming-around-whiteboard-with.png"
+  src: "/images/how-to-increase-organic-website-traffic-fast.webp"
   alt: "Featured image for How to Increase Organic Website Traffic Fast: 15 Proven Strategies for 2024"
 tags:
   - increase

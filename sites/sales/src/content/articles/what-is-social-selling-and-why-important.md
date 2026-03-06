@@ -6,7 +6,7 @@ author:
   name: "GrowthGear Team"
 publishedAt: 2026-01-29
 image:
-  src: "https://growthgear-api.growthgear.workers.dev/api/images/1770659381701-sales-team-reviewing-crm-dashboard-on-large-screen.png"
+  src: "/images/what-is-social-selling-and-why-important.webp"
   alt: "Featured image for What Is Social Selling and Why Is It Important for Modern Sales Success"
 tags:
   - social

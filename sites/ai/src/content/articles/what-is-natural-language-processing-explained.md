@@ -6,7 +6,7 @@ author:
   name: "GrowthGear Team"
 publishedAt: 2026-01-29
 image:
-  src: "https://growthgear-api.growthgear.workers.dev/api/images/1770659342283-data-scientist-examining-3d-charts-floating-above-.png"
+  src: "/images/what-is-natural-language-processing-explained.webp"
   alt: "Featured image for What is Natural Language Processing Explained: A Complete Guide to NLP in 2024"
 tags:
   - natural

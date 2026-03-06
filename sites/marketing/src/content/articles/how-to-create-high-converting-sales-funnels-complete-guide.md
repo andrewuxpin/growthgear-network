@@ -6,7 +6,7 @@ author:
   name: "GrowthGear Team"
 publishedAt: 2026-02-01
 image:
-  src: "https://growthgear-api.growthgear.workers.dev/api/images/1770659409942-marketer-analyzing-funnel-metrics-on-tablet-in-bri.png"
+  src: "/images/how-to-create-high-converting-sales-funnels-complete-guide.webp"
   alt: "Featured image for How to Create High Converting Sales Funnels: The Complete 2024 Guide"
 tags:
   - create

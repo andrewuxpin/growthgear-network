@@ -6,7 +6,7 @@ author:
   name: "GrowthGear Team"
 publishedAt: 2026-01-31
 image:
-  src: "https://growthgear-api.growthgear.workers.dev/api/images/1770659424429-marketer-analyzing-funnel-metrics-on-tablet-in-bri.png"
+  src: "/images/what-is-marketing-attribution-modeling-explained.webp"
   alt: "Featured image for What Is Marketing Attribution Modeling Explained: The Complete Guide to Data-Driven Marketing Success"
 tags:
   - marketing

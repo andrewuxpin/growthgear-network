@@ -6,7 +6,7 @@ author:
   name: "GrowthGear Team"
 publishedAt: 2026-01-30
 image:
-  src: "https://growthgear-api.growthgear.workers.dev/api/images/1770659388626-marketer-analyzing-funnel-metrics-on-tablet-in-bri.png"
+  src: "/images/best-content-marketing-strategies-b2b-companies.webp"
   alt: "Featured image for Best Content Marketing Strategies for B2B Companies: A Complete Guide to Drive Growth in 2024"
 tags:
   - content

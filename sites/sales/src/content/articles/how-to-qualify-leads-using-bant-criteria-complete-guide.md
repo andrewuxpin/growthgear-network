@@ -6,7 +6,7 @@ author:
   name: "GrowthGear Team"
 publishedAt: 2026-02-01
 image:
-  src: "https://growthgear-api.growthgear.workers.dev/api/images/1770659371156-professional-business-negotiation-in-sleek-corpora.png"
+  src: "/images/how-to-qualify-leads-using-bant-criteria-complete-guide.webp"
   alt: "Featured image for How to Qualify Leads Using BANT Criteria: Complete Guide for Sales Teams"
 tags:
   - qualify

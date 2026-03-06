@@ -6,7 +6,7 @@ author:
   name: "GrowthGear Team"
 publishedAt: 2026-01-31
 image:
-  src: "https://growthgear-api.growthgear.workers.dev/api/images/1770659385162-creative-team-brainstorming-around-whiteboard-with.png"
+  src: "/images/best-ai-tools-digital-marketing-automation.webp"
   alt: "Featured image for Best AI Tools for Digital Marketing Automation: 15 Game-Changing Solutions for 2024"
 tags:
   - tools

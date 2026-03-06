@@ -6,7 +6,7 @@ author:
   name: "GrowthGear Team"
 publishedAt: 2026-01-29
 image:
-  src: "https://growthgear-api.growthgear.workers.dev/api/images/1770659399089-creative-team-brainstorming-around-whiteboard-with.png"
+  src: "/images/conversion-rate-optimization-strategy-guide.webp"
   alt: "Featured image for Conversion Rate Optimization Strategy: The Complete Guide to Boosting Your Website Performance"
 tags:
   - conversion

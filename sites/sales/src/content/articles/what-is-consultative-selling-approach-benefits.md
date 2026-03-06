@@ -6,7 +6,7 @@ author:
   name: "GrowthGear Team"
 publishedAt: 2026-02-01
 image:
-  src: "https://growthgear-api.growthgear.workers.dev/api/images/1770659378162-confident-salesperson-shaking-hands-with-client-in.png"
+  src: "/images/what-is-consultative-selling-approach-benefits.webp"
   alt: "Featured image for What Is Consultative Selling Approach Benefits: Complete Guide to Transform Your Sales Process in 2024"
 tags:
   - consultative
