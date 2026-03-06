@@ -179,6 +179,8 @@ With mobile traffic accounting for over 50% of web traffic, mobile CRO is crucia
 
 ### Setting Up Effective A/B Tests
 
+Conversion optimization and growth hacking share the same engine: rapid experimentation. If you're running CRO tests alongside acquisition efforts, the [growth hacking techniques for startups](/content-marketing/growth-hacking-techniques-for-startups) guide covers the AARRR framework and experiment velocity benchmarks that help prioritize which funnel stages to test first.
+
 #### Test Planning
 1. **Define your hypothesis clearly**
 2. **Choose one variable to test** (avoid testing multiple changes simultaneously)
