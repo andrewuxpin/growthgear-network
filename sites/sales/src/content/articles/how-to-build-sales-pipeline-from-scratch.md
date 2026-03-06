@@ -378,6 +378,6 @@ Automate repetitive tasks to improve efficiency:
 
 Building a sales pipeline from scratch requires careful planning, systematic execution, and ongoing optimization. By following the steps outlined in this guide—from defining your sales process stages to implementing advanced management strategies—you'll create a robust pipeline that drives predictable revenue growth.
 
-Remember that your sales pipeline is not a set-it-and-forget-it system. It requires regular attention, maintenance, and refinement based on changing market conditions and business needs. Start with the fundamentals, measure your results, and continuously iterate based on what you learn.
+Remember that your sales pipeline is not a set-it-and-forget-it system. It requires regular attention, maintenance, and refinement based on changing market conditions and business needs. Once your pipeline is built, the next discipline is [active pipeline management](/b2b-sales/sales-pipeline-management-guide) — the metrics, review cadences, and hygiene practices that keep your pipeline accurate and your forecasts reliable. Start with the fundamentals, measure your results, and continuously iterate based on what you learn.
 
 The investment in building a proper sales pipeline will pay dividends in improved forecasting accuracy, better resource allocation, and ultimately, increased revenue. Take action today by defining your first pipeline stage and begin the journey toward more systematic sales success.

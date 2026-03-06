@@ -84,7 +84,7 @@ Social proof reduces buyer anxiety and builds trust. Use testimonials, case stud
 
 ### 5. Streamline Your Sales Process
 
-Complex, lengthy sales processes frustrate prospects and reduce conversions. Audit your current process and eliminate unnecessary steps.
+Complex, lengthy sales processes frustrate prospects and reduce conversions. Audit your current process and eliminate unnecessary steps. Conversion rate improvements are only sustainable when your pipeline is well-managed — see our guide to [sales pipeline management](/b2b-sales/sales-pipeline-management-guide) for the cadences and metrics that keep deals moving.
 
 **Process Optimization:**
 - Map your current sales funnel
