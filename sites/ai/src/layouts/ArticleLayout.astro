@@ -5,7 +5,10 @@ import Header from "@growthgear/shared/components/Header.astro";
 import Footer from "@growthgear/shared/components/Footer.astro";
 import SEO from "@growthgear/shared/components/SEO.astro";
 import Breadcrumbs from "@growthgear/shared/components/Breadcrumbs.astro";
-import TableOfContents from "@growthgear/shared/components/TableOfContents.astro";
+import StickyToc from "@growthgear/shared/components/StickyToc.astro";
+import SocialShare from "@growthgear/shared/components/SocialShare.astro";
+import ReadingProgressBar from "@growthgear/shared/components/ReadingProgressBar.astro";
+import ImageLightbox from "@growthgear/shared/components/ImageLightbox.astro";
 import FAQ from "@growthgear/shared/components/FAQ.astro";
 import FloatingCTA from "@growthgear/shared/components/FloatingCTA.astro";
 import { formatDate, readingTime, countWords } from "@growthgear/shared/utils";
@@ -26,6 +29,8 @@ const wordCount = countWords(body);
 const readTime = readingTime(wordCount);
 
 const category = categories.find((c) => c.slug === data.category);
+
+const articleUrl = `${siteConfig.seo.siteUrl}/${data.category}/${article.slug}`;
 
 const seo: SEOData = {
   title: `${data.title} | ${site.name}`,
@@ -73,6 +78,7 @@ const articleData: Article = {
   </BaseHead>
   <body class="min-h-screen flex flex-col">
     <Header siteName={site.name} navigation={navigation} />
+    <ReadingProgressBar />
     <main class="flex-1">
       <!-- Article Header (full width) -->
       <div class="container-wide py-12 pb-0">
@@ -124,30 +130,36 @@ const articleData: Article = {
         )}
       </div>
 
-      <!-- Two-column layout: Article + Sidebar -->
+      <!-- Three-column layout: TOC/Share | Article | CTA -->
       <div class="container-wide pb-12">
-        <div class="lg:grid lg:grid-cols-12 lg:gap-12">
-          <!-- Article Content -->
-          <article class="lg:col-span-8">
-            <TableOfContents headings={headings} />
+        <div class="grid grid-cols-1 lg:grid-cols-[220px_1fr] xl:grid-cols-[220px_1fr_240px] gap-8 lg:gap-10">
+          <!-- Left Sidebar: TOC + Social Share (sticky, hidden on mobile) -->
+          <aside class="hidden lg:block">
+            <div class="sticky top-24 space-y-8">
+              <StickyToc headings={headings} />
+              <SocialShare url={articleUrl} title={data.title} />
+            </div>
+          </aside>
 
-            <div class="prose prose-lg max-w-none">
+          <!-- Center: Article Content -->
+          <article class="min-w-0">
+            <div class="prose prose-lg max-w-none" data-blog-content>
               <slot />
             </div>
 
             {data.faq && data.faq.length > 0 && <FAQ items={data.faq} />}
           </article>
 
-          <!-- Sticky Sidebar -->
-          <div class="hidden lg:block lg:col-span-4">
+          <!-- Right Sidebar: FloatingCTA (sticky, hidden below xl) -->
+          <aside class="hidden xl:block">
             <div class="sticky top-24">
               <FloatingCTA />
             </div>
-          </div>
+          </aside>
         </div>
 
         <!-- Mobile CTA (shown below article on small screens) -->
-        <div class="mt-12 lg:hidden">
+        <div class="mt-12 xl:hidden">
           <FloatingCTA />
         </div>
       </div>
@@ -161,5 +173,6 @@ const articleData: Article = {
       breadcrumbs={breadcrumbs}
       faq={data.faq}
     />
+    <ImageLightbox />
   </body>
 </html>
