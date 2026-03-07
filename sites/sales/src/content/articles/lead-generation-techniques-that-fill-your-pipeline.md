@@ -73,7 +73,7 @@ The mechanics of a high-converting cold email sequence:
 
 **Email 4 (Day 14):** The break-up email. "I don't want to keep following up if this isn't relevant. Should I close out this thread?" This generates a 20-30% response rate on its own—either they re-engage or give you a clear no.
 
-Personalization is the difference between spam and pipeline. A 2024 [Salesforce State of Sales report](https://www.salesforce.com/resources/articles/lead-generation/) found that personalized outreach sequences generate 6x higher response rates than generic templates.
+Personalization is the difference between spam and pipeline. A 2024 [Salesforce State of Sales report](https://www.salesforce.com/resources/articles/lead-generation/) found that personalized outreach sequences generate 6x higher response rates than generic templates. For the full sequencing playbook — timing, subject lines, and multi-channel cadence — see our [B2B cold outreach strategy guide](/sales-techniques/b2b-cold-outreach-strategy-guide).
 
 ### LinkedIn Outreach
 

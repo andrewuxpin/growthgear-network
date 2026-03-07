@@ -364,7 +364,7 @@ Building trust is essential for overcoming objections:
 
 Effective objection handling should be integrated throughout your sales pipeline, not just treated as a reactive measure. From initial prospecting through to closing, understanding how to address concerns at each stage can significantly improve your conversion rates.
 
-Modern sales professionals also benefit from incorporating social selling techniques to build trust and credibility before objections even arise, making the objection handling process more collaborative and less confrontational. Technology sellers in particular face unique challenges—see our guide on [IT sales techniques for technology sellers](/sales-techniques/it-sales-techniques-guide-for-technology-sellers) for objection frameworks specific to enterprise software and infrastructure deals.
+Modern sales professionals also benefit from incorporating social selling techniques to build trust and credibility before objections even arise, making the objection handling process more collaborative and less confrontational. Technology sellers in particular face unique challenges—see our guide on [IT sales techniques for technology sellers](/sales-techniques/it-sales-techniques-guide-for-technology-sellers) for objection frameworks specific to enterprise software and infrastructure deals. For objections that surface during [B2B cold outreach sequences](/sales-techniques/b2b-cold-outreach-strategy-guide), a lighter response approach is more effective — treat early "not interested" replies as qualification data, not objections to overcome.
 
 ## Conclusion: Turning Objections into Opportunities
 
