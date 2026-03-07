@@ -289,6 +289,8 @@ Email marketing at this level is a specialization in its own right. Many compani
 - **HubSpot**: All-in-one inbound marketing platform
 - **Pardot**: B2B-focused with advanced lead nurturing
 
+For a detailed comparison across all stages — from SMB to enterprise — see our guide to the [best marketing automation platforms for growing businesses](/content-marketing/best-marketing-automation-platforms-for-growing-businesses).
+
 **For E-commerce:**
 - **Klaviyo**: Advanced segmentation and personalization
 - **Omnisend**: Multi-channel marketing automation

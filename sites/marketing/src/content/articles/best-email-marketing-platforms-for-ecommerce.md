@@ -152,7 +152,7 @@ Constant Contact offers straightforward email marketing tools with solid ecommer
 
 **Best for: Omnichannel marketing automation**
 
-Omnisend specializes in omnichannel marketing, combining email, SMS, push notifications, and social media in unified campaigns.
+Omnisend specializes in omnichannel marketing, combining email, SMS, push notifications, and social media in unified campaigns. If you're evaluating broader automation beyond email, see our guide to the [best marketing automation platforms](/content-marketing/best-marketing-automation-platforms-for-growing-businesses) for a full-stack comparison.
 
 **Key Features:**
 - Omnichannel automation workflows

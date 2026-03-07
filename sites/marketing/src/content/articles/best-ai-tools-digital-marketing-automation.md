@@ -281,7 +281,7 @@ Albert AI is a fully autonomous digital marketing platform that manages campaign
 
 ## How to Choose the Right AI Marketing Automation Tools
 
-Selecting the best AI tools for your marketing automation needs requires careful consideration of several factors:
+Selecting the best AI tools for your marketing automation needs requires careful consideration of several factors. Before evaluating AI-specific tools, make sure you have the right [marketing automation platform](/content-marketing/best-marketing-automation-platforms-for-growing-businesses) underneath them — AI features built on a weak automation foundation rarely deliver their promised results.
 
 ### 1. Define Your Primary Goals
 
