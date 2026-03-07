@@ -235,11 +235,14 @@ function getArticlesDir(siteId: string): string {
 
 function getArticleFilePath(siteId: string, slug: string): string {
   const articlesDir = getArticlesDir(siteId);
-  return path.join(articlesDir, `${slug}.md`);
+  return path.join(articlesDir, `${slug}.mdx`);
 }
 
 function articleExists(siteId: string, slug: string): boolean {
-  return fs.existsSync(getArticleFilePath(siteId, slug));
+  // Check for .mdx (current) and .md (legacy)
+  const mdxPath = getArticleFilePath(siteId, slug);
+  const mdPath = mdxPath.replace(/\.mdx$/, ".md");
+  return fs.existsSync(mdxPath) || fs.existsSync(mdPath);
 }
 
 function getArticleFileModTime(siteId: string, slug: string): Date | null {
@@ -266,6 +269,36 @@ function needsUpdate(article: Article): boolean {
   return false;
 }
 
+function insertInlineCTA(content: string): string {
+  const lines = content.split("\n");
+  const totalLines = lines.length;
+  const targetLine = Math.floor(totalLines * 0.6);
+
+  // Find the nearest heading at or after the 60% mark
+  let insertIndex = -1;
+  for (let i = targetLine; i < totalLines; i++) {
+    if (lines[i].startsWith("## ")) {
+      insertIndex = i;
+      break;
+    }
+  }
+
+  // If no heading found after 60%, search backwards
+  if (insertIndex === -1) {
+    for (let i = targetLine; i >= 0; i--) {
+      if (lines[i].startsWith("## ")) {
+        insertIndex = i;
+        break;
+      }
+    }
+  }
+
+  if (insertIndex === -1) return content;
+
+  lines.splice(insertIndex, 0, "\n<InlineCTA />\n");
+  return lines.join("\n");
+}
+
 async function syncArticle(apiKey: string, article: Article, forceUpdate = false): Promise<{ synced: boolean; action: string }> {
   const exists = articleExists(article.site_id, article.slug);
   const requiresUpdate = needsUpdate(article);
@@ -288,8 +321,16 @@ async function syncArticle(apiKey: string, article: Article, forceUpdate = false
   // Generate frontmatter
   const frontmatter = generateFrontmatter(fullArticle, faq);
 
-  // Combine frontmatter and content
-  const markdown = `${frontmatter}\n\n${cleanContent}`;
+  // MDX component imports
+  const mdxImports = `import KeyTakeaways from '@growthgear/shared/components/KeyTakeaways.astro';
+import InlineCTA from '@growthgear/shared/components/InlineCTA.astro';
+import Callout from '@growthgear/shared/components/Callout.astro';`;
+
+  // Insert InlineCTA at ~60% through the content (at a heading boundary)
+  const contentWithCTA = insertInlineCTA(cleanContent);
+
+  // Combine frontmatter, imports, and content
+  const markdown = `${frontmatter}\n${mdxImports}\n\n${contentWithCTA}`;
 
   // Ensure directory exists
   const articlesDir = getArticlesDir(article.site_id);

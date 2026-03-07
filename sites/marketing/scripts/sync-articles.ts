@@ -71,12 +71,17 @@ isSponsored: false
 ${imageBlock}
 ---`;
 
+    const mdxImports = `import KeyTakeaways from '@growthgear/shared/components/KeyTakeaways.astro';
+import InlineCTA from '@growthgear/shared/components/InlineCTA.astro';
+import Callout from '@growthgear/shared/components/Callout.astro';`;
+
     const markdown = `${frontmatter}
+${mdxImports}
 
 ${article.content}
 `;
 
-    const filename = `${article.slug}.md`;
+    const filename = `${article.slug}.mdx`;
     const filepath = path.join(contentDir, filename);
 
     await fs.writeFile(filepath, markdown, "utf-8");
