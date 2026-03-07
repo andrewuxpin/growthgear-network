@@ -1,0 +1,23 @@
+---
+interface Props {
+  variant?: "tip" | "warning" | "pro";
+  title?: string;
+}
+
+const { variant = "tip", title } = Astro.props;
+
+const styles = {
+  tip: { bg: "bg-emerald-50", border: "border-emerald-500", defaultTitle: "Pro tip" },
+  warning: { bg: "bg-amber-50", border: "border-amber-500", defaultTitle: "Common mistake" },
+  pro: { bg: "bg-primary-50", border: "border-primary-500", defaultTitle: "Advanced strategy" },
+};
+
+const style = styles[variant];
+---
+
+<div class={`border-l-4 rounded-lg p-5 my-6 not-prose ${style.bg} ${style.border}`}>
+  <p class="text-sm font-bold text-gray-800 mb-1">{title ?? style.defaultTitle}</p>
+  <div class="text-sm text-gray-600 leading-relaxed [&_p]:mb-0">
+    <slot />
+  </div>
+</div>

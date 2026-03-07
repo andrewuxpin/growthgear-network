@@ -1,0 +1,37 @@
+---
+interface Props {
+  title?: string;
+  description?: string;
+  primaryLabel?: string;
+  secondaryLabel?: string;
+  secondaryHref?: string;
+}
+
+const {
+  title = "Want help implementing these ideas?",
+  description = "Book a free strategy call and we'll show you the quickest AI wins for your business.",
+  primaryLabel = "Book Free Strategy Call",
+  secondaryLabel = "Explore Our Services",
+  secondaryHref = "https://growthgear.com.au/services",
+} = Astro.props;
+---
+
+<aside class="my-10 rounded-xl bg-gradient-to-r from-gray-900 to-gray-800 p-6 sm:p-8 text-center not-prose">
+  <p class="text-lg font-semibold text-white mb-2">{title}</p>
+  <p class="text-sm text-gray-400 mb-5">{description}</p>
+  <div class="flex items-center justify-center gap-3 flex-wrap">
+    <a
+      href="#"
+      onclick="Calendly.initPopupWidget({url: 'https://calendly.com/abe-growthgear/free-strategy-call?hide_gdpr_banner=1'});return false;"
+      class="inline-flex h-10 items-center px-6 rounded-lg bg-primary-500 text-white font-semibold text-sm hover:bg-primary-600 transition-colors cursor-pointer"
+    >
+      {primaryLabel}
+    </a>
+    <a
+      href={secondaryHref}
+      class="inline-flex h-10 items-center px-6 rounded-lg border border-gray-600 text-white text-sm hover:border-primary-500 hover:text-primary-400 transition-colors"
+    >
+      {secondaryLabel}
+    </a>
+  </div>
+</aside>

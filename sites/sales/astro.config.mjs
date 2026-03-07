@@ -1,5 +1,6 @@
 import { defineConfig } from "astro/config";
 import tailwind from "@astrojs/tailwind";
+import mdx from "@astrojs/mdx";
 
 export default defineConfig({
   site: "https://sales.growthgear.com.au",
@@ -7,6 +8,7 @@ export default defineConfig({
     tailwind({
       configFile: "./tailwind.config.mjs",
     }),
+    mdx(),
   ],
   build: {
     inlineStylesheets: "auto",

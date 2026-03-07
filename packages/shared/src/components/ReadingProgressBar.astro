@@ -1,0 +1,22 @@
+<div class="fixed top-0 left-0 right-0 z-[60] h-0.5 pointer-events-none" data-reading-progress>
+  <div class="h-full bg-primary-500 transition-[width] duration-100 ease-out" style="width: 0%" data-reading-progress-bar></div>
+</div>
+
+<script>
+  document.addEventListener("DOMContentLoaded", () => {
+    const bar = document.querySelector("[data-reading-progress-bar]") as HTMLElement;
+    const content = document.querySelector("[data-blog-content]") as HTMLElement;
+    if (!bar || !content) return;
+
+    function updateProgress() {
+      const rect = content.getBoundingClientRect();
+      const total = content.offsetHeight;
+      const scrolled = Math.max(0, -rect.top);
+      const pct = Math.min(100, (scrolled / (total - window.innerHeight)) * 100);
+      bar.style.width = `${pct}%`;
+    }
+
+    window.addEventListener("scroll", updateProgress, { passive: true });
+    updateProgress();
+  });
+</script>

@@ -1,0 +1,36 @@
+<div class="fixed inset-0 z-[100] hidden items-center justify-center bg-black/80 backdrop-blur-sm p-4 cursor-zoom-out" data-lightbox-overlay>
+  <img class="max-w-full max-h-[90vh] rounded-xl object-contain" data-lightbox-img />
+</div>
+
+<script>
+  document.addEventListener("DOMContentLoaded", () => {
+    const overlay = document.querySelector("[data-lightbox-overlay]") as HTMLElement;
+    const lightboxImg = document.querySelector("[data-lightbox-img]") as HTMLImageElement;
+    if (!overlay || !lightboxImg) return;
+
+    const content = document.querySelector("[data-blog-content]");
+    if (!content) return;
+
+    content.querySelectorAll("img").forEach((img) => {
+      img.style.cursor = "zoom-in";
+      img.addEventListener("click", () => {
+        lightboxImg.src = img.src;
+        lightboxImg.alt = img.alt;
+        overlay.classList.remove("hidden");
+        overlay.classList.add("flex");
+      });
+    });
+
+    overlay.addEventListener("click", () => {
+      overlay.classList.add("hidden");
+      overlay.classList.remove("flex");
+    });
+
+    document.addEventListener("keydown", (e) => {
+      if (e.key === "Escape" && !overlay.classList.contains("hidden")) {
+        overlay.classList.add("hidden");
+        overlay.classList.remove("flex");
+      }
+    });
+  });
+</script>

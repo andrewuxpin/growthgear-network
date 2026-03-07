@@ -13,15 +13,21 @@ const { items, title = "Frequently Asked Questions" } = Astro.props;
 ---
 
 {items.length > 0 && (
-  <section class="faq mt-12 pt-8 border-t border-gray-200">
+  <section class="faq mt-12 pt-8 border-t border-gray-200 not-prose" data-faq-container>
     <h2 class="text-2xl font-bold text-gray-900 mb-6">{title}</h2>
-    <div class="space-y-4">
+    <div class="space-y-3">
       {items.map((item, index) => (
-        <details class="group bg-gray-50 rounded-lg" id={`faq-${index}`}>
-          <summary class="flex items-center justify-between cursor-pointer p-4 font-medium text-gray-900 hover:text-primary-600 transition-colors">
+        <div class="faq-item bg-gray-50 rounded-lg overflow-hidden" data-faq-item>
+          <button
+            type="button"
+            class="faq-trigger flex items-center justify-between w-full cursor-pointer p-4 font-medium text-gray-900 hover:text-primary-600 transition-colors text-left"
+            aria-expanded="true"
+            aria-controls={`faq-answer-${index}`}
+            data-faq-trigger
+          >
             <span>{item.question}</span>
             <svg
-              class="w-5 h-5 text-gray-500 transition-transform group-open:rotate-180"
+              class="w-5 h-5 text-gray-500 transition-transform faq-chevron shrink-0 ml-2"
               fill="none"
               stroke="currentColor"
               viewBox="0 0 24 24"
@@ -33,22 +39,64 @@ const { items, title = "Frequently Asked Questions" } = Astro.props;
                 d="M19 9l-7 7-7-7"
               />
             </svg>
-          </summary>
-          <div class="px-4 pb-4 text-gray-600">
+          </button>
+          <div
+            id={`faq-answer-${index}`}
+            class="faq-answer px-4 pb-4 text-gray-600"
+            data-faq-answer
+          >
             <p>{item.answer}</p>
           </div>
-        </details>
+        </div>
       ))}
     </div>
   </section>
 )}
 
 <style>
-  details summary::-webkit-details-marker {
+  .faq-chevron {
+    transition: transform 0.2s ease;
+  }
+  .faq-item[data-collapsed] .faq-chevron {
+    transform: rotate(-90deg);
+  }
+  .faq-item[data-collapsed] .faq-answer {
     display: none;
   }
-
-  details summary {
-    list-style: none;
-  }
 </style>
+
+<script>
+  document.addEventListener("DOMContentLoaded", () => {
+    const container = document.querySelector("[data-faq-container]");
+    if (!container) return;
+
+    const items = container.querySelectorAll("[data-faq-item]");
+
+    // Collapse all except first
+    items.forEach((item, index) => {
+      if (index > 0) {
+        item.setAttribute("data-collapsed", "");
+        const trigger = item.querySelector("[data-faq-trigger]");
+        if (trigger) trigger.setAttribute("aria-expanded", "false");
+      }
+    });
+
+    // Toggle on click
+    container.addEventListener("click", (e) => {
+      const trigger = (e.target as HTMLElement).closest("[data-faq-trigger]");
+      if (!trigger) return;
+
+      const item = trigger.closest("[data-faq-item]");
+      if (!item) return;
+
+      const isCollapsed = item.hasAttribute("data-collapsed");
+      if (isCollapsed) {
+        item.removeAttribute("data-collapsed");
+        trigger.setAttribute("aria-expanded", "true");
+      } else {
+        item.setAttribute("data-collapsed", "");
+        trigger.setAttribute("aria-expanded", "false");
+      }
+    });
+  });
+</script>

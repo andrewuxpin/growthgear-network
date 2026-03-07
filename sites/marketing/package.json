@@ -11,6 +11,7 @@
     "typecheck": "astro check && tsc --noEmit"
   },
   "dependencies": {
+    "@astrojs/mdx": "^3.1.9",
     "@astrojs/rss": "^4.0.0",
     "@astrojs/sitemap": "^3.7.0",
     "@astrojs/tailwind": "^5.1.0",
