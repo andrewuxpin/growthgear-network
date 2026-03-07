@@ -20,6 +20,14 @@ const articlesCollection = defineCollection({
       .optional(),
     tags: z.array(z.string()).optional(),
     isSponsored: z.boolean().default(false),
+    keyTakeaways: z.array(z.string()).optional(),
+    callout: z
+      .object({
+        variant: z.enum(["tip", "warning", "pro"]),
+        title: z.string(),
+        content: z.string(),
+      })
+      .optional(),
     faq: z
       .array(
         z.object({

@@ -10,6 +10,7 @@ import SocialShare from "@growthgear/shared/components/SocialShare.astro";
 import ReadingProgressBar from "@growthgear/shared/components/ReadingProgressBar.astro";
 import ImageLightbox from "@growthgear/shared/components/ImageLightbox.astro";
 import FAQ from "@growthgear/shared/components/FAQ.astro";
+import InlineCTA from "@growthgear/shared/components/InlineCTA.astro";
 import FloatingCTA from "@growthgear/shared/components/FloatingCTA.astro";
 import { formatDate, readingTime, countWords } from "@growthgear/shared/utils";
 import type { SEOData, Article } from "@growthgear/shared/types";
@@ -47,6 +48,32 @@ const breadcrumbs = [
   { name: category?.name || data.category, href: `/${data.category}` },
   { name: data.title, href: `/${data.category}/${article.slug}` },
 ];
+
+// Build KeyTakeaways HTML to avoid slot-string race condition in Astro 4
+const keyTakeawaysHtml = data.keyTakeaways && data.keyTakeaways.length > 0
+  ? `<div class="bg-primary-50 border-l-4 border-primary-500 rounded-lg p-5 my-6 not-prose" role="complementary" aria-label="Key Takeaways">
+      <h2 id="key-takeaways" class="text-base font-bold text-gray-800 mb-3">Key Takeaways</h2>
+      <ul class="list-none pl-5 mb-0 space-y-2">
+        ${data.keyTakeaways.map((item: string) => `<li class="text-sm text-gray-600 leading-relaxed relative before:content-['\\2713'] before:text-primary-500 before:font-bold before:absolute before:-left-5">${item}</li>`).join("")}
+      </ul>
+    </div>`
+  : "";
+
+// Build Callout HTML
+const calloutStyles: Record<string, { bg: string; border: string; defaultTitle: string }> = {
+  tip: { bg: "bg-emerald-50", border: "border-emerald-500", defaultTitle: "Pro tip" },
+  warning: { bg: "bg-amber-50", border: "border-amber-500", defaultTitle: "Common mistake" },
+  pro: { bg: "bg-primary-50", border: "border-primary-500", defaultTitle: "Advanced strategy" },
+};
+const calloutHtml = data.callout
+  ? (() => {
+      const style = calloutStyles[data.callout.variant] || calloutStyles.tip;
+      return `<div class="border-l-4 rounded-lg p-5 my-6 not-prose ${style.bg} ${style.border}">
+        <p class="text-sm font-bold text-gray-800 mb-1">${data.callout.title ?? style.defaultTitle}</p>
+        <div class="text-sm text-gray-600 leading-relaxed">${data.callout.content}</div>
+      </div>`;
+    })()
+  : "";
 
 const articleData: Article = {
   slug: article.slug,
@@ -143,9 +170,15 @@ const articleData: Article = {
 
           <!-- Center: Article Content -->
           <article class="min-w-0">
+            {keyTakeawaysHtml && <Fragment set:html={keyTakeawaysHtml} />}
+
+            {calloutHtml && <Fragment set:html={calloutHtml} />}
+
             <div class="prose prose-lg max-w-none" data-blog-content>
               <slot />
             </div>
+
+            <InlineCTA />
 
             {data.faq && data.faq.length > 0 && <FAQ items={data.faq} />}
           </article>

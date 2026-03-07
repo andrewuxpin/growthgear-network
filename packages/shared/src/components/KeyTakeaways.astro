@@ -16,7 +16,7 @@ const { items } = Astro.props;
   <ul class="list-none pl-5 mb-0 space-y-2">
     {items.map((item) => (
       <li class="text-sm text-gray-600 leading-relaxed relative before:content-['\2713'] before:text-primary-500 before:font-bold before:absolute before:-left-5">
-        <Fragment set:html={item} />
+        {item}
       </li>
     ))}
   </ul>

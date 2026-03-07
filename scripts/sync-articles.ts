@@ -235,14 +235,12 @@ function getArticlesDir(siteId: string): string {
 
 function getArticleFilePath(siteId: string, slug: string): string {
   const articlesDir = getArticlesDir(siteId);
-  return path.join(articlesDir, `${slug}.mdx`);
+  return path.join(articlesDir, `${slug}.md`);
 }
 
 function articleExists(siteId: string, slug: string): boolean {
-  // Check for .mdx (current) and .md (legacy)
-  const mdxPath = getArticleFilePath(siteId, slug);
-  const mdPath = mdxPath.replace(/\.mdx$/, ".md");
-  return fs.existsSync(mdxPath) || fs.existsSync(mdPath);
+  const filePath = getArticleFilePath(siteId, slug);
+  return fs.existsSync(filePath);
 }
 
 function getArticleFileModTime(siteId: string, slug: string): Date | null {
@@ -321,16 +319,8 @@ async function syncArticle(apiKey: string, article: Article, forceUpdate = false
   // Generate frontmatter
   const frontmatter = generateFrontmatter(fullArticle, faq);
 
-  // MDX component imports
-  const mdxImports = `import KeyTakeaways from '@growthgear/shared/components/KeyTakeaways.astro';
-import InlineCTA from '@growthgear/shared/components/InlineCTA.astro';
-import Callout from '@growthgear/shared/components/Callout.astro';`;
-
-  // Insert InlineCTA at ~60% through the content (at a heading boundary)
-  const contentWithCTA = insertInlineCTA(cleanContent);
-
-  // Combine frontmatter, imports, and content
-  const markdown = `${frontmatter}\n${mdxImports}\n\n${contentWithCTA}`;
+  // Combine frontmatter and content (components rendered by layout from frontmatter data)
+  const markdown = `${frontmatter}\n${cleanContent}`;
 
   // Ensure directory exists
   const articlesDir = getArticlesDir(article.site_id);

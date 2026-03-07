@@ -2,9 +2,10 @@
 interface Props {
   variant?: "tip" | "warning" | "pro";
   title?: string;
+  content?: string;
 }
 
-const { variant = "tip", title } = Astro.props;
+const { variant = "tip", title, content } = Astro.props;
 
 const styles = {
   tip: { bg: "bg-emerald-50", border: "border-emerald-500", defaultTitle: "Pro tip" },
@@ -18,6 +19,6 @@ const style = styles[variant];
 <div class={`border-l-4 rounded-lg p-5 my-6 not-prose ${style.bg} ${style.border}`}>
   <p class="text-sm font-bold text-gray-800 mb-1">{title ?? style.defaultTitle}</p>
   <div class="text-sm text-gray-600 leading-relaxed [&_p]:mb-0">
-    <slot />
+    {content}
   </div>
 </div>
