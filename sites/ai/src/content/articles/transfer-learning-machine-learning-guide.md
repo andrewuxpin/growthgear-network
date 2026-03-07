@@ -31,7 +31,7 @@ faq:
     answer: "Healthcare (medical imaging with <1,000 scans), manufacturing (defect detection), retail (product recognition), and fintech (document processing) see the highest transfer learning ROI due to limited labeled data availability."
 ---
 
-Training a deep learning model from scratch requires millions of labeled examples and weeks of GPU compute. Transfer learning eliminates both requirements — and it's the reason most real-world AI deployments in 2026 are economically viable.
+Training a deep learning model from scratch requires millions of labeled examples and weeks of GPU compute. Transfer learning eliminates both requirements — and it's the reason most real-world AI deployments in 2026 are economically viable. As AutoML tools make transfer learning more accessible, understanding when and how to apply it is becoming a core differentiator for data science teams. For context on how AI is shifting data roles more broadly, see our analysis of [whether data science will be replaced by AI](/machine-learning/will-data-science-be-replaced-by-ai).
 
 The concept: take a model already trained on a massive dataset, adapt its learned representations to your specific problem, and produce a high-accuracy model in days rather than months. A 2023 survey by [Hugging Face](https://huggingface.co/blog/the-state-of-transfer-learning) found that 87% of production ML deployments now start from a pre-trained checkpoint rather than random initialization.
 

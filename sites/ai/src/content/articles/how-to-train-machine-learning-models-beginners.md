@@ -95,7 +95,7 @@ Start by clearly defining what you want to achieve:
 
 ### Step 2: Collect and Prepare Your Data
 
-Data quality directly impacts model performance. According to IBM, data scientists spend 80% of their time on data preparation.
+Data quality directly impacts model performance. According to IBM, data scientists spend 80% of their time on data preparation. As AI tooling automates more of this work, the human judgment calls — which data to include, how to handle edge cases, what the data actually represents — become the highest-value contribution. For a broader look at how automation is reshaping data roles, see our analysis of [whether data science will be replaced by AI](/machine-learning/will-data-science-be-replaced-by-ai).
 
 #### Data Collection Sources
 - **Public datasets**: Kaggle, UCI Machine Learning Repository, Google Dataset Search
