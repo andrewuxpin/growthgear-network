@@ -39,7 +39,7 @@ callout:
   content: "It is tempting to jump to content optimization or link building, but none of that matters if Googlebot cannot access your pages. Always start your audit with robots.txt, sitemap validation, and Search Console coverage reports."
 ---
 
-A technical SEO audit is the diagnostic scan your website needs before any content or link building strategy makes sense. Rankings don't come from great content alone — they require a site that Google can actually crawl, understand, and trust.
+A technical SEO audit is the diagnostic scan your website needs before any content or link building strategy makes sense. Rankings don't come from great content alone — they require a site that Google can actually crawl, understand, and trust. If you're still building the foundations of your content program, our guide on [how SEO and content marketing work together](/seo/how-seo-and-content-marketing-work-together) covers the strategic layer that sits above the technical work.
 
 Most sites have between 15 and 40 technical SEO issues at any given time. The majority go unnoticed because they don't cause immediate symptoms — they just quietly suppress rankings. This checklist covers every layer of technical SEO, from robots.txt configuration to Core Web Vitals, in the order that has the highest impact.
 

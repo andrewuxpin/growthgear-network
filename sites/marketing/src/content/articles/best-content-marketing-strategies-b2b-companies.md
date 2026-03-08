@@ -255,7 +255,7 @@ Random content creation wastes resources and confuses audiences. Always tie cont
 B2B buyers want education and insights, not sales pitches. Follow the 80/20 rule: 80% educational value, 20% promotional content.
 
 ### 3. Ignoring SEO Fundamentals
-Great content that can't be found won't drive results. Invest in keyword research, on-page optimization, and technical SEO.
+Great content that can't be found won't drive results. Invest in keyword research, on-page optimization, and technical SEO. For a detailed breakdown of how the two disciplines reinforce each other, see our guide on [how SEO and content marketing work together](/seo/how-seo-and-content-marketing-work-together).
 
 ### 4. Inconsistent Publishing
 Sporadic content creation hurts momentum and audience engagement. Develop realistic publishing schedules and stick to them. A structured [social media content calendar](/social-media/how-to-create-social-media-content-calendar) is one of the most effective ways to enforce consistency across channels.
