@@ -79,7 +79,7 @@ A high-quality B2B cold outreach list starts with your ideal customer profile (I
 
 ### Defining Your ICP for Cold Outreach
 
-Your ICP for cold outreach is narrower than your general ICP. You're not targeting every company that could use your solution. You're targeting companies that have a reason to act on it now.
+Your ICP for cold outreach is narrower than your general ICP — for a detailed breakdown of the components that matter most, see [defining your enterprise target profile criteria](/b2b-sales/b2b-enterprise-target-profile-criteria). You're not targeting every company that could use your solution. You're targeting companies that have a reason to act on it now.
 
 The B2B cold outreach ICP has four dimensions:
 

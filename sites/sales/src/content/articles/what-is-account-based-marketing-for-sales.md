@@ -33,7 +33,7 @@ In today's competitive business landscape, companies using ABM strategies see 20
 
 ### The ABM Philosophy Shift
 
-Account-based marketing represents a fundamental shift from volume-based marketing to precision-targeted engagement. Traditional marketing focuses on generating as many leads as possible, then qualifying them through the sales funnel. ABM flips this model by starting with the ideal customer profile and working backward to create highly targeted campaigns.
+Account-based marketing represents a fundamental shift from volume-based marketing to precision-targeted engagement. Traditional marketing focuses on generating as many leads as possible, then qualifying them through the sales funnel. ABM flips this model by starting with the [enterprise target profile criteria](/b2b-sales/b2b-enterprise-target-profile-criteria) and working backward to create highly targeted campaigns.
 
 Key differences between traditional marketing and ABM:
 

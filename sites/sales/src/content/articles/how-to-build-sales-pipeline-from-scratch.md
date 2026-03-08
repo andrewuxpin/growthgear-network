@@ -120,7 +120,7 @@ Before you can effectively fill your pipeline, you must clearly understand who y
 
 ### Creating Your ICP
 
-1. **Analyze existing customers**: Look at your most successful and profitable customers to identify common characteristics
+1. **Analyze existing customers**: Look at your most successful and profitable customers to identify common characteristics — use [B2B enterprise target profile criteria](/b2b-sales/b2b-enterprise-target-profile-criteria) as a framework for structuring what you find
 2. **Conduct customer interviews**: Speak with current customers to understand their journey and decision factors
 3. **Review lost deals**: Analyze why certain prospects didn't convert to avoid targeting similar profiles
 4. **Collaborate with other teams**: Work with marketing, customer success, and product teams to gather insights
