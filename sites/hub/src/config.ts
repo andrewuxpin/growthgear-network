@@ -29,7 +29,7 @@ export const siteConfig: SiteConfig = {
   },
   seo: {
     titleTemplate: "%s | GrowthGear",
-    defaultDescription: "Your network of expert resources for AI, sales, and marketing success.",
+    defaultDescription: "Your network of expert resources for AI, sales, and marketing success. Actionable guides and insights to help Australian businesses grow faster.",
     siteUrl: "https://hub.growthgear.com.au",
   },
 };

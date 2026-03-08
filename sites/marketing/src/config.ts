@@ -38,16 +38,16 @@ export const categories = [
   {
     slug: "content-marketing",
     name: "Content Marketing",
-    description: "Create compelling content that drives traffic, engagement, and conversions.",
+    description: "Create compelling content that drives traffic, builds authority, and converts readers into customers. Practical content marketing strategies for digital growth.",
   },
   {
     slug: "seo",
     name: "SEO",
-    description: "Search engine optimization strategies to rank higher and drive organic growth.",
+    description: "Search engine optimization strategies to rank higher, drive organic traffic, and outperform competitors. From technical SEO to content optimization.",
   },
   {
     slug: "social-media",
     name: "Social Media",
-    description: "Build your brand and engage audiences across social platforms.",
+    description: "Build your brand, grow followers, and engage audiences across social media platforms. Data-driven strategies for Instagram, LinkedIn, TikTok, and beyond.",
   },
 ];
