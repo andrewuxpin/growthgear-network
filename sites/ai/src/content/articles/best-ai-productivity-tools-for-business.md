@@ -113,7 +113,7 @@ Grammarly operates at the editing and governance layer, not the generation layer
 
 ## Best AI Automation and Workflow Tools
 
-These tools multiply productivity by eliminating the manual connective tissue between applications — the copy-pasting, status updates, and repetitive handoffs that drain hours from knowledge workers.
+These tools multiply productivity by eliminating the manual connective tissue between applications — the copy-pasting, status updates, and repetitive handoffs that drain hours from knowledge workers. If you're building your first automation workflow, the step-by-step guide on [how to use AI to automate tasks](/ai-tools/how-to-use-ai-to-automate-tasks-complete-guide) covers the selection and piloting process in detail.
 
 ### Zapier
 
