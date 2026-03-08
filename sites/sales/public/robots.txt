@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://sales.growthgear.com.au/sitemap.xml
