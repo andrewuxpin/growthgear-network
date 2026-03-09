@@ -132,7 +132,7 @@ A well-optimized article from a domain with moderate authority can appear in the
 
 ## Content Formats That Earn Rankings and Links
 
-Not all content ranks equally. Format choice directly affects both search performance and link acquisition — the two primary drivers of organic growth. Pages that rank in position one tend to share predictable characteristics: sufficient depth, strong internal linking, and backlinks from authoritative external sources.
+Not all content ranks equally. Format choice directly affects both search performance and link acquisition — the two primary drivers of organic growth. Pages that rank in position one tend to share predictable characteristics: sufficient depth, strong internal linking, and backlinks from authoritative external sources. For a complete breakdown of how to move your pages up the results page, see our guide to [search engine positioning](/seo/search-engine-positioning-guide).
 
 Understanding which formats earn each of these outcomes helps you prioritize your content investment. For a broader look at how content drives site traffic, see our guide on [how to increase organic website traffic fast](/seo/how-to-increase-organic-website-traffic-fast).
 
