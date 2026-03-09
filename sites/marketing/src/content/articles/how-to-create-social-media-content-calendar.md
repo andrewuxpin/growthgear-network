@@ -33,7 +33,7 @@ faq:
 
 Most brands post on social media reactively — scrambling to fill the feed whenever they remember. The result: inconsistent messaging, missed opportunities, and engagement that never gains momentum.
 
-A **social media content calendar** changes that. Brands that plan content in advance publish 3x more consistently and see 23% higher engagement rates compared to those who post ad hoc, according to [Sprout Social's industry benchmarks](https://sproutsocial.com/insights/social-media-content-calendar/). Consistency isn't just a nice-to-have — it's the algorithm's primary signal that your account deserves reach.
+A **social media content calendar** changes that. Brands that plan content in advance publish 3x more consistently and see 23% higher engagement rates compared to those who post ad hoc, according to Sprout Social's industry benchmarks. Consistency isn't just a nice-to-have — it's the algorithm's primary signal that your account deserves reach.
 
 This guide shows you exactly how to build a content calendar from scratch, maintain it without burning out, and measure whether it's actually driving business results.
 
@@ -45,7 +45,7 @@ A content calendar isn't a bureaucratic exercise. It's a strategic tool that sol
 
 Algorithms on every major platform — Instagram, LinkedIn, TikTok, X — reward accounts that post predictably. When you disappear for two weeks and then flood the feed with five posts in a day, the algorithm treats you as low priority. A calendar enforces the posting rhythm that platforms reward.
 
-The data backs this up: accounts posting on a consistent schedule gain followers 40% faster than those with irregular cadences, per [HubSpot's Social Media Trends Report](https://blog.hubspot.com/marketing/social-media-content-calendar).
+The data backs this up: accounts posting on a consistent schedule gain followers 40% faster than those with irregular cadences, per HubSpot's Social Media Trends Report.
 
 ### The Strategy Problem
 

@@ -67,7 +67,7 @@ Most business automation projects start with **language tasks** — they're the 
 
 ### Why AI Automation Compounds Over Time
 
-Each automated workflow generates data. That data can train better models, reveal new inefficiencies, and identify the next automation opportunity. Teams that start with one automated process and measure results carefully typically identify 3-5 additional automations within the first quarter. The [Gartner Automation Maturity Model](https://www.gartner.com/en/information-technology/topics/ai-automation) describes this as the "automation flywheel" — early wins generate momentum and internal expertise that accelerates future deployments.
+Each automated workflow generates data. That data can train better models, reveal new inefficiencies, and identify the next automation opportunity. Teams that start with one automated process and measure results carefully typically identify 3-5 additional automations within the first quarter. The Gartner Automation Maturity Model describes this as the "automation flywheel" — early wins generate momentum and internal expertise that accelerates future deployments.
 
 For deeper context on how AI fits into your broader business strategy, the guide on [how to implement AI in business](/machine-learning/how-to-implement-ai-in-business-complete-guide) covers the organizational readiness steps that precede any automation initiative.
 

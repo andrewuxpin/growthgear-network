@@ -218,7 +218,7 @@ Each type shows valid, warning, and error counts. Errors mean the structured dat
 - Using deprecated properties
 - Markup not matching visible page content
 
-Rich results directly increase CTR. [Moz's structured data research](https://moz.com/learn/seo/google-search-console) consistently shows 20-30% CTR improvements when FAQ or How-to rich results appear. Fix every structured data error — it's free visibility.
+Rich results directly increase CTR. Moz's structured data research consistently shows 20-30% CTR improvements when FAQ or How-to rich results appear. Fix every structured data error — it's free visibility.
 
 ### Setting Up Email Alerts
 

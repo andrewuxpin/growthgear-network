@@ -51,7 +51,7 @@ This guide covers the complete mechanics of B2B cold outreach: how to build targ
 
 Effective B2B cold outreach works when three variables align: the right person, the right message, and the right moment. Most teams optimize for message and ignore the other two. That's why most cold outreach fails.
 
-According to [HubSpot's State of Sales report](https://blog.hubspot.com/sales/cold-email), 33% of sales professionals say cold email is their most effective outreach channel — but the same data shows a massive performance gap between top and average performers. The gap isn't creativity. It's targeting and timing.
+According to HubSpot's State of Sales report, 33% of sales professionals say cold email is their most effective outreach channel — but the same data shows a massive performance gap between top and average performers. The gap isn't creativity. It's targeting and timing.
 
 ### Why Personalization at Scale Is Achievable
 
@@ -194,7 +194,7 @@ This sequence structure consistently produces 8-12% reply rates for well-targete
 
 ### Timing and Spacing That Optimizes Opens
 
-Based on [HubSpot research on email send times](https://blog.hubspot.com/sales/cold-email):
+Based on HubSpot research on email send times:
 
 - **Best days to send:** Tuesday and Thursday outperform Monday, Friday, and weekends by 15-20%
 - **Best times:** 8-9 AM and 3-4 PM in the prospect's time zone

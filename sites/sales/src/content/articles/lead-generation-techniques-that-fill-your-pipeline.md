@@ -73,7 +73,7 @@ The mechanics of a high-converting cold email sequence:
 
 **Email 4 (Day 14):** The break-up email. "I don't want to keep following up if this isn't relevant. Should I close out this thread?" This generates a 20-30% response rate on its own—either they re-engage or give you a clear no.
 
-Personalization is the difference between spam and pipeline. A 2024 [Salesforce State of Sales report](https://www.salesforce.com/resources/articles/lead-generation/) found that personalized outreach sequences generate 6x higher response rates than generic templates. For the full sequencing playbook — timing, subject lines, and multi-channel cadence — see our [B2B cold outreach strategy guide](/sales-techniques/b2b-cold-outreach-strategy-guide).
+Personalization is the difference between spam and pipeline. A 2024 Salesforce State of Sales report found that personalized outreach sequences generate 6x higher response rates than generic templates. For the full sequencing playbook — timing, subject lines, and multi-channel cadence — see our [B2B cold outreach strategy guide](/sales-techniques/b2b-cold-outreach-strategy-guide).
 
 ### LinkedIn Outreach
 
@@ -102,7 +102,7 @@ Outbound builds pipeline fast. Inbound builds it permanently. The best B2B lead 
 
 ### Content-Driven SEO
 
-Content marketing generates 3x more leads than outbound at 62% lower cost, according to [research from the Content Marketing Institute](https://hbr.org/2011/07/the-end-of-solution-sales). The catch: it takes 3-6 months to produce meaningful results.
+Content marketing generates 3x more leads than outbound at 62% lower cost, according to research from the Content Marketing Institute. The catch: it takes 3-6 months to produce meaningful results.
 
 The content that generates leads isn't thought leadership pieces. It's search-intent content—articles that answer specific questions your prospects type into Google when they have a problem you solve.
 
@@ -180,7 +180,7 @@ Layer intent data on top of your ICP and you move from prospect lists to priorit
 
 ### Speed to Lead
 
-[Harvard Business Review research](https://hbr.org/2011/07/the-end-of-solution-sales) on inbound lead response found that companies responding within 5 minutes are 100x more likely to qualify a lead than those responding after 30 minutes. After an hour, the probability of qualification drops by 80%.
+Harvard Business Review research on inbound lead response found that companies responding within 5 minutes are 100x more likely to qualify a lead than those responding after 30 minutes. After an hour, the probability of qualification drops by 80%.
 
 Speed to lead matters most for inbound leads—website conversions, content downloads, demo requests. Build an automatic notification system that alerts the assigned SDR within 60 seconds of any high-intent action.
 

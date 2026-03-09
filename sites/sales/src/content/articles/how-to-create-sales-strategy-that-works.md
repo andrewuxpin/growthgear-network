@@ -122,7 +122,7 @@ Your strategy must account for who else is competing for the same deals. For eac
 - **Your counter-messaging** (how to reframe the comparison in your favor)
 
 
-[HubSpot's sales strategy guide](https://blog.hubspot.com/sales/ultimate-guide-to-sales-strategy) notes that sales reps who understand competitive positioning win 33% more deals than those who rely solely on product knowledge.
+HubSpot's sales strategy guide notes that sales reps who understand competitive positioning win 33% more deals than those who rely solely on product knowledge.
 
 > **Want to accelerate your sales growth with a strategy that's built for your market?** GrowthGear has helped 50+ startups build sales engines that deliver 156% average growth. [Book a Free Strategy Session](https://growthgear.com.au) to map out your sales strategy and get a clear action plan.
 
@@ -183,7 +183,7 @@ Define exactly what constitutes a Marketing Qualified Lead (MQL) and a Sales Qua
 
 An MQL is typically: a contact matching ICP firmographics who has taken a meaningful engagement action (downloaded a resource, attended a webinar, requested pricing information). An SQL is an MQL where a sales rep has confirmed: budget exists, authority to decide, a genuine need, and a timeline.
 
-The handoff SLA matters: what is the maximum time between MQL assignment and first sales contact? Research by [Harvard Business Review](https://hbr.org/2006/07/rediscovering-market-segmentation) shows companies responding to leads within an hour are 7x more likely to qualify them than those waiting longer. For inbound demand generation that produces better-qualified MQLs, [how to create high-converting sales funnels](https://marketing.growthgear.com.au/content-marketing/how-to-create-high-converting-sales-funnels-complete-guide) is worth reviewing with your marketing team.
+The handoff SLA matters: what is the maximum time between MQL assignment and first sales contact? Research by Harvard Business Review shows companies responding to leads within an hour are 7x more likely to qualify them than those waiting longer. For inbound demand generation that produces better-qualified MQLs, [how to create high-converting sales funnels](https://marketing.growthgear.com.au/content-marketing/how-to-create-high-converting-sales-funnels-complete-guide) is worth reviewing with your marketing team.
 
 ## Step 3 — Execute, Measure, and Iterate
 

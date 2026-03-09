@@ -87,7 +87,7 @@ A **3x–4x coverage ratio** is the standard benchmark for most B2B sales teams.
 
 Below 3x signals a volume problem — your reps aren't generating enough qualified opportunities. Above 5x often means pipeline hygiene is poor, with stale or unqualified deals inflating the number.
 
-Coverage ratios vary by industry: [Gartner research on sales pipeline management](https://www.gartner.com/en/sales/insights/sales-pipeline-management) shows enterprise software companies typically need 4x–5x coverage due to longer sales cycles and higher deal mortality rates.
+Coverage ratios vary by industry: Gartner research on sales pipeline management shows enterprise software companies typically need 4x–5x coverage due to longer sales cycles and higher deal mortality rates.
 
 ### 2. Win Rate
 
@@ -155,7 +155,7 @@ The agenda should cover:
 
 The manager's role in pipeline reviews isn't to interrogate — it's to coach. The question isn't "where is this deal?" but "what's the next buyer action, and when does it happen?"
 
-[HubSpot's research on sales pipeline management](https://blog.hubspot.com/sales/sales-pipeline-management) found that companies with formal pipeline reviews grew revenue 28% faster than those without them.
+HubSpot's research on sales pipeline management found that companies with formal pipeline reviews grew revenue 28% faster than those without them.
 
 ### Stage-Level Time Limits
 

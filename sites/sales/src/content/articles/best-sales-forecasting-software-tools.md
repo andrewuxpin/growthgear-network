@@ -31,7 +31,7 @@ faq:
     answer: "Most forecasting tools connect via native CRM integrations or Zapier. Salesforce, HubSpot, and Pipedrive all have large app ecosystems. Setup typically takes 1-3 days for native integrations, with full data sync taking 2-4 weeks of historical data ingestion."
 ---
 
-Revenue forecasting shouldn't feel like guesswork. Yet 67% of sales organizations report that their forecasts are off by more than 10%, according to [Gartner research](https://www.gartner.com/en/sales/topics/sales-forecasting). That gap costs real money—in missed hires, wasted budget, and deals that fall apart because nobody saw them slipping.
+Revenue forecasting shouldn't feel like guesswork. Yet 67% of sales organizations report that their forecasts are off by more than 10%, according to Gartner research. That gap costs real money—in missed hires, wasted budget, and deals that fall apart because nobody saw them slipping.
 
 The right sales forecasting software changes that. It transforms your pipeline from a snapshot into a living signal, letting you spot problems weeks before they hit the numbers and give leadership confidence in the projections you bring to board meetings.
 
@@ -222,7 +222,7 @@ Fix it by defining exactly what "Commit" means at your company: close date withi
 
 A forecast reviewed once a quarter is a post-mortem, not a management tool. Weekly forecast reviews, with deal-level inspection of slipping opportunities, are what separate high-performing sales orgs from average ones.
 
-[Salesforce research](https://www.salesforce.com/resources/articles/sales-forecasting/) shows that teams with weekly forecast reviews achieve 14% higher quota attainment than those with monthly reviews. The cadence matters as much as the tool.
+Salesforce research shows that teams with weekly forecast reviews achieve 14% higher quota attainment than those with monthly reviews. The cadence matters as much as the tool.
 
 ### Mistake 3: Ignoring the Denominator
 

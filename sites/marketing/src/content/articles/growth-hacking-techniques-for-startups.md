@@ -137,7 +137,7 @@ Once identified, redesign your onboarding to drive users to the aha moment in th
 
 ### Onboarding as a Growth Lever
 
-Poor onboarding is the #1 cause of early churn. A [Wyzowl survey](https://blog.hubspot.com/marketing/growth-hacking) found that 86% of customers are more loyal to companies that invest in onboarding.
+Poor onboarding is the #1 cause of early churn. A Wyzowl survey found that 86% of customers are more loyal to companies that invest in onboarding.
 
 High-converting onboarding patterns:
 
