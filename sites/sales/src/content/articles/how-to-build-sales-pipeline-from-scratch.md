@@ -324,6 +324,8 @@ When establishing KPI targets, consider:
 
 - **Weekly pipeline reviews**: Regular team meetings to discuss pipeline health
 - **Monthly performance reports**: Individual and team performance summaries
+
+For individual reps, [salesperson strategies to hit quota consistently](/sales-techniques/salesperson-strategies-hit-quota-consistently) covers the personal habits and metrics that translate pipeline structure into predictable quota attainment.
 - **Quarterly business reviews**: Strategic analysis of trends and opportunities
 - **Real-time dashboards**: Immediate visibility into key metrics
 

@@ -55,7 +55,7 @@ According to [HubSpot's State of Sales report](https://blog.hubspot.com/sales/co
 
 ### Why Personalization at Scale Is Achievable
 
-The most common excuse for generic outreach is "we don't have time to personalize." That's a false choice. The model that works is 30% custom, 70% templated.
+The most common excuse for generic outreach is "we don't have time to personalize." That's a false choice. The model that works is 30% custom, 70% templated. Cold outreach is just one component of a broader daily selling system — for the full picture of how top reps allocate time across prospecting, pipeline management, and performance tracking, see [salesperson strategies to hit quota consistently](/sales-techniques/salesperson-strategies-hit-quota-consistently).
 
 The custom 30% is the first 1-2 sentences: a specific observation about the prospect's business. Everything else — the value proposition, the social proof, the CTA — can be templated by segment.
 
