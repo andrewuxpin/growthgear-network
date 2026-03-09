@@ -76,6 +76,8 @@ Machine Learning is a subset of AI focused on algorithms that automatically impr
 - Examples: Game playing AI, autonomous vehicles
 - Uses reward/penalty systems
 
+For a deeper breakdown of each algorithm type, its data requirements, and which business problems it solves, see our [machine learning algorithms and applications guide](/machine-learning/machine-learning-algorithms-and-applications-guide).
+
 ## The Key Differences: AI vs Machine Learning
 
 ### 1. Scope and Definition

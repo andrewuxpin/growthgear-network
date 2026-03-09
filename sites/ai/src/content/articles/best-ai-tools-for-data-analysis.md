@@ -46,7 +46,7 @@ Before diving into specific platforms, it's essential to understand the critical
 
 ### Core Analytical Capabilities
 
-- **Automated machine learning (AutoML)** for predictive modeling
+- **Automated machine learning (AutoML)** for predictive modeling — to understand which ML algorithms these platforms use under the hood, see our [machine learning algorithms and applications guide](/machine-learning/machine-learning-algorithms-and-applications-guide)
 - **Natural language querying** to ask questions in plain English
 - **Real-time data processing** and streaming analytics
 - **Advanced visualization** with interactive dashboards
