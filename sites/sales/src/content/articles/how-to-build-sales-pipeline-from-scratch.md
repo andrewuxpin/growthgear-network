@@ -155,7 +155,7 @@ With your ICP defined, you can now focus on generating qualified leads that matc
 - Personalized email sequences based on prospect research
 - A/B testing of subject lines and messaging
 - Multi-touch campaigns with varied content types
-- Integration with your CRM for tracking and follow-up
+- Integration with your CRM for tracking and follow-up — once leads enter the pipeline, your CRM is where the work happens. If you haven't configured yours yet, the [guide to using CRM software for sales teams](/crm-tools/how-to-use-crm-software-for-sales-teams) covers setup, daily workflows, and reporting in detail
 
 **Cold Calling**:
 - Research-based calling lists aligned with your ICP

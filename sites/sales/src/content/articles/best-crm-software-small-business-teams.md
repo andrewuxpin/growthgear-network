@@ -62,7 +62,7 @@ A visual sales pipeline helps teams track deals from initial contact to closing.
 - **Deal alerts** for time-sensitive opportunities
 - **Pipeline analytics** showing conversion rates by stage
 
-Once your pipeline is properly configured, consider pairing it with dedicated [sales forecasting software](/crm-tools/best-sales-forecasting-software-tools) to move beyond basic probability weighting and into AI-driven revenue predictions. The CRM is also the foundation for active [sales pipeline management](/b2b-sales/sales-pipeline-management-guide) — the ongoing discipline of reviewing, cleaning, and advancing deals that separates high-performing teams from those perpetually surprised by their results.
+Once your pipeline is properly configured, consider pairing it with dedicated [sales forecasting software](/crm-tools/best-sales-forecasting-software-tools) to move beyond basic probability weighting and into AI-driven revenue predictions. The CRM is also the foundation for active [sales pipeline management](/b2b-sales/sales-pipeline-management-guide) — the ongoing discipline of reviewing, cleaning, and advancing deals that separates high-performing teams from those perpetually surprised by their results. For a step-by-step walkthrough of daily CRM habits, pipeline review processes, and reporting setup, see the complete guide on [how to use CRM software for sales teams](/crm-tools/how-to-use-crm-software-for-sales-teams).
 
 ### Communication Tools
 
