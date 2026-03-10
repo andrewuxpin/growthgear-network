@@ -140,6 +140,14 @@ const articleData: Article = {
             <time datetime={data.publishedAt.toISOString()}>
               {formatDate(data.publishedAt)}
             </time>
+            {data.updatedAt && data.updatedAt.getTime() !== data.publishedAt.getTime() && (
+              <>
+                <span class="text-gray-300">&bull;</span>
+                <time datetime={data.updatedAt.toISOString()}>
+                  Updated {formatDate(data.updatedAt)}
+                </time>
+              </>
+            )}
             <span class="text-gray-300">&bull;</span>
             <span>{readTime} min read</span>
           </div>
