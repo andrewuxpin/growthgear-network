@@ -50,7 +50,7 @@ According to Hootsuite's 2024 Social Media Trends report, businesses using autom
 
 ### Cost-Effectiveness
 
-Hiring a dedicated social media manager can cost $35,000-$50,000 annually. Automation tools typically range from $10-$300 monthly, delivering similar results at a fraction of the cost.
+Hiring a dedicated social media manager can cost $35,000-$50,000 annually, while partnering with a [social media marketing agency (SMMA)](/social-media/what-is-smma-social-media-marketing-agency-guide) typically runs $1,000-$10,000/month. Automation tools themselves range from $10-$300 monthly and work best as a layer on top of either approach — amplifying whatever team or agency structure you already have.
 
 ## Top 10 Best Social Media Automation Tools for Small Business
 

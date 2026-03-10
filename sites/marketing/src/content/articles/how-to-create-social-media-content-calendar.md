@@ -65,7 +65,7 @@ A proven content mix that works across most B2B and B2C brands:
 
 Without planning, teams waste enormous time on last-minute creation. A content calendar lets you batch-create — writing 20 captions in one session, scheduling a week of graphics in one design sprint. Most marketing teams that adopt a calendar reclaim 5-8 hours per week.
 
-Pair your calendar with [social media automation tools](/social-media/best-social-media-automation-tools-small-business) to schedule posts automatically and push those hours even further.
+Pair your calendar with [social media automation tools](/social-media/best-social-media-automation-tools-small-business) to schedule posts automatically and push those hours even further. If you work with a [social media marketing agency (SMMA)](/social-media/what-is-smma-social-media-marketing-agency-guide), sharing your content calendar directly with the agency team is the most effective way to align brand voice, approval workflows, and posting schedules.
 
 ## Step 1 — Audit Your Current Social Presence
 
