@@ -65,7 +65,7 @@ The most common failure mode: buying multiple AI tools and letting them sit unus
 
 ## Best AI Writing and Content Tools
 
-Writing is where AI delivers the fastest, most visible productivity gains. These tools handle first drafts, editing, SEO optimization, and content repurposing.
+Writing is where AI delivers the fastest, most visible productivity gains. These tools handle first drafts, editing, SEO optimization, and content repurposing. For teams also focused on AI-generated search visibility—how content is cited in ChatGPT and Perplexity—see our guide to [AI search optimization tools](/ai-tools/best-ai-search-optimization-tools).
 
 ### ChatGPT (OpenAI)
 
