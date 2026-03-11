@@ -67,7 +67,7 @@ A transformer block has three key components working together:
 | **Feed-forward network** | Applies a non-linear transformation to each token's representation |
 | **Layer normalization** | Stabilizes training by normalizing activations within each layer |
 
-These blocks are stacked — GPT-2 had 48 layers, GPT-3 had 96, and the largest models today run into the hundreds. The depth creates hierarchical representations: early layers learn syntax, middle layers learn semantics, and late layers learn complex reasoning patterns.
+These blocks are stacked — GPT-2 had 48 layers, GPT-3 had 96, and the largest models today run into the hundreds. The depth creates hierarchical representations: early layers learn syntax, middle layers learn semantics, and late layers learn complex reasoning patterns. This layered architecture follows the same core deep learning principles described in [how deep learning works](/deep-learning/how-deep-learning-works-complete-guide).
 
 ### Encoder vs. Decoder Transformers
 
