@@ -41,7 +41,7 @@ This guide cuts through the noise. Whether you're hiring your first marketing te
 
 A digital marketing specialist plans, executes, and optimizes marketing campaigns across one or more online channels. The role sits between generalist "do everything" marketing coordinators and narrow-focus channel experts (like a dedicated SEO manager or paid media buyer).
 
-In practice, a specialist handles a defined scope of channels while maintaining enough breadth to understand how they interconnect.
+In practice, a specialist handles a defined scope of channels while maintaining enough breadth to understand how they interconnect — the five-pillar framework covered in our [website marketing strategy guide](/seo/website-marketing-strategy-guide) is a useful reference for scoping a specialist's responsibilities.
 
 ### Core Responsibilities
 
