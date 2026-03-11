@@ -67,7 +67,7 @@ Understanding your pipeline health helps you allocate resources more effectively
 
 ## Step 1: Define Your Sales Process Stages
 
-The foundation of any effective sales pipeline is a clearly defined sales process. Your stages should reflect the natural progression of how prospects become customers in your specific business context. If you haven't yet defined your overarching [sales strategy](/sales-techniques/how-to-create-sales-strategy-that-works), start there first—your pipeline structure should be built to serve your strategy, not the other way around.
+The foundation of any effective sales pipeline is a clearly defined sales process. Your stages should reflect the natural progression of how prospects become customers in your specific business context. If you haven't yet defined your overarching [sales strategy](/sales-techniques/how-to-create-sales-strategy-that-works), start there first—your pipeline structure should be built to serve your strategy, not the other way around. For the execution layer — the specific [B2B sales techniques](/sales-techniques/b2b-sales-techniques-that-close-deals) your team uses at each stage — see our dedicated guide.
 
 ### Common Sales Pipeline Stages
 

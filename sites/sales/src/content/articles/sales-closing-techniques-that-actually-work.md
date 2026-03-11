@@ -33,7 +33,7 @@ faq:
 
 Most salespeople lose deals before they reach the close. The conversation falls apart earlier—during discovery, during the demo, during follow-up. But when you've done the front-end work correctly, closing should feel less like a negotiation and more like an agreement that was already reached.
 
-The closing techniques that actually work in B2B sales share a common trait: they're diagnostic, not coercive. They help the prospect reach their own decision, rather than pushing them toward yours.
+The closing techniques that actually work in B2B sales share a common trait: they're diagnostic, not coercive. They help the prospect reach their own decision, rather than pushing them toward yours. If you want to strengthen earlier stages of the cycle first, see our guide on [proven B2B sales techniques](/sales-techniques/b2b-sales-techniques-that-close-deals) covering prospecting, discovery, and multi-threading.
 
 This guide covers the mechanics of closing effectively—from reading buying signals and timing your ask, to the specific language patterns that move deals forward without damaging the relationship.
 

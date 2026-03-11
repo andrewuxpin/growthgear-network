@@ -51,7 +51,7 @@ Successful consultative selling includes these essential elements:
 4. **Value-Based Positioning**: Demonstrating ROI and business impact rather than features
 5. **Educational Approach**: Providing insights and expertise that help customers make informed decisions
 
-Consultative selling is the foundation for success in complex technical deals. If your team sells software, SaaS, or IT infrastructure, our guide on [IT sales techniques for technology sellers](/sales-techniques/it-sales-techniques-guide-for-technology-sellers) applies consultative principles to multi-stakeholder enterprise buying committees.
+Consultative selling is the foundation for success in complex technical deals. If your team sells software, SaaS, or IT infrastructure, our guide on [IT sales techniques for technology sellers](/sales-techniques/it-sales-techniques-guide-for-technology-sellers) applies consultative principles to multi-stakeholder enterprise buying committees. For a broader overview of [B2B sales techniques](/sales-techniques/b2b-sales-techniques-that-close-deals) that put consultative selling in context with other proven methodologies, see our comprehensive guide.
 
 ## Core Benefits of Consultative Selling
 
