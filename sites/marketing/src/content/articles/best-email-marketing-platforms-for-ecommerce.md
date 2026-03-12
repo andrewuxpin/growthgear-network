@@ -477,7 +477,7 @@ Ensure your chosen platform integrates seamlessly with your:
 
 ## Best Practices for Ecommerce Email Marketing Success
 
-Regardless of which platform you choose, implementing these best practices will maximize your email marketing ROI:
+Regardless of which platform you choose, implementing these [email marketing best practices](/content-marketing/email-marketing-best-practices-guide) will maximize your email marketing ROI:
 
 ### Segmentation Strategies
 1. **Purchase behavior**: First-time buyers, repeat customers, VIP customers

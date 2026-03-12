@@ -33,7 +33,7 @@ faq:
 
 Email deployment is the operational backbone of every email marketing program. Most marketers focus on copy and design — but the teams that consistently hit 25%+ open rates and 3%+ CTRs have cracked the deployment layer first.
 
-The difference between a 15% open rate and a 35% open rate often isn't the subject line. It's list hygiene, sending infrastructure, segmentation logic, and deliverability setup. Get deployment right, and every other element of your email program compounds.
+The difference between a 15% open rate and a 35% open rate often isn't the subject line. It's list hygiene, sending infrastructure, segmentation logic, and deliverability setup. Get deployment right, and every other element of your email program compounds. For the foundational [email marketing best practices](/content-marketing/email-marketing-best-practices-guide) that sit alongside deployment — segmentation, subject line testing, and performance measurement — see our dedicated guide.
 
 This guide covers everything from infrastructure choices to segmentation frameworks to the metrics that actually tell you if your deployment is working.
 
