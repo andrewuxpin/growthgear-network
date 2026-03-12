@@ -43,7 +43,7 @@ callout:
 
 Deep learning is the technology behind facial recognition at airport security, the voice assistant on your phone, and the fraud detection system protecting your bank account. For business leaders evaluating AI investments, understanding how it works isn't optional — it's the difference between deploying it effectively and wasting budget on the wrong solution.
 
-This guide explains deep learning mechanics in plain language, covers the architectures that matter for business, and gives you a practical framework for deciding where it applies to your operations.
+This guide explains deep learning mechanics in plain language, covers the architectures that matter for business, and gives you a practical framework for deciding where it applies to your operations. If you're ready to move from understanding to implementation, our step-by-step guide on [how to build a neural network](/deep-learning/how-to-build-a-neural-network-complete-guide) covers architecture selection, training, and deployment.
 
 ## What Is Deep Learning?
 

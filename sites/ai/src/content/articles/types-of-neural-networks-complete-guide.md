@@ -33,7 +33,7 @@ faq:
 
 Neural networks are not one-size-fits-all. A convolutional neural network that achieves 99% accuracy on image classification will perform poorly on text generation. An LSTM that excels at time-series forecasting is the wrong tool for detecting objects in video frames.
 
-Choosing the right architecture is one of the most consequential technical decisions in any AI project — and most business leaders make it without a framework. This guide gives you that framework: a clear breakdown of every major neural network type, what it does well, where it fails, and which business problems each architecture actually solves. If you're new to the field, first read [how deep learning works](/deep-learning/how-deep-learning-works-complete-guide) for a grounding in the training mechanics — backpropagation, gradient descent, and loss functions — that all these architectures share.
+Choosing the right architecture is one of the most consequential technical decisions in any AI project — and most business leaders make it without a framework. This guide gives you that framework: a clear breakdown of every major neural network type, what it does well, where it fails, and which business problems each architecture actually solves. Once you've chosen an architecture, our [complete guide to building a neural network](/deep-learning/how-to-build-a-neural-network-complete-guide) covers the full training, evaluation, and deployment process. If you're new to the field, first read [how deep learning works](/deep-learning/how-deep-learning-works-complete-guide) for a grounding in the training mechanics — backpropagation, gradient descent, and loss functions — that all these architectures share.
 
 ## Feedforward and Convolutional Neural Networks
 
