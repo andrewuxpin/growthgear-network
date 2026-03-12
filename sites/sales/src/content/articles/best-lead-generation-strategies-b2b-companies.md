@@ -28,7 +28,7 @@ Finding the best lead generation strategies for B2B companies has become more ch
 
 Successful B2B lead generation requires a strategic, multi-channel approach that builds trust, demonstrates value, and nurtures relationships over extended buying cycles. Companies that master these strategies see 133% more revenue than those relying on outdated tactics.
 
-This comprehensive guide explores 12 proven lead generation strategies that are driving real results for B2B companies in 2024, complete with actionable implementation steps, real-world examples, and performance metrics.
+This comprehensive guide explores 12 proven lead generation strategies that are driving real results for B2B companies in 2024, complete with actionable implementation steps, real-world examples, and performance metrics. Once you've identified the right mix, the next step is structuring them into a [lead generation campaign](/sales-techniques/how-to-create-lead-generation-campaign) with clear goals, channel allocation, and a measurement framework.
 
 ## Understanding Modern B2B Lead Generation
 

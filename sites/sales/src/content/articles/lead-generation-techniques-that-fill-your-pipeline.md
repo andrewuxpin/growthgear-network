@@ -43,7 +43,7 @@ The failure mode is almost always the same: random activity without a system. Sa
 
 ### The Activity Trap
 
-High lead generation activity feels productive but produces nothing without three things in place: a defined ideal customer profile (ICP), a consistent multi-touch sequence, and clear handoff criteria between marketing-generated leads and sales-ready prospects.
+High lead generation activity feels productive but produces nothing without three things in place: a defined ideal customer profile (ICP), a consistent multi-touch sequence, and clear handoff criteria between marketing-generated leads and sales-ready prospects. Packaging those three elements into a structured [lead generation campaign](/sales-techniques/how-to-create-lead-generation-campaign) is what transforms random activity into a repeatable pipeline system.
 
 According to [HubSpot's annual sales report](https://www.hubspot.com/marketing-statistics), 61% of salespeople say generating leads is their biggest challenge—but the same data shows the top 25% of teams generate 5x more leads with similar headcount. The gap isn't effort. It's system.
 

@@ -33,7 +33,7 @@ faq:
 
 Effective **sales pipeline management** is the difference between a sales team that hits quota consistently and one that's perpetually surprised by month-end results. The pipeline is your operational center — every deal, every stage, every risk, visible in one place.
 
-Most teams underinvest here. They build a pipeline, fill it with deals, and then treat it as a reporting artifact rather than an active management tool. The result: bloated pipelines full of stale deals, inaccurate forecasts, and reps who don't know which opportunities deserve their attention this week.
+Most teams underinvest here. They build a pipeline, fill it with deals, and then treat it as a reporting artifact rather than an active management tool. The root cause is often upstream: pipeline quality starts with the [lead generation campaign](/sales-techniques/how-to-create-lead-generation-campaign) that feeds it — garbage in, garbage out applies here more than anywhere else. The result: bloated pipelines full of stale deals, inaccurate forecasts, and reps who don't know which opportunities deserve their attention this week.
 
 This guide covers what pipeline management actually requires — the metrics that matter, the cadences that keep pipelines honest, and the tools that make it scale.
 
