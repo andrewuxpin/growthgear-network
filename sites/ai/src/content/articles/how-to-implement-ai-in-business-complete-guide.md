@@ -42,6 +42,8 @@ Key areas where businesses typically implement AI include:
 - **Content creation and marketing** optimization
 - **Quality control and monitoring** systems
 
+For a structured breakdown of the tools and platforms available in each category — including cost ranges and realistic ROI timelines — see the [AI business solutions guide](/ai-tools/ai-business-solutions-guide).
+
 ### The Current State of AI Adoption
 
 According to recent industry reports:
