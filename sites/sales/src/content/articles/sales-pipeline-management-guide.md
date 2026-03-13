@@ -73,7 +73,7 @@ Effective stages are defined by **buyer actions**, not seller activities:
 - **Negotiation** — Commercial terms under active discussion
 - **Closed won/lost** — Decision made
 
-Each stage should have a clear entry criterion (what must be true for a deal to enter) and an exit criterion (what must happen for it to advance). If your reps are uncertain whether a deal belongs in stage 3 or stage 4, your stage definitions need tightening. Our guide on [how to build a sales pipeline from scratch](/b2b-sales/how-to-build-sales-pipeline-from-scratch) walks through customizing stages for different sales cycles.
+Each stage should have a clear entry criterion (what must be true for a deal to enter) and an exit criterion (what must happen for it to advance). If your reps are uncertain whether a deal belongs in stage 3 or stage 4, your stage definitions need tightening. Our guide on [how to build a sales pipeline from scratch](/b2b-sales/how-to-build-sales-pipeline-from-scratch) walks through customizing stages for different sales cycles. For the complete reference — all 7 stages, exit criteria, and benchmark conversion rates — see the [sales pipeline stages guide](/b2b-sales/sales-pipeline-stages-guide).
 
 ## The 5 Core Metrics That Define Pipeline Health
 

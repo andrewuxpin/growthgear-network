@@ -78,6 +78,8 @@ The foundation of any effective sales pipeline is a clearly defined sales proces
 5. **Negotiation**: Discussing terms, pricing, and contract details
 6. **Closed Won/Lost**: Final outcome of the sales opportunity
 
+For a detailed breakdown of what each stage involves, the exit criteria that keep deals moving, and the conversion benchmarks for every transition, see the [complete sales pipeline stages guide](/b2b-sales/sales-pipeline-stages-guide).
+
 ### Customizing Stages for Your Business
 
 While the above stages work for many businesses, you should customize them based on your unique sales process. Consider factors such as:

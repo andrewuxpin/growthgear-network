@@ -33,7 +33,7 @@ In today's competitive business environment, where sales teams receive countless
 
 BANT is an acronym that stands for Budget, Authority, Need, and Timeline. This framework provides sales professionals with four key criteria to evaluate whether a prospect is worth pursuing. By systematically assessing each component, sales teams can prioritize their efforts on leads with the highest probability of closing.
 
-The BANT methodology serves as a filter that separates qualified prospects from unqualified ones, ensuring that sales representatives invest their time and energy in opportunities that align with their ideal customer profile.
+The BANT methodology serves as a filter that separates qualified prospects from unqualified ones, ensuring that sales representatives invest their time and energy in opportunities that align with their ideal customer profile. BANT maps directly to Stage 2 of the [sales pipeline stages](/b2b-sales/sales-pipeline-stages-guide) — it's the exit criterion that controls what enters your active pipeline.
 
 ### The Four Components of BANT
 
