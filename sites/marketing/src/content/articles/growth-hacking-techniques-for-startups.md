@@ -279,3 +279,5 @@ Successful growth teams hold a weekly 60-minute review:
 - **25 min**: Prioritize and assign new experiments for the week
 
 This cadence creates accountability and ensures learnings compound. The [Neil Patel growth hacking guide](https://neilpatel.com/blog/growth-hacking-guide/) and [Content Marketing Institute's growth hacking content playbook](https://contentmarketinginstitute.com/articles/growth-hacking-content-marketing/) are worth bookmarking for additional frameworks and case studies.
+
+If you're looking to accelerate implementation with outside expertise, our guide to [what a growth hacking agency does and how to choose one](/content-marketing/what-is-a-growth-hacking-agency) covers the key evaluation criteria and red flags to watch for when hiring.
