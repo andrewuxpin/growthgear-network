@@ -161,7 +161,7 @@ Choosing a marketing automation platform is not primarily a features decision �
 | **Scale-up (10-50 marketers)** | HubSpot Pro, ActiveCampaign Pro, or Klaviyo | Advanced segmentation, attribution, A/B testing at manageable cost |
 | **Enterprise (50+ marketers)** | Marketo Engage or Pardot | Revenue attribution, complex scoring, dedicated MOps required |
 
-Understanding [AI implementation in business](https://ai.growthgear.com.au/machine-learning/how-to-implement-ai-in-business-complete-guide) helps inform which platforms' AI features — predictive scoring, generative content, send-time optimization — will integrate with your existing data infrastructure.
+Understanding [AI implementation in business](https://ai.growthgear.com.au/machine-learning/how-to-implement-ai-in-business-complete-guide) helps inform which platforms' AI features — predictive scoring, generative content, send-time optimization — will integrate with your existing data infrastructure. For a full comparison of standalone AI tools that work alongside your automation platform — covering writing, sales, and productivity use cases — see our guide to the [best AI tools for business](/content-marketing/best-ai-tools-for-business).
 
 ---
 
