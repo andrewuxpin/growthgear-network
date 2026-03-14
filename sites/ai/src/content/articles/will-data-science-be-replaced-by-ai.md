@@ -76,7 +76,7 @@ Understanding this distribution matters for workforce planning and career decisi
 
 Entry-level data analyst work — pulling SQL queries, formatting spreadsheets, building routine dashboards — faces the sharpest near-term automation pressure. According to [McKinsey's 2023 report on generative AI's workforce impact](https://www.mckinsey.com/capabilities/mckinsey-digital/our-insights/the-economic-potential-of-generative-ai), office and support functions face moderate-to-high automation potential. Standard reporting and data extraction sit squarely in this category.
 
-This does not mean entry-level positions disappear. It means organizations expect junior analysts to move up the value chain faster — toward interpretation, not just extraction. The analysts who learn to direct AI tools rather than perform the tasks AI can now do will remain valuable. Those who don't will find the work scarce.
+This does not mean entry-level positions disappear. It means organizations expect junior analysts to move up the value chain faster — toward interpretation, not just extraction. The analysts who learn to direct AI tools rather than perform the tasks AI can now do will remain valuable. Those who don't will find the work scarce. For a full breakdown of the roles, skills, and tools in the data analytics landscape, see our [data analytics jobs guide](/machine-learning/data-analytics-jobs-roles-skills-guide).
 
 ### Mid-level data scientists
 
