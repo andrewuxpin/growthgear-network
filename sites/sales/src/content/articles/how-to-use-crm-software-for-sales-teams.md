@@ -75,7 +75,7 @@ If you import 500 contacts without these fields, retrofitting the data later tak
 
 ### Set Up Email and Calendar Integration
 
-Connect your CRM to email and calendar from day one. Tools like HubSpot, Salesforce, and Pipedrive all offer native Gmail and Outlook integration. With this active, every email exchange and meeting automatically logs to the contact record — eliminating manual activity logging, which is the single biggest reason reps stop using a CRM.
+Connect your CRM to email and calendar from day one. Tools like HubSpot, Salesforce, and Pipedrive all offer native Gmail and Outlook integration. With this active, every email exchange and meeting automatically logs to the contact record — eliminating manual activity logging, which is the single biggest reason reps stop using a CRM. For teams running structured outbound, a dedicated [sales engagement platform](/crm-tools/sales-engagement-strategy-complete-guide) layers on top of the CRM to automate multi-step sequences and track prospect activity at the step level.
 
 For teams evaluating which CRM to deploy, see our comparison of the [best CRM software for small business teams](/crm-tools/best-crm-software-small-business-teams) to choose a platform before configuring it.
 
