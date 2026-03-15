@@ -24,7 +24,7 @@ callout:
   content: "Launching ABM across hundreds of accounts simultaneously dilutes personalization and overwhelms your team. Start with 10-25 high-value target accounts, prove the model works, then scale with documented playbooks."
 ---
 
-**What is account based marketing for sales?** Account-based marketing (ABM) is a strategic B2B marketing approach that focuses on identifying, targeting, and engaging specific high-value accounts rather than casting a wide net to attract leads. Unlike traditional marketing methods that target broad audiences, ABM treats individual accounts as markets of one, creating personalized campaigns tailored to each target company's unique needs, challenges, and decision-making processes.
+**What is account based marketing for sales?** Account-based marketing (ABM) is a strategic B2B marketing approach that focuses on identifying, targeting, and engaging specific high-value accounts rather than casting a wide net to attract leads. Unlike traditional marketing methods that target broad audiences, ABM treats individual accounts as markets of one, creating personalized campaigns tailored to each target company's unique needs, challenges, and decision-making processes. ABM sits within the broader [B2B sales process](/b2b-sales/what-is-b2b-sales-complete-guide) as one of the most effective strategies for enterprise and mid-market deals.
 
 In today's competitive business landscape, companies using ABM strategies see 208% higher revenue from their marketing efforts compared to traditional approaches, according to recent industry research. This comprehensive guide will explore everything sales professionals need to know about implementing successful account-based marketing strategies.
 

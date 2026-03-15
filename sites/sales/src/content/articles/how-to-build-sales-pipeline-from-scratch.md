@@ -24,7 +24,7 @@ callout:
   content: "The biggest pipeline mistake is letting deals sit in stages indefinitely. Define clear, objective criteria a deal must meet to advance -- such as a confirmed budget range or scheduled demo -- and enforce them consistently."
 ---
 
-Building a successful sales organization requires more than just hiring talented salespeople—it demands a systematic approach to managing prospects and converting them into customers. Learning how to build a sales pipeline from scratch is essential for any business looking to scale revenue predictably and efficiently.
+Building a successful sales organization requires more than just hiring talented salespeople—it demands a systematic approach to managing prospects and converting them into customers. Learning how to build a sales pipeline from scratch is essential for any business looking to scale revenue predictably and efficiently. If you're new to [B2B sales fundamentals](/b2b-sales/what-is-b2b-sales-complete-guide) or need a refresher on the full sales process, start there before diving into pipeline architecture.
 
 A well-constructed sales pipeline serves as the backbone of your revenue generation efforts, providing visibility into your sales process, forecasting accuracy, and identifying bottlenecks that may be hindering growth. Whether you're launching a startup or revamping an existing sales process, this comprehensive guide will walk you through every step of creating a robust sales pipeline that drives consistent results.
 

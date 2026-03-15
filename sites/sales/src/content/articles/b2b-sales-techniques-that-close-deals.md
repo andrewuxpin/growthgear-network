@@ -41,7 +41,7 @@ callout:
   content: "Jumping to the pitch before completing discovery is the #1 reason deals stall. Spend 40% of your selling time asking, not telling."
 ---
 
-Effective B2B sales requires a different playbook from consumer selling. You're dealing with multiple stakeholders, 3–9 month buying cycles, procurement scrutiny, and decisions that need to survive internal budget reviews. The techniques that work aren't new — but most sales teams apply them inconsistently.
+Effective B2B sales requires a different playbook from consumer selling. You're dealing with multiple stakeholders, 3–9 month buying cycles, procurement scrutiny, and decisions that need to survive internal budget reviews. The techniques that work aren't new — but most sales teams apply them inconsistently. For a full breakdown of [what B2B sales is and how it works](/b2b-sales/what-is-b2b-sales-complete-guide), including the complete 7-stage process, see our foundational guide.
 
 This guide covers the B2B sales techniques that consistently produce results: from prospecting frameworks that generate qualified pipeline to closing methods designed for complex, committee-driven buying decisions.
 
