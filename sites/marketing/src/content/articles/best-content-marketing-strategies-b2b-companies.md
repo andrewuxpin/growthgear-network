@@ -104,7 +104,7 @@ B2B buyers crave educational content that helps them make better decisions and s
 
 ### 4. Case Study and Social Proof Content
 
-Case studies remain one of the most effective B2B content types, with 73% of B2B marketers reporting they generate high-quality leads. However, modern case studies need to go beyond simple success stories.
+Case studies remain one of the most effective B2B content types, with 73% of B2B marketers reporting they generate high-quality leads. However, modern case studies need to go beyond simple success stories. For a broader look at which content formats drive the best results across industries, see our breakdown of [10 examples of content marketing that drive results](/content-marketing/examples-of-content-marketing-that-drive-results).
 
 **Elements of compelling case studies:**
 

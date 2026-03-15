@@ -82,7 +82,7 @@ Acquisition is where most growth experiments begin. The goal isn't to find one c
 
 ### SEO as a Growth Engine
 
-Content SEO is one of the highest-leverage acquisition channels for startups with 6+ month runways. The math is compelling: a single well-ranked article can generate thousands of monthly visitors indefinitely with zero ongoing spend.
+Content SEO is one of the highest-leverage acquisition channels for startups with 6+ month runways. The math is compelling: a single well-ranked article can generate thousands of monthly visitors indefinitely with zero ongoing spend. For inspiration on what great content looks like in practice, the guide to [examples of content marketing that drive results](/content-marketing/examples-of-content-marketing-that-drive-results) breaks down 10 real-world cases — from HubSpot's pillar-cluster blog to Moz's free tools — and explains why each succeeded.
 
 The growth-hacking approach to SEO differs from traditional content marketing:
 

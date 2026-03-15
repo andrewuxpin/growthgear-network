@@ -154,7 +154,7 @@ The [Content Marketing Institute](https://contentmarketinginstitute.com) recomme
 
 ### Original Research and Data Studies
 
-Original research is the most powerful link magnet in content marketing. A survey of 200 marketers, an analysis of industry benchmarks, or a proprietary dataset gives other publishers a citable source they can't get elsewhere.
+Original research is the most powerful link magnet in content marketing. A survey of 200 marketers, an analysis of industry benchmarks, or a proprietary dataset gives other publishers a citable source they can't get elsewhere. To see exactly how brands like HubSpot and Moz have used original research to build authority, the [real-world examples of content marketing](/content-marketing/examples-of-content-marketing-that-drive-results) guide breaks down the mechanics behind each approach.
 
 [Ahrefs' blog](https://ahrefs.com/blog) regularly publishes data studies on SEO topics — and each study earns hundreds of backlinks because it provides unique data no one else has. You don't need a data science team to produce original research. A survey of 50-100 customers, analyzed and published as a report, qualifies.
 
