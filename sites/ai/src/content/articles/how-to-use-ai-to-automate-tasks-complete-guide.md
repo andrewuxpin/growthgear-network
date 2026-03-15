@@ -139,7 +139,7 @@ AI automation typically involves two layers working together:
 **Orchestration layer** (connects apps and triggers workflows):
 - **Zapier** — best for non-technical teams; connects 6,000+ apps, visual workflow builder
 - **Make (formerly Integromat)** — more powerful than Zapier for complex branching logic
-- **n8n** — open-source, self-hostable, best for technical teams needing full control
+- **n8n** — open-source, self-hostable, best for technical teams needing full control. For a practical breakdown, see our guide to the [best n8n templates for AI automation workflows](/ai-tools/best-n8n-templates-ai-automation-workflows)
 
 **Intelligence layer** (does the actual AI processing):
 - **OpenAI GPT-4o API** — best general-purpose language model for classification and generation

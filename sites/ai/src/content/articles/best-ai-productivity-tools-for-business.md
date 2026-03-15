@@ -130,6 +130,14 @@ For businesses building a [B2B sales pipeline](https://sales.growthgear.com.au/b
 
 **Pricing:** Free (5 Zaps) | $19.99/month (Starter) | $49/month (Professional) | $69/month (Team)
 
+### n8n
+
+**Best for:** AI-native workflow automation with self-hosted deployment
+
+n8n is an open-source automation platform with native nodes for OpenAI, Anthropic Claude, and Google Gemini. Unlike Zapier, it has no per-execution pricing on the self-hosted version, making it cost-effective for high-volume automations. It takes more setup than Zapier but offers significantly more control over AI prompt logic and data routing. See the [best n8n templates for AI automation workflows](/ai-tools/best-n8n-templates-ai-automation-workflows) for ready-to-deploy examples.
+
+**Pricing:** Free (self-hosted community) | $20/month (Cloud Starter) | $50/month (Cloud Pro)
+
 ### Make (formerly Integromat)
 
 **Best for:** Complex, conditional multi-step workflows

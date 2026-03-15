@@ -103,7 +103,7 @@ For a comparison of AI-powered CRM options suited to small business budgets, see
 
 Operations AI removes manual work from the workflows that slow businesses down: document processing, invoice management, contract review, scheduling, HR workflows, and supply chain management.
 
-**Process automation AI** combines optical character recognition (OCR), natural language processing, and machine learning to extract data from documents, categorize transactions, route approvals, and trigger downstream workflows — without manual data entry at each step.
+**Process automation AI** combines optical character recognition (OCR), natural language processing, and machine learning to extract data from documents, categorize transactions, route approvals, and trigger downstream workflows — without manual data entry at each step. For teams evaluating open-source workflow platforms, our guide to the [best n8n templates for AI automation](/ai-tools/best-n8n-templates-ai-automation-workflows) covers ready-made workflows for common business processes.
 
 The [guide to using AI to automate business tasks](/ai-tools/how-to-use-ai-to-automate-tasks-complete-guide) covers the specific workflows best suited to automation. In practice, the highest-value automation targets share three characteristics: high volume (50+ repetitions per week), structured inputs (invoices, forms, contracts), and defined outputs (approved/rejected, categorized, routed to the next step).
 
