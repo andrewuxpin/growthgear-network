@@ -253,7 +253,7 @@ Whether you're building a prospecting system from scratch, improving your discov
 ## Sources & References
 
 1. [Salesforce](https://www.salesforce.com/resources/research-reports/state-of-sales/) — State of Sales 2025: "High-performing sales teams are 2.8x more likely to use AI tools than underperformers; B2B sales cycles have grown longer as buying committees expand." (2025)
-2. [Gartner](https://www.gartner.com/en/sales/topics/b2b-buying) — "The average B2B buying group includes 6–10 decision-makers; deals involving 3+ active stakeholders are 31% less likely to stall." (2025)
-3. [HubSpot](https://www.hubspot.com/sales-statistics) — "69% of buyers say the most important thing a salesperson can do is listen to their needs; reps using 3+ channels generate 24% more meetings." (2025)
+2. Gartner — "The average B2B buying group includes 6–10 decision-makers; deals involving 3+ active stakeholders are 31% less likely to stall." (2025)
+3. HubSpot — "69% of buyers say the most important thing a salesperson can do is listen to their needs; reps using 3+ channels generate 24% more meetings." (2025)
 4. [Forrester](https://www.forrester.com/report/b2b-buying) — B2B buying research: proactive engagement with procurement and legal stakeholders is a consistent differentiator for high-win-rate sales organizations. (2025)
 5. [Gong Research](https://www.gong.io/resources/learn/state-of-revenue/) — "Sales teams using conversation intelligence close 21% more deals; top performers average 43% talking, 57% listening." (2024)

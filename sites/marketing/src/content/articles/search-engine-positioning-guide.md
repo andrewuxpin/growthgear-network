@@ -48,7 +48,7 @@ This guide covers every lever that moves your position in Google search results:
 
 Search engine positioning refers to the specific rank a web page holds in organic search results for a given keyword. Position 1 means your page appears first; position 10 means last on the first page. Everything on page 2 and beyond receives under 1% of total clicks for that query.
 
-The business impact is direct and measurable. According to [First Page Sage's 2024 click-through rate study](https://firstpagesage.com/seo-blog/google-click-through-rate-ctr-by-rank-in-2024/), position 1 captures approximately 39% of organic clicks for informational queries and around 27% for commercial queries. By position 5, you're capturing under 7%. By position 10, under 3%.
+The business impact is direct and measurable. According to First Page Sage's 2024 click-through rate study, position 1 captures approximately 39% of organic clicks for informational queries and around 27% for commercial queries. By position 5, you're capturing under 7%. By position 10, under 3%.
 
 ### The Positioning Gap Is Widening
 
@@ -240,7 +240,7 @@ The refresh cycle that prevents this:
 4. **Build new links**: Get 2-3 fresh links from relevant sources pointing to the refreshed page
 5. **Re-submit to Google**: Use Search Console's URL Inspection tool to request re-crawl
 
-According to [HubSpot's content audit research](https://blog.hubspot.com/marketing/historical-blog-seo), refreshing existing content can increase organic traffic to that page by an average of 106% — far more than publishing a new article on the same topic.
+According to HubSpot's content audit research, refreshing existing content can increase organic traffic to that page by an average of 106% — far more than publishing a new article on the same topic.
 
 The [AI tools now available for SEO monitoring](https://ai.growthgear.com.au/machine-learning/how-to-implement-ai-in-business-complete-guide) can automate the declining-content identification step, flagging pages for refresh before the traffic loss becomes significant.
 

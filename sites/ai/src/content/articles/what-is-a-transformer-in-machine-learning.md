@@ -147,7 +147,7 @@ Modern multimodal models (GPT-4V, Gemini, Claude 3) combine vision encoders with
 
 ### Where Enterprises Are Deploying Transformers Now
 
-According to [McKinsey's State of AI report](https://www.mckinsey.com/capabilities/quantumblack/our-insights/the-state-of-ai-in-2023-generative-ais-breakout-year), 79% of respondents had been exposed to generative AI in 2023, with adoption accelerating sharply in 2024–2025. The business applications fall into five categories:
+According to McKinsey's State of AI report, 79% of respondents had been exposed to generative AI in 2023, with adoption accelerating sharply in 2024–2025. The business applications fall into five categories:
 
 **1. Document intelligence**
 Transformers read contracts, invoices, and technical documents faster than any human team. Companies like Klarna use LLMs to process legal documents at a fraction of traditional legal review costs.

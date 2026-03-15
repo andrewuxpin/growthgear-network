@@ -176,7 +176,7 @@ For measuring the efficiency of your CRM's lead-to-customer pipeline, the [custo
 
 ## Common CRM Mistakes That Kill Team Adoption
 
-CRM adoption failure is one of the most expensive mistakes in sales operations. According to [Gartner](https://www.gartner.com/en/sales/topics/crm), CRM adoption rates remain below 50% in many organisations — meaning most teams are paying for a tool that only half the team uses.
+CRM adoption failure is one of the most expensive mistakes in sales operations. According to Gartner, CRM adoption rates remain below 50% in many organisations — meaning most teams are paying for a tool that only half the team uses.
 
 **The root cause of CRM failure is almost always management behaviour, not rep resistance.** When managers reference data outside the CRM in meetings, reps learn the CRM is optional. When managers enforce CRM usage as the only source of deal information, adoption follows within weeks.
 
@@ -228,6 +228,6 @@ A CRM is only as powerful as the data inside it — and that data only exists wh
 The data and statistics cited throughout this article draw from the following primary research sources. Each source is independently verifiable and current as of the publication date noted. Where GrowthGear's own client experience informed a claim, it is stated as such in the text.
 
 1. [Salesforce](https://www.salesforce.com/resources/research-reports/state-of-sales/) — "State of Sales Report: Sales reps spend only 28% of their week on actual selling" (2024)
-2. [Gartner](https://www.gartner.com/en/sales/topics/crm) — "CRM adoption rates remain below 50% in many organisations" (2024)
-3. [Forrester](https://www.forrester.com/research/crm/) — "High-fit leads convert at 3-5x the rate of low-fit leads in B2B sales processes" (2024)
+2. Gartner — "CRM adoption rates remain below 50% in many organisations" (2024)
+3. Forrester — "High-fit leads convert at 3-5x the rate of low-fit leads in B2B sales processes" (2024)
 4. [HubSpot](https://www.hubspot.com/products/crm) — "Sales Productivity Research: Top performers log activities immediately after interactions, not batch at end-of-day" (2024)

@@ -77,7 +77,7 @@ Customer service is where AI delivers the fastest, most measurable ROI for SMBs.
 - Knowledge base surfacing for human agents, cutting resolution time on complex tickets
 - Post-interaction analysis to identify recurring issues and training gaps
 
-According to [Gartner's research on AI in customer service](https://www.gartner.com/en/customer-service-support/topics/artificial-intelligence-customer-service), AI-powered virtual assistants can handle 25–30% of routine service contacts without human involvement when deployed with properly structured knowledge bases. For a team managing 500 tickets per week, that's 125–150 tickets handled automatically per week.
+According to Gartner's research on AI in customer service, AI-powered virtual assistants can handle 25–30% of routine service contacts without human involvement when deployed with properly structured knowledge bases. For a team managing 500 tickets per week, that's 125–150 tickets handled automatically per week.
 
 The [best AI chatbots for customer service](/ai-tools/best-ai-chatbots-for-customer-service) covers specific platforms — from Intercom to Tidio to Zendesk AI — with honest assessments of where each performs well and where each falls short.
 
@@ -249,7 +249,7 @@ Whether you're evaluating your first AI tool or designing a multi-phase AI progr
 ## Sources & References
 
 1. [McKinsey Global Institute — "The Economic Potential of Generative AI"](https://www.mckinsey.com/capabilities/mckinsey-digital/our-insights/the-economic-potential-of-generative-ai) — "AI could deliver $2.6–$4.4 trillion in annual economic value across industry sectors" (2023)
-2. [Gartner — "Artificial Intelligence in Customer Service"](https://www.gartner.com/en/customer-service-support/topics/artificial-intelligence-customer-service) — "AI-powered virtual assistants can handle 25–30% of routine service contacts when deployed with properly structured knowledge bases" (2024)
+2. Gartner — "Artificial Intelligence in Customer Service" — "AI-powered virtual assistants can handle 25–30% of routine service contacts when deployed with properly structured knowledge bases" (2024)
 3. [IBM Institute for Business Value — "AI in Action"](https://www.ibm.com/thought-leadership/institute-business-value/en-us/report/ai-in-action) — Research on enterprise AI deployment patterns, vendor selection, and adoption outcomes (2023)
 4. [Gartner — "AI Adoption in the Enterprise"](https://www.gartner.com/en/information-technology/insights/artificial-intelligence) — AI investment trends, ROI timelines, and enterprise deployment patterns (2024)
 5. [Stanford HAI — "Artificial Intelligence Index Report 2024"](https://aiindex.stanford.edu/report/) — Annual benchmarks on AI adoption, business investment, and real-world impact across industry sectors (2024)

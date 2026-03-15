@@ -232,7 +232,7 @@ AI implementations that combine neural networks with existing CRM workflows — 
 
 Building a custom neural network from scratch is justified in fewer situations than most teams initially assume. The decision hinges on data ownership, task specificity, and total cost over a 12–18 month horizon — and for the majority of business problems, a pre-trained model or API delivers comparable results at a fraction of the investment.
 
-For standard tasks — content classification, sentiment analysis, image tagging, language generation — pre-built APIs from OpenAI, Google, or AWS deliver 80–90% of the value at a fraction of the build cost. According to McKinsey's [2024 State of AI Report](https://www.mckinsey.com/capabilities/quantumblack/our-insights/the-state-of-ai), the organisations generating the most value from AI are those that adapt existing models to specific business contexts rather than training from scratch.
+For standard tasks — content classification, sentiment analysis, image tagging, language generation — pre-built APIs from OpenAI, Google, or AWS deliver 80–90% of the value at a fraction of the build cost. According to McKinsey's 2024 State of AI Report, the organisations generating the most value from AI are those that adapt existing models to specific business contexts rather than training from scratch.
 
 ### The Build vs Buy Decision Matrix
 
@@ -273,7 +273,7 @@ Teams building AI-powered [digital marketing automation](https://marketing.growt
 ## Sources & References
 
 1. [Stanford HAI — AI Index Report 2024](https://hai.stanford.edu/research/ai-index-report) — Deep networks with 10+ layers now dominate production AI deployments; training compute costs have declined significantly over the past decade.
-2. [McKinsey — State of AI 2024](https://www.mckinsey.com/capabilities/quantumblack/our-insights/the-state-of-ai) — Organisations generating the most AI value adapt existing models to specific business contexts rather than training from scratch.
+2. McKinsey — State of AI 2024 — Organisations generating the most AI value adapt existing models to specific business contexts rather than training from scratch.
 3. [TensorFlow — Keras Guide](https://www.tensorflow.org/guide/keras) — Official documentation for the Keras high-level API for building and training neural networks in TensorFlow.
 4. [PyTorch — Neural Network Tutorial](https://pytorch.org/tutorials/beginner/blitz/neural_networks_tutorial.html) — Official PyTorch tutorial for building neural networks using the nn module.
 5. [Papers With Code — ML Framework Trends](https://paperswithcode.com/trends) — PyTorch used in over 80% of newly published machine learning research papers; TensorFlow maintains strong enterprise production adoption.

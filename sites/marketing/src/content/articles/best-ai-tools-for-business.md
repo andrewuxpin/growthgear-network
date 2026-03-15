@@ -140,7 +140,7 @@ When evaluating [CRM software for your sales team](https://sales.growthgear.com.
 
 ## Best AI Tools for Operations and Productivity
 
-The best AI tools for business operations are **Otter.ai** for meeting documentation, **Notion AI** for internal knowledge management, and **Microsoft Copilot** or **Google Gemini for Workspace** for productivity suite integration. These tools target the 2-4 hours per day that knowledge workers typically spend on meetings and documentation — time that can be cut by 50-60% with the right automation layer, according to McKinsey's research on [AI adoption in professional services](https://www.mckinsey.com/capabilities/quantumblack/our-insights/the-state-of-ai).
+The best AI tools for business operations are **Otter.ai** for meeting documentation, **Notion AI** for internal knowledge management, and **Microsoft Copilot** or **Google Gemini for Workspace** for productivity suite integration. These tools target the 2-4 hours per day that knowledge workers typically spend on meetings and documentation — time that can be cut by 50-60% with the right automation layer, according to McKinsey's research on AI adoption in professional services.
 
 ### Meeting Documentation and Action Items
 

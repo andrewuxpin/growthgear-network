@@ -93,7 +93,7 @@ Prospecting is where deals are born. The rep researches target accounts, identif
 
 **Exit criteria**: A specific contact has been identified and added to an active outreach sequence.
 
-According to [HubSpot research on sales statistics](https://www.hubspot.com/sales-statistics), 40% of salespeople cite prospecting as the hardest part of the sales process — harder than closing. The key is systematic prospecting cadences rather than ad hoc outreach. For a deeper dive into filling your pipeline consistently, see [how to build a sales pipeline from scratch](/b2b-sales/how-to-build-sales-pipeline-from-scratch).
+According to HubSpot research on sales statistics, 40% of salespeople cite prospecting as the hardest part of the sales process — harder than closing. The key is systematic prospecting cadences rather than ad hoc outreach. For a deeper dive into filling your pipeline consistently, see [how to build a sales pipeline from scratch](/b2b-sales/how-to-build-sales-pipeline-from-scratch).
 
 ### Stage 2: Lead Qualification
 
@@ -116,7 +116,7 @@ Qualification is the stage with the highest ROI in any pipeline. Every hour spen
 
 Discovery is where the real selling starts. The rep's job here is to ask questions, listen, and map the prospect's problem to your solution. A discovery call done well surfaces the business impact of the problem, identifies stakeholders, and establishes the metrics the prospect will use to evaluate success.
 
-According to [Harvard Business Review research on B2B sales](https://hbr.org/2018/09/research-how-the-best-salespeople-prospect), top-performing salespeople establish buying criteria early — discovery is the stage where that advantage is built or lost. Discovery is that moment — don't waste it on a product pitch.
+According to Harvard Business Review research on B2B sales, top-performing salespeople establish buying criteria early — discovery is the stage where that advantage is built or lost. Discovery is that moment — don't waste it on a product pitch.
 
 **Primary activities**:
 - Structured discovery call with prepared questions
@@ -310,6 +310,6 @@ Building a high-performing sales pipeline takes the right stage design, exit cri
 ## Sources & References
 
 1. [Salesforce State of Sales](https://www.salesforce.com/resources/research-reports/state-of-sales/) — "High-performing sales teams are 2.8x more likely to use a formal, stage-based pipeline process" (2024)
-2. [HubSpot Sales Statistics](https://www.hubspot.com/sales-statistics) — "40% of salespeople cite prospecting as the hardest part of the sales process" (2024)
-3. [Harvard Business Review](https://hbr.org/2018/09/research-how-the-best-salespeople-prospect) — "74% of buyers choose the vendor who first adds value and sets the buying agenda" (2018)
+2. HubSpot Sales Statistics — "40% of salespeople cite prospecting as the hardest part of the sales process" (2024)
+3. Harvard Business Review — "74% of buyers choose the vendor who first adds value and sets the buying agenda" (2018)
 4. [SalesHacker Pipeline Research](https://www.saleshacker.com/sales-pipeline-stages/) — "67% of reps report that at least 20% of their pipeline is made up of deals they know won't close" (2023)

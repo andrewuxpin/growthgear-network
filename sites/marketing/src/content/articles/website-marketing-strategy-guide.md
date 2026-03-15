@@ -75,7 +75,7 @@ Fixing these three issues alone can double the ROI of your existing traffic befo
 
 ## SEO: Building Organic Visibility for Your Website
 
-SEO is the highest-return website marketing channel for most businesses over the long term. According to [BrightEdge research](https://www.brightedge.com/resources/research-reports/channel-performance), organic search drives over 53% of all website traffic on average — more than any other single channel. The foundation is straightforward: make your pages findable for searches your buyers are already running, and ensure those pages load fast and answer questions thoroughly.
+SEO is the highest-return website marketing channel for most businesses over the long term. According to BrightEdge research, organic search drives over 53% of all website traffic on average — more than any other single channel. The foundation is straightforward: make your pages findable for searches your buyers are already running, and ensure those pages load fast and answer questions thoroughly.
 
 ### On-Page SEO Fundamentals
 
@@ -91,7 +91,7 @@ The [search engine positioning guide](/seo/search-engine-positioning-guide) cove
 
 ### Technical SEO and Site Health
 
-Technical SEO determines whether Google can crawl, index, and rank your pages at all. According to [Google's research](https://think.withgoogle.com/intl/en-154/marketing-strategies/app-and-mobile/mobile-page-speed-new-industry-benchmarks/), 53% of mobile users abandon a page that takes more than three seconds to load — page speed is both a user experience and a ranking signal. Key technical checks:
+Technical SEO determines whether Google can crawl, index, and rank your pages at all. According to Google's research, 53% of mobile users abandon a page that takes more than three seconds to load — page speed is both a user experience and a ranking signal. Key technical checks:
 
 - **Core Web Vitals**: LCP (loading speed), INP (interactivity), CLS (visual stability) — all measurable in Google Search Console
 - **Mobile-first indexing**: Google indexes your mobile version first; ensure it's as complete and fast as your desktop version
@@ -145,7 +145,7 @@ Landing pages deserve separate attention from blog content. Their singular job i
 - **Headline matches source copy**: Message match between the ad or email that brought someone and what they land on increases trust and reduces bounce
 - **Short forms for cold traffic**: Ask for email only at first; qualify on the follow-up sequence
 
-According to [HubSpot's landing page benchmarks](https://research.hubspot.com/landing-page-benchmarks), the average website landing page converts at 2.35%. Top-performing pages (top 25%) convert at 5.31% or higher. The gap between average and top is almost entirely explained by copy clarity and form friction — not visual design.
+According to HubSpot's landing page benchmarks, the average website landing page converts at 2.35%. Top-performing pages (top 25%) convert at 5.31% or higher. The gap between average and top is almost entirely explained by copy clarity and form friction — not visual design.
 
 The [landing page optimization guide](/seo/how-to-optimize-landing-pages-for-conversions-complete-guide) walks through the specific tests to run to improve conversion rates on your highest-traffic pages.
 
@@ -257,8 +257,8 @@ A high-performing website doesn't happen by accident. It's the result of deliber
 
 ## Sources & References
 
-1. [BrightEdge](https://www.brightedge.com/resources/research-reports/channel-performance) — "Organic search drives over 53% of all website traffic on average" (2019)
+1. BrightEdge — "Organic search drives over 53% of all website traffic on average" (2019)
 2. [HubSpot Research](https://www.hubspot.com/marketing-statistics) — "Companies that blog generate 55% more website visitors than those that don't" (2024)
-3. [Google / Think with Google](https://think.withgoogle.com/intl/en-154/marketing-strategies/app-and-mobile/mobile-page-speed-new-industry-benchmarks/) — "53% of mobile users abandon pages that take more than three seconds to load" (2017)
+3. Google / Think with Google — "53% of mobile users abandon pages that take more than three seconds to load" (2017)
 4. [Demand Gen Report](https://www.demandgenreport.com/resources/research/2016-b2b-buyers-survey-report/) — "47% of B2B buyers consume 3-5 pieces of content before engaging with a sales rep" (2016)
-5. [HubSpot Research](https://research.hubspot.com/landing-page-benchmarks) — "Average landing page converts at 2.35%; top 25% convert at 5.31% or higher" (2023)
+5. HubSpot Research — "Average landing page converts at 2.35%; top 25% convert at 5.31% or higher" (2023)

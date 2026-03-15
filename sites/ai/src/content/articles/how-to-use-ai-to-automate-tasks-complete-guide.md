@@ -40,7 +40,7 @@ callout:
   content: "Automating a broken process just creates faster failures. Before adding AI to any workflow, document and fix the manual version first."
 ---
 
-AI task automation isn't about replacing your team — it's about removing the repetitive work that drains their time and focus. According to [McKinsey's 2025 State of AI report](https://www.mckinsey.com/capabilities/quantumblack/our-insights/the-state-of-ai), companies that systematically automate routine tasks free up 20-40% of employee time for higher-value work. The businesses that do this well don't automate everything at once — they follow a deliberate sequence: audit, prioritize, pilot, then scale.
+AI task automation isn't about replacing your team — it's about removing the repetitive work that drains their time and focus. According to McKinsey's 2025 State of AI report, companies that systematically automate routine tasks free up 20-40% of employee time for higher-value work. The businesses that do this well don't automate everything at once — they follow a deliberate sequence: audit, prioritize, pilot, then scale.
 
 This guide walks through that sequence with specifics: which tasks are genuinely automatable with AI today, which tools match each use case, and how to measure whether automation is actually working.
 

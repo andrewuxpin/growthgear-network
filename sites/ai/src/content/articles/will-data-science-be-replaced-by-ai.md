@@ -90,7 +90,7 @@ The counterweight is that deploying ML in production environments — with all t
 
 Senior roles are, counterintuitively, becoming more valuable as AI automation spreads. The reason is structural: as AI tools proliferate, organizations generate more model outputs that require evaluation, more analytical products that need quality control, and more strategic decisions that require someone to determine what questions the data should answer.
 
-According to [Gartner's 2024 Data and Analytics leadership survey](https://www.gartner.com/en/newsroom), data and analytics organizations are reporting increased difficulty hiring senior-level practitioners, even as automation reduces demand for some junior functions. The skills gap at the senior level is widening, not narrowing.
+According to Gartner's 2024 Data and Analytics leadership survey, data and analytics organizations are reporting increased difficulty hiring senior-level practitioners, even as automation reduces demand for some junior functions. The skills gap at the senior level is widening, not narrowing.
 
 > **Ready to implement AI in your business?** GrowthGear's team has helped 50+ startups integrate AI solutions that drive real results. [Book a Free Strategy Session](https://growthgear.com.au) to discuss your AI roadmap.
 

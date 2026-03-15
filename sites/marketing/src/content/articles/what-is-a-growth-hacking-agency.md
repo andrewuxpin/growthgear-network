@@ -52,7 +52,7 @@ The foundational framework most growth agencies use is Dave McClure's **AARRR mo
 
 ### The Experiment Engine
 
-A quality growth agency maintains what practitioners call an **experiment pipeline**—a prioritized backlog of tests ranked by potential impact, confidence, and ease. According to [Harvard Business Review](https://hbr.org), companies that run structured growth experiments see 20–30% faster revenue growth than those relying on intuition-driven decisions.
+A quality growth agency maintains what practitioners call an **experiment pipeline**—a prioritized backlog of tests ranked by potential impact, confidence, and ease. According to Harvard Business Review, companies that run structured growth experiments see 20–30% faster revenue growth than those relying on intuition-driven decisions.
 
 Each test follows a standard format:
 - **Hypothesis**: "If we change X, we expect Y because Z"
@@ -260,7 +260,7 @@ Finding the right growth hacking agency can be the difference between hitting yo
 
 ## Sources & References
 
-1. [Harvard Business Review](https://hbr.org) — "Companies running structured growth experiments see 20–30% faster revenue growth than intuition-driven teams" (2023)
-2. [Moz](https://moz.com/blog/cro-guide) — Average website conversion rate is 2.35%; top performers in the same category convert at 5–11% (2024)
+1. Harvard Business Review — "Companies running structured growth experiments see 20–30% faster revenue growth than intuition-driven teams" (2023)
+2. Moz — Average website conversion rate is 2.35%; top performers in the same category convert at 5–11% (2024)
 3. [HubSpot Research](https://hubspot.com/marketing-statistics) — Improving customer retention by 5% can increase profits by 25–95% depending on industry (2024)
 4. [Neil Patel](https://neilpatel.com) — Growth hacking experiment framework and AARRR model applications for SaaS businesses (2024)

@@ -248,4 +248,4 @@ Open rate, click-through rate, click-to-open rate, conversion rate, unsubscribe 
 2. [Campaign Monitor](https://www.campaignmonitor.com/resources/guides/email-marketing-benchmarks/) — "Segmented email campaigns generate 760% more revenue than non-segmented sends" (Email Marketing Benchmarks)
 3. [HubSpot Research](https://www.hubspot.com/marketing-statistics) — "47% of recipients open emails based on subject line alone; Tuesday and Thursday 9-11am generate highest open rates for B2B" (Marketing Statistics)
 4. [Mailchimp](https://mailchimp.com/resources/email-marketing-benchmarks/) — "Average email open rate across industries is 21.33%; B2B average 15-25%" (Email Marketing Benchmarks by Industry)
-5. [Validity](https://www.validity.com/resource-center/2024-email-benchmark-report/) — "17% of legitimate marketing emails never reach the inbox" (2024 Email Benchmark Report)
+5. Validity — "17% of legitimate marketing emails never reach the inbox" (2024 Email Benchmark Report)

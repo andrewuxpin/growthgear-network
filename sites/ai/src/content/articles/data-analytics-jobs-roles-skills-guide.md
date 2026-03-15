@@ -52,7 +52,7 @@ The field spans roles from entry-level data analysts to senior data scientists, 
 
 ### The Business Case for Data Analytics
 
-According to [McKinsey Global Institute research](https://www.mckinsey.com/capabilities/quantumblack/our-insights/the-data-driven-enterprise-of-2025), data-driven organizations are significantly more likely to acquire and retain customers than their peers—and the gap is widening as AI makes data analysis faster and cheaper.
+According to McKinsey Global Institute research, data-driven organizations are significantly more likely to acquire and retain customers than their peers—and the gap is widening as AI makes data analysis faster and cheaper.
 
 The barriers that once limited analytics to large enterprises—expensive tooling, long data infrastructure builds, scarce talent—have shrunk dramatically. Cloud data warehouses (Snowflake, BigQuery, Redshift) now cost a fraction of on-premise alternatives. AI-assisted coding tools have made analysis significantly faster for routine tasks. This means a business with 10 employees can now run analysis that once required a dedicated analytics team.
 
@@ -221,6 +221,6 @@ GrowthGear works with founders and CTOs to design practical data analytics funct
 ## Sources & References
 
 1. [U.S. Bureau of Labor Statistics — Data Scientists Outlook](https://www.bls.gov/ooh/math/data-scientists.htm) — "Employment of data scientists is projected to grow 36 percent from 2023 to 2033, much faster than the average for all occupations." (2024)
-2. [McKinsey Global Institute — The Data-Driven Enterprise](https://www.mckinsey.com/capabilities/quantumblack/our-insights/the-data-driven-enterprise-of-2025) — Research on data-driven organizations achieving stronger customer acquisition and retention outcomes. (2022)
+2. McKinsey Global Institute — The Data-Driven Enterprise — Research on data-driven organizations achieving stronger customer acquisition and retention outcomes. (2022)
 3. [World Economic Forum — Future of Jobs Report 2025](https://www.weforum.org/reports/the-future-of-jobs-report-2025) — Data analysts and scientists rank among the top five growing job categories globally through 2030. (2025)
-4. [Gartner — What Is Data Analytics](https://www.gartner.com/en/articles/what-is-data-analytics) — Definition and segmentation of descriptive, diagnostic, predictive, and prescriptive analytics. (2024)
+4. Gartner — What Is Data Analytics — Definition and segmentation of descriptive, diagnostic, predictive, and prescriptive analytics. (2024)

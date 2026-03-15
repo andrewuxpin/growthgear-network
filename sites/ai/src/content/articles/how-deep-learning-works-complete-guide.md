@@ -163,7 +163,7 @@ Business applications include:
 
 ## Deep Learning Business Applications
 
-Deep learning delivers measurable ROI across industries when applied to problems with sufficient data and clear success metrics. According to [McKinsey's 2024 State of AI report](https://www.mckinsey.com/capabilities/quantumblack/our-insights/the-state-of-ai), organizations using AI (including deep learning) report average cost reductions of 20% and revenue increases of 10-15% in the functions where AI is deployed.
+Deep learning delivers measurable ROI across industries when applied to problems with sufficient data and clear success metrics. According to McKinsey's 2024 State of AI report, organizations using AI (including deep learning) report average cost reductions of 20% and revenue increases of 10-15% in the functions where AI is deployed.
 
 ### Customer Experience and Personalization
 
@@ -198,7 +198,7 @@ Beyond diagnostics, deep learning applications include:
 
 Transformer models enable businesses to process and understand text at a scale impossible with human labor. Applications include [natural language processing for customer service](/machine-learning/what-is-natural-language-processing-explained), contract analysis, compliance monitoring, and automated reporting.
 
-According to [Gartner's 2025 predictions](https://www.gartner.com/en/newsroom/press-releases), by 2026, 80% of enterprises will have deployed generative AI-powered NLP tools in at least one business function, up from 5% in 2023.
+According to Gartner's 2025 predictions, by 2026, 80% of enterprises will have deployed generative AI-powered NLP tools in at least one business function, up from 5% in 2023.
 
 For businesses looking to increase organic reach while using AI, see how [AI tools can drive organic website traffic](https://marketing.growthgear.com.au/seo/how-to-increase-organic-website-traffic-fast).
 
@@ -273,7 +273,7 @@ Deep learning doesn't require a data science team or a supercomputer to deliver 
 ## Sources & References
 
 1. [Stanford HAI — AI Index Report 2024](https://hai.stanford.edu/research/ai-index) — Deep learning models with 10+ layers outperform shallow alternatives by 15-40% on vision and language benchmarks (2024)
-2. [McKinsey — The State of AI 2024](https://www.mckinsey.com/capabilities/quantumblack/our-insights/the-state-of-ai) — Organizations deploying AI report average cost reductions of 20% and revenue increases of 10-15% in targeted functions (2024)
+2. McKinsey — The State of AI 2024 — Organizations deploying AI report average cost reductions of 20% and revenue increases of 10-15% in targeted functions (2024)
 3. [Deloitte — Manufacturing Industry Outlook 2024](https://www2.deloitte.com/us/en/insights/industry/manufacturing/manufacturing-industry-outlook.html) — Manufacturers deploying AI-powered quality control reduce defect escape rates by 50-90% (2024)
 4. [Google AI Research](https://ai.google/research/) — CNN models detect diabetic retinopathy with 90%+ sensitivity comparable to specialist ophthalmologists (2024)
-5. [Gartner — 2025 Technology Predictions](https://www.gartner.com/en/newsroom/press-releases) — 80% of enterprises will have deployed generative AI NLP tools in at least one business function by 2026 (2025)
+5. Gartner — 2025 Technology Predictions — 80% of enterprises will have deployed generative AI NLP tools in at least one business function by 2026 (2025)
