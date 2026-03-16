@@ -195,6 +195,7 @@ Hyperparameters are settings that control the learning process:
 - Number of trees (for ensemble methods)
 - Regularization strength
 - Network architecture (for neural networks)
+- **Epochs** (for neural networks): the number of complete passes through the training data — see our guide on [what is an epoch in machine learning](/machine-learning/what-is-an-epoch-in-machine-learning) for how to choose the right number and use early stopping to prevent overfitting
 
 **Tuning Methods:**
 1. **Grid Search**: Exhaustive search over parameter combinations

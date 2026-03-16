@@ -69,7 +69,7 @@ For business applications, depth translates directly to capability: deep network
 
 ## How Deep Learning Models Train
 
-Deep learning models train by iteratively adjusting their weights to minimize prediction error. This process has three core components: a loss function, backpropagation, and gradient descent. Understanding these mechanisms helps you diagnose real-world problems — like why your model accuracy plateaus, or why training costs spiral.
+Deep learning models train by iteratively adjusting their weights to minimize prediction error. This process has three core components: a loss function, backpropagation, and gradient descent. Each complete pass through the training data is called an **epoch** — understanding [what an epoch is in machine learning](/machine-learning/what-is-an-epoch-in-machine-learning) is key to configuring training correctly and avoiding overfitting. Understanding these mechanisms helps you diagnose real-world problems — like why your model accuracy plateaus, or why training costs spiral.
 
 ### The Loss Function: Measuring Error
 
