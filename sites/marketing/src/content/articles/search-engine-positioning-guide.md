@@ -242,7 +242,7 @@ The refresh cycle that prevents this:
 
 According to HubSpot's content audit research, refreshing existing content can increase organic traffic to that page by an average of 106% — far more than publishing a new article on the same topic.
 
-The [AI tools now available for SEO monitoring](https://ai.growthgear.com.au/machine-learning/how-to-implement-ai-in-business-complete-guide) can automate the declining-content identification step, flagging pages for refresh before the traffic loss becomes significant.
+The [AI tools now available for SEO monitoring](https://ai.growthgear.com.au/machine-learning/how-to-implement-ai-in-business-complete-guide) can automate the declining-content identification step, flagging pages for refresh before the traffic loss becomes significant. For a full breakdown of how these platforms work and what to look for when choosing one, see the guide to [how AI search monitoring improves SEO strategy](/seo/how-ai-search-monitoring-improves-seo-strategy).
 
 ---
 
