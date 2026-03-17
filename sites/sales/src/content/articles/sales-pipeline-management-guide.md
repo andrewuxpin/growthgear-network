@@ -193,7 +193,7 @@ Your CRM is only as useful as how it's configured. Generic out-of-the-box setups
 - **Automated alerts**: Flag deals with no activity in 7 days, deals approaching stage time limits, or deals where close date is in the past
 - **Pipeline views**: Create filtered views by rep, by close date, by deal size, and by stage — not just the default "all deals" view
 
-The [best CRM software for small business teams](/crm-tools/best-crm-software-small-business-teams) varies by team size and complexity, but the configuration principles apply regardless of platform. For a detailed guide on daily CRM workflows — from contact management to reporting — see [how to use CRM software for sales teams](/crm-tools/how-to-use-crm-software-for-sales-teams).
+The [best CRM software for small business teams](/crm-tools/best-crm-software-small-business-teams) varies by team size and complexity, but the configuration principles apply regardless of platform. For a detailed guide on daily CRM workflows — from contact management to reporting — see [how to use CRM software for sales teams](/crm-tools/how-to-use-crm-software-for-sales-teams). For a side-by-side comparison of HubSpot, Salesforce, Pipedrive, Zoho, and other major platforms, see our [CRM software examples guide](/crm-tools/crm-software-examples-sales-teams).
 
 ## Common Pipeline Management Failures and How to Fix Them
 
