@@ -110,7 +110,7 @@ The best SMMAs use [AI-powered analytics tools](https://ai.growthgear.com.au/ai-
 
 ## In-House Social Media vs. Hiring an SMMA
 
-The in-house vs. SMMA decision turns on posting frequency, platform count, and budget. Businesses consistently posting across three or more platforms — with mixed organic and paid requirements — typically find that a specialist agency delivers stronger results than a single in-house social media manager. Businesses with tightly focused strategies on one or two platforms may get more value from a dedicated hire who's embedded in the company culture.
+The in-house vs. SMMA decision turns on posting frequency, platform count, and budget. Businesses consistently posting across three or more platforms — with mixed organic and paid requirements — typically find that a specialist agency delivers stronger results than a single in-house social media manager. Businesses with tightly focused strategies on one or two platforms may get more value from a dedicated hire who's embedded in the company culture. Before making that call, clarify [which social media platform you should focus on](/social-media/should-you-focus-on-one-social-media-platform) — the answer directly shapes whether you need a multi-platform specialist or a single-channel expert.
 
 The comparison isn't simply cost-per-hour. It's capability-per-dollar across your specific needs.
 

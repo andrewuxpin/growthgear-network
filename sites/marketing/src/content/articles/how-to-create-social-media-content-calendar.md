@@ -99,7 +99,7 @@ The framework is the structure your calendar lives in — the platforms, formats
 
 ### Choose Your Platforms Strategically
 
-The biggest mistake brands make is trying to be everywhere. If you don't have the content bandwidth to maintain quality on five platforms, you'll produce mediocre content on all of them. Better to dominate two platforms than be forgettable on six.
+The biggest mistake brands make is trying to be everywhere. If you don't have the content bandwidth to maintain quality on five platforms, you'll produce mediocre content on all of them. Better to dominate two platforms than be forgettable on six. If you're still deciding where to concentrate, the guide on [whether to focus on one social media platform](/social-media/should-you-focus-on-one-social-media-platform) walks through the decision framework before you build your calendar.
 
 **Platform selection criteria:**
 - Where does your target audience actually spend time?
