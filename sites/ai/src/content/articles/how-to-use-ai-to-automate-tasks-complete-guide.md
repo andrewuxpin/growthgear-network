@@ -200,7 +200,7 @@ When off-the-shelf tools don't fit your workflow, direct API integration with la
 
 For teams with a developer or technical co-founder, building one custom AI step — a classification endpoint, a document extractor, a response generator — and wrapping it with Zapier for the rest of the workflow is often the most cost-effective architecture.
 
-If you're using AI tools as part of a broader marketing stack, [best AI tools for digital marketing automation](https://marketing.growthgear.com.au/content-marketing/best-ai-tools-digital-marketing-automation) covers the marketing-specific toolset in depth.
+If you're using AI tools as part of a broader marketing stack, [best AI tools for digital marketing automation](https://marketing.growthgear.com.au/content-marketing/best-ai-tools-digital-marketing-automation) covers the marketing-specific toolset in depth. For teams specifically focused on content production, the [best AI tools for content creation](/ai-tools/best-ai-tools-for-content-creation) guide compares writing, visual, and video AI tools with pricing data.
 
 ## Measuring AI Automation ROI
 

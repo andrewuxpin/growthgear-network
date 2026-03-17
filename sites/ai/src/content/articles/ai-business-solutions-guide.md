@@ -159,7 +159,7 @@ The first 60–90 days are typically dominated by data cleanup, workflow redesig
 
 A perspective that appears consistently in conversations with business owners: AI tools that integrate tightly with existing systems — CRM, ERP, email — outperform standalone tools by a meaningful margin. Integration friction creates parallel workflows where staff use both old and new systems simultaneously, which is unsustainable and a primary cause of AI project abandonment within the first year.
 
-For teams evaluating AI for marketing functions specifically, [best AI tools for digital marketing automation](https://marketing.growthgear.com.au/content-marketing/best-ai-tools-digital-marketing-automation) covers solutions for content, SEO, and campaign management that work alongside the enterprise AI solutions described here.
+For teams evaluating AI for marketing functions specifically, [best AI tools for digital marketing automation](https://marketing.growthgear.com.au/content-marketing/best-ai-tools-digital-marketing-automation) covers solutions for content, SEO, and campaign management. Teams prioritizing content production will also find the [best AI tools for content creation](/ai-tools/best-ai-tools-for-content-creation) useful — it covers writing, visual, and video AI tools with comparative pricing for SMB teams.
 
 ### Key Evaluation Criteria
 
