@@ -124,7 +124,7 @@ A strong summary email has three parts:
 
 This pattern serves a second purpose: it trains buyers to expect structured, professional interactions at every stage. Buyers who experience this level of discipline are more likely to advocate for your solution internally, because they're confident you'll deliver the same quality post-sale.
 
-For structuring the actual close, [sales closing techniques](/sales-techniques/sales-closing-techniques-that-actually-work) covers the timing, language, and methods that convert late-stage deals without resorting to pressure tactics.
+For structuring the actual close, [sales closing techniques](/sales-techniques/sales-closing-techniques-that-actually-work) covers the timing, language, and methods that convert late-stage deals without resorting to pressure tactics. For the full step-by-step closing process — from value recap to trial close to handling last-minute objections — see [how to close a sale](/sales-techniques/how-to-close-a-sale-guide).
 
 ## Time, Territory, and Pipeline Management
 
