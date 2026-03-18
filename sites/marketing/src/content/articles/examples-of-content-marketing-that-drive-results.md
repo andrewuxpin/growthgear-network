@@ -40,7 +40,7 @@ callout:
   content: "What works for HubSpot's 2,000-person marketing team won't work on day one for a 5-person startup. Adapt the principles, not the exact playbook."
 ---
 
-The best **examples of content marketing** share one trait: they solve a specific audience problem so well that readers share the content, return to the site, and eventually buy. This isn't about publishing volume — it's about publishing the right content for the right audience at the right stage of their buying journey.
+The best **examples of content marketing** share one trait: they solve a specific audience problem so well that readers share the content, return to the site, and eventually buy. This isn't about publishing volume — it's about publishing the right content for the right audience at the right stage of their buying journey. Understanding the [core marketing fundamentals](/content-marketing/marketing-fundamentals-complete-guide) before studying examples helps you identify which elements to adapt for your own strategy.
 
 According to the [Content Marketing Institute's annual B2B research](https://contentmarketinginstitute.com/articles/b2b-content-marketing-research/), content marketing generates over 3x more leads than outbound at 62% less cost. Yet most businesses fail to realize those returns because they create content without studying what actually works.
 
