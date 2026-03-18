@@ -143,7 +143,7 @@ Start simpler than you think you need. According to research published by [Googl
 
 ## How to Train a Neural Network Step by Step
 
-Training a neural network means iteratively adjusting its weights to minimise prediction error on your training data. The process uses **backpropagation** (calculating gradients of the loss with respect to each weight) combined with an **optimiser** (an algorithm that updates weights based on those gradients). Expect 3–10 training runs before settling on a configuration that generalises well.
+Training a neural network means iteratively adjusting its weights to minimise prediction error on your training data. The process uses **backpropagation** (calculating gradients of the loss with respect to each weight) combined with an **optimiser** (an algorithm that updates weights based on those gradients). Expect 3–10 training runs before settling on a configuration that generalises well. For a deep dive into every optimizer type and how to choose between Adam, SGD, and their variants, see our [gradient descent in deep learning guide](/deep-learning/gradient-descent-deep-learning-guide).
 
 ### Data Preparation: The Most Underestimated Step
 

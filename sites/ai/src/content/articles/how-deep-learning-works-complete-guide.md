@@ -101,7 +101,7 @@ The **learning rate** controls how large each update step is:
 - Too low: training takes forever and may get stuck in suboptimal solutions
 - Optimal: found through hyperparameter tuning, typically values between 0.0001 and 0.01
 
-Modern deep learning uses **mini-batch stochastic gradient descent** (SGD) and adaptive optimizers like Adam, which automatically adjust learning rates per weight. Frameworks like PyTorch and TensorFlow handle all of this automatically — you don't need to implement it manually.
+Modern deep learning uses **mini-batch stochastic gradient descent** (SGD) and adaptive optimizers like Adam, which automatically adjust learning rates per weight. Frameworks like PyTorch and TensorFlow handle all of this automatically — you don't need to implement it manually. For a complete breakdown of optimizer types, learning rate tuning, and how to diagnose training failures, see our [gradient descent in deep learning guide](/deep-learning/gradient-descent-deep-learning-guide).
 
 > **Pro tip:** The most common cause of poor deep learning model performance isn't the architecture — it's data quality and quantity. Before tuning hyperparameters, audit your training data for labeling errors, class imbalance, and distribution shift.
 
