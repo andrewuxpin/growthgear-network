@@ -161,7 +161,7 @@ Lead scoring assigns numeric values to lead behaviors and firmographic attribute
 - Downloaded high-intent content: +15
 - Requested a demo: +25 (this alone probably makes them a sales-ready lead)
 
-Leads over 70 points go directly to an SDR within 5 minutes. Leads between 40-70 enter a nurture sequence. Below 40, they stay in marketing automation.
+Leads over 70 points go directly to an SDR within 5 minutes. Leads between 40-70 enter a nurture sequence. Below 40, they stay in marketing automation. Once leads pass the scoring threshold, the SDR runs a structured [lead engagement sequence](/sales-techniques/lead-engagement-strategies-guide) — defined touchpoints, channel rotation, and timing — to convert them into qualified opportunities.
 
 [AI-powered data analysis tools](https://ai.growthgear.com.au/ai-tools/best-ai-tools-for-data-analysis) can significantly improve scoring accuracy by identifying behavioral patterns human analysis misses.
 

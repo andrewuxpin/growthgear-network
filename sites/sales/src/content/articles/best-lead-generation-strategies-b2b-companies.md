@@ -267,7 +267,7 @@ Create seamless handoffs between marketing and sales:
 ### Tactical Mistakes
 - **Poor landing page design**: Cluttered pages reduce conversion rates by 40%
 - **Weak calls-to-action**: Vague CTAs decrease click-through rates significantly
-- **Insufficient follow-up**: 44% of salespeople give up after one follow-up attempt
+- **Insufficient follow-up**: 44% of salespeople give up after one follow-up attempt — once leads are generated, a structured [lead engagement strategy](/sales-techniques/lead-engagement-strategies-guide) ensures every prospect receives consistent multi-touch follow-up rather than a single abandoned email
 - **Missing attribution tracking**: Unable to optimize without proper measurement
 
 ## Future Trends in B2B Lead Generation

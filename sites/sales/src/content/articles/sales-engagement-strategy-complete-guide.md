@@ -92,7 +92,7 @@ Reserving deep account-specific research for A-tier accounts while using role-ba
 
 ### 3. Channel Sequencing
 
-No single channel owns B2B outreach. Salesforce research shows multichannel sequences combining email, phone, and LinkedIn outperform single-channel outreach by up to 287%. The optimal channel mix for most B2B markets:
+No single channel owns B2B outreach. Salesforce research shows multichannel sequences combining email, phone, and LinkedIn outperform single-channel outreach by up to 287%. The optimal channel mix for most B2B markets — and for a complete breakdown of how to score and prioritize prospects within your sequence, see our [lead engagement strategies guide](/sales-techniques/lead-engagement-strategies-guide):
 
 - **Email**: Primary channel; best for detailed value propositions and asynchronous consumption
 - **Phone**: Highest conversion per touch when you reach the right person; requires persistence
