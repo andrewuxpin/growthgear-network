@@ -50,6 +50,8 @@ Before diving into campaign creation, you need to establish clear, measurable ob
 5. **Transactional Emails**: Confirm purchases, shipments, and account activities
 6. **Event Announcements**: Promote webinars, launches, and special occasions
 
+If you run an ecommerce store, these campaign types have specific behavioral variations — from abandoned cart recovery to post-purchase sequences — covered in our [ecommerce email marketing strategy guide](/content-marketing/ecommerce-email-marketing-strategy-guide).
+
 ## Building and Segmenting Your Email List
 
 An effective email marketing campaign starts with a quality, well-segmented email list. Here's how to build and organize your subscriber base:

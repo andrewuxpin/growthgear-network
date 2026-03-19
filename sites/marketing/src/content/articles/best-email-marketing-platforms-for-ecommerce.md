@@ -29,7 +29,7 @@ callout:
 
 Choosing the**best email marketing platforms for ecommerce** can make or break your online business success. With email marketing delivering an average ROI of $42 for every $1 spent, selecting the right platform is crucial for maximizing your revenue potential. The right email marketing solution will help you nurture leads, recover abandoned carts, and turn one-time buyers into loyal customers.
 
-In this comprehensive guide, we'll explore the top 15 email marketing platforms specifically designed for ecommerce businesses, analyzing their features, pricing, integrations, and unique capabilities to help you make an informed decision.
+In this comprehensive guide, we'll explore the top 15 email marketing platforms specifically designed for ecommerce businesses, analyzing their features, pricing, integrations, and unique capabilities to help you make an informed decision. Before committing to a platform, it helps to map out the automated flows you need — our [ecommerce email marketing strategy guide](/content-marketing/ecommerce-email-marketing-strategy-guide) covers the five essential sequences every online store should build first.
 
 ## Why Email Marketing Is Essential for Ecommerce Success
 

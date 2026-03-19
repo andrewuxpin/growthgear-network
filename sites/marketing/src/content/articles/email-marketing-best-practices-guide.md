@@ -75,6 +75,8 @@ Remove or re-engage subscribers who haven't opened in 90 days. Send a re-engagem
 
 > **Common mistake:** Many marketers keep unengaged subscribers "in case they come back." In practice, dead contacts drag down your domain's engagement signals and push active campaigns into spam folders. A smaller, engaged list always outperforms a large, disengaged one.
 
+For ecommerce brands, the win-back sequence has specific timing and incentive logic that protects list health while recovering revenue. The [ecommerce email marketing strategy guide](/content-marketing/ecommerce-email-marketing-strategy-guide) covers the three-email win-back framework in detail.
+
 ## Subject Lines and Open Rate Optimization
 
 Your subject line determines whether your email gets read or deleted. According to HubSpot research, 47% of recipients open emails based on the subject line alone. Every element — length, tone, personalization, urgency — influences the open rate before a single word of body copy is read.
