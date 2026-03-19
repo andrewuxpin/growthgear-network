@@ -65,7 +65,7 @@ The depth (number of hidden layers) and width (neurons per layer) determine what
 
 ### Activation Functions and Forward Propagation
 
-Each neuron applies an **activation function** to its weighted input sum before passing the result to the next layer. Activation functions introduce non-linearity — without them, a deep network would behave identically to a single-layer linear model regardless of depth.
+Each neuron applies an **activation function** to its weighted input sum before passing the result to the next layer. [Activation functions introduce non-linearity](/deep-learning/activation-functions-neural-networks-guide) — without them, a deep network would behave identically to a single-layer linear model regardless of depth.
 
 | Activation Function | Use Case | Key Property |
 |---|---|---|

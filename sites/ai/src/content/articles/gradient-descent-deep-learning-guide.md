@@ -93,7 +93,7 @@ Three practical approaches to setting the learning rate:
 
 Backpropagation is the algorithm that efficiently computes gradients for every weight in a deep network by applying the chain rule of calculus from output back to input. Without it, computing gradients for a network with millions of parameters would be computationally infeasible.
 
-The chain rule allows gradient computation to be factored layer by layer: the gradient at each layer depends on gradients flowing back from the layers above it. This is why the problem of **vanishing gradients** — where gradients become exponentially small as they propagate backward through many layers — was a major obstacle to training deep networks before modern techniques like ReLU activations and batch normalization.
+The chain rule allows gradient computation to be factored layer by layer: the gradient at each layer depends on gradients flowing back from the layers above it. This is why the problem of **vanishing gradients** — where gradients become exponentially small as they propagate backward through many layers — was a major obstacle to training deep networks before modern techniques like [ReLU activations](/deep-learning/activation-functions-neural-networks-guide) and batch normalization.
 
 For a hands-on implementation of backpropagation in a working neural network, see [how to build a neural network from scratch](/deep-learning/how-to-build-a-neural-network-complete-guide).
 
