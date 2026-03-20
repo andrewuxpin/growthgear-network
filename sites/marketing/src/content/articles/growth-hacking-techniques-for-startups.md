@@ -247,7 +247,7 @@ Track experiment results in a shared log:
 - Result (lift/decline %)
 - Decision (scale/abandon/iterate)
 
-Tools like [AI-powered data analysis](https://ai.growthgear.com.au/ai-tools/best-ai-tools-for-data-analysis) can help growth teams identify patterns across experiments faster than manual analysis. Building a full AI tool stack — covering content, sales, and operations — amplifies every growth experiment; see our guide to the [best AI tools for business](/content-marketing/best-ai-tools-for-business) for a complete breakdown.
+Tools like [AI-powered data analysis](https://ai.growthgear.com.au/ai-tools/best-ai-tools-for-data-analysis) can help growth teams identify patterns across experiments faster than manual analysis. Building a full AI tool stack — covering content, sales, and operations — amplifies every growth experiment; see our guide to the [best AI tools for business](/content-marketing/best-ai-tools-for-business) for a complete breakdown. Once you've identified your winning techniques, the next step is equipping your team with the right infrastructure — our [best growth hacking tools for startups guide](/content-marketing/best-growth-hacking-tools-for-startups) covers the full stack for every budget.
 
 ### Growth Accounting
 

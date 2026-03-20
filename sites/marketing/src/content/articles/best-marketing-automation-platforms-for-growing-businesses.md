@@ -196,7 +196,7 @@ Structure the re-engagement sequence as a three-step pattern. Email 1 acknowledg
 
 Segment re-engagement criteria by acquisition source. Contacts from paid campaigns typically go stale faster than organic subscribers; set a 60-day inactivity threshold for paid-source contacts versus 90 days for organic. This segmentation alone typically cuts your "inactive" list by 20-30%, improving deliverability metrics across the entire database.
 
-Pair this with [lead generation strategies](https://sales.growthgear.com.au/b2b-sales/best-lead-generation-strategies-b2b-companies) to ensure your automation system is constantly receiving fresh, qualified contacts alongside re-engagement efforts.
+Pair this with [lead generation strategies](https://sales.growthgear.com.au/b2b-sales/best-lead-generation-strategies-b2b-companies) to ensure your automation system is constantly receiving fresh, qualified contacts alongside re-engagement efforts. For startups building their first marketing stack, our [best growth hacking tools guide](/content-marketing/best-growth-hacking-tools-for-startups) explains which automation platforms work best at each stage of growth.
 
 ---
 

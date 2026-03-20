@@ -230,6 +230,8 @@ Conversion optimization and growth hacking share the same engine: rapid experime
 - **Unbounce**: Landing page builder with built-in testing
 - **Crazy Egg**: Advanced heatmap and user behavior analysis
 
+CRO tools like Hotjar and Optimizely work best when they're part of a coordinated growth stack. If you're building or expanding your toolkit, the [best growth hacking tools for startups guide](/content-marketing/best-growth-hacking-tools-for-startups) covers how to integrate CRO tools with analytics and acquisition channels for maximum compound impact.
+
 ### Technical Implementation
 
 #### Tag Management
