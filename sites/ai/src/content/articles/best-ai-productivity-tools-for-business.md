@@ -87,7 +87,7 @@ ChatGPT remains the most versatile AI writing tool available. The GPT-4o model h
 
 **Best for:** Marketing teams producing high-volume content
 
-Jasper is purpose-built for marketing content: ad copy, blog posts, email campaigns, and social — making it one of the [best AI tools for content creation](/ai-tools/best-ai-tools-for-content-creation) for marketing teams. Where ChatGPT is a general tool, Jasper includes brand voice training, content templates optimized for marketing formats, and team collaboration features built in.
+Jasper is purpose-built for marketing content: ad copy, blog posts, email campaigns, and social — making it one of the [best AI tools for content creation](/ai-tools/best-ai-tools-for-content-creation) for marketing teams. Where ChatGPT is a general tool, Jasper includes brand voice training, content templates optimized for marketing formats, and team collaboration features built in. For a full walkthrough on deploying Jasper alongside other tools in a marketing stack, see the guide on [how to scale marketing with AI tools](/ai-tools/how-to-scale-marketing-with-ai-tools-guide).
 
 **Standout capabilities:**
 - Brand voice training from uploaded documents

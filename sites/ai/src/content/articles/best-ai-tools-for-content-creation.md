@@ -41,7 +41,7 @@ callout:
   content: "The most common mistake is buying an all-in-one AI content tool before knowing which content type is the real bottleneck. Start specific, then expand your stack."
 ---
 
-Content teams that haven't adopted AI tools are now producing content at a structural disadvantage. According to [HubSpot's 2024 State of Marketing Report](https://www.hubspot.com/state-of-marketing), 64% of marketers reported using AI tools in their content workflow — with the primary gains in drafting speed, variation testing, and scaling output across channels.
+Content teams that haven't adopted AI tools are now producing content at a structural disadvantage. According to [HubSpot's 2024 State of Marketing Report](https://www.hubspot.com/state-of-marketing), 64% of marketers reported using AI tools in their content workflow — with the primary gains in drafting speed, variation testing, and scaling output across channels. Teams ready to connect these tools into a full marketing growth strategy will find the guide on [how to scale marketing with AI tools](/ai-tools/how-to-scale-marketing-with-ai-tools-guide) useful for channel prioritization and ROI measurement.
 
 The challenge isn't whether to use AI for content — it's which tools to use for which jobs. Writing tools don't generate videos. Image generators don't write emails. A tool that excels at blog posts may struggle with social copy. This guide maps the best tools to each content type, with real pricing and honest tradeoffs.
 

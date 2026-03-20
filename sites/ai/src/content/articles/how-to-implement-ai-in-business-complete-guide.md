@@ -39,7 +39,7 @@ Key areas where businesses typically implement AI include:
 - **Data analysis and insights** for better decision-making
 - **Process automation** to reduce manual tasks
 - **Predictive analytics** for forecasting and planning
-- **Content creation and marketing** optimization
+- **Content creation and marketing** optimization — for a dedicated playbook, see [how to scale your marketing with AI tools](/ai-tools/how-to-scale-marketing-with-ai-tools-guide)
 - **Quality control and monitoring** systems
 
 For a structured breakdown of the tools and platforms available in each category — including cost ranges and realistic ROI timelines — see the [AI business solutions guide](/ai-tools/ai-business-solutions-guide).
