@@ -35,7 +35,7 @@ According to recent research by CSO Insights, companies with well-defined sales 
 
 A sales pipeline is a visual representation of your sales process that tracks prospects as they move through different stages of the buying journey. It provides a systematic framework for managing leads, nurturing relationships, and ultimately converting prospects into paying customers.
 
-Unlike a sales funnel, which focuses on conversion rates at each stage, a sales pipeline emphasizes the active management of individual deals and the specific actions required to move them forward. Think of it as a roadmap that guides both your sales team and prospects through a structured journey from initial contact to closed deal.
+Unlike a sales funnel, which focuses on conversion rates at each stage, a sales pipeline emphasizes the active management of individual deals and the specific actions required to move them forward. Think of it as a roadmap that guides both your sales team and prospects through a structured journey from initial contact to closed deal. Once your pipeline structure is in place, your next priority is building a reliable [lead pipeline strategy](/b2b-sales/lead-pipeline-strategy-guide) to keep it consistently filled with qualified opportunities.
 
 ### Key Components of a Sales Pipeline
 
