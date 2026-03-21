@@ -166,7 +166,7 @@ Late-stage objections — the ones that appear right when you've asked for the d
 
 ### "I Need to Think About It"
 
-This is almost always a proxy for a more specific objection the prospect hasn't named. Accepting it at face value leads to a deal that dies in follow-up limbo.
+This is almost always a proxy for a more specific objection the prospect hasn't named. Accepting it at face value leads to a deal that dies in follow-up limbo. A structured [sales follow-up email sequence](/sales-techniques/sales-follow-up-email-guide) keeps these deals alive by adding new value at each touch rather than just checking in.
 
 **Response framework**:
 1. Acknowledge: "Of course — this is a big decision."

@@ -176,7 +176,7 @@ For deeper guidance on handling the varied concerns each buyer raises, our guide
 
 A cold outreach sequence is a pre-planned series of touches across channels, spaced strategically, each with a distinct angle. The sequence does the work that a single email cannot. If you're looking to build a full [sales engagement strategy](/crm-tools/sales-engagement-strategy-complete-guide) — including platform selection, multichannel sequence design, and measurement frameworks — our complete guide covers the end-to-end system.
 
-Salesforce research shows that 80% of deals require at least 5 touchpoints, but 44% of salespeople give up after one follow-up. The gap between what deals require and what most reps deliver is where consistent outbound performance lives.
+Salesforce research shows that 80% of deals require at least 5 touchpoints, but 44% of salespeople give up after one follow-up. The gap between what deals require and what most reps deliver is where consistent outbound performance lives. For a complete breakdown of each email in a follow-up sequence — including specific templates and optimal send timing — see our [sales follow-up email guide](/sales-techniques/sales-follow-up-email-guide).
 
 ### The Optimal 5-Touch Multi-Channel Sequence
 

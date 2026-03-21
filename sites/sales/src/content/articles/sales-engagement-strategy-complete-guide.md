@@ -192,7 +192,7 @@ Based on Salesforce State of Sales benchmarks for B2B outbound, a seven-touch se
 | Day 13 | Email | Follow-up #2: share a relevant resource or industry insight | Add value before last touch |
 | Day 18 | Email | Break-up email: offer to close the loop or reconnect later | Re-engagement trigger |
 
-The break-up email is consistently the highest-reply step in the sequence. Salesforce research documents break-up emails generating 20-30% reply rates — often more than mid-sequence steps — because they create a clear decision point that eliminates ambiguity.
+The break-up email is consistently the highest-reply step in the sequence. Salesforce research documents break-up emails generating 20-30% reply rates — often more than mid-sequence steps — because they create a clear decision point that eliminates ambiguity. For complete email templates for every stage in a follow-up sequence, including subject lines and CTA language, see our [sales follow-up email guide](/sales-techniques/sales-follow-up-email-guide).
 
 ### Message Structure for Each Touch
 
