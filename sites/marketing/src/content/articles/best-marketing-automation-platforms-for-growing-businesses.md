@@ -62,7 +62,7 @@ The platforms differ dramatically on *how* they handle each function, and those 
 
 A realistic picture of what automation handles — and what it doesn't — prevents the most common adoption failure: expecting the platform to think for you.
 
-Automation handles volume, timing, and consistency. It sends the right message at the right time based on rules you define. What it cannot do is write compelling copy, design conversion-optimized landing pages, or make strategic decisions about which segments to prioritize.
+Automation handles volume, timing, and consistency. It sends the right message at the right time based on rules you define. For teams scaling their output, pairing automation with an [automated branding system](/content-marketing/automated-branding-strategy-guide) ensures every automated touchpoint — emails, landing pages, social posts — stays visually on-brand by default. What automation cannot do is write compelling copy, design conversion-optimized landing pages, or make strategic decisions about which segments to prioritize.
 
 According to the [Content Marketing Institute's 2025 B2B Content Marketing Report](https://contentmarketinginstitute.com/research/), 73% of organizations that successfully use automation credit the results to quality content that feeds the system, not the platform itself.
 

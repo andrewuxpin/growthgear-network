@@ -106,7 +106,7 @@ The most effective promotional approach uses a message hierarchy:
 2. **Differentiation claim** — why you solve it better
 3. **Proof** — evidence that you actually deliver
 
-Every ad, email, and landing page should follow this sequence. [Conversion rate optimization](/content-marketing/conversion-rate-optimization-strategy-guide) depends on this message hierarchy being clear at every stage of the funnel.
+Every ad, email, and landing page should follow this sequence. [Conversion rate optimization](/content-marketing/conversion-rate-optimization-strategy-guide) depends on this message hierarchy being clear at every stage of the funnel. Equally important: every promotional asset should look and feel like the same brand — [automated branding workflows](/content-marketing/automated-branding-strategy-guide) are how high-output teams maintain that consistency without manual review at every step.
 
 > **Want to scale your marketing impact?** GrowthGear has helped 50+ startups build marketing engines that deliver 156% average growth. [Book a Free Strategy Session](https://growthgear.com.au) to craft your marketing roadmap.
 

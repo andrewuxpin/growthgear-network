@@ -77,6 +77,8 @@ Account-based marketing has revolutionized B2B content strategy by focusing reso
 - Personalize email sequences with account-relevant content
 - Produce executive briefings tailored to specific prospects
 
+Maintaining visual consistency across all account-specific materials becomes critical at scale — [automated branding systems](/content-marketing/automated-branding-strategy-guide) enforce your brand guidelines across every asset your team produces, so personalized content is never off-brand.
+
 **Success example:** Terminus, a B2B marketing platform, increased their pipeline by 40% using ABM content strategies, creating custom content for their top 100 target accounts.
 
 ### 2. Thought Leadership Content
