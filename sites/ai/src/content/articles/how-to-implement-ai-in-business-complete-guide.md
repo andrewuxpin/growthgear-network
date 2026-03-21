@@ -335,7 +335,7 @@ Consider partnering with external experts for:
 
 ### Data Strategy Fundamentals
 
-Successful AI implementation depends heavily on data quality and availability. Before investing in AI models, many businesses first need to build or professionalize their data analytics function—understanding which [data analytics roles and skills](/machine-learning/data-analytics-jobs-roles-skills-guide) you need is a critical first step. Your data strategy should address:
+Successful AI implementation depends heavily on data quality and availability. Before investing in AI models, many businesses first need to build or professionalize their data analytics function—understanding which [data analytics roles and skills](/machine-learning/data-analytics-jobs-roles-skills-guide) you need is a critical first step. If you're actively hiring analytics talent, our [data analytics job description guide](/machine-learning/data-analytics-job-description-hiring-guide) provides templates and salary benchmarks to help you write postings that attract qualified candidates. Your data strategy should address:
 
 #### Data Collection and Sources
 

@@ -164,7 +164,7 @@ Before posting a job description, answer three questions:
 2. **What data do you already have?** CRM records, transactional data, web analytics, and ad platform exports are often available before a single analyst is hired.
 3. **What outcome defines success for this role?** Not "build dashboards"—but "reduce customer acquisition cost by 15% using attribution data."
 
-With those answers, you're hiring for a specific problem. For most early-stage businesses, a generalist **data analyst** is the right first hire. An analyst who can pull data from your CRM, [integrate with best-in-class CRM tools](https://sales.growthgear.com.au/crm-tools/best-crm-software-small-business-teams), and build a clear weekly reporting pack will deliver more value than a data scientist building models on top of messy, unverified data.
+With those answers, you're hiring for a specific problem. For most early-stage businesses, a generalist **data analyst** is the right first hire. An analyst who can pull data from your CRM, [integrate with best-in-class CRM tools](https://sales.growthgear.com.au/crm-tools/best-crm-software-small-business-teams), and build a clear weekly reporting pack will deliver more value than a data scientist building models on top of messy, unverified data. Once you're ready to write the job posting, see our [data analytics job description hiring guide](/machine-learning/data-analytics-job-description-hiring-guide) for templates, salary benchmarks, and interview questions.
 
 Scale to data scientists and engineers once the analyst has established clean, trusted data foundations.
 
