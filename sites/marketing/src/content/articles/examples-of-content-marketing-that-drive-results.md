@@ -60,7 +60,7 @@ Three criteria separate high-performing content from average content:
 
 Most marketers fixate on format — "should we do a podcast or a blog?" The answer is: whichever format your audience already uses to solve this type of problem. If your audience watches YouTube tutorials to learn a skill, a written guide will underperform. If they search Google for definitions and comparisons, video is harder to rank.
 
-The [best content marketing strategies for B2B companies](/content-marketing/best-content-marketing-strategies-b2b-companies) always start with audience research before format selection. [HubSpot's research on content types](https://blog.hubspot.com/marketing/content-marketing-examples) confirms that companies whose content directly addresses stated buyer pain points outperform those focused on brand storytelling by a factor of 3 to 1 in qualified lead volume.
+The [best content marketing strategies for B2B companies](/content-marketing/best-content-marketing-strategies-b2b-companies) always start with audience research before format selection. HubSpot's research on content types confirms that companies whose content directly addresses stated buyer pain points outperform those focused on brand storytelling by a factor of 3 to 1 in qualified lead volume.
 
 ### The Compounding Effect
 

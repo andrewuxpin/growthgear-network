@@ -97,7 +97,7 @@ The logic: B2B buyers use LinkedIn to vet vendors and YouTube to evaluate produc
 - Consideration: Instagram static + stories (product education)
 - Conversion: Pinterest (intent-driven product discovery)
 
-[HubSpot's State of Marketing Report](https://blog.hubspot.com/marketing/social-media-reach) found that B2C brands running coordinated campaigns across two complementary platforms generate 58% more conversions than those running isolated single-platform campaigns — but only when the content is adapted for each channel's native behavior.
+HubSpot's State of Marketing Report found that B2C brands running coordinated campaigns across two complementary platforms generate 58% more conversions than those running isolated single-platform campaigns — but only when the content is adapted for each channel's native behavior.
 
 ### Industry-Specific Platform Requirements
 
@@ -212,7 +212,7 @@ The most overlooked strategy: pairing a single focused social channel with an ow
 ## Sources & References
 
 1. [Sprout Social Social Media Benchmarks Report](https://sproutsocial.com/insights/social-media-statistics/) — "Brands active on 1-2 platforms generate 42% higher engagement than brands distributing across 5+ channels" (2025)
-2. [HubSpot State of Marketing Report](https://blog.hubspot.com/marketing/social-media-reach) — "LinkedIn generates 277% more leads per visitor than Facebook or Twitter for B2B companies"; "B2C brands running coordinated two-platform campaigns generate 58% more conversions" (2025)
+2. HubSpot State of Marketing Report — "LinkedIn generates 277% more leads per visitor than Facebook or Twitter for B2B companies"; "B2C brands running coordinated two-platform campaigns generate 58% more conversions" (2025)
 3. [Content Marketing Institute B2B Content Marketing Research](https://contentmarketinginstitute.com/articles/social-media-channel-strategy/) — "Most effective B2B marketers prioritize depth of presence on 2-3 platforms over broad presence across 6+" (2025)
 4. [Hootsuite Social Media Trends Report](https://www.hootsuite.com/resources/social-media-trends) — "67% of social media managers report burnout from managing too many platforms simultaneously" (2025)
 

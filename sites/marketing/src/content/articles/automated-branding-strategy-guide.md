@@ -253,4 +253,4 @@ A strong brand is your most durable competitive asset — but only if it's exper
 1. [Marq State of Brand Consistency Report](https://marq.com/blog/brand-consistency) — "Companies with consistent branding experience revenue increases of up to 23% compared to those with inconsistent presentation." (2021)
 2. [Content Marketing Institute B2B Research](https://contentmarketinginstitute.com/articles/brand-consistency-guide) — "Documented content strategy correlates with significantly higher consistency in brand execution across B2B marketing teams." (2024)
 3. [HubSpot Marketing Statistics](https://www.hubspot.com/marketing-statistics) — "89% of marketers cite brand awareness as a primary goal, making consistency a foundational performance lever." (2024)
-4. [Gartner Marketing Technology Research](https://www.gartner.com/en/marketing/insights/marketing-technology) — "CMOs increasingly cite brand governance as a key use case for marketing technology investment." (2024)
+4. Gartner Marketing Technology Research — "CMOs increasingly cite brand governance as a key use case for marketing technology investment." (2024)

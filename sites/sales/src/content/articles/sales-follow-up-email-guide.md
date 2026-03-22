@@ -291,7 +291,7 @@ GrowthGear has helped 50+ startups build high-converting outreach and follow-up 
 
 ## Sources & References
 
-1. [HubSpot Sales Statistics](https://blog.hubspot.com/sales/follow-up-email) — "80% of sales require 5 follow-up calls or emails; 44% of reps give up after one attempt." (2024)
+1. HubSpot Sales Statistics — "80% of sales require 5 follow-up calls or emails; 44% of reps give up after one attempt." (2024)
 2. [Salesforce State of Sales Report](https://www.salesforce.com/resources/research-reports/state-of-sales/) — "The average B2B sales cycle involves 6-8 decision-makers and can span 3-9 months." (2024)
 3. [Yesware Email Analysis](https://www.yesware.com/blog/follow-up-email/) — "Reply rates drop significantly with email length; emails under 100 words outperform those over 200 words by approximately 2x." (2023)
-4. [Harvard Business Review](https://hbr.org/2016/03/the-best-time-to-send-a-cold-email) — Research on optimal send timing and the relationship between email length and response rates in professional sales contexts. (2016)
+4. Harvard Business Review — Research on optimal send timing and the relationship between email length and response rates in professional sales contexts. (2016)

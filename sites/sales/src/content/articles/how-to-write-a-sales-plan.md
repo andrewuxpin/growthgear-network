@@ -236,7 +236,7 @@ Leading indicators tell you where you'll be in 60-90 days:
 - **Activity completion rate**: Are reps hitting their weekly call/email/meeting targets?
 - **Deal aging**: How many open opportunities are past their expected close date?
 
-According to [Harvard Business Review research on sales performance](https://hbr.org/2022/02/5-sales-myths-that-need-to-die), sales leaders who review leading indicators weekly respond to shortfalls 3-4 weeks earlier than those who review only lagging metrics—enough to recover the quarter.
+According to Harvard Business Review research on sales performance, sales leaders who review leading indicators weekly respond to shortfalls 3-4 weeks earlier than those who review only lagging metrics—enough to recover the quarter.
 
 Improving [sales conversion rates](/sales-techniques/how-to-improve-sales-conversion-rates-quickly) at the right stage often has more impact than increasing activity volume. Use your stage-by-stage data to identify where the biggest drop-off is, then focus coaching there.
 
@@ -259,7 +259,7 @@ No plan survives first contact with the market perfectly. The question is whethe
 
 Build in explicit adaptation triggers: if pipeline coverage drops below 2.5x by week 6 of the quarter, it's time to activate additional lead sources, adjust activity targets, or reassess deal priorities. Don't wait for the quarter-end review to acknowledge a shortfall.
 
-According to [Gartner sales performance research](https://www.gartner.com/en/sales/insights/sales-performance), sales organizations that review and update their plans quarterly outperform annual-plan-only organizations on revenue attainment. The plan is a tool, not a contract—use it to make better decisions faster.
+According to Gartner sales performance research, sales organizations that review and update their plans quarterly outperform annual-plan-only organizations on revenue attainment. The plan is a tool, not a contract—use it to make better decisions faster.
 
 ### Quick Reference Summary
 
@@ -286,5 +286,5 @@ Whether you're writing your first sales plan or fixing one that stopped working,
 
 1. [Salesforce State of Sales](https://www.salesforce.com/resources/research-reports/state-of-sales/) — Top-performing sales teams are 2.8x more likely to follow a documented sales process than underperformers (2024)
 2. [HubSpot Sales Plan Guide](https://blog.hubspot.com/sales/ultimate-guide-creating-sales-plan) — Bottom-up revenue targets built from rep capacity achieve significantly higher attainment rates than top-down targets (2024)
-3. [Harvard Business Review — Sales Performance](https://hbr.org/2022/02/5-sales-myths-that-need-to-die) — Sales leaders reviewing leading indicators weekly respond to shortfalls 3-4 weeks earlier than those tracking only lagging metrics (2022)
-4. [Gartner Sales Performance Research](https://www.gartner.com/en/sales/insights/sales-performance) — Organizations that review and update their sales plans quarterly outperform annual-plan-only organizations on revenue attainment (2023)
+3. Harvard Business Review — Sales Performance — Sales leaders reviewing leading indicators weekly respond to shortfalls 3-4 weeks earlier than those tracking only lagging metrics (2022)
+4. Gartner Sales Performance Research — Organizations that review and update their sales plans quarterly outperform annual-plan-only organizations on revenue attainment (2023)

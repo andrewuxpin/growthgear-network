@@ -222,4 +222,4 @@ Closing a sale consistently isn't about perfecting a single technique — it's a
 1. [Salesforce State of Sales](https://www.salesforce.com/resources/research-reports/state-of-sales/) — Annual research report on sales performance benchmarks, top performer behaviors, and technology adoption (2024)
 2. [Gartner B2B Buying Journey Research](https://www.gartner.com/en/sales/insights/b2b-buying-journey) — "The average B2B buying group involves 6-10 stakeholders, and buyers complete 57-70% of their research before engaging with a vendor" (2023)
 3. [HubSpot Sales Statistics](https://blog.hubspot.com/sales/sales-statistics) — Research on closing rates, follow-up behavior, and qualification impact on deal outcomes (2024)
-4. [Harvard Business Review — Negotiation](https://hbr.org/2015/06/the-right-way-to-use-negotiation-data) — Research on negotiation dynamics, including the impact of preparation and silence in deal-making conversations (2015)
+4. Harvard Business Review — Negotiation — Research on negotiation dynamics, including the impact of preparation and silence in deal-making conversations (2015)

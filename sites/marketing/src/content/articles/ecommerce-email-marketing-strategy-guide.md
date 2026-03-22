@@ -102,7 +102,7 @@ Connecting your email platform to your ecommerce CRM or data layer from the star
 
 ## The 5 Essential Ecommerce Email Flows
 
-Automated email flows are triggered by subscriber behavior — a purchase, a cart abandonment, a lapse in engagement. They run 24/7 and, once configured, generate revenue without manual effort. [According to Klaviyo's ecommerce benchmark data](https://www.klaviyo.com/blog/email-benchmarks), automated flows account for between 30 and 50 percent of all email-attributed revenue for most ecommerce stores. There are five flows every store needs before launching broadcast campaigns.
+Automated email flows are triggered by subscriber behavior — a purchase, a cart abandonment, a lapse in engagement. They run 24/7 and, once configured, generate revenue without manual effort. According to Klaviyo's ecommerce benchmark data, automated flows account for between 30 and 50 percent of all email-attributed revenue for most ecommerce stores. There are five flows every store needs before launching broadcast campaigns.
 
 ### Welcome Series
 
@@ -259,4 +259,4 @@ GrowthGear has helped 50+ ecommerce and DTC brands build email programs that con
 2. [Baymard Institute — Cart Abandonment Rate Statistics](https://baymard.com/lists/cart-abandonment-rate) — "The global average shopping cart abandonment rate is approximately 70%." (2024)
 3. [Campaign Monitor — Email Marketing New Rules](https://www.campaignmonitor.com/resources/guides/email-marketing-new-rules/) — "Segmented email campaigns generate up to 760% more revenue than non-segmented sends." (2023)
 4. [McKinsey & Company — The Value of Getting Personalization Right](https://www.mckinsey.com/capabilities/growth-marketing-and-sales/our-insights/the-value-of-getting-personalization-right) — "Companies that get personalization right generate 40% more revenue than average performers." (2021)
-5. [Klaviyo — Ecommerce Email Benchmarks](https://www.klaviyo.com/blog/email-benchmarks) — Open rate, CTR, conversion rate, and RPE benchmarks for ecommerce automated flows and broadcast campaigns. (2024)
+5. Klaviyo — Ecommerce Email Benchmarks — Open rate, CTR, conversion rate, and RPE benchmarks for ecommerce automated flows and broadcast campaigns. (2024)

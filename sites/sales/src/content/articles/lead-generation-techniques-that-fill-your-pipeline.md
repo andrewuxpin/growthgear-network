@@ -86,7 +86,7 @@ The sequence that works:
 3. **Wait 48 hours after they accept.** Then open with a question or observation, not a pitch. "Your post on the SDR team structure last week was interesting—we've seen the same pattern at several [industry] companies. Happy to share what worked for them, if useful."
 4. **Move to email or phone** once you have a real conversation going.
 
-LinkedIn Sales Navigator's [Intent Data](https://www.linkedin.com/business/sales/blog/sales-tips/lead-generation-strategies) lets you filter for prospects who've been active on LinkedIn recently—these are your warmest outbound targets.
+LinkedIn Sales Navigator's Intent Data lets you filter for prospects who've been active on LinkedIn recently—these are your warmest outbound targets.
 
 ### Phone and Multi-Channel Sequences
 

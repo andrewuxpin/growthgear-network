@@ -284,7 +284,7 @@ GrowthGear has guided 50+ startups through AI architecture decisions exactly lik
 
 ## Sources & References
 
-1. [Nair, V. & Hinton, G. — "Rectified Linear Units Improve Restricted Boltzmann Machines"](https://proceedings.mlr.press/v9/nair10a.html) — Original ReLU deep learning paper showing improvement over sigmoid (2010)
+1. Nair, V. & Hinton, G. — "Rectified Linear Units Improve Restricted Boltzmann Machines" — Original ReLU deep learning paper showing improvement over sigmoid (2010)
 2. [Devlin, J. et al. — "BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding"](https://arxiv.org/abs/1810.04805) — Introduced GELU as the standard transformer activation function (2018)
 3. [He, K. et al. — "Delving Deep into Rectifiers" (Microsoft Research)](https://arxiv.org/abs/1502.01852) — PReLU and He initialization for ReLU networks, ImageNet 2015 winner (2015)
 4. [TensorFlow Keras Activation Functions Documentation](https://www.tensorflow.org/api_docs/python/tf/keras/activations) — Official guidance on activation function selection and usage

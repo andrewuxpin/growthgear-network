@@ -175,7 +175,7 @@ There is no single universal B2B sales strategy. The right approach depends on d
 
 Consultative selling means acting as a trusted advisor rather than a product vendor. Instead of leading with features, you lead with questions that help the buyer diagnose their own problem — then position your solution as the answer they arrive at themselves.
 
-Buyers trust advisors who understand their business. According to [LinkedIn Sales Solutions](https://business.linkedin.com/sales-solutions/b2b-sales-strategy-guide), 78% of B2B buyers expect sales reps to demonstrate an understanding of their specific business challenges before pitching. Reps who skip discovery and lead with pitch decks immediately lose credibility.
+Buyers trust advisors who understand their business. According to LinkedIn Sales Solutions, 78% of B2B buyers expect sales reps to demonstrate an understanding of their specific business challenges before pitching. Reps who skip discovery and lead with pitch decks immediately lose credibility.
 
 ### Account-Based Selling
 
@@ -271,4 +271,4 @@ Understanding B2B sales is the foundation — but building a high-performing B2B
 1. [Forrester Research — "Death of a B2B Salesman"](https://www.forrester.com/report/death-of-a-b2b-salesman/) — "B2B buyers complete 57% of the purchase decision process before engaging a sales representative." (2015, widely cited benchmark)
 2. [Gartner — B2B Buying Journey Research](https://www.gartner.com/en/sales/insights/b2b-buying-journey) — "The typical buying group for a complex B2B solution involves 6-10 decision makers." (2024)
 3. [Salesforce — State of Sales Report](https://www.salesforce.com/resources/research-reports/state-of-sales/) — "High-performing sales teams are 2.8x more likely to have a defined and documented sales process." (2024)
-4. [LinkedIn Sales Solutions — B2B Sales Strategy Guide](https://business.linkedin.com/sales-solutions/b2b-sales-strategy-guide) — "78% of B2B buyers expect sales reps to demonstrate an understanding of their specific business challenges before pitching." (2024)
+4. LinkedIn Sales Solutions — B2B Sales Strategy Guide — "78% of B2B buyers expect sales reps to demonstrate an understanding of their specific business challenges before pitching." (2024)

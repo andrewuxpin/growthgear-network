@@ -227,8 +227,8 @@ Ranking improvements don't happen by accident. Whether you're diagnosing a myste
 
 ## Sources & References
 
-1. [Moz — Click-Through Rate by Search Position](https://moz.com/blog/click-through-rates-in-the-age-of-ai) — Research on organic CTR distribution by ranking position, showing position 1 captures approximately 27% of clicks for most keyword types (2024)
+1. Moz — Click-Through Rate by Search Position — Research on organic CTR distribution by ranking position, showing position 1 captures approximately 27% of clicks for most keyword types (2024)
 2. [Search Engine Journal — Google Algorithm Updates](https://www.searchenginejournal.com/google-algorithm-history/) — Documentation of Google's confirmed algorithm update frequency and categories, including core updates and quality-focused adjustments (2024)
 3. [HubSpot — State of Marketing Report](https://www.hubspot.com/state-of-marketing) — Annual research showing organic search consistently rated as the highest-quality lead channel by B2B marketers (2024)
-4. [Ahrefs — Content Explorer Research](https://ahrefs.com/blog/organic-traffic-study/) — Analysis showing the majority of published pages receive zero organic traffic from Google, underscoring the importance of active monitoring and optimization (2024)
-5. [Search Engine Land — AI Overviews Coverage](https://searchengineland.com/google-ai-overviews-search-coverage/) — Coverage data and analysis on Google AI Overview expansion across search query types (2025)
+4. Ahrefs — Content Explorer Research — Analysis showing the majority of published pages receive zero organic traffic from Google, underscoring the importance of active monitoring and optimization (2024)
+5. Search Engine Land — AI Overviews Coverage — Coverage data and analysis on Google AI Overview expansion across search query types (2025)

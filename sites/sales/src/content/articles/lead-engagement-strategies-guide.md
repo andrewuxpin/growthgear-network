@@ -49,7 +49,7 @@ This guide covers the frameworks, channel tactics, and tools that turn lead enga
 
 Lead engagement is the systematic practice of creating valuable touchpoints with prospects across multiple channels, timed to match where they are in their buying journey. It bridges the gap between [lead generation](/b2b-sales/best-lead-generation-strategies-b2b-companies) and closed revenue by ensuring no prospect is left to go cold after an initial contact. Teams with structured engagement programs consistently outperform those relying on ad-hoc follow-up.
 
-The business case is direct. According to [Salesforce's State of Sales report](https://www.salesforce.com/resources/articles/lead-management/), 80% of deals require at least five follow-up attempts, yet 44% of salespeople give up after just one. That gap — between what buyers need and what reps deliver — is where most pipeline leaks.
+The business case is direct. According to Salesforce's State of Sales report, 80% of deals require at least five follow-up attempts, yet 44% of salespeople give up after just one. That gap — between what buyers need and what reps deliver — is where most pipeline leaks.
 
 ### Why Most Lead Engagement Fails
 
@@ -139,7 +139,7 @@ Align your email program with [effective email marketing campaign principles](ht
 
 ### Phone: The Underused Differentiator
 
-Cold calling has lower response rates than email but higher conversion rates on the calls that do connect. [HubSpot's sales research](https://blog.hubspot.com/sales/lead-engagement) shows that reps who add phone touchpoints to email-only sequences see 15-30% higher reply rates overall — not just on the call, but across the entire sequence.
+Cold calling has lower response rates than email but higher conversion rates on the calls that do connect. HubSpot's sales research shows that reps who add phone touchpoints to email-only sequences see 15-30% higher reply rates overall — not just on the call, but across the entire sequence.
 
 Voicemail is an engagement touchpoint, not a failure. A clear, brief voicemail — 20-30 seconds, specific value prop, clear callback number — increases the probability that the subsequent email gets opened. Leave voicemail on day 3 and day 11, not every attempt. Multiple voicemails in a row signal desperation and reduce callback probability.
 
@@ -234,7 +234,7 @@ The risk with automation is sounding like every other automated sequence in the 
 - Using **manual touchpoints at key moments** — days 1 and 5 in a sequence are worth personal customization even if other steps are templated
 - **Reviewing sequence performance monthly** and rewriting the lowest-performing touchpoints
 
-According to [Gartner's lead management research](https://www.gartner.com/en/sales/insights/lead-management), organizations with mature lead management practices generate 50% more sales-ready leads at 33% lower cost — a benchmark that demonstrates the compounding return on investing in structured engagement systems. The teams reaching those outcomes aren't sending more emails; they're sending better-timed, better-targeted messages to the right prospects.
+According to Gartner's lead management research, organizations with mature lead management practices generate 50% more sales-ready leads at 33% lower cost — a benchmark that demonstrates the compounding return on investing in structured engagement systems. The teams reaching those outcomes aren't sending more emails; they're sending better-timed, better-targeted messages to the right prospects.
 
 ### Lead Engagement: At a Glance
 
@@ -261,7 +261,7 @@ Building a high-performing lead engagement system takes the right sequences, the
 
 ## Sources & References
 
-1. [Salesforce State of Sales](https://www.salesforce.com/resources/articles/lead-management/) — "80% of deals require at least 5 follow-up attempts; 44% of reps give up after one" (2024)
-2. [Harvard Business Review — The Short Life of Online Sales Leads](https://hbr.org/2011/07/the-short-life-of-online-sales) — "Responding to a web lead within 5 minutes makes qualification 9x more likely than waiting 30 minutes" (2011)
-3. [HubSpot Sales Research](https://blog.hubspot.com/sales/lead-engagement) — "Adding phone touchpoints to email-only sequences increases overall reply rates by 15-30%" (2024)
-4. [Gartner Sales Insights — Lead Management](https://www.gartner.com/en/sales/insights/lead-management) — "Organizations with mature lead management practices generate 50% more sales-ready leads at 33% lower cost" (2023)
+1. Salesforce State of Sales — "80% of deals require at least 5 follow-up attempts; 44% of reps give up after one" (2024)
+2. Harvard Business Review — The Short Life of Online Sales Leads — "Responding to a web lead within 5 minutes makes qualification 9x more likely than waiting 30 minutes" (2011)
+3. HubSpot Sales Research — "Adding phone touchpoints to email-only sequences increases overall reply rates by 15-30%" (2024)
+4. Gartner Sales Insights — Lead Management — "Organizations with mature lead management practices generate 50% more sales-ready leads at 33% lower cost" (2023)

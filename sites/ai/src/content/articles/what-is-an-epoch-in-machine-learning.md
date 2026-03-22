@@ -58,7 +58,7 @@ Each epoch follows the same sequence of steps:
 3. **Backpropagation** — the gradient of the loss with respect to each parameter is calculated
 4. **Weight update** — parameters are adjusted in the direction that reduces the loss, using an optimizer like Adam or SGD
 
-This loop repeats for every batch within the epoch. Once all batches are processed, the epoch ends and the next begins. According to the [Google Machine Learning Crash Course](https://developers.google.com/machine-learning/crash-course/training-neural-networks/overview), this iterative update process is the fundamental mechanism by which neural networks learn to generalize from examples.
+This loop repeats for every batch within the epoch. Once all batches are processed, the epoch ends and the next begins. According to the Google Machine Learning Crash Course, this iterative update process is the fundamental mechanism by which neural networks learn to generalize from examples.
 
 ### Why a Single Pass Is Never Enough
 
@@ -82,7 +82,7 @@ Three phases are visible on a typical learning curve:
 - **Convergence phase** (varies by model): Loss continues to decrease but at a slower rate. Training and validation curves start to diverge slightly. Marginal gains per epoch are small.
 - **Overfitting phase** (beyond optimal epochs): Training loss continues to fall, but validation loss flattens or rises. The model is no longer generalizing — it is memorizing. Additional epochs here reduce real-world performance.
 
-The [TensorFlow training guide](https://www.tensorflow.org/guide/keras/train_and_evaluate) provides detailed examples of these learning curve patterns with reference implementations for monitoring them.
+The TensorFlow training guide provides detailed examples of these learning curve patterns with reference implementations for monitoring them.
 
 ### The Overfitting Threshold
 
@@ -223,8 +223,8 @@ Getting epoch count right is just one part of building ML models that actually w
 
 ## Sources & References
 
-1. [Google Machine Learning Crash Course — Training Neural Networks](https://developers.google.com/machine-learning/crash-course/training-neural-networks/overview) — Overview of the training loop, epochs, and gradient descent mechanics (2024)
-2. [TensorFlow — Training and Evaluation Guide](https://www.tensorflow.org/guide/keras/train_and_evaluate) — Reference implementation for callbacks including EarlyStopping with restore_best_weights (2024)
+1. Google Machine Learning Crash Course — Training Neural Networks — Overview of the training loop, epochs, and gradient descent mechanics (2024)
+2. TensorFlow — Training and Evaluation Guide — Reference implementation for callbacks including EarlyStopping with restore_best_weights (2024)
 3. [PyTorch — Optimizing Model Parameters](https://pytorch.org/tutorials/beginner/basics/optimization_tutorial.html) — Learning rate scheduling approaches including step decay and cosine annealing (2024)
 4. [Goodfellow, Bengio, Courville — Deep Learning (MIT Press, 2016)](https://www.deeplearningbook.org/) — Comprehensive treatment of overfitting, regularization, and training dynamics
 5. [scikit-learn — Stochastic Gradient Descent](https://scikit-learn.org/stable/modules/sgd.html) — Documentation on SGD, batch sizes, and their effect on convergence (2024)

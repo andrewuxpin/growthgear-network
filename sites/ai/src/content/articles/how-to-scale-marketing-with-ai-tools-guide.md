@@ -185,7 +185,7 @@ GrowthGear has helped 50+ startups implement AI marketing stacks. Across that po
 
 ## Mistakes That Prevent Marketing Teams From Scaling With AI
 
-The failure patterns in AI marketing adoption are consistent and preventable. Three mistakes account for the majority of failed rollouts: over-buying tools, under-investing in data quality, and removing human review from the content process. The [HubSpot 2024 State of AI report](https://www.hubspot.com/state-of-ai), which surveyed over 1,000 marketing professionals, documents each of these patterns in detail.
+The failure patterns in AI marketing adoption are consistent and preventable. Three mistakes account for the majority of failed rollouts: over-buying tools, under-investing in data quality, and removing human review from the content process. The HubSpot 2024 State of AI report, which surveyed over 1,000 marketing professionals, documents each of these patterns in detail.
 
 ### Buying Too Many Tools at Once
 
@@ -243,6 +243,6 @@ Whether you're running your first AI content experiment or ready to connect a fu
 ## Sources & References
 
 1. [McKinsey Global Institute — "The Economic Potential of Generative AI"](https://www.mckinsey.com/capabilities/mckinsey-digital/our-insights/the-economic-potential-of-generative-ai) — "Marketing and sales represent one of the top three use cases for generative AI by economic value; productivity gains of 15-20% are achievable in year one for systematic adopters." (2023)
-2. [HubSpot — 2024 State of AI Report](https://www.hubspot.com/state-of-ai) — "Over 1,000 marketing professionals surveyed on AI adoption patterns; teams that bought multiple tools simultaneously reported the lowest satisfaction and highest abandonment rates." (2024)
+2. HubSpot — 2024 State of AI Report — "Over 1,000 marketing professionals surveyed on AI adoption patterns; teams that bought multiple tools simultaneously reported the lowest satisfaction and highest abandonment rates." (2024)
 3. [Salesforce — 2024 State of Marketing](https://www.salesforce.com/resources/research-reports/state-of-marketing/) — "High-performing marketing teams achieve 40% lower cost per lead than average; the highest performers are significantly more likely to use AI systematically across their channel mix." (2024)
-4. [Gartner — AI in Marketing Research](https://www.gartner.com/en/marketing/insights/articles/ai-marketing) — "By 2025, 80% of marketing technology will include AI capabilities as a standard feature, making AI tool selection a question of implementation strategy rather than availability." (2024)
+4. Gartner — AI in Marketing Research — "By 2025, 80% of marketing technology will include AI capabilities as a standard feature, making AI tool selection a question of implementation strategy rather than availability." (2024)
