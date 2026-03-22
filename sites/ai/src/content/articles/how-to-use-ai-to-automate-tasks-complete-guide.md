@@ -174,7 +174,7 @@ The best AI automation tool for your business depends on technical capability, i
 
 ### No-Code Automation Platforms
 
-**Zapier** remains the most accessible entry point for business automation. Its visual builder connects 6,000+ apps without code. The AI steps (introduced in 2024) let you add OpenAI-powered processing directly inside Zaps. Pricing starts at $20/month for basic automations; AI-enhanced plans run $50-200/month. Best for: marketing teams, small businesses, anyone who needs to connect SaaS tools quickly.
+**Zapier** remains the most accessible entry point for business automation. Its visual builder connects 6,000+ apps without code. The AI steps (introduced in 2024) let you add OpenAI-powered processing directly inside Zaps. See our full [Zapier cost and pricing guide](/ai-tools/zapier-cost-pricing-guide) for a plan-by-plan breakdown and ROI framework. Best for: marketing teams, small businesses, anyone who needs to connect SaaS tools quickly.
 
 **Make (formerly Integromat)** offers more sophisticated branching and data transformation than Zapier. The visual scenario builder handles complex multi-step workflows with conditional logic. Better for operations teams with moderately complex processes. Pricing starts at $10/month; scales with operations volume.
 

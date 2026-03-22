@@ -75,7 +75,7 @@ n8n offers two deployment models:
 | n8n Cloud (Starter) | $20/month | Solo users and small teams |
 | n8n Cloud (Pro) | $50/month | Teams with multiple active workflows |
 
-The self-hosted community edition places no per-execution limits on your workflows, making it significantly more cost-effective for high-volume automation compared to usage-based pricing from tools like Zapier Teams.
+The self-hosted community edition places no per-execution limits on your workflows, making it significantly more cost-effective for high-volume automation compared to usage-based pricing from tools like Zapier Teams — see our [Zapier cost and pricing breakdown](/ai-tools/zapier-cost-pricing-guide) for a direct comparison.
 
 ---
 

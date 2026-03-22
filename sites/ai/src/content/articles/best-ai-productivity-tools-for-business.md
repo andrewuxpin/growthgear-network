@@ -128,7 +128,7 @@ Zapier is the standard for no-code automation. It connects virtually every SaaS 
 
 For businesses building a [B2B sales pipeline](https://sales.growthgear.com.au/b2b-sales/how-to-build-sales-pipeline-from-scratch), automating lead routing and CRM updates with Zapier alone can save 5–8 hours per week per sales rep.
 
-**Pricing:** Free (5 Zaps) | $19.99/month (Starter) | $49/month (Professional) | $69/month (Team)
+**Pricing:** Free (5 Zaps) | $19.99/month (Starter) | $49/month (Professional) | $69/month (Team) — see our [full Zapier pricing and ROI guide](/ai-tools/zapier-cost-pricing-guide) for a detailed breakdown.
 
 ### n8n
 
