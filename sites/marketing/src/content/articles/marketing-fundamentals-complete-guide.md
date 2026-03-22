@@ -138,7 +138,7 @@ Content Marketing Institute research shows that content marketing combined with 
 
 ### Step 4: Build Your Content Engine
 
-Content is the fuel that powers organic growth. For most businesses, this means publishing 2-4 [examples of high-performing content](/content-marketing/examples-of-content-marketing-that-drive-results) per month — articles, case studies, or guides that answer the questions your ICP is already searching for.
+Content is the fuel that powers organic growth. For most businesses, this means publishing 2-4 [examples of high-performing content](/content-marketing/examples-of-content-marketing-that-drive-results) per month — articles, case studies, or guides that answer the questions your ICP is already searching for. If you're operating with limited resources, the [content marketing for small business guide](/content-marketing/content-marketing-for-small-business-guide) shows exactly how to build this engine on a lean budget.
 
 A practical content engine has three components:
 - **Pillar content**: In-depth guides targeting high-volume keywords (this article, for example)

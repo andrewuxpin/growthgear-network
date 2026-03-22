@@ -156,7 +156,7 @@ The strategy works because it expands the addressable audience. Someone searchin
 
 ## How to Apply These Examples to Your Business
 
-The best content marketing examples all follow the same underlying framework, regardless of format. Applying this framework to your business is more important than copying any single example.
+The best content marketing examples all follow the same underlying framework, regardless of format. Applying this framework to your business is more important than copying any single example. If you're starting from scratch with a limited budget, the [content marketing for small business guide](/content-marketing/content-marketing-for-small-business-guide) walks through exactly which formats and tactics work best for lean teams.
 
 The framework has four stages:
 
