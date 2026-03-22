@@ -86,7 +86,7 @@ The process:
 3. **Map the buying committee** for each account — identify the economic buyer, technical evaluator, champion, and any blockers
 4. **Personalize outreach at the account level** — reference their specific industry challenges, recent news, or company milestones
 
-Account-based prospecting works because it concentrates resources on high-probability opportunities instead of spreading effort across a long tail of poor-fit leads.
+Account-based prospecting works because it concentrates resources on high-probability opportunities instead of spreading effort across a long tail of poor-fit leads. For a complete framework on structuring your ICP, outreach engine, and pipeline measurement together, see our [B2B sales strategy guide](/b2b-sales/b2b-sales-strategy-guide).
 
 ### Cold Outreach Sequencing
 

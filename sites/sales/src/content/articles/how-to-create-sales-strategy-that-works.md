@@ -74,7 +74,7 @@ A sales strategy that operates in isolation from marketing produces predictable 
 
 ## Step 1 — Define Your Ideal Customer Profile and Goals
 
-Everything starts here. If you get your ICP wrong, no amount of tactical excellence will save you.
+Everything starts here. If you get your ICP wrong, no amount of tactical excellence will save you. For teams in B2B markets specifically, our [B2B sales strategy guide](/b2b-sales/b2b-sales-strategy-guide) covers additional ICP-building techniques tailored to multi-stakeholder buying environments.
 
 ### Building a Precise ICP
 

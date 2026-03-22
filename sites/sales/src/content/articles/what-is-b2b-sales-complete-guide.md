@@ -169,7 +169,7 @@ Customer success handoff, implementation support, and regular business reviews a
 
 ## B2B Sales Strategies That Win Deals
 
-There is no single universal B2B sales strategy. The right approach depends on deal size, buyer sophistication, and your competitive position. But the highest-performing B2B organizations share common strategic principles.
+There is no single universal B2B sales strategy. The right approach depends on deal size, buyer sophistication, and your competitive position. But the highest-performing B2B organizations share common strategic principles. For a complete guide to building a structured B2B sales strategy — from ICP definition through pipeline measurement — see our [B2B sales strategy guide](/b2b-sales/b2b-sales-strategy-guide).
 
 ### Consultative Selling
 
