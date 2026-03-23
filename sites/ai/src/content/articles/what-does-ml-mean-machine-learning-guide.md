@@ -5,7 +5,6 @@ category: "machine-learning"
 author:
   name: "GrowthGear Team"
 publishedAt: 2026-03-24
-image: null
 tags:
   - machine-learning
   - ml
