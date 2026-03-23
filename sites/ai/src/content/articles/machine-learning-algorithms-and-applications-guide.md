@@ -41,7 +41,7 @@ callout:
   content: "Teams that jump straight to neural networks often waste months. A well-tuned gradient boosting model frequently beats deep learning on structured business data with a fraction of the compute cost."
 ---
 
-Machine learning algorithms are the mathematical engines that turn raw data into business predictions. According to McKinsey's 2024 State of AI report, companies that deploy ML algorithms in core business processes see 20-30% improvements in operational efficiency. The gap between organizations that understand which algorithm to deploy versus those that pick arbitrarily is measured in months of wasted effort and significant misallocated compute spend.
+Machine learning algorithms are the mathematical engines that turn raw data into business predictions. If you're new to ML, start with our [guide to what ML means](/machine-learning/what-does-ml-mean-machine-learning-guide) before diving into specific algorithms. According to McKinsey's 2024 State of AI report, companies that deploy ML algorithms in core business processes see 20-30% improvements in operational efficiency. The gap between organizations that understand which algorithm to deploy versus those that pick arbitrarily is measured in months of wasted effort and significant misallocated compute spend.
 
 This guide maps the core ML algorithm families to their business applications, with enough technical depth to make informed decisions and enough practical context to act on them.
 

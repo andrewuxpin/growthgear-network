@@ -42,7 +42,7 @@ Machine learning model training is the process of teaching algorithms to recogni
 
 ## Types of Machine Learning Models
 
-Before diving into training, it's essential to understand the three main types of machine learning:
+Before diving into training, it's essential to understand the three main types of machine learning (or see our [plain-English ML guide](/machine-learning/what-does-ml-mean-machine-learning-guide) for a business-focused overview of each type):
 
 ### Supervised Learning
 

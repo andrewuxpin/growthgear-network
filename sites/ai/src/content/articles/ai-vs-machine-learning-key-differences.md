@@ -50,7 +50,7 @@ Artificial Intelligence represents the ambitious goal of creating computer syste
 
 ## What is Machine Learning (ML)?
 
-Machine Learning is a subset of AI focused on algorithms that automatically improve through experience and data exposure. Instead of being explicitly programmed for every scenario, ML systems learn patterns and make predictions based on training data.
+Machine Learning is a subset of AI focused on algorithms that automatically improve through experience and data exposure. Instead of being explicitly programmed for every scenario, ML systems learn patterns and make predictions based on training data. For a business-focused breakdown of what ML means and how it works in practice, see our [complete ML explainer guide](/machine-learning/what-does-ml-mean-machine-learning-guide).
 
 ### Core Components of Machine Learning:
 
