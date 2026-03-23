@@ -5,7 +5,6 @@ category: "sales-techniques"
 author:
   name: "GrowthGear Team"
 publishedAt: 2026-03-24
-image: null
 tags:
   - salesperson-techniques
   - sales-techniques
