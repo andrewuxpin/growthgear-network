@@ -43,6 +43,8 @@ The key pillars of organic traffic growth include:
 - **Authority and trustworthiness**
 - **Search intent alignment**
 
+Tracking these pillars as you execute requires the right measurement framework. Our [SEO metrics guide](/seo/seo-metrics-guide) covers the 12 essential KPIs — from organic CTR to Core Web Vitals — so you can quantify progress across every pillar above.
+
 ## 1. Conduct Strategic Keyword Research for Quick Wins
 
 Keyword research forms the backbone of any successful organic traffic strategy. However, to see fast results, you need to be strategic about which keywords to target.

@@ -313,6 +313,6 @@ Every technical audit should produce a deliverable your team can act on:
 - Log resolved issues with the date fixed and the person responsible
 - Set up Google Search Console email alerts for critical errors (Coverage drops, Manual actions)
 
-Understanding which traffic changes resulted from your technical fixes requires solid analytics. Use [Google Analytics 4](/seo/how-to-set-up-google-analytics-4-guide) to track organic traffic before and after fix implementation. Segment by landing page to isolate which pages benefitted from your changes.
+Understanding which traffic changes resulted from your technical fixes requires solid analytics. Use [Google Analytics 4](/seo/how-to-set-up-google-analytics-4-guide) to track organic traffic before and after fix implementation. Segment by landing page to isolate which pages benefitted from your changes. For a complete breakdown of which [SEO metrics to track and benchmark](/seo/seo-metrics-guide) — from Core Web Vitals scores to indexation rate — that guide covers exactly what to measure after each audit cycle.
 
 Marketing attribution modeling adds another layer — tracking which technical improvements actually drove conversions, not just clicks. [Marketing attribution modeling](/content-marketing/what-is-marketing-attribution-modeling-explained) gives you the framework to prove ROI on your SEO investment to stakeholders.

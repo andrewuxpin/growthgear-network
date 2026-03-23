@@ -92,7 +92,7 @@ The Performance report is where most SEO analysis begins. It shows every query, 
 
 **Average Position**: Your average ranking position for a query. Position 1-3 is the goal for high-value keywords; positions 4-10 represent quick-win improvement opportunities.
 
-**CTR (Click-Through Rate)**: Clicks ÷ Impressions. The [Search Engine Land benchmark data](https://searchengineland.com/) shows position 1 generates roughly 28% CTR for informational queries, dropping to 15% at position 3.
+**CTR (Click-Through Rate)**: Clicks ÷ Impressions. The [Search Engine Land benchmark data](https://searchengineland.com/) shows position 1 generates roughly 28% CTR for informational queries, dropping to 15% at position 3. To understand how these four GSC metrics fit into your complete [SEO KPI framework](/seo/seo-metrics-guide), that guide shows benchmarks for all 12 core metrics alongside where to find each one.
 
 ### Reading the Performance Report Effectively
 
