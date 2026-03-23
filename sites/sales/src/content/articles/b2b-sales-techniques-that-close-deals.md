@@ -43,7 +43,7 @@ callout:
 
 Effective B2B sales requires a different playbook from consumer selling. You're dealing with multiple stakeholders, 3–9 month buying cycles, procurement scrutiny, and decisions that need to survive internal budget reviews. The techniques that work aren't new — but most sales teams apply them inconsistently. For a full breakdown of [what B2B sales is and how it works](/b2b-sales/what-is-b2b-sales-complete-guide), including the complete 7-stage process, see our foundational guide.
 
-This guide covers the B2B sales techniques that consistently produce results: from prospecting frameworks that generate qualified pipeline to closing methods designed for complex, committee-driven buying decisions.
+This guide covers the B2B sales techniques that consistently produce results: from prospecting frameworks that generate qualified pipeline to closing methods designed for complex, committee-driven buying decisions. For a comprehensive look at individual salesperson techniques organized by stage—including SPIN selling, the Challenger method, and objection reframing—see the complete [salesperson techniques guide](/sales-techniques/salesperson-techniques-that-close-more-deals).
 
 ## What Makes B2B Sales Techniques Different
 

@@ -54,7 +54,7 @@ Three behaviors define top performers across industries:
 
 Average reps improvise. Top reps follow a process — for prospecting, for discovery, for advancing deals, and for closing. According to [Gartner](https://www.gartner.com/en/sales), organizations with a defined, consistently-followed sales process see 28% higher revenue achievement than those without one. This applies at the individual rep level just as much as the organizational level.
 
-A sales system doesn't mean a rigid script. It means defined steps with clear exit criteria: what must be true before a prospect moves from "contacted" to "qualified," and what must be true before a deal moves from "proposal" to "close."
+A sales system doesn't mean a rigid script. It means defined steps with clear exit criteria: what must be true before a prospect moves from "contacted" to "qualified," and what must be true before a deal moves from "proposal" to "close." For the specific techniques that fuel each stage—from research-first cold calling to the summary close—see the full guide on [salesperson techniques that close more deals](/sales-techniques/salesperson-techniques-that-close-more-deals).
 
 If you don't already have a documented sales strategy, start with [how to create a sales strategy that works](/sales-techniques/how-to-create-sales-strategy-that-works) before optimizing individual tactics. From there, a [detailed sales plan](/sales-techniques/how-to-write-a-sales-plan) translates that strategy into the weekly activity targets each rep needs to hit quota.
 
