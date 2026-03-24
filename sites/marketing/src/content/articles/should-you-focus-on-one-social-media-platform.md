@@ -138,7 +138,7 @@ Here's how the major platforms compare across key dimensions for business growth
 | X/Twitter | News, commentary, B2B SaaS | Text, threads | Medium | 0.5-1% | 25-45, thought leaders |
 | Facebook | Local business, community, ads | Mixed | Low organic | 0.5-1% | 35-65, broad |
 
-Key insight: **TikTok and YouTube offer the highest organic reach** because both platforms actively distribute content to non-followers based on quality signals. If you're starting from zero, these two give you the fastest path to initial traction — assuming your content format matches.
+Key insight: **TikTok and YouTube offer the highest organic reach** because both platforms actively distribute content to non-followers based on quality signals. If you're starting from zero, these two give you the fastest path to initial traction — assuming your content format matches. YouTube's dual function as a social platform and search engine makes it uniquely valuable; see our full breakdown in [is YouTube social media and how to use it for marketing](/social-media/is-youtube-social-media-marketing-guide).
 
 ### Matching Content Format to Platform Strength
 

@@ -360,7 +360,7 @@ When selecting the best social media automation tools for your small business, p
 
 Ensure your chosen tool supports all platforms where your audience is active:
 - **Essential platforms**: Facebook, Instagram, Twitter, LinkedIn
-- **Growing platforms**: TikTok, Pinterest, YouTube
+- **Growing platforms**: TikTok, Pinterest, YouTube — which functions as [both a social platform and a search engine](/social-media/is-youtube-social-media-marketing-guide), making scheduling consistency especially important
 - **Niche platforms**: Consider industry-specific networks
 
 ### 2. Scheduling Flexibility

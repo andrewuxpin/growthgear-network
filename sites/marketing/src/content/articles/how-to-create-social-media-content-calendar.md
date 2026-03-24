@@ -164,7 +164,7 @@ Block 2 hours at the start of each month (or last week of the prior month) for c
 2. Identify 3-5 timely themes for the month (holidays, product launches, industry events)
 3. Map each week's posts by pillar and format
 4. Write copy for high-priority posts (the rest can be batched later)
-5. Assign ownership for visuals and video creation
+5. Assign ownership for visuals and video creation — if YouTube is part of your mix, plan video topics 4-6 weeks ahead since production lead times are longer; see [how to use YouTube as a social media marketing channel](/social-media/is-youtube-social-media-marketing-guide)
 
 ### Weekly Batching Sessions
 
