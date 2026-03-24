@@ -94,7 +94,7 @@ The [best AI tools for content creation](/ai-tools/best-ai-tools-for-content-cre
 - **Surfer SEO**: The strongest tool for content optimization against SERP competitors. Real-time scoring as you write, with keyword and topic suggestions. Pairs well with Jasper or Google Docs. From $89/month.
 - **Clearscope**: Similar to Surfer with a slightly different UI approach. Better suited for teams who already have a defined editorial process. From $170/month.
 
-For a detailed comparison of [best AI search optimization tools](/ai-tools/best-ai-search-optimization-tools), see our dedicated guide covering features, pricing, and use-case fit.
+For a detailed comparison of [best AI search optimization tools](/ai-tools/best-ai-search-optimization-tools), see our dedicated guide covering features, pricing, and use-case fit. Once you're optimizing for AI search, you'll also want to track your results — see our guide to the [best AI search monitoring tools](/ai-tools/best-ai-search-monitoring-tools) for platforms that measure your brand's citation rate across ChatGPT, Perplexity, and Google AI Overviews.
 
 ### Email and Lead Nurturing Tools
 
