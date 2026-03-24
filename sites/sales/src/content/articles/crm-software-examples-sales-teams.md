@@ -164,7 +164,7 @@ monday.com CRM is built on the monday.com Work OS, which means it combines CRM f
 
 **Limitations:** Not a purpose-built CRM — native phone logging, email sequences, and some advanced sales features require integrations. Requires more initial setup to match the workflows of purpose-built CRM tools. Less suited to complex multi-stage B2B sales processes.
 
-**Ideal for:** Teams of 3-50 that already use monday.com for operations and want CRM within their existing workflow tool rather than adopting a separate platform.
+**Ideal for:** Teams of 3-50 that already use monday.com for operations and want CRM within their existing workflow tool rather than adopting a separate platform. For a detailed breakdown of features, pricing, and setup steps, see our [Monday CRM review for sales teams](/crm-tools/monday-crm-review-sales-teams).
 
 ---
 

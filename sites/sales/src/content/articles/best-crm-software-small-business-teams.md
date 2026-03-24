@@ -120,7 +120,7 @@ HubSpot's free CRM provides exceptional value for startup and small business tea
 
 **Ideal Team Size:** 2-100 employees
 
-Pipedrive excels in visual pipeline management, making it easy for sales teams to track deals and identify bottlenecks. The platform's focus on activities and next steps helps teams maintain momentum throughout the sales process.
+Pipedrive excels in visual pipeline management, making it easy for sales teams to track deals and identify bottlenecks. The platform's focus on activities and next steps helps teams maintain momentum throughout the sales process. Teams that want a similarly visual interface combined with broader workflow management should also evaluate [Monday CRM](/crm-tools/monday-crm-review-sales-teams), which brings CRM and cross-team operations together in one platform.
 
 ### 3. Salesforce Essentials
 
