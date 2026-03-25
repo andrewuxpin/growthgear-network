@@ -257,7 +257,7 @@ Pull your last 50 closed-won and closed-lost deals. For each:
 
 Patterns will emerge. Your best reps have a method—and it can be documented and taught.
 
-For teams looking to pair closing playbooks with better prospect targeting, [understanding how to improve sales conversion rates](/sales-techniques/how-to-improve-sales-conversion-rates-quickly) at each pipeline stage is the natural complement to closing skills. Individual reps who want to build the full repertoire — from prospecting through close — should also review [salesperson strategies for hitting quota consistently](/sales-techniques/salesperson-strategies-hit-quota-consistently).
+For teams looking to pair closing playbooks with better prospect targeting, [understanding how to improve sales conversion rates](/sales-techniques/how-to-improve-sales-conversion-rates-quickly) at each pipeline stage is the natural complement to closing skills. Individual reps who want to build the full repertoire — from prospecting through close — should also review [salesperson strategies for hitting quota consistently](/sales-techniques/salesperson-strategies-hit-quota-consistently) and the [10 sales tips that cover the full deal cycle](/sales-techniques/sales-tips-to-close-more-deals) from research through follow-up.
 
 ### Training Your Team on the Playbook
 

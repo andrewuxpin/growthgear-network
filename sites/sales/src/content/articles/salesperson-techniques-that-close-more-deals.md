@@ -46,7 +46,7 @@ Consistent prospecting separates quota-hitting reps from those with unpredictabl
 
 ### Research-First Cold Calling
 
-Cold calling still works—but only when you've done your homework. Before dialing, review the prospect's LinkedIn profile, recent company news, and any technology signals (job postings, funding announcements, new product launches). A call that opens with a specific, relevant observation converts at 3-4x the rate of a generic pitch.
+Cold calling still works—but only when you've done your homework. Before dialing, review the prospect's LinkedIn profile, recent company news, and any technology signals (job postings, funding announcements, new product launches). A call that opens with a specific, relevant observation converts at 3-4x the rate of a generic pitch. For a practical breakdown of the pre-call research habits and listening techniques that top reps use daily, see our guide on [proven sales tips to close more deals](/sales-techniques/sales-tips-to-close-more-deals).
 
 Use this opening structure:
 - **Relevance hook**: "I saw your company just opened a second office in Brisbane—"

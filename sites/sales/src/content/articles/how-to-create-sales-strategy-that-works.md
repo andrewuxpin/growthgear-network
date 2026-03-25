@@ -246,7 +246,7 @@ Every 90 days, review your strategy against actual outcomes:
 
 ### Scaling What Works
 
-Once you've identified the tactics and messages that win, systematize them. The best SDR's email template becomes the team template. The best discovery question sequence becomes the standard script. The best ROI calculator gets refined and shared.
+Once you've identified the tactics and messages that win, systematize them. The best SDR's email template becomes the team template. The best discovery question sequence becomes the standard script. The best ROI calculator gets refined and shared. Our guide on [proven sales tips to close more deals](/sales-techniques/sales-tips-to-close-more-deals) covers 10 specific behaviors — from pre-call research to follow-up cadences — that are worth capturing and systematizing at the team level.
 
 This is how you scale: not by hiring more people and hoping they figure it out, but by capturing what works and making it repeatable. GrowthGear has seen this pattern drive 156% average growth across our client portfolio of 50+ startups—the difference between a company that scales and one that plateaus is almost always systematization.
 
