@@ -79,6 +79,7 @@ Choosing the right algorithm depends on your specific use case:
 - Autoencoders
 - Recurrent Neural Networks (RNNs)
 - Convolutional Neural Networks (CNNs)
+- [Graph Neural Networks (GNNs)](/deep-learning/what-is-deep-graph-learning-guide): model user-item interactions as a bipartite graph for higher-order collaborative signals (Pinterest's PinSage GNN improved recommendation quality 30% at billion-node scale)
 
 **Similarity-Based Methods:**
 - Cosine similarity

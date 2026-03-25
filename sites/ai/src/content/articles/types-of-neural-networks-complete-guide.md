@@ -205,7 +205,7 @@ GNNs work by aggregating information from a node's neighbors iteratively, buildi
 - **Drug discovery**: Molecular graphs (atoms as nodes, bonds as edges) for predicting compound properties
 - **Supply chain optimization**: Model interdependencies between suppliers, logistics nodes, and demand signals
 
-GNNs are particularly powerful when the structure of relationships is itself informative — something flat tabular models fundamentally cannot capture.
+GNNs are particularly powerful when the structure of relationships is itself informative — something flat tabular models fundamentally cannot capture. For a complete business-focused breakdown of how GNNs work and where they deliver ROI, see our [deep graph learning guide](/deep-learning/what-is-deep-graph-learning-guide).
 
 ## How to Choose the Right Neural Network Architecture
 

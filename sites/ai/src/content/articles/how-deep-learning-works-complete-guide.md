@@ -111,7 +111,7 @@ For a deeper look at the training process in general, see our guide on [how to t
 
 ## Core Deep Learning Architectures
 
-Different business problems require different deep learning architectures, and selecting the wrong one is the most common technical mistake in early-stage AI projects. The four architectures below — CNNs, RNNs/LSTMs, Transformers, and Generative models — cover over 90% of commercial deep learning deployments. Choosing based on your data type and volume is the key decision.
+Different business problems require different deep learning architectures, and selecting the wrong one is the most common technical mistake in early-stage AI projects. The four architectures below — CNNs, RNNs/LSTMs, Transformers, and Generative models — cover over 90% of commercial deep learning deployments. For graph-structured data like transaction networks and molecular graphs, [graph neural networks (GNNs)](/deep-learning/what-is-deep-graph-learning-guide) extend these capabilities to relational problems where connections carry as much signal as the entities themselves. Choosing based on your data type and volume is the key decision.
 
 ### Convolutional Neural Networks (CNNs)
 
