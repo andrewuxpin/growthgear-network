@@ -61,7 +61,7 @@ Each pillar plays a distinct role in the visitor journey. Treating them as separ
 | Email Marketing | Nurturing + retention | Weeks | Platform fees |
 | Conversion Optimization | Improve existing traffic | Weeks | CRO tools + testing |
 
-This pillar framework explains why single-channel strategies consistently underperform. A site relying only on paid ads has no floor when the budget dries up. A site relying only on SEO leaves fast-growing revenue opportunities on the table. The goal is a mix where each channel supports the others.
+This pillar framework explains why single-channel strategies consistently underperform. A site relying only on paid ads has no floor when the budget dries up. A site relying only on SEO leaves fast-growing revenue opportunities on the table. The goal is a mix where each channel supports the others. For a complete framework on how to select, prioritize, and measure across all your marketing channels, the [channel marketing strategy guide](/content-marketing/channel-marketing-strategy-guide) covers owned, earned, paid, and partner channels in depth.
 
 ### Why Most Websites Underperform
 

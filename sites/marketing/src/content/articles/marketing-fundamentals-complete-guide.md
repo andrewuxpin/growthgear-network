@@ -132,7 +132,7 @@ This cascade makes every campaign decision answerable to a revenue goal. For a p
 
 ### Step 3: Choose Channels Deliberately
 
-Pick 2-3 channels to master before expanding. The most common mistake in early-stage marketing is spreading budget across six channels and getting weak results on all of them.
+Pick 2-3 channels to master before expanding. The most common mistake in early-stage marketing is spreading budget across six channels and getting weak results on all of them. For a complete framework on selecting and optimizing channels, the [channel marketing strategy guide](/content-marketing/channel-marketing-strategy-guide) covers channel types, prioritization criteria, and attribution models in detail.
 
 Content Marketing Institute research shows that content marketing combined with SEO delivers 3x the leads of paid advertising at 62% lower cost. This makes content + SEO the highest-ROI starting point for most growth-stage businesses — though paid search can accelerate results while organic traction builds.
 
