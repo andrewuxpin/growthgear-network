@@ -49,6 +49,7 @@ Before diving into campaign creation, you need to establish clear, measurable ob
 4. **Re-engagement Campaigns**: Win back inactive subscribers
 5. **Transactional Emails**: Confirm purchases, shipments, and account activities
 6. **Event Announcements**: Promote webinars, launches, and special occasions
+7. **Email Blasts**: One-time sends to your entire list for time-sensitive promotions or announcements — see our [email blast best practices guide](/content-marketing/email-blast-best-practices-guide) for compliance and deliverability rules
 
 If you run an ecommerce store, these campaign types have specific behavioral variations — from abandoned cart recovery to post-purchase sequences — covered in our [ecommerce email marketing strategy guide](/content-marketing/ecommerce-email-marketing-strategy-guide).
 

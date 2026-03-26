@@ -55,7 +55,7 @@ The math on ecommerce email is straightforward. A store with 50,000 subscribers,
 
 According to McKinsey, email is 40x more effective at acquiring customers than Facebook or Twitter combined. That's not because email ads outperform social on a click basis, but because an email subscriber represents a fundamentally warmer relationship than a social media follower. They gave you their inbox — the most personal digital channel they own.
 
-Automated flows compound this advantage further. Unlike broadcast campaigns, flows generate revenue continuously without manual intervention. Most ecommerce brands find their welcome series and abandoned cart sequence alone account for 30-50% of all email revenue — and that revenue requires setup effort, not ongoing execution effort.
+Automated flows compound this advantage further. Unlike broadcast campaigns, flows generate revenue continuously without manual intervention. Most ecommerce brands find their welcome series and abandoned cart sequence alone account for 30-50% of all email revenue — and that revenue requires setup effort, not ongoing execution effort. For time-sensitive promotions like flash sales where you need to reach your full list immediately, see our [email blast best practices guide](/content-marketing/email-blast-best-practices-guide) for the compliance and deliverability steps that protect your sender reputation.
 
 ### Email vs. Paid Advertising for Online Stores
 

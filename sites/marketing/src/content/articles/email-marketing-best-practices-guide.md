@@ -141,7 +141,7 @@ The highest point of email conversion failure isn't the subject line or the CTA 
 
 ### Industry Perspective: What Marketing Teams Find in Practice
 
-Australian marketing managers consistently report that personalization is the practice with the steepest learning curve but the highest payoff. Teams that invest in behavioral segmentation upfront — even simple two-segment splits by engagement level — report that they can never go back to batch-and-blast after seeing the engagement lift.
+Australian marketing managers consistently report that personalization is the practice with the steepest learning curve but the highest payoff. Teams that invest in behavioral segmentation upfront — even simple two-segment splits by engagement level — report that they can never go back to batch-and-blast after seeing the engagement lift. When you do need to reach your full list at once, our [email blast best practices guide](/content-marketing/email-blast-best-practices-guide) covers the deliverability and compliance steps that protect your sender reputation.
 
 The critical observation is that content quality matters less than relevance. A well-timed, relevant email with average copy outperforms a brilliantly written message sent to the wrong segment at the wrong time. Teams that struggle most with email typically have a writing problem they're trying to solve when they actually have a segmentation problem.
 
