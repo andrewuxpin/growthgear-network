@@ -55,7 +55,7 @@ Each neuron in a layer receives inputs from all neurons in the previous layer, a
 - Sequences: No memory mechanism means no ability to capture temporal dependencies
 - High-dimensional inputs: Parameter count explodes with input size
 
-A 28×28 image flattened to an MLP input creates 784 input neurons. A 1920×1080 image creates 2,073,600 — a computationally impractical starting point that ignores all spatial relationships. This is the problem CNNs solve.
+A 28×28 image flattened to an MLP input creates 784 input neurons. A 1920×1080 image creates 2,073,600 — a computationally impractical starting point that ignores all spatial relationships. This is the problem CNNs solve. For a detailed breakdown of how to configure the right input layer for any architecture, see the guide on [how to determine neural network input layers](/deep-learning/how-to-determine-neural-network-input-layers).
 
 ### Convolutional Neural Networks (CNNs)
 

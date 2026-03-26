@@ -218,7 +218,7 @@ Every deep learning practitioner encounters training failures that look catastro
 **Cause**: Learning rate is too high, causing weight updates to overshoot.
 
 **Fix**: Reduce LR by 10x. If the problem persists, check for:
-- Poorly normalized input data (normalize to zero mean, unit variance)
+- Poorly normalized input data (normalize to zero mean, unit variance — see [how to determine neural network input layers](/deep-learning/how-to-determine-neural-network-input-layers) for a full normalization guide covering StandardScaler, MinMaxScaler, and data leakage prevention)
 - Exploding gradients (add gradient clipping)
 - Bad initialization (use PyTorch's default Xavier/He initialization)
 

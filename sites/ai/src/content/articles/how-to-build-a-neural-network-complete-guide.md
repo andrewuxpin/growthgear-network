@@ -57,7 +57,7 @@ Understanding the mechanics is essential before you start building. Most neural 
 
 Every neural network, from a simple binary classifier to a large language model, shares the same fundamental structure:
 
-- **Input layer**: Receives raw data — pixel values, numerical features, token embeddings. One neuron per feature.
+- **Input layer**: Receives raw data — pixel values, numerical features, token embeddings. One neuron per feature (see [how to determine neural network input layers](/deep-learning/how-to-determine-neural-network-input-layers) for the full guide on configuring input layer size and encoding across different data types).
 - **Hidden layers**: Extract progressively abstract representations. A shallow network might learn edges; a deep network learns objects.
 - **Output layer**: Produces the final prediction. A single neuron for binary classification; one neuron per class for multi-class problems.
 
