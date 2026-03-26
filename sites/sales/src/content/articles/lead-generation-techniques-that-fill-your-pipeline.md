@@ -176,7 +176,7 @@ Trigger events are external signals that a company may need your solution now:
 - **Leadership changes**: A new CRO often evaluates and replaces the existing sales tech stack
 - **Company growth**: 30%+ headcount growth in 90 days creates operational scaling problems you may solve
 
-Layer intent data on top of your ICP and you move from prospect lists to prioritized outbound targets. This approach is at the core of [how to build a B2B sales pipeline from scratch](/b2b-sales/how-to-build-sales-pipeline-from-scratch)—identifying the right targets before investing outreach capacity.
+Layer intent data on top of your ICP and you move from prospect lists to prioritized outbound targets. This approach is at the core of [how to build a B2B sales pipeline from scratch](/b2b-sales/how-to-build-sales-pipeline-from-scratch)—identifying the right targets before investing outreach capacity. For a structured comparison of the platforms that surface these intent signals — from Apollo.io to ZoomInfo and Cognism — see the guide to [best B2B lead generation services](/sales-techniques/best-lead-generation-services-b2b).
 
 ### Speed to Lead
 

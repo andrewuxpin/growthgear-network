@@ -140,7 +140,7 @@ A practical starting allocation for a mid-market B2B campaign:
 
 - **40% — LinkedIn outbound** (either paid Sponsored Content or Sales Navigator sequences)
 - **30% — Content asset creation** (one cornerstone lead magnet: guide or template)
-- **20% — Email infrastructure** (nurture sequence, tooling, list enrichment)
+- **20% — Email infrastructure** (nurture sequence, tooling, [list enrichment via a lead generation service](/sales-techniques/best-lead-generation-services-b2b))
 - **10% — Analytics and optimization** (tracking, A/B testing, CRM setup)
 
 Revisit this split at 30 days and reallocate toward whichever channel is delivering the lowest CPL.

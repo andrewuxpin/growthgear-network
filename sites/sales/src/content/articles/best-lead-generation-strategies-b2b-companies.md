@@ -246,6 +246,7 @@ Successful B2B lead generation requires integrated technology:
 - **Marketing automation platform**: Nurture leads with personalized content
 - **Analytics tools**: Measure performance across all channels
 - **Lead scoring software**: Prioritize sales follow-up efforts
+- **Lead generation services**: Data platforms (Apollo, ZoomInfo, Cognism) or managed outreach agencies that fill the top of the funnel with verified, ICP-matched prospects — see the [best B2B lead generation services](/sales-techniques/best-lead-generation-services-b2b) guide for a full comparison
 
 ### Process Integration
 
