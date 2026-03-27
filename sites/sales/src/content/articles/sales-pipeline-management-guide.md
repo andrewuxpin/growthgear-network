@@ -77,7 +77,7 @@ Each stage should have a clear entry criterion (what must be true for a deal to 
 
 ## The 5 Core Metrics That Define Pipeline Health
 
-Pipeline management without measurement is just deal tracking. These five metrics give you a complete picture of pipeline health — and tell you exactly where to intervene.
+Pipeline management without measurement is just deal tracking. These five metrics give you a complete picture of pipeline health — and tell you exactly where to intervene. For a dedicated deep-dive into calculating and benchmarking each KPI, see our guide to [sales pipeline metrics and KPIs](/b2b-sales/sales-pipeline-metrics-kpis-guide).
 
 ### 1. Pipeline Coverage Ratio
 

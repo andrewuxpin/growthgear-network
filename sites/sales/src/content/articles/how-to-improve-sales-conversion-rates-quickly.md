@@ -181,7 +181,7 @@ Not everyone converts on first contact. Implement systematic retargeting to stay
 
 ### 13. Use Analytics to Guide Decisions
 
-Data-driven decisions outperform gut feelings. Track key metrics and use insights to optimize your approach.
+Data-driven decisions outperform gut feelings. Track key metrics and use insights to optimize your approach. For a complete breakdown of how to calculate and benchmark these metrics, see our guide to [sales pipeline metrics and KPIs](/b2b-sales/sales-pipeline-metrics-kpis-guide).
 
 **Key Metrics to Monitor:**
 - Lead-to-opportunity conversion rate

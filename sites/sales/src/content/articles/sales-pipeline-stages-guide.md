@@ -183,7 +183,7 @@ Post-sale is not optional. Including it in your pipeline creates accountability 
 
 ## Exit Criteria and Stage Conversion Benchmarks
 
-Exit criteria are the single most important design decision in your pipeline. Without them, deals drift from stage to stage based on rep optimism rather than buyer behavior, and your forecast becomes fiction. The [Salesforce State of Sales report](https://www.salesforce.com/resources/research-reports/state-of-sales/) consistently finds that high-performing sales teams define clear stage progression requirements — the absence of exit criteria is one of the most common differentiators between teams that forecast accurately and those that don't.
+Exit criteria are the single most important design decision in your pipeline. Without them, deals drift from stage to stage based on rep optimism rather than buyer behavior, and your forecast becomes fiction. The [Salesforce State of Sales report](https://www.salesforce.com/resources/research-reports/state-of-sales/) consistently finds that high-performing sales teams define clear stage progression requirements — the absence of exit criteria is one of the most common differentiators between teams that forecast accurately and those that don't. Once your criteria are defined, track your stage-by-stage [sales pipeline metrics and KPIs](/b2b-sales/sales-pipeline-metrics-kpis-guide) to measure how consistently deals advance.
 
 ### Defining Exit Criteria for Each Stage
 
