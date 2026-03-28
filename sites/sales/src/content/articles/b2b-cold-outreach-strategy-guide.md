@@ -120,7 +120,7 @@ Verification steps before launching any sequence:
 
 ## Writing Cold Outreach Messages That Get Responses
 
-A cold outreach message that gets replies does one thing: makes the prospect believe that reading your message was worth 30 seconds of their time. It does not need to close a deal. It needs to earn a reply.
+A cold outreach message that gets replies does one thing: makes the prospect believe that reading your message was worth 30 seconds of their time. It does not need to close a deal. It needs to earn a reply. If you want proven frameworks to start from, see our [cold email templates guide](/sales-techniques/cold-email-templates-that-get-replies) for six templates mapped to specific outreach scenarios.
 
 According to [Salesforce's State of Sales research](https://www.salesforce.com/resources/research-reports/state-of-sales/), personalized outreach generates 6x higher response rates than generic templates. The mechanics of personalization matter more than the length of your message.
 
