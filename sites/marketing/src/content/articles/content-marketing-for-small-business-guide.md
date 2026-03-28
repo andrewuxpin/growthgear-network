@@ -85,7 +85,7 @@ Before writing a single word, answer three questions:
 
 The intersection of those three answers generates your content topics. A bookkeeping firm targeting construction businesses should write about tax deductions for contractors, job costing software, and subcontractor payroll — not generic finance advice.
 
-Use Google Search Console's "Search Analytics" tab and SEMrush's keyword tools to find the actual search queries your target audience types. Look for keywords with monthly search volumes between 200 and 2,000 and keyword difficulty scores below 40 — these are achievable for a site without an extensive backlink profile.
+Use Google Search Console's "Search Analytics" tab and SEMrush's keyword tools to find the actual search queries your target audience types. Look for keywords with monthly search volumes between 200 and 2,000 and keyword difficulty scores below 40 — these are achievable for a site without an extensive backlink profile. For a full comparison of which SEO and content creation tools deliver the best value at each budget tier, see our guide to the [best content marketing tools for growing businesses](/content-marketing/best-content-marketing-tools-for-businesses).
 
 ### Choose Your Primary Channel
 

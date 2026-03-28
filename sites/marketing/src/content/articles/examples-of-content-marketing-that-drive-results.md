@@ -162,7 +162,7 @@ The framework has four stages:
 
 ### Stage 1: Audience Problem Inventory
 
-List the top 10 questions your sales team answers repeatedly. These are your highest-value content topics because they're questions real prospects are asking right now. Check search volume using tools like SEMrush or Ahrefs to confirm which have organic demand.
+List the top 10 questions your sales team answers repeatedly. These are your highest-value content topics because they're questions real prospects are asking right now. Check search volume using tools like SEMrush or Ahrefs to confirm which have organic demand. Our breakdown of the [best content marketing tools for businesses](/content-marketing/best-content-marketing-tools-for-businesses) covers exactly which SEO and creation tools to use at each stage of building this workflow.
 
 ### Stage 2: Format-Audience Match
 
