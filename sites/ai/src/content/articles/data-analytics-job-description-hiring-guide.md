@@ -74,7 +74,7 @@ The practical shift:
 - **Visualization**: Tableau Pulse and Microsoft Fabric Copilot auto-generate insight narratives — analysts evaluate and refine AI-suggested charts, rather than building every chart manually
 - **Predictive modeling**: AutoML platforms (DataRobot, H2O.ai) handle model construction for standard business questions — analysts configure inputs and interpret output rather than implementing algorithms from scratch
 
-Job descriptions that list "write SQL queries from scratch" as the primary skill are describing 2019 work. For broader context on how AI is reshaping data roles and whether analytics careers remain viable, see our analysis of [whether data science will be replaced by AI](/machine-learning/will-data-science-be-replaced-by-ai).
+Job descriptions that list "write SQL queries from scratch" as the primary skill are describing 2019 work. For broader context on how AI is reshaping data roles and whether analytics careers remain viable, see our analysis of [whether data science will be replaced by AI](/machine-learning/will-data-science-be-replaced-by-ai). If you're hiring a data scientist specifically — a more technically specialized role with different salary bands and interview requirements — see our [complete data scientist hiring guide](/machine-learning/how-to-hire-a-data-scientist-business-guide).
 
 ### Why Vague Outcome Statements Filter Out Strong Candidates
 

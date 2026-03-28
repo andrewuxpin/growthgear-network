@@ -196,7 +196,7 @@ For [sales pipeline scoring](https://sales.growthgear.com.au/b2b-sales/how-to-bu
 
 ## Implementing ML Algorithms: A Practical Framework
 
-Most business ML projects fail not because of poor algorithm selection but because of insufficient investment in the three foundations: data pipelines, evaluation rigor, and monitoring. GrowthGear's work with 50+ startups consistently shows that teams who nail these fundamentals outperform teams with more sophisticated algorithms but weaker infrastructure.
+Most business ML projects fail not because of poor algorithm selection but because of insufficient investment in the three foundations: data pipelines, evaluation rigor, and monitoring. GrowthGear's work with 50+ startups consistently shows that teams who nail these fundamentals outperform teams with more sophisticated algorithms but weaker infrastructure. If you're building an ML team from scratch, our [data scientist hiring guide](/machine-learning/how-to-hire-a-data-scientist-business-guide) covers what skills to look for and when to hire in-house vs outsource the modeling work.
 
 ### Establish a Baseline First
 
