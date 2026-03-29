@@ -101,7 +101,7 @@ This is why [effective B2B content marketing strategies](https://marketing.growt
 
 ## The B2B Sales Process: 7 Key Stages
 
-The B2B sales process is a structured sequence of activities that moves a prospect from initial awareness to signed contract. A consistent, repeatable process is what separates high-growth sales organizations from those that rely on heroics and luck.
+The B2B sales process is a structured sequence of activities that moves a prospect from initial awareness to signed contract. A consistent, repeatable process is what separates high-growth sales organizations from those that rely on heroics and luck. For a complete stage-by-stage breakdown with exit criteria and benchmarks, see our [B2B sales process guide](/b2b-sales/b2b-sales-process-guide).
 
 The [Salesforce State of Sales report](https://www.salesforce.com/resources/research-reports/state-of-sales/) consistently finds that top-performing sales teams are twice as likely to have a defined, documented sales process compared to underperformers. The process below maps to how complex B2B deals actually move.
 

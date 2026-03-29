@@ -42,7 +42,7 @@ callout:
 
 Every revenue forecast is only as accurate as the pipeline behind it. And every pipeline is only as reliable as the stages it uses to track deals.
 
-Sales pipeline stages are the building blocks of your sales process. Get them wrong — too few, too vague, or without exit criteria — and your pipeline becomes a list of wishful thinking rather than a working forecast. Get them right, and every rep on your team knows exactly where each deal stands and what needs to happen next.
+Sales pipeline stages are the building blocks of your [B2B sales process](/b2b-sales/b2b-sales-process-guide). Get them wrong — too few, too vague, or without exit criteria — and your pipeline becomes a list of wishful thinking rather than a working forecast. Get them right, and every rep on your team knows exactly where each deal stands and what needs to happen next.
 
 According to the [Salesforce State of Sales report](https://www.salesforce.com/resources/research-reports/state-of-sales/), high-performing sales teams are 2.8x more likely to use a formal, stage-based pipeline process than underperformers. The stages themselves are not magic — the discipline of defining them, enforcing exit criteria, and tracking movement through them is what creates predictable revenue.
 

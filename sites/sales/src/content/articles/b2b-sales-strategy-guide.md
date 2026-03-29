@@ -40,7 +40,7 @@ callout:
   content: "Building outreach sequences before defining your ICP is the #1 reason B2B teams waste pipeline budget. Start with ICP, then build strategy around it."
 ---
 
-B2B sales strategy determines whether your team builds predictable revenue or chases random opportunities. The difference between high-performing B2B teams and average ones isn't talent — it's structure. A documented strategy with a clear ICP, a sequenced outreach engine, and a disciplined pipeline process consistently outperforms talented reps working without a framework.
+B2B sales strategy determines whether your team builds predictable revenue or chases random opportunities. The difference between high-performing B2B teams and average ones isn't talent — it's structure. A documented strategy with a clear ICP, a sequenced outreach engine, and a disciplined [B2B sales process](/b2b-sales/b2b-sales-process-guide) consistently outperforms talented reps working without a framework.
 
 This guide covers every element of a B2B sales strategy: from defining your ideal customer to measuring the metrics that drive continuous improvement.
 
