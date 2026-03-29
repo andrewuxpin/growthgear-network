@@ -160,7 +160,7 @@ n8n is an open-source workflow automation platform with a different cost model t
 
 For teams already running advanced [n8n AI automation workflows](/ai-tools/best-n8n-templates-ai-automation-workflows), the self-hosted option represents a dramatic cost reduction versus Zapier for equivalent functionality. The key trade-off: n8n requires a technical team member to manage infrastructure, updates, and troubleshooting. For non-technical organizations, this hidden operational cost can offset the price savings.
 
-n8n also offers deeper customization than Zapier — custom code nodes, more granular AI model control, and flexible data transformation. Teams building complex AI pipelines often prefer n8n's architecture, while teams prioritizing speed-to-deployment choose Zapier.
+n8n also offers deeper customization than Zapier — custom code nodes, more granular AI model control, and flexible data transformation. Teams building complex AI pipelines often prefer n8n's architecture, while teams prioritizing speed-to-deployment choose Zapier. For a detailed breakdown of all n8n Cloud tiers and a full cloud vs self-hosted cost analysis, see our [n8n pricing guide](/ai-tools/n8n-pricing-cloud-vs-self-hosted-guide).
 
 ### Make (Integromat) vs Zapier Cost
 

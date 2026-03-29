@@ -178,7 +178,7 @@ The best AI automation tool for your business depends on technical capability, i
 
 **Make (formerly Integromat)** offers more sophisticated branching and data transformation than Zapier. The visual scenario builder handles complex multi-step workflows with conditional logic. Better for operations teams with moderately complex processes. Pricing starts at $10/month; scales with operations volume.
 
-**n8n** is open-source and self-hostable, making it the choice for technical teams who need data sovereignty or want to avoid per-task pricing. It integrates native AI nodes for GPT-4, Claude, and Gemini. Cloud-hosted plans start at $20/month; self-hosted is free at scale. For a full comparison of AI tools across use cases, see [best AI tools for data analysis](/ai-tools/best-ai-tools-for-data-analysis).
+**n8n** is open-source and self-hostable, making it the choice for technical teams who need data sovereignty or want to avoid per-task pricing. It integrates native AI nodes for GPT-4, Claude, and Gemini. Cloud-hosted plans start at $20/month; self-hosted is free at scale. Before committing to a plan, see our [n8n pricing guide](/ai-tools/n8n-pricing-cloud-vs-self-hosted-guide) for a full cloud vs self-hosted cost breakdown. For a comparison of AI tools across use cases, see [best AI tools for data analysis](/ai-tools/best-ai-tools-for-data-analysis).
 
 ### AI-Specific Tools by Use Case
 
