@@ -231,4 +231,4 @@ GrowthGear has helped more than 50 startups and growth-stage businesses identify
 1. [Gartner B2B Buying Journey Research](https://www.gartner.com/en/sales/insights/b2b-buying-journey) — "B2B buyers now use an average of 10 channels in their purchase journey" (2023)
 2. [Content Marketing Institute B2B Research](https://contentmarketinginstitute.com/articles/b2b-content-marketing-research) — Organic search and email rank as top two highest-ROI channels for B2B companies (annual research report)
 3. [HubSpot State of Marketing](https://www.hubspot.com/marketing-statistics) — Paid search CPCs have increased significantly across B2B categories; owned channel investment increasingly critical for long-term CAC management
-4. [Forrester B2B Growth Metrics](https://www.forrester.com/blogs/b2b-buyer-behavior) — High-growth B2B companies maintain LTV:CAC ratios of 3:1 or higher
+4. Forrester B2B Growth Metrics — High-growth B2B companies maintain LTV:CAC ratios of 3:1 or higher

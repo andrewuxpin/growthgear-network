@@ -199,7 +199,7 @@ Every sending IP and domain has a reputation score maintained by ISPs like Gmail
 - **Engagement rate**: High opens/clicks signal legitimate, wanted mail
 - **Sending consistency**: Irregular large-volume sends trigger filters
 
-[HubSpot's email marketing research](https://blog.hubspot.com/marketing/email-marketing-stats) consistently shows that sender reputation is the #1 factor in deliverability outcomes — above content and subject line.
+HubSpot's email marketing research consistently shows that sender reputation is the #1 factor in deliverability outcomes — above content and subject line.
 
 ### List Hygiene Practices
 

@@ -140,7 +140,7 @@ Semrush and Ahrefs are the two leading SEO research platforms; Google Analytics 
 
 For content teams, Semrush's Keyword Magic Tool is particularly valuable: enter a seed term and it returns thousands of related keywords grouped by intent (informational, commercial, navigational, transactional). This is exactly the workflow that informs [how to increase organic website traffic fast](/seo/how-to-increase-organic-website-traffic-fast) — data-driven topic selection rather than guessing.
 
-According to [Semrush's content marketing research](https://www.semrush.com/blog/content-marketing-tools/), companies that align their content with validated keyword clusters see organic traffic growth three times faster than companies producing content without keyword strategy. The [AI tools for business analysis](https://ai.growthgear.com.au/machine-learning/how-to-implement-ai-in-business-complete-guide) at AI Insights covers how AI is reshaping SEO workflows at this level.
+According to Semrush's content marketing research, companies that align their content with validated keyword clusters see organic traffic growth three times faster than companies producing content without keyword strategy. The [AI tools for business analysis](https://ai.growthgear.com.au/machine-learning/how-to-implement-ai-in-business-complete-guide) at AI Insights covers how AI is reshaping SEO workflows at this level.
 
 **Best for**: Teams that need a single platform covering keyword research, rank tracking, and site audits.
 
@@ -214,7 +214,7 @@ GrowthGear has helped 50+ startups and growing businesses build content engines 
 ## Sources & References
 
 1. [W3Techs Web Technology Surveys](https://w3techs.com/technologies/details/cm-wordpress) — "WordPress is used by 43.6% of all websites" (February 2026)
-2. [HubSpot State of Marketing Report](https://blog.hubspot.com/marketing/state-of-marketing) — Annual benchmark data on marketing tool adoption and content ROI (2025)
-3. [Semrush Content Marketing Research](https://www.semrush.com/blog/content-marketing-tools/) — Data on keyword-driven content performance vs. unresearched content (2024)
+2. HubSpot State of Marketing Report — Annual benchmark data on marketing tool adoption and content ROI (2025)
+3. Semrush Content Marketing Research — Data on keyword-driven content performance vs. unresearched content (2024)
 4. [Content Marketing Institute B2B Content Marketing Report](https://contentmarketinginstitute.com/articles/content-marketing-research/) — Annual benchmark on content tool adoption among B2B marketers (2025)
 5. [Neil Patel — Content Marketing Tools Guide](https://neilpatel.com/blog/content-marketing-tools/) — Practitioner breakdown of content tool categories and use cases (2025)

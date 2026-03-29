@@ -42,7 +42,7 @@ Every high-performing salesperson has a toolkit of techniques they use deliberat
 
 ## Prospecting Techniques That Fill Your Pipeline
 
-Consistent prospecting separates quota-hitting reps from those with unpredictable pipeline. Effective prospecting means identifying the right targets, reaching them through the right channel, and delivering a message that earns a response—not just sending volume. According to [Salesforce State of Sales research](https://www.salesforce.com/resources/research-and-insights/state-of-sales/), teams that prospect daily with a defined process generate 3x more pipeline than reactive prospectors.
+Consistent prospecting separates quota-hitting reps from those with unpredictable pipeline. Effective prospecting means identifying the right targets, reaching them through the right channel, and delivering a message that earns a response—not just sending volume. According to Salesforce State of Sales research, teams that prospect daily with a defined process generate 3x more pipeline than reactive prospectors.
 
 ### Research-First Cold Calling
 
@@ -154,7 +154,7 @@ AI-driven [data analysis tools](https://ai.growthgear.com.au/ai-tools/best-ai-to
 
 ## Objection Handling Techniques That Keep Deals Moving
 
-Objections are not rejections—they are requests for more information. Salespeople who treat every objection as a question to explore, rather than a barrier to overcome, keep far more deals alive. According to Salesforce's [State of Sales report](https://www.salesforce.com/resources/research-and-insights/state-of-sales/), 66% of reps who ask clarifying questions before responding resolve objections at a higher rate than those who counter immediately.
+Objections are not rejections—they are requests for more information. Salespeople who treat every objection as a question to explore, rather than a barrier to overcome, keep far more deals alive. According to Salesforce's State of Sales report, 66% of reps who ask clarifying questions before responding resolve objections at a higher rate than those who counter immediately.
 
 ### The Acknowledge-Clarify-Respond Framework
 
@@ -258,7 +258,7 @@ GrowthGear has helped 50+ startups build structured sales systems that grow reve
 
 ## Sources & References
 
-1. [Salesforce State of Sales](https://www.salesforce.com/resources/research-and-insights/state-of-sales/) — "66% of reps who ask clarifying questions before responding to objections resolve them at a higher rate" (2024)
+1. Salesforce State of Sales — "66% of reps who ask clarifying questions before responding to objections resolve them at a higher rate" (2024)
 2. [HubSpot Sales Research](https://blog.hubspot.com/sales/sales-techniques) — "80% of sales require 5+ follow-up touches; 44% of reps give up after one follow-up" (2024)
 3. [Gartner / CEB, The Challenger Sale](https://www.gartner.com/en/sales) — "Challenger reps outperform all other profiles in complex B2B sales environments" (2023)
 4. [LinkedIn Sales Solutions](https://business.linkedin.com/sales-solutions/blog) — "Personalized InMail messages achieve 25-35% response rates vs 1-5% for generic outreach" (2024)

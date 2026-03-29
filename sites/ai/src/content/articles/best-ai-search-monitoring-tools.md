@@ -227,7 +227,7 @@ You can also reference [best AI tools for digital marketing automation](https://
 
 ## Sources & References
 
-1. [Google I/O 2025 Keynote](https://blog.google/products/search/google-search-generative-experience-io-2024/) — "AI Overviews now appear in searches across more than 100 countries" (2025)
+1. Google I/O 2025 Keynote — "AI Overviews now appear in searches across more than 100 countries" (2025)
 2. [BrightEdge AI Search Intelligence Report](https://www.brightedge.com/resources/research-reports) — "68% of AI-generated answers include at least one external source citation; top three cited domains capture 60%+ of citations per category" (2025)
-3. [Gartner Emerging Technology Research](https://www.gartner.com/en/newsroom/press-releases/2024-08-ai-search) — "Generative AI will influence 70% of new enterprise software purchasing decisions by 2026" (2024)
+3. Gartner Emerging Technology Research — "Generative AI will influence 70% of new enterprise software purchasing decisions by 2026" (2024)
 4. [McKinsey Technology Benchmarking Research](https://www.mckinsey.com/capabilities/mckinsey-digital/our-insights/the-economic-potential-of-generative-ai) — "Companies with systematic competitive monitoring baselines improve content ROI by 23% on average" (2024)

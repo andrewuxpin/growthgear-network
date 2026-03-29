@@ -208,7 +208,7 @@ Once your core automated flows are running and your core metrics are healthy, ad
 
 Most major ecommerce email platforms support conditional content blocks through merge tag logic: "If subscriber.segment = repeat_buyer, show this block. Otherwise, show that block." The setup requires clean segmentation data — which is why tagging subscribers at acquisition (Section 2) is so important.
 
-**Behavioral personalization** uses a subscriber's actual browse history, purchase recency, and product category preferences to dynamically populate email content. [According to McKinsey's personalization research](https://www.mckinsey.com/capabilities/growth-marketing-and-sales/our-insights/the-value-of-getting-personalization-right), companies that execute personalization effectively generate 40% more revenue than average performers. In ecommerce email, this directly translates to higher RPE per send.
+**Behavioral personalization** uses a subscriber's actual browse history, purchase recency, and product category preferences to dynamically populate email content. According to McKinsey's personalization research, companies that execute personalization effectively generate 40% more revenue than average performers. In ecommerce email, this directly translates to higher RPE per send.
 
 > **Common mistake:** Don't apply the same segmentation strategy to every subscriber. A first-time buyer needs social proof and reassurance; a five-time buyer needs new product discovery and VIP recognition. Even simple two-segment customization dramatically outperforms generic blasts.
 
@@ -258,5 +258,5 @@ GrowthGear has helped 50+ ecommerce and DTC brands build email programs that con
 1. [Litmus — State of Email Report](https://www.litmus.com/resources/state-of-email) — "Email marketing delivers an average ROI of $42 for every $1 spent." (2024)
 2. [Baymard Institute — Cart Abandonment Rate Statistics](https://baymard.com/lists/cart-abandonment-rate) — "The global average shopping cart abandonment rate is approximately 70%." (2024)
 3. [Campaign Monitor — Email Marketing New Rules](https://www.campaignmonitor.com/resources/guides/email-marketing-new-rules/) — "Segmented email campaigns generate up to 760% more revenue than non-segmented sends." (2023)
-4. [McKinsey & Company — The Value of Getting Personalization Right](https://www.mckinsey.com/capabilities/growth-marketing-and-sales/our-insights/the-value-of-getting-personalization-right) — "Companies that get personalization right generate 40% more revenue than average performers." (2021)
+4. McKinsey & Company — The Value of Getting Personalization Right — "Companies that get personalization right generate 40% more revenue than average performers." (2021)
 5. Klaviyo — Ecommerce Email Benchmarks — Open rate, CTR, conversion rate, and RPE benchmarks for ecommerce automated flows and broadcast campaigns. (2024)

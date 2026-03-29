@@ -265,7 +265,7 @@ Tracking the right SEO metrics is the difference between a program that compound
 ## Sources & References
 
 1. [Backlinko — Google CTR Research Study](https://backlinko.com/google-ctr-stats) — Analysis of 4 million Google search results showing CTR by SERP position (2023)
-2. [Ahrefs — Organic Traffic Study](https://ahrefs.com/blog/organic-traffic-study/) — "90.63% of pages get no organic traffic from Google" (2023)
+2. Ahrefs — Organic Traffic Study — "90.63% of pages get no organic traffic from Google" (2023)
 3. [Google web.dev — Core Web Vitals](https://web.dev/vitals/) — Official thresholds for LCP, INP, and CLS good/poor boundaries (2024)
 4. [Moz — Domain Authority](https://moz.com/learn/seo/domain-authority) — How DA is calculated and its correlation with ranking performance (2024)
 5. [Search Engine Land — SEO Metrics Guide](https://searchengineland.com/) — Industry benchmarks for organic search performance indicators (2024)

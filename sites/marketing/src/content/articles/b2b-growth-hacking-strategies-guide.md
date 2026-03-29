@@ -112,7 +112,7 @@ For a complete guide to building [B2B lead generation strategies](https://sales.
 
 ### Referral and Partner Programs
 
-Referral leads close at 3x the rate of cold-sourced leads in B2B, according to [HubSpot's State of Marketing research](https://blog.hubspot.com/marketing/b2b-marketing-statistics). They also have shorter sales cycles and higher lifetime value because they arrive with trust pre-built.
+Referral leads close at 3x the rate of cold-sourced leads in B2B, according to HubSpot's State of Marketing research. They also have shorter sales cycles and higher lifetime value because they arrive with trust pre-built.
 
 A B2B referral program does not need to be complex:
 - **Identify your top 10-15 customers** by NPS score and revenue
@@ -151,7 +151,7 @@ Run these tests using Google Optimize, VWO, or Unbounce. A single winning varian
 
 ### Sales and Marketing Alignment
 
-Misalignment between sales and marketing is the single largest source of wasted growth investment in B2B. According to [Forrester Research](https://www.forrester.com/blogs/sales-marketing-alignment/), aligned sales and marketing teams achieve 36% higher customer retention rates and 38% higher close rates than misaligned teams.
+Misalignment between sales and marketing is the single largest source of wasted growth investment in B2B. According to Forrester Research, aligned sales and marketing teams achieve 36% higher customer retention rates and 38% higher close rates than misaligned teams.
 
 The growth hacking fix is structural, not cultural:
 
@@ -262,6 +262,6 @@ Whether you are running your first growth experiment or scaling a repeatable pla
 ## Sources & References
 
 1. [Content Marketing Institute — B2B Content Marketing Research](https://contentmarketinginstitute.com/articles/b2b-content-marketing-research/) — "73% of B2B marketers use content marketing to generate leads; 29% describe their efforts as highly effective" (2024)
-2. [HubSpot — State of Marketing Report](https://blog.hubspot.com/marketing/b2b-marketing-statistics) — "Referral leads have a 3x higher close rate than cold-sourced leads in B2B" (2024)
-3. [Forrester Research — Sales and Marketing Alignment](https://www.forrester.com/blogs/sales-marketing-alignment/) — "Aligned sales and marketing teams achieve 36% higher customer retention and 38% higher close rates" (2023)
+2. HubSpot — State of Marketing Report — "Referral leads have a 3x higher close rate than cold-sourced leads in B2B" (2024)
+3. Forrester Research — Sales and Marketing Alignment — "Aligned sales and marketing teams achieve 36% higher customer retention and 38% higher close rates" (2023)
 4. [OpenView Partners — Product-Led Growth Benchmarks](https://openviewpartners.com/product-led-growth/) — "PLG companies grow revenue at 2x the rate of sales-led companies and raise capital at higher valuation multiples" (2024)

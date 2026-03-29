@@ -266,4 +266,4 @@ Automation doesn't have to be expensive or complex to deliver real returns. Whet
 
 1. [Zapier Pricing Page](https://zapier.com/pricing) — Official plan details, task limits, and feature availability by tier (2026)
 2. [McKinsey — The Economic Potential of Generative AI](https://www.mckinsey.com/capabilities/mckinsey-digital/our-insights/the-economic-potential-of-generative-ai) — "Automation can reduce time spent on routine administrative tasks by 40-70%" (2023)
-3. [Gartner — Hyperautomation Insights](https://www.gartner.com/en/information-technology/insights/automation) — Enterprise automation adoption trends and market sizing data (2024)
+3. Gartner — Hyperautomation Insights — Enterprise automation adoption trends and market sizing data (2024)

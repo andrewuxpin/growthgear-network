@@ -90,7 +90,7 @@ YouTube's search-driven discovery is the key differentiator. A well-optimized Yo
 
 ### Content Longevity: The Compounding Advantage
 
-According to [Sprout Social's YouTube statistics research](https://sproutsocial.com/insights/youtube-statistics/), the average YouTube video earns most of its lifetime views after the first 30 days — the opposite of every other social platform, where views front-load in the first 48 hours. This means YouTube videos are assets, not posts. They appreciate over time rather than depreciating, particularly for evergreen topics like tutorials, explainers, and how-to guides.
+According to Sprout Social's YouTube statistics research, the average YouTube video earns most of its lifetime views after the first 30 days — the opposite of every other social platform, where views front-load in the first 48 hours. This means YouTube videos are assets, not posts. They appreciate over time rather than depreciating, particularly for evergreen topics like tutorials, explainers, and how-to guides.
 
 > **Common mistake:** Don't measure YouTube success with the same metrics you use for Instagram. Impressions on day one matter less than watch time, subscriber growth, and traffic from search six months later.
 
@@ -211,7 +211,7 @@ YouTube isn't just social media — it's a compounding marketing asset that work
 ## Sources & References
 
 1. [Statista — YouTube Statistics](https://www.statista.com/topics/2019/youtube/) — "YouTube has over 2 billion logged-in users visiting monthly, making it the world's second-largest search engine." (2024)
-2. [Sprout Social — YouTube Statistics](https://sproutsocial.com/insights/youtube-statistics/) — "The average YouTube video earns most of its lifetime views after the first 30 days, unlike other social platforms where views front-load in the first 48 hours." (2024)
+2. Sprout Social — YouTube Statistics — "The average YouTube video earns most of its lifetime views after the first 30 days, unlike other social platforms where views front-load in the first 48 hours." (2024)
 3. [HubSpot — Marketing Statistics](https://www.hubspot.com/marketing-statistics) — "72% of customers prefer video over text when learning about a product or service; video on landing pages can increase conversions by up to 80%." (2024)
 4. [Content Marketing Institute — Video Marketing Research](https://contentmarketinginstitute.com/articles/video-marketing-statistics/) — "Production quality matters far less than content quality and consistency for YouTube channel growth among business accounts." (2024)
 5. [Search Engine Journal — YouTube SEO](https://www.searchenginejournal.com/youtube-seo/) — "YouTube SEO factors: title, description, and tags are the highest-impact ranking signals for surfacing videos in YouTube and Google search." (2024)

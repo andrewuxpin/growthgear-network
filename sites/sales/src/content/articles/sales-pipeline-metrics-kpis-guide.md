@@ -248,7 +248,7 @@ Knowing your pipeline metrics is the first step. Acting on them — adjusting co
 
 ## Sources & References
 
-1. [HubSpot Sales Statistics](https://www.hubspot.com/sales-statistics) — Average B2B win rate and pipeline performance benchmarks across industries (2024)
+1. HubSpot Sales Statistics — Average B2B win rate and pipeline performance benchmarks across industries (2024)
 2. [Salesforce State of Sales](https://www.salesforce.com/resources/research-reports/state-of-sales/) — Research on sales team performance, forecasting accuracy, and pipeline management practices (annual report)
 3. [Gartner Sales Insights](https://www.gartner.com/en/sales/insights) — Pipeline coverage ratio recommendations and enterprise sales benchmarks
 4. [SalesHacker: Sales Pipeline Metrics](https://www.saleshacker.com/sales-pipeline-metrics/) — Practitioner analysis of stage-level coaching techniques and pipeline metric best practices

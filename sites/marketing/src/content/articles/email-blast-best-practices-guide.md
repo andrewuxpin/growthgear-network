@@ -64,7 +64,7 @@ The key differentiator is **intent and targeting**. A blast maximizes reach on a
 
 ### When Email Blasts Still Work in 2026
 
-Email blasts get a bad reputation because bad marketers use them indiscriminately. But according to [HubSpot's 2025 Marketing Report](https://blog.hubspot.com/marketing/email-marketing), email generates $36 for every $1 spent — the highest ROI of any marketing channel. Blasts capture a meaningful slice of that when deployed for the right moments:
+Email blasts get a bad reputation because bad marketers use them indiscriminately. But according to HubSpot's 2025 Marketing Report, email generates $36 for every $1 spent — the highest ROI of any marketing channel. Blasts capture a meaningful slice of that when deployed for the right moments:
 
 - **Flash sales** with hard end dates (urgency drives immediate action)
 - **Product launches** to your entire existing customer base

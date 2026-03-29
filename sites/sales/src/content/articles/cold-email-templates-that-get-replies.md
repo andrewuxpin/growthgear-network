@@ -208,7 +208,7 @@ This template acknowledges the gap without apologizing for it. The specific refe
 
 Personalization at scale sounds like a contradiction, but it isn't. Not all personalization carries equal weight — some types take seconds and deliver high impact, while others take hours and add little. The most effective approach uses a tiered model that allocates research effort where it matters most: account-level signals consistently deliver the biggest reply rate gains, not individual flattery.
 
-According to [HubSpot's Sales Blog research](https://blog.hubspot.com/sales/cold-email), personalized cold emails generate significantly higher reply rates than template blasts, with account-level relevance outperforming generic personalization tactics.
+According to HubSpot's Sales Blog research, personalized cold emails generate significantly higher reply rates than template blasts, with account-level relevance outperforming generic personalization tactics.
 
 ### The Three Tiers of Personalization
 

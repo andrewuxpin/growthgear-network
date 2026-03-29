@@ -174,7 +174,7 @@ HubSpot CRM is the default comparison because both target SMB and mid-market sal
 - **HubSpot wins when**: You run inbound marketing, need email sequences at no extra cost, or want native marketing and CRM in one platform. HubSpot's free CRM includes unlimited contacts and a basic sequence builder — genuinely useful for teams under 10 reps.
 - **Monday wins when**: You need visual pipeline management, want more pipeline customization without upgrading, or your team already uses Monday.com for other work. Monday's interface drives higher rep adoption in our observation across client deployments.
 
-According to [HubSpot's CRM buyer research](https://blog.hubspot.com/sales/crm-software), ease of use is the top factor in CRM selection for teams under 50 — which plays directly to Monday CRM's interface advantage.
+According to HubSpot's CRM buyer research, ease of use is the top factor in CRM selection for teams under 50 — which plays directly to Monday CRM's interface advantage.
 
 ### Monday CRM vs Pipedrive
 
@@ -193,7 +193,7 @@ Salesforce is in a different category for most comparisons in this article's tar
 - **Salesforce wins on**: Enterprise compliance features, ecosystem depth (4,000+ AppExchange integrations), AI-powered forecasting (Einstein), and scalability for 100+ rep teams.
 - **Monday CRM wins on**: Setup speed (days vs weeks), interface simplicity, and cost at team sizes under 50.
 
-Gartner's CRM strategy research consistently identifies **implementation complexity and rep adoption** as the two leading reasons CRM projects fail — areas where Monday CRM has a structural advantage over Salesforce for growing teams. See [Gartner's CRM strategy resources](https://www.gartner.com/en/sales/topics/crm-strategy) for the broader research context.
+Gartner's CRM strategy research consistently identifies **implementation complexity and rep adoption** as the two leading reasons CRM projects fail — areas where Monday CRM has a structural advantage over Salesforce for growing teams. See Gartner's CRM strategy resources for the broader research context.
 
 For teams that expect to scale past 100 reps within two years, investing in Salesforce from the start avoids a costly migration. For teams building their first real CRM process, Monday CRM's lower barrier to adoption makes it the better starting point.
 
@@ -223,7 +223,7 @@ GrowthGear has helped 50+ B2B sales teams select, configure, and drive adoption 
 
 ## Sources & References
 
-1. [Salesforce State of Sales 2024](https://www.salesforce.com/resources/research-and-insights/state-of-sales/) — "High-performing sales teams are 2.8x more likely to use AI and automation features in their CRM than underperforming teams." (2024)
-2. [HubSpot CRM Buyer Research](https://blog.hubspot.com/sales/crm-software) — "Ease of use is the top-cited factor in CRM selection for sales teams under 50 people." (2024)
-3. [Gartner CRM Strategy](https://www.gartner.com/en/sales/topics/crm-strategy) — "Implementation complexity and rep adoption failure are the two leading causes of CRM project underperformance." (2024)
+1. Salesforce State of Sales 2024 — "High-performing sales teams are 2.8x more likely to use AI and automation features in their CRM than underperforming teams." (2024)
+2. HubSpot CRM Buyer Research — "Ease of use is the top-cited factor in CRM selection for sales teams under 50 people." (2024)
+3. Gartner CRM Strategy — "Implementation complexity and rep adoption failure are the two leading causes of CRM project underperformance." (2024)
 4. [Monday.com Pricing Page](https://monday.com/pricing) — Official plan pricing and feature breakdown for Monday CRM tiers. (2026)

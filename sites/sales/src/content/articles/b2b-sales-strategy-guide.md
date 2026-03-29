@@ -250,6 +250,6 @@ GrowthGear has helped 50+ startups and growth-stage companies build structured B
 
 1. [Gartner — The B2B Buying Journey](https://www.gartner.com/en/sales/insights/b2b-buying-journey) — "The typical buying group for a complex B2B solution involves 6 to 10 decision makers." (2023)
 2. [Salesforce — State of Sales Report](https://www.salesforce.com/resources/research-reports/state-of-sales/) — "Teams with a documented ICP generate 68% more revenue per account; high performers are 2.8x more likely to track pipeline metrics weekly." (2024)
-3. [HubSpot — Sales Trends Report](https://www.hubspot.com/sales-statistics) — "Salespeople using 3+ channels in prospecting sequences close 287% more deals than single-channel reps." (2024)
-4. [LinkedIn Sales Solutions — B2B Sales Strategy Guide](https://business.linkedin.com/sales-solutions/b2b-sales-strategy-guide) — "Reps with SSI scores above 70 generate 45% more pipeline; buyers receiving 4-7 touches convert at 2.4x the rate of those touched fewer than 3 times." (2024)
+3. HubSpot — Sales Trends Report — "Salespeople using 3+ channels in prospecting sequences close 287% more deals than single-channel reps." (2024)
+4. LinkedIn Sales Solutions — B2B Sales Strategy Guide — "Reps with SSI scores above 70 generate 45% more pipeline; buyers receiving 4-7 touches convert at 2.4x the rate of those touched fewer than 3 times." (2024)
 5. [Forrester — The B2B Buying Journey](https://www.forrester.com/report/the-b2b-buying-journey/) — "77% of B2B buyers report their last purchase was very complex or difficult, primarily due to internal alignment challenges." (2023)
