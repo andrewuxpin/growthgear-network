@@ -47,7 +47,7 @@ Tracking these pillars as you execute requires the right measurement framework. 
 
 ## 1. Conduct Strategic Keyword Research for Quick Wins
 
-Keyword research forms the backbone of any successful organic traffic strategy. However, to see fast results, you need to be strategic about which keywords to target.
+Keyword research forms the backbone of any successful organic traffic strategy — and it works best when embedded in a structured [SEO content strategy](/seo/how-to-build-seo-content-strategy) rather than approached on an article-by-article basis. However, to see fast results, you need to be strategic about which keywords to target.
 
 ### Focus on Low-Competition, High-Intent Keywords
 
