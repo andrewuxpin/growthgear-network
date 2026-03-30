@@ -213,6 +213,8 @@ Structural elements that improve time-on-page and reduce bounce rate:
 
 For audience-specific considerations, [B2B content marketing strategies](/content-marketing/best-content-marketing-strategies-b2b-companies) provides additional context on writing for professional buyers with longer decision cycles.
 
+For how-to and tutorial topics, extend your SEO content strategy to video — a well-executed [YouTube SEO strategy](/seo/youtube-seo-guide) can capture the same search intent on the world's second-largest search engine, compounding your organic reach across two platforms simultaneously.
+
 ## Step 4: Measure, Iterate, and Scale
 
 An SEO content strategy is only as good as its feedback loop. Without regular measurement and iteration, even a well-built strategy loses momentum within six months as competitors publish, rankings shift, and keyword intent evolves.

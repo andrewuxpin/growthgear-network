@@ -156,7 +156,7 @@ If your organic engagement rate is low for specific landing pages, diagnose by a
 - Is the page slow to load (which causes users to abandon before the 10-second threshold)?
 - Is there a clear next step — internal link, CTA, or related content?
 
-For guidance on optimizing pages to keep visitors engaged, see [how to optimize landing pages for conversions](/seo/how-to-optimize-landing-pages-for-conversions-complete-guide).
+For guidance on optimizing pages to keep visitors engaged, see [how to optimize landing pages for conversions](/seo/how-to-optimize-landing-pages-for-conversions-complete-guide). If you publish video content, track YouTube-specific engagement metrics separately — the [YouTube SEO guide](/seo/youtube-seo-guide) explains which CTR and watch time benchmarks signal strong channel performance.
 
 ### Pages per Session from Organic
 

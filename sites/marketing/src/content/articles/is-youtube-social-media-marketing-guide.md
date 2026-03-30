@@ -120,6 +120,8 @@ YouTube SEO determines whether your videos surface in YouTube search and Google'
 
 **Tags**: Use 5-10 specific tags including your exact keyword phrase, close variants, and related terms. Tags are less important than titles and descriptions, but they help YouTube understand context.
 
+For a complete breakdown of YouTube ranking factors — including watch time optimization, thumbnail CTR, and playlist architecture — see our [YouTube SEO guide](/seo/youtube-seo-guide).
+
 ### Converting YouTube Viewers to Leads
 
 The biggest missed opportunity on YouTube is leaving viewers with no clear path forward. Most business channels publish videos with no in-video CTAs, no end screens, and no pinned comment directing viewers to a lead magnet or booking page. Fix that with a systematic conversion architecture:
