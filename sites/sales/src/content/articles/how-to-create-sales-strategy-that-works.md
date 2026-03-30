@@ -44,7 +44,7 @@ Most sales teams don't fail because they lack effort. They fail because they lac
 
 A sales strategy isn't a motivational document or a list of tactics. It's a system: a clear definition of who you target, why they buy, how you sell to them, and what you measure. Build it right, and your team knows exactly what to do every day. Skip it, and you're managing chaos.
 
-This guide walks through a practical framework for creating a sales strategy that drives consistent, predictable revenue—whether you're starting from scratch or fixing a strategy that isn't delivering. Once you've defined your strategy, the next step is translating it into a [sales plan with specific targets and activity goals](/sales-techniques/how-to-write-a-sales-plan).
+This guide walks through a practical framework for creating a sales strategy that drives consistent, predictable revenue—whether you're starting from scratch or fixing a strategy that isn't delivering. Once you've defined your strategy, the next step is translating it into a [sales plan with specific targets and activity goals](/sales-techniques/how-to-write-a-sales-plan). If you'd prefer to start from a ready-made structure, our [sales strategy template guide](/sales-techniques/sales-strategy-template-guide) provides a fillable seven-section framework you can adapt in an afternoon.
 
 ## What Makes a Sales Strategy Actually Work
 

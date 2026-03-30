@@ -40,7 +40,7 @@ callout:
   content: "Sales plans fail most often when leadership sets targets in isolation. Reps who help build the plan buy into it—those who don't push back in Q3 when it's too late."
 ---
 
-A sales plan is the operational document that converts your sales strategy into daily action. Without one, your team is working from memory and instinct rather than a shared system—and the results are unpredictable.
+A sales plan is the operational document that converts your sales strategy into daily action. Without one, your team is working from memory and instinct rather than a shared system—and the results are unpredictable. Before writing your plan, ensure you have a solid [sales strategy template](/sales-techniques/sales-strategy-template-guide) as your foundation — the plan operationalizes that document into weekly activity targets and quotas.
 
 This guide covers exactly what goes into a high-impact sales plan, how to write one step by step, and how to keep it alive throughout the year. Whether you're building your first plan or rebuilding one that stopped working, the framework here applies to teams of 2 or 200.
 
