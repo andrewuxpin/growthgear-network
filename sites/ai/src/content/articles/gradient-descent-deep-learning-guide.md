@@ -49,7 +49,7 @@ This guide explains gradient descent from first principles, covers every major o
 
 Gradient descent is an iterative optimization algorithm that minimizes a neural network's loss function by repeatedly adjusting model weights in the direction of steepest descent. It computes the gradient (slope) of the error at the current weight values, then moves weights opposite to that gradient. Each iteration brings the model's predictions closer to the training labels.
 
-The term "gradient learning" captures the core idea: every parameter in a deep learning model learns by following gradients. A model's entire knowledge — how to recognize an image, detect fraud, or forecast demand — is encoded in billions of weights, each shaped by thousands of gradient updates.
+The term "gradient learning" captures the core idea: every parameter in a deep learning model learns by following gradients. A model's entire knowledge — how to recognize an image, detect fraud, or forecast demand — is encoded in billions of weights, each shaped by thousands of gradient updates. For a broader view of the learning process — including loss function selection, the training-validation-test cycle, and why data quality sets the ceiling for any model — see our guide on [why machines learn](/machine-learning/why-machines-learn-how-ai-learns-from-data).
 
 ### The Loss Surface and Why It Matters
 
