@@ -42,7 +42,7 @@ The productivity gains from AI aren't hypothetical. They're measurable, repeatab
 
 A 2025 [Gartner AI Adoption Survey](https://www.gartner.com/en/information-technology/insights/artificial-intelligence) found that 74% of enterprise teams that adopted AI productivity tools saw measurable output gains within 90 days. The mechanism is simple: AI handles the repetitive cognitive work — drafting, formatting, categorizing, routing, summarizing — so humans can focus on judgment-intensive work that machines can't replicate.
 
-The ROI math is straightforward. If a content writer spends 2 hours per day on first drafts, and an AI writing tool cuts that to 30 minutes, you've freed 1.5 hours of high-cost labor per person per day. Across a team of 5, that's 37.5 hours per week — nearly a full additional headcount's worth of output capacity.
+The ROI math is straightforward. If a content writer spends 2 hours per day on first drafts, and an AI writing tool cuts that to 30 minutes, you've freed 1.5 hours of high-cost labor per person per day. Across a team of 5, that's 37.5 hours per week — nearly a full additional headcount's worth of output capacity. For a full comparison of the top options, see our guide to the [best AI writing tools for business](/ai-tools/best-ai-writing-tools-for-business).
 
 ### Where AI Productivity Tools Have the Most Impact
 
