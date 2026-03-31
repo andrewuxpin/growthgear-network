@@ -87,7 +87,7 @@ Buffer remains one of the most user-friendly automation platforms available. Its
 
 **Best for: Comprehensive social media management**
 
-Hootsuite is the Swiss Army knife of social media tools, offering everything from scheduling to social listening and team management.
+Hootsuite is the Swiss Army knife of social media tools, offering everything from scheduling to social listening and team management. For teams that want dedicated brand mention tracking beyond what Hootsuite Insights provides, our guide to the [best social media monitoring tools](/social-media/best-social-media-monitoring-tools) covers eight platforms in detail.
 
 **Key Features:**
 - Manage 35+ social networks

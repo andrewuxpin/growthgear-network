@@ -97,7 +97,7 @@ According to [Statista](https://www.statista.com/topics/1164/social-networks/), 
 
 ### Analytics and Reporting
 
-Analytics is where good SMMAs separate from great ones. A standard monthly report covers reach, impressions, follower growth, and engagement rate. A business-grade report connects those social metrics to website traffic (via UTM parameters), lead form submissions, and attributed revenue in your CRM.
+Analytics is where good SMMAs separate from great ones. A standard monthly report covers reach, impressions, follower growth, and engagement rate. A business-grade report connects those social metrics to website traffic (via UTM parameters), lead form submissions, and attributed revenue in your CRM. Ask any SMMA candidate which [social media monitoring tools](/social-media/best-social-media-monitoring-tools) they use for brand mention tracking and sentiment analysis — the answer reveals how seriously they take reputation management versus just publishing content.
 
 The best SMMAs use [AI-powered analytics tools](https://ai.growthgear.com.au/ai-tools/best-ai-tools-for-data-analysis) to identify content performance patterns, audience sentiment shifts, and competitive benchmarks. They present findings in terms of business outcomes, not platform vanity metrics.
 
