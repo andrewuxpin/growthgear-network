@@ -41,7 +41,7 @@ callout:
   content: "Monday CRM charges per seat — a 10-person team on Pro ($28/seat/month) costs $280/month minimum. Annual billing saves roughly 18% versus monthly."
 ---
 
-Choosing the right CRM is one of the highest-leverage decisions a sales leader makes. Monday CRM — the dedicated sales platform built on Monday.com's work management backbone — has emerged as a genuine alternative to HubSpot and Pipedrive for B2B teams that prioritize visual workflows, fast onboarding, and flexible customization.
+Choosing the right CRM is one of the highest-leverage decisions a sales leader makes. Monday CRM — the dedicated sales platform built on Monday.com's work management backbone — has emerged as a genuine alternative to HubSpot and Pipedrive for B2B teams that prioritize visual workflows, fast onboarding, and flexible customization. Like all modern options, it's a fully [cloud-based CRM platform](/crm-tools/best-cloud-based-crm-software), meaning no installation and accessible from any device.
 
 This guide covers what Monday CRM actually delivers, how its pricing stacks up across plan tiers, a step-by-step setup walkthrough, and where it wins or loses against the main alternatives. No vendor spin — just a direct assessment so you can make an informed decision.
 

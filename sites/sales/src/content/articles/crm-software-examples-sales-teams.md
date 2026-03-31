@@ -50,7 +50,7 @@ CRM software (Customer Relationship Management software) is a platform that cent
 
 Beyond contact storage, modern CRM software examples handle pipeline stage tracking, email integration, automated follow-up tasks, workflow automation, and sales reporting. Advanced platforms add AI-powered deal scoring, revenue forecasting, and conversation intelligence.
 
-According to [Gartner](https://www.gartner.com/en/information-technology/glossary/customer-relationship-management-crm), CRM software is the largest enterprise application software category globally, underscoring how central it has become to revenue operations. For most B2B sales teams, the CRM is where every rep starts their day and where every manager runs their pipeline review.
+According to [Gartner](https://www.gartner.com/en/information-technology/glossary/customer-relationship-management-crm), CRM software is the largest enterprise application software category globally, underscoring how central it has become to revenue operations. For most B2B sales teams, the CRM is where every rep starts their day and where every manager runs their pipeline review. All of the examples in this guide are [cloud-based CRM platforms](/crm-tools/best-cloud-based-crm-software) — no on-premise installation required.
 
 ### How We Evaluated These CRM Examples
 
