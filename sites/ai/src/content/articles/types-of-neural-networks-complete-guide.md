@@ -118,7 +118,7 @@ Three gates control information flow:
 This architecture can maintain relevant information across hundreds or thousands of timesteps — a capability vanilla RNNs cannot achieve reliably.
 
 **Where LSTMs excel:**
-- Time-series forecasting (energy demand, stock prices, sensor data)
+- [Time-series forecasting](/deep-learning/deep-learning-time-series-forecasting-guide) (energy demand, stock prices, sensor data)
 - Streaming data with strict latency constraints
 - On-device inference where model size is a hard constraint
 - Anomaly detection in sequential operational data

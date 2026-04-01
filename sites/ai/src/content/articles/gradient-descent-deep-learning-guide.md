@@ -185,7 +185,7 @@ For business AI projects, the practical application of gradient descent comes do
 
 **Computer vision**: SGD with momentum (0.9), batch size 256, cosine LR schedule. Many production image models (ResNet, EfficientNet) use this combination because it achieves slightly better final accuracy than Adam after sufficient training epochs.
 
-**Time series / demand forecasting**: Adam or RMSprop, batch size 32-64, learning rate 0.001, dropout regularization to prevent overfitting on short sequences.
+**Time series / demand forecasting**: Adam or RMSprop, batch size 32-64, learning rate 0.001, dropout regularization to prevent overfitting on short sequences. See our full guide to [deep learning for time series forecasting](/deep-learning/deep-learning-time-series-forecasting-guide) for model-specific optimizer recommendations.
 
 ### Learning Rate Scheduling
 

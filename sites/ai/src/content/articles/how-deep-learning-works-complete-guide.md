@@ -135,7 +135,7 @@ Business applications:
 - **Sentiment analysis**: Classifying customer feedback by analyzing word sequences in context
 - **Fraud detection**: Detecting anomalous transaction sequences in financial data
 
-LSTMs remain the go-to for structured time-series forecasting where training data is limited, even as Transformers have taken over most language tasks.
+LSTMs remain the go-to for structured time-series forecasting where training data is limited, even as Transformers have taken over most language tasks. For a complete breakdown of LSTM, GRU, TCN, and Temporal Fusion Transformer architectures, see our guide to [deep learning for time series forecasting](/deep-learning/deep-learning-time-series-forecasting-guide).
 
 ### Transformers
 
