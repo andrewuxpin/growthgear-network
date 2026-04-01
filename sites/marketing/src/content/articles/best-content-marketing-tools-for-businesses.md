@@ -197,7 +197,7 @@ The most effective content teams treat their tool stack as infrastructure: they 
 - **Team of 6-15**: Add HubSpot Starter + Jasper AI (~$285/mo)
 - **Team of 15+**: Full stack above + Ahrefs for link intelligence (~$415/mo)
 
-For teams looking at how to build on these tools with a full editorial strategy, [examples of content marketing that drive results](/content-marketing/examples-of-content-marketing-that-drive-results) walks through how leading brands structure their tool-powered content programmes. The [best AI tools for data analysis](https://ai.growthgear.com.au/ai-tools/best-ai-tools-for-data-analysis) covers the next layer — using AI to extract insights from your analytics at scale.
+For teams looking at how to build on these tools with a full editorial strategy, [examples of content marketing that drive results](/content-marketing/examples-of-content-marketing-that-drive-results) walks through how leading brands structure their tool-powered content programmes. To extend beyond content tools into SEO platforms, paid advertising, and analytics, the [best digital marketing platforms guide](/content-marketing/best-digital-marketing-platforms-for-business) maps the full stack across all six marketing channels. The [best AI tools for data analysis](https://ai.growthgear.com.au/ai-tools/best-ai-tools-for-data-analysis) covers the next layer — using AI to extract insights from your analytics at scale.
 
 ---
 
