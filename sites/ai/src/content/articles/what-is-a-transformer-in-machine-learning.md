@@ -76,7 +76,7 @@ The original architecture had two halves:
 - **Encoder** (e.g., BERT): Reads the full input bidirectionally and builds a rich representation. Best for classification, question answering, and understanding tasks.
 - **Decoder** (e.g., GPT): Generates output autoregressively, predicting one token at a time while attending to previous tokens. Best for generation tasks.
 
-Most modern frontier LLMs (GPT-4, Claude, Llama) are decoder-only architectures. Models like T5 and Gemini use encoder-decoder for tasks that require both understanding and generation.
+Most modern frontier LLMs (GPT-4, Claude, Llama) are decoder-only architectures. Models like T5 and Gemini use encoder-decoder for tasks that require both understanding and generation. For a practical breakdown of what this architecture means specifically for ChatGPT — including how pretraining and RLHF layer on top of the base transformer — see [is ChatGPT a neural network?](/deep-learning/is-chatgpt-a-neural-network-llm-explained).
 
 ## How Transformers Work: Attention Mechanisms
 
