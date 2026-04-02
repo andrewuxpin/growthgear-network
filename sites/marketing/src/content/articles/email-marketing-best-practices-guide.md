@@ -190,7 +190,7 @@ Use [analytics tools for data-driven decisions](https://ai.growthgear.com.au/ai-
 
 Review your metrics after every send, compare against your own 30-day rolling average, and schedule a deeper monthly review to identify which list segments, content types, and send times are outperforming. Cross-reference with your [best email marketing platform's](/content-marketing/best-email-marketing-platforms-for-ecommerce) built-in analytics for cohort comparisons.
 
-For teams scaling their entire marketing stack, combining email performance data with [marketing automation platform insights](/content-marketing/best-marketing-automation-platforms-for-growing-businesses) reveals where email fits into the broader lead nurturing journey.
+For teams scaling their entire marketing stack, combining email performance data with [marketing automation platform insights](/content-marketing/best-marketing-automation-platforms-for-growing-businesses) reveals where email fits into the broader lead nurturing journey. To understand how each best practice maps to a full inbound funnel — from subscriber acquisition to pipeline — see our guide on [how email marketing fuels your inbound strategy](/content-marketing/how-email-marketing-fuels-inbound-strategy).
 
 ## Email Marketing Best Practices: Quick Reference
 

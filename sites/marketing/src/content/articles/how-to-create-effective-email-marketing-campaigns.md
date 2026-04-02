@@ -51,7 +51,7 @@ Before diving into campaign creation, you need to establish clear, measurable ob
 6. **Event Announcements**: Promote webinars, launches, and special occasions
 7. **Email Blasts**: One-time sends to your entire list for time-sensitive promotions or announcements — see our [email blast best practices guide](/content-marketing/email-blast-best-practices-guide) for compliance and deliverability rules
 
-If you run an ecommerce store, these campaign types have specific behavioral variations — from abandoned cart recovery to post-purchase sequences — covered in our [ecommerce email marketing strategy guide](/content-marketing/ecommerce-email-marketing-strategy-guide).
+If you run an ecommerce store, these campaign types have specific behavioral variations — from abandoned cart recovery to post-purchase sequences — covered in our [ecommerce email marketing strategy guide](/content-marketing/ecommerce-email-marketing-strategy-guide). For a complete framework on how these campaign types fit into your overall inbound funnel, see [how email marketing fuels your inbound strategy](/content-marketing/how-email-marketing-fuels-inbound-strategy).
 
 ## Building and Segmenting Your Email List
 
