@@ -44,7 +44,7 @@ Most lead generation efforts fail not because of bad targeting or weak creative 
 
 A **lead generation campaign** is different. It has a defined goal, a target audience, specific channels, conversion assets, and a measurement framework. When those five components work together, the result is a repeatable pipeline engine rather than a one-time spike in contacts.
 
-This guide covers how to build that engine, step by step, for a B2B audience.
+This guide covers how to build that engine, step by step, for a B2B audience. If you're new to B2B lead generation, start with our [how to generate leads for B2B sales](/sales-techniques/how-to-generate-leads-for-b2b-sales) overview, then return here to build your first campaign.
 
 ## What Makes a Lead Generation Campaign Succeed
 

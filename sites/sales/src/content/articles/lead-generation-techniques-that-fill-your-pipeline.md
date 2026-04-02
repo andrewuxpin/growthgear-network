@@ -35,7 +35,7 @@ Most pipeline problems aren't closing problems. They're top-of-funnel problems d
 
 Fix the lead volume, and the rest of your sales process gets easier.
 
-This guide covers the specific lead generation techniques that produce qualified B2B pipeline—not theoretical frameworks, but the mechanics of what to do, when to do it, and how to measure whether it's working.
+This guide covers the specific lead generation techniques that produce qualified B2B pipeline—not theoretical frameworks, but the mechanics of what to do, when to do it, and how to measure whether it's working. For a complete overview of the full system — channels, qualification, metrics, and tooling — see our guide on [how to generate leads for B2B sales](/sales-techniques/how-to-generate-leads-for-b2b-sales).
 
 ## Why Most Lead Generation Fails
 
