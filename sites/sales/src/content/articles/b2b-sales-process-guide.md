@@ -67,7 +67,7 @@ A documented process also accelerates onboarding. New reps ramp 30–50% faster 
 
 The first two stages of the B2B sales process determine who enters your pipeline and whether they belong there. Getting this right is the highest-impact activity in sales — every hour spent on unqualified leads is an hour not spent on winnable deals.
 
-Strong prospecting combined with rigorous qualification is the foundation of a high-velocity pipeline. According to Salesforce, reps who qualify aggressively spend 40% less time on deals they won't win.
+Strong prospecting combined with rigorous qualification is the foundation of a high-velocity [B2B sales pipeline](/b2b-sales/b2b-sales-pipeline-guide). According to Salesforce, reps who qualify aggressively spend 40% less time on deals they won't win.
 
 ### Stage 1: Prospecting and Targeting
 

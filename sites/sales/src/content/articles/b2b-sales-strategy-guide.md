@@ -202,7 +202,7 @@ Weekly pipeline reviews should answer three operational questions, not function 
 2. **What is stuck, and why?** Diagnose the specific blocker — missing stakeholder, stalled procurement, unclear business case — and coach on the next action.
 3. **What needs to close in the next 30 days?** Apply urgency management to late-stage deals and surface any risks early enough to address them.
 
-Most sales managers run pipeline reviews as forecasting exercises. High-performing teams use them as coaching sessions — discussing *why* deals stall and *how* to move them, not just recording stage updates. Connect your pipeline reviews to a structured [sales pipeline management process](/b2b-sales/sales-pipeline-management-guide) for full visibility into where your strategy is performing and where it needs adjustment.
+Most sales managers run pipeline reviews as forecasting exercises. High-performing teams use them as coaching sessions — discussing *why* deals stall and *how* to move them, not just recording stage updates. Connect your pipeline reviews to a structured [sales pipeline management process](/b2b-sales/sales-pipeline-management-guide) for full visibility into where your strategy is performing. For B2B-specific pipeline strategies — covering multi-stakeholder tracking, velocity optimization, and coverage ratios — see the [B2B sales pipeline guide](/b2b-sales/b2b-sales-pipeline-guide).
 
 ### Stage-by-Stage Conversion Benchmarks
 
