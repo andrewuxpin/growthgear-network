@@ -82,7 +82,7 @@ The quality of your ecommerce email list determines the performance ceiling of e
 
 **Post-purchase upsell page**: After a customer completes an order, invite them to join a loyalty program or VIP list. Conversion rates are high here because purchase intent and brand trust are both at their peak.
 
-**Lead magnets**: For stores with a content angle — fitness, beauty, home improvement, education — a free guide, quiz, or checklist captures emails from browsers who aren't ready to buy. These subscribers need nurture sequences, not immediate promotional sends.
+**Lead magnets**: For stores with a content angle — fitness, beauty, home improvement, education — a free guide, quiz, or checklist captures emails from browsers who aren't ready to buy. These subscribers need nurture sequences, not immediate promotional sends. Email is one pillar of a broader ecommerce growth engine — for the full picture of acquisition, referral, and conversion tactics, see the [growth hacking for ecommerce guide](/content-marketing/growth-hacking-ecommerce-strategies) that covers referral programs, social proof mechanics, and post-purchase upsell flows.
 
 > **Pro tip:** Your highest-converting list-building asset depends on where your store is in growth. New stores should prioritize checkout opt-in and popup; established stores should layer in loyalty programs and post-purchase referral capture.
 

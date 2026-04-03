@@ -105,7 +105,7 @@ The basic playbook:
 
 Benchmark: 40%+ open rates and 5%+ reply rates are achievable with strong personalization. Industry average open rates are 21% (Mailchimp). Anything above 35% indicates strong targeting.
 
-For B2B startups, pair cold email with the [best lead generation strategies for B2B companies](https://sales.growthgear.com.au/b2b-sales/best-lead-generation-strategies-b2b-companies) to build a repeatable pipeline. If you're building a dedicated B2B growth program, the [B2B growth hacking strategies guide](/content-marketing/b2b-growth-hacking-strategies-guide) covers the full funnel — from account-based acquisition through product-led expansion.
+For B2B startups, pair cold email with the [best lead generation strategies for B2B companies](https://sales.growthgear.com.au/b2b-sales/best-lead-generation-strategies-b2b-companies) to build a repeatable pipeline. If you're building a dedicated B2B growth program, the [B2B growth hacking strategies guide](/content-marketing/b2b-growth-hacking-strategies-guide) covers the full funnel — from account-based acquisition through product-led expansion. For ecommerce-specific applications, the [growth hacking for ecommerce guide](/content-marketing/growth-hacking-ecommerce-strategies) covers referral program mechanics, abandoned cart recovery sequences, and conversion optimization in depth.
 
 ### Community and Forum Seeding
 

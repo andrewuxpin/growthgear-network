@@ -61,7 +61,7 @@ This means:
 - **Relationship amplification**: Referrals and case studies carry disproportionate weight
 - **Sales-marketing alignment**: Growth hacking without a functioning sales handoff wastes leads
 
-B2B growth hacking does not replace sales — it systematically feeds sales with better, faster, cheaper leads.
+B2B growth hacking does not replace sales — it systematically feeds sales with better, faster, cheaper leads. For growth hacking in ecommerce and direct-to-consumer contexts, where buying cycles are shorter and referral loops play a larger role, the [growth hacking for ecommerce guide](/content-marketing/growth-hacking-ecommerce-strategies) covers the tactics best suited to that environment.
 
 ### The AARRR Framework Applied to B2B
 
