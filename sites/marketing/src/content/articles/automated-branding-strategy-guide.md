@@ -66,7 +66,7 @@ Automated branding doesn't replace creative thinking. It handles the mechanical 
 - **Approval workflows**: Off-brand assets are flagged before publication, not after
 - **Monitoring**: Brand mentions and visual brand usage are tracked automatically across channels
 
-This is distinct from AI-generated branding, which creates brand elements from scratch. Automated branding applies *existing* rules systematically.
+This is distinct from AI-generated branding, which creates brand elements from scratch. Automated branding applies *existing* rules systematically. For AI tools that handle the creative side of marketing — content generation, SEO optimization, email personalization — our [AI marketing tools complete guide](/content-marketing/ai-marketing-tools-complete-guide) covers the full landscape.
 
 ## The Four Pillars of an Automated Brand System
 

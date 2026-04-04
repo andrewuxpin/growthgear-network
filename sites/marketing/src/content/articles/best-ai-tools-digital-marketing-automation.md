@@ -26,7 +26,7 @@ callout:
 
 The landscape of digital marketing has been revolutionized by artificial intelligence, and finding the **best AI tools for digital marketing automation** has become crucial for businesses looking to stay competitive in 2024. With AI-powered solutions now handling everything from content creation to customer segmentation, marketers can achieve unprecedented levels of efficiency and personalization while reducing manual workload by up to 80%.
 
-According to recent research by Salesforce, 84% of marketing organizations are already using AI in some capacity, with automation being the primary use case. The global AI in marketing market is projected to reach $107.5 billion by 2028, growing at a CAGR of 26.6%. This explosive growth reflects the transformative power of AI tools in streamlining marketing processes and driving better results.
+According to recent research by Salesforce, 84% of marketing organizations are already using AI in some capacity, with automation being the primary use case. The global AI in marketing market is projected to reach $107.5 billion by 2028, growing at a CAGR of 26.6%. This explosive growth reflects the transformative power of AI tools in streamlining marketing processes and driving better results. For a function-by-function breakdown of the full AI marketing tools landscape, see our [complete AI marketing tools guide](/content-marketing/ai-marketing-tools-complete-guide).
 
 ## What Makes AI Marketing Automation Tools Essential?
 
