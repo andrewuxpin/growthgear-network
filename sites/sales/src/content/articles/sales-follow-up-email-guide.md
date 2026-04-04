@@ -43,7 +43,7 @@ callout:
 
 Most deals die in the follow-up. Not because the prospect wasn't interested — but because the salesperson stopped sending emails too soon, or sent the same message repeatedly. The solution isn't more persistence for its own sake. It's a structured follow-up system that provides value at every touch.
 
-This guide covers the complete follow-up email framework: the five-email sequence structure, specific templates for each stage, optimal timing, and how to automate without losing the personal touch that actually gets replies. If you're still refining how you open cold outreach before the follow-up sequence begins, see our [cold email templates guide](/sales-techniques/cold-email-templates-that-get-replies) for proven first-touch frameworks.
+This guide covers the complete follow-up email framework: the five-email sequence structure, specific templates for each stage, optimal timing, and how to automate without losing the personal touch that actually gets replies. If you're still refining how you open cold outreach before the follow-up sequence begins, see our [cold email templates guide](/sales-techniques/cold-email-templates-that-get-replies) for proven first-touch frameworks, or the [outreach email guide](/sales-techniques/outreach-email-guide) for the full picture on subject lines, deliverability, and sequence structure.
 
 ## Why Sales Follow-Up Emails Are Your Biggest Revenue Lever
 
