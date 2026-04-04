@@ -74,7 +74,7 @@ Most businesses underestimate how much work steps 2 and 6 require. A model is no
 | Business value | Answers "what happened?" | Answers "what will happen?" |
 | Typical salary (US) | $70,000–$95,000 | $100,000–$180,000 |
 
-Before posting a data science vacancy, confirm which problem you're actually trying to solve. Many businesses hire data scientists when they need a data analyst, then wonder why the role doesn't deliver immediate value.
+Before posting a data science vacancy, confirm which problem you're actually trying to solve. Many businesses hire data scientists when they need a data analyst, then wonder why the role doesn't deliver immediate value. It's also worth reading our analysis of [whether the data science job market is actually oversaturated](/machine-learning/is-data-science-oversaturated) — understanding the real talent supply picture will shape how competitive your compensation and sourcing strategy needs to be.
 
 For a deeper look at the analytics role landscape, see our guide to [data analytics jobs, roles, and AI tools](/machine-learning/data-analytics-jobs-roles-skills-guide).
 

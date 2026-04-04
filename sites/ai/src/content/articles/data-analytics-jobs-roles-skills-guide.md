@@ -56,7 +56,7 @@ According to McKinsey Global Institute research, data-driven organizations are s
 
 The barriers that once limited analytics to large enterprises—expensive tooling, long data infrastructure builds, scarce talent—have shrunk dramatically. Cloud data warehouses (Snowflake, BigQuery, Redshift) now cost a fraction of on-premise alternatives. AI-assisted coding tools have made analysis significantly faster for routine tasks. This means a business with 10 employees can now run analysis that once required a dedicated analytics team.
 
-The result: data analytics professionals who understand both the technical tools and the business context they serve are in exceptional demand.
+The result: data analytics professionals who understand both the technical tools and the business context they serve are in exceptional demand. Despite the perception that the field is crowded, our analysis of [whether data science is actually oversaturated](/machine-learning/is-data-science-oversaturated) shows that specialist and senior roles remain genuinely hard to fill.
 
 ### Who Hires Data Analytics Professionals
 
