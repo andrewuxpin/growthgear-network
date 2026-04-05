@@ -69,7 +69,7 @@ Stage precision also improves coaching. When managers can see that deals in the 
 
 These terms are frequently confused, and confusing them leads to broken forecasts. A **sales funnel** is a marketing metric measuring aggregate conversion rates across a pool of leads. A **sales pipeline** tracks individual deals by stage.
 
-Your pipeline is rep-managed, deal-specific, and used for revenue forecasting. Your funnel is marketing-managed, aggregate, and used for [conversion rate optimization](https://marketing.growthgear.com.au/seo/conversion-rate-optimization-strategy-guide). To understand how they connect — how marketing-generated leads flow into sales-managed pipeline — see [how to create high-converting sales funnels](https://marketing.growthgear.com.au/content-marketing/how-to-create-high-converting-sales-funnels-complete-guide).
+Your pipeline is rep-managed, deal-specific, and used for revenue forecasting. Your funnel is marketing-managed, aggregate, and used for [conversion rate optimization](https://marketing.growthgear.com.au/seo/conversion-rate-optimization-strategy-guide). For a complete breakdown of the 5 funnel stages and how to map content to each one, see the [B2B sales funnel guide](/b2b-sales/b2b-sales-funnel-guide). To understand how they connect — how marketing-generated leads flow into sales-managed pipeline — see [how to create high-converting sales funnels](https://marketing.growthgear.com.au/content-marketing/how-to-create-high-converting-sales-funnels-complete-guide).
 
 ---
 

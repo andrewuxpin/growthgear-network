@@ -42,7 +42,7 @@ callout:
 
 B2B sales strategy determines whether your team builds predictable revenue or chases random opportunities. The difference between high-performing B2B teams and average ones isn't talent — it's structure. A documented strategy with a clear ICP, a sequenced outreach engine, and a disciplined [B2B sales process](/b2b-sales/b2b-sales-process-guide) consistently outperforms talented reps working without a framework.
 
-This guide covers every element of a B2B sales strategy: from defining your ideal customer to measuring the metrics that drive continuous improvement. To structure your strategy as a working document from day one, our [sales strategy template guide](/sales-techniques/sales-strategy-template-guide) lays out the seven core sections every B2B team needs.
+This guide covers every element of a B2B sales strategy: from defining your ideal customer to measuring the metrics that drive continuous improvement. For a buyer-focused view that complements strategy, the [B2B sales funnel guide](/b2b-sales/b2b-sales-funnel-guide) explains how to map content and sales actions to each stage of the buyer journey. To structure your strategy as a working document from day one, our [sales strategy template guide](/sales-techniques/sales-strategy-template-guide) lays out the seven core sections every B2B team needs.
 
 ## What Makes B2B Sales Strategy Different
 

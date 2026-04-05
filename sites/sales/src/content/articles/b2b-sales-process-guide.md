@@ -169,7 +169,7 @@ Every stage of your sales process should have a corresponding pipeline stage in 
 
 AI tools are increasingly embedded in CRMs for deal scoring, next-best-action recommendations, and conversation intelligence. For a deeper look at how AI fits into a modern sales process, see the AI Insights guide on [implementing AI in business](https://ai.growthgear.com.au/machine-learning/how-to-implement-ai-in-business-complete-guide).
 
-Marketing alignment also matters here. Your [sales pipeline stages](/b2b-sales/sales-pipeline-stages-guide) should map directly to marketing funnel stages so that lead scoring and handoff criteria are consistent. For conversion rate optimization across the full funnel, Marketing Edge's [conversion rate optimization guide](https://marketing.growthgear.com.au/seo/conversion-rate-optimization-strategy-guide) is a useful complement.
+Marketing alignment also matters here. Your [sales pipeline stages](/b2b-sales/sales-pipeline-stages-guide) should map directly to marketing funnel stages so that lead scoring and handoff criteria are consistent. For a complete breakdown of how to structure the buyer-facing funnel alongside your sales process, see the [B2B sales funnel guide](/b2b-sales/b2b-sales-funnel-guide). For conversion rate optimization across the full funnel, Marketing Edge's [conversion rate optimization guide](https://marketing.growthgear.com.au/seo/conversion-rate-optimization-strategy-guide) is a useful complement.
 
 ### Sales Process Metrics That Matter
 
