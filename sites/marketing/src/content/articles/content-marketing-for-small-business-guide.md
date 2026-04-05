@@ -46,7 +46,7 @@ Most small businesses avoid content marketing because they assume it requires a 
 
 For startups and SMBs competing against companies with larger ad budgets, that asymmetry is critical. While a paid ad campaign stops delivering the moment you stop spending, a well-optimized blog post continues generating traffic for years. Understanding the [marketing fundamentals](/content-marketing/marketing-fundamentals-complete-guide) that underpin every effective strategy is your starting point.
 
-This guide covers everything a small business owner or solo marketing manager needs to build, execute, and measure a content marketing program that competes on quality rather than budget.
+This guide covers everything a small business owner or solo marketing manager needs to build, execute, and measure a content marketing program that competes on quality rather than budget. Once you've finished this guide, the next step is building a structured [content marketing plan](/content-marketing/how-to-create-content-marketing-plan) that documents your goals, keywords, and publishing cadence in one place.
 
 ---
 
