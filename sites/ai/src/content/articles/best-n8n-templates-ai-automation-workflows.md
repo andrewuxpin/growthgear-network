@@ -202,7 +202,7 @@ Where Zapier leads:
 
 Make.com (formerly Integromat) occupies the middle ground. Its visual "scenario" builder is comparable in power to n8n and supports complex logic. Make's free plan allows 1,000 operations/month, and its paid tiers are competitive with n8n Cloud.
 
-The primary n8n advantage over Make is the open-source self-hosted model. Make.com is cloud-only, so teams with strict data residency requirements cannot use it. For teams comfortable with cloud-hosted automation, Make.com is a strong alternative, particularly for automations involving complex data transformation.
+The primary n8n advantage over Make is the open-source self-hosted model. Make.com is cloud-only, so teams with strict data residency requirements cannot use it. For teams comfortable with cloud-hosted automation, Make.com is a strong alternative, particularly for automations involving complex data transformation. For a complete guide to Make's scenario builder, pricing, and AI modules, see our [Make.com automation guide](/ai-tools/make-com-automation-guide).
 
 For a broader comparison of AI productivity platforms beyond automation, see our review of [best AI productivity tools for business](/ai-tools/best-ai-productivity-tools-for-business).
 

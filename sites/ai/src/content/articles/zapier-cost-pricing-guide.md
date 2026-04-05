@@ -173,7 +173,7 @@ Make is Zapier's most direct competitor and offers a significantly more generous
 
 At Make's Core pricing, you get 10,000 operations for $9 versus Zapier's 750 tasks for $19.99 — roughly **13x more operations per dollar**. For data-heavy workflows that don't require Zapier-specific integrations or AI Actions, Make is objectively the more cost-efficient choice.
 
-Make's learning curve is steeper than Zapier's, particularly for users without prior workflow automation experience. Its visual interface is powerful but less forgiving for beginners. Teams that have already invested in learning Zapier's interface often find the switching cost — both in time and in rebuilding workflows — outweighs the savings.
+Make's learning curve is steeper than Zapier's, particularly for users without prior workflow automation experience. Its visual interface is powerful but less forgiving for beginners. Teams that have already invested in learning Zapier's interface often find the switching cost — both in time and in rebuilding workflows — outweighs the savings. For a step-by-step walkthrough of Make's scenario builder and a full pricing breakdown, see our [Make.com automation guide](/ai-tools/make-com-automation-guide).
 
 For teams running [social media automation alongside their broader marketing stack](https://marketing.growthgear.com.au/social-media/best-social-media-automation-tools-small-business), Make's native integrations with platforms like Instagram and LinkedIn make it a strong Zapier alternative for social workflows specifically.
 
