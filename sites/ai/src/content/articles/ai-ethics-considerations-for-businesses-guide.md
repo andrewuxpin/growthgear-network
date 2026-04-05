@@ -1,5 +1,5 @@
 ---
-title: "AI Ethics Considerations for Businesses: A Complete Guide to Responsible AI Implementation"
+title: "AI Ethics for Businesses: Complete Guide"
 description: "Discover essential AI ethics considerations for businesses. Learn how to implement responsible AI practices, avoid bias, ensure transparency & build trust."
 category: "machine-learning"
 author:

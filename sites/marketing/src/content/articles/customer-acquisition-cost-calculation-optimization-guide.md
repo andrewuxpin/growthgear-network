@@ -1,5 +1,5 @@
 ---
-title: "Customer Acquisition Cost Calculation and Optimization: The Complete Guide to Reducing CAC and Boosting ROI"
+title: "Customer Acquisition Cost: Reduce CAC & Boost ROI"
 description: "Master customer acquisition cost calculation and optimization with proven strategies, formulas, and tools. Reduce CAC by up to 40% and boost ROI today."
 category: "content-marketing"
 author:

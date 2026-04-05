@@ -1,5 +1,5 @@
 ---
-title: "Best Content Marketing Strategies for B2B Companies: A Complete Guide to Drive Growth in 2024"
+title: "Best Content Marketing Strategies for B2B"
 description: "Discover proven B2B content marketing strategies that drive leads and growth. Learn from expert insights, real examples, and actionable tactics. Start today!"
 category: "content-marketing"
 author:

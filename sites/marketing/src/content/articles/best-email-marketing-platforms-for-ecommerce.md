@@ -1,5 +1,5 @@
 ---
-title: "Best Email Marketing Platforms for Ecommerce: 15 Top Solutions to Boost Your Online Sales in 2024"
+title: "Best Email Marketing Platforms for Ecommerce"
 description: "Discover the best email marketing platforms for ecommerce businesses. Compare features, pricing, and capabilities to boost your online sales. Get started today!"
 category: "content-marketing"
 author:

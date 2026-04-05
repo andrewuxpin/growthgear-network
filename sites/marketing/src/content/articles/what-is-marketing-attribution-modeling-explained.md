@@ -1,5 +1,5 @@
 ---
-title: "What Is Marketing Attribution Modeling Explained: The Complete Guide to Data-Driven Marketing Success"
+title: "What Is Marketing Attribution Modeling?"
 description: "Learn what marketing attribution modeling is and how to implement it effectively. Master data-driven marketing with our comprehensive guide and boost ROI today."
 category: "content-marketing"
 author:

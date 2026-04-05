@@ -1,5 +1,5 @@
 ---
-title: "What is Computer Vision Applications: 15 Real-World Uses Transforming Industries in 2024"
+title: "Computer Vision Applications: Real-World Use Cases"
 description: "Discover what computer vision applications are and how they're transforming healthcare, retail, manufacturing, and more. Complete guide with examples and."
 category: "machine-learning"
 author:

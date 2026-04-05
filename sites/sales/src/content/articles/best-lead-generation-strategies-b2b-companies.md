@@ -1,5 +1,5 @@
 ---
-title: "Best Lead Generation Strategies for B2B Companies: 12 Proven Methods That Drive Results in 2024"
+title: "Best Lead Generation Strategies for B2B Sales"
 description: "Discover 12 proven lead generation strategies for B2B companies that drive real results. Expert tips, examples & actionable advice to boost your sales pipeline."
 category: "b2b-sales"
 author:
