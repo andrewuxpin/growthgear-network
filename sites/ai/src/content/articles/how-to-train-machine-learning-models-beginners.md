@@ -290,6 +290,8 @@ print(f"Average CV score: {scores.mean():.2f}")
 - Track data drift
 - Monitor prediction accuracy over time
 
+Training is only half the picture. Once your model is deployed, it enters the [machine learning inference](/machine-learning/what-is-inference-in-machine-learning) phase — where cost, latency, and accuracy drift become the critical metrics to watch.
+
 ## Popular Tools and Platforms for Beginners
 
 ### Cloud Platforms

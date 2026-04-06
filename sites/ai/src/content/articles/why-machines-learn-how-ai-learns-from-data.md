@@ -67,7 +67,7 @@ And why ML struggles when:
 - You need auditable, step-by-step explanations for every decision
 - The underlying relationship between inputs and outputs is genuinely unstable or causal
 
-Understanding [how different machine learning algorithms](/machine-learning/machine-learning-algorithms-and-applications-guide) approach pattern extraction helps you match the right approach to your problem. Linear models find linear patterns; neural networks find arbitrarily complex ones — but complexity comes at a cost.
+Understanding [how different machine learning algorithms](/machine-learning/machine-learning-algorithms-and-applications-guide) approach pattern extraction helps you match the right approach to your problem. Once a model has learned its patterns, the next challenge is deploying it efficiently — that production phase is called [machine learning inference](/machine-learning/what-is-inference-in-machine-learning), and it determines whether your AI investment delivers ROI at scale. Linear models find linear patterns; neural networks find arbitrarily complex ones — but complexity comes at a cost.
 
 ### The Role of Data in Learning
 
