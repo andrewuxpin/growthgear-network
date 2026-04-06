@@ -61,7 +61,7 @@ Many salespeople believe they can succeed through charm and relationship-buildin
 
 ### How We Evaluated These Techniques
 
-We evaluated each technique based on published research on close rate impact, applicability across deal sizes, ease of learning for new reps, and real-world adoption rates among high-performing B2B teams. Preference was given to techniques with peer-reviewed or large-sample research backing.
+We evaluated each technique based on published research on close rate impact, applicability across deal sizes, ease of learning for new reps, and real-world adoption rates among high-performing B2B teams. Preference was given to techniques with peer-reviewed or large-sample research backing. Note that technique selection also depends on your [sales model type](/sales-techniques/types-of-sales-every-sales-team-should-know) — inside, outside, and channel reps each benefit from different technique priorities at different deal stages.
 
 ## The 10 Best Sales Techniques That Drive Results
 

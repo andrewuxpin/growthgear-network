@@ -70,7 +70,7 @@ Not all B2B selling looks the same. The three dominant models are:
 - **Field sales / enterprise sales**: In-person or hybrid selling for large enterprise contracts. Longer cycles, larger teams, and higher commission structures.
 - **Channel sales**: Selling through resellers, distributors, or partners rather than directly. Common in manufacturing, hardware, and some software verticals.
 
-Understanding which model fits your product and market is the first decision in building a B2B go-to-market strategy. For a deeper dive into [B2B sales techniques that close complex deals](/sales-techniques/b2b-sales-techniques-that-close-deals), the approach differs significantly by model type.
+Understanding which model fits your product and market is the first decision in building a B2B go-to-market strategy. For a complete breakdown of each model — including when inside, outside, and channel sales each outperform — see our guide to the [types of sales every B2B team should know](/sales-techniques/types-of-sales-every-sales-team-should-know). For a deeper dive into [B2B sales techniques that close complex deals](/sales-techniques/b2b-sales-techniques-that-close-deals), the approach differs significantly by model type.
 
 ## B2B vs B2C Sales — How They Differ
 
