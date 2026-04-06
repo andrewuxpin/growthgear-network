@@ -93,7 +93,7 @@ One of the fastest ways to increase organic traffic is to improve your existing 
 
 ## 3. Create Topic Clusters and Pillar Pages
 
-Topic clusters help search engines understand your content's relevance and authority on specific subjects, leading to faster ranking improvements. This is where [SEO and content marketing work together](/seo/how-seo-and-content-marketing-work-together) most powerfully — keyword research shapes the cluster structure, and content execution fills it out.
+Topic clusters help search engines understand your content's relevance and authority on specific subjects, leading to faster ranking improvements. This is where [SEO and content marketing work together](/seo/how-seo-and-content-marketing-work-together) most powerfully — keyword research shapes the cluster structure, and [effective SEO content writing](/seo/seo-content-writing-guide) fills it out.
 
 ### How to Build Topic Clusters
 

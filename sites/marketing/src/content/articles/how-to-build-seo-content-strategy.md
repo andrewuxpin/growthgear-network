@@ -164,7 +164,7 @@ Pair GSC data with a keyword gap tool to find topics your competitors rank for t
 
 ## Step 3: Create SEO-Optimized Content
 
-Creating content that ranks requires disciplined attention to four interconnected elements: on-page structure, search intent alignment, E-E-A-T signals, and answer engine optimization (AEO). Most content misses rankings not because of poor writing, but because one of these elements is missing or misaligned with what Google currently rewards for the target keyword.
+Creating content that ranks requires disciplined attention to four interconnected elements: on-page structure, search intent alignment, E-E-A-T signals, and answer engine optimization (AEO). Most content misses rankings not because of poor writing, but because one of these elements is missing or misaligned with what Google currently rewards for the target keyword. For a deep dive into the writing craft behind SEO content, see the guide to [SEO content writing](/seo/seo-content-writing-guide).
 
 ### On-Page SEO Fundamentals
 

@@ -117,7 +117,7 @@ Set a publishing calendar that covers one full topic cluster within 60 days. Thi
 
 ### Step 4: On-Page SEO Optimization for Every Article
 
-Writing the article is half the work. On-page optimization ensures the content sends the right signals to search engines. For each article in your cluster:
+Writing the article is half the work. On-page optimization ensures the content sends the right signals to search engines. For a comprehensive playbook on writing content that ranks, see the [SEO content writing guide](/seo/seo-content-writing-guide). For each article in your cluster:
 
 - **Title tag**: Include the primary keyword near the front. Keep it under 60 characters to avoid truncation in search results.
 - **Meta description**: Write a compelling 150-160 character summary that includes the primary keyword and a clear benefit statement. Meta descriptions don't directly affect rankings, but they drive click-through rate.
