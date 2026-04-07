@@ -300,7 +300,7 @@ For AI ethics and data handling considerations, review [AI ethics and governance
 
 ## Take the Next Step
 
-The ROI of AI productivity tools compounds — each workflow you automate frees time for higher-leverage work, which accelerates results further. But getting the stack right from the start matters. The wrong tools, poorly adopted, create more overhead than they save.
+The ROI of AI productivity tools compounds — each workflow you automate frees time for higher-leverage work, which accelerates results further. But getting the stack right from the start matters. The wrong tools, poorly adopted, create more overhead than they save. For a cross-functional view of affordable tools across marketing, operations, and customer service — sized specifically for lean teams — see our [best AI tools for small business guide](/ai-tools/best-ai-tools-for-small-business).
 
 GrowthGear has helped 50+ startups and SMBs build AI-powered operations that deliver measurable productivity gains within 60 days. Whether you're starting with one tool or redesigning your entire workflow stack, we'll help you prioritize the highest-impact changes first.
 
