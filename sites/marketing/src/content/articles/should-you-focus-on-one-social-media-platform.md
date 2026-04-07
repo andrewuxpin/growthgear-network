@@ -45,7 +45,7 @@ Every founder, marketing manager, and solopreneur eventually faces the same ques
 
 The wrong answer costs you months of wasted effort. The right answer builds compounding momentum — the kind where your content starts working for you rather than demanding constant attention.
 
-The short answer: **start with one platform, master it, then expand deliberately**. But the longer answer — which platforms, when to expand, and how — depends on your business model, content strengths, and audience behavior. This guide walks you through the decision framework.
+The short answer: **start with one platform, master it, then expand deliberately**. But the longer answer — which platforms, when to expand, and how — depends on your business model, content strengths, and audience behavior. This guide walks you through the decision framework. If you're building your social presence from scratch, the [social media marketing for small business guide](/social-media/social-media-marketing-for-small-business) covers the full system — from platform selection and content strategy through to ROI measurement.
 
 ## The Case for Platform Specialization
 

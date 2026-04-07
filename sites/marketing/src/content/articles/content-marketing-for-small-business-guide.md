@@ -139,7 +139,7 @@ Start building your list from day one by offering a lead magnet (checklist, temp
 
 ### Short-Form Video
 
-Short-form video — particularly on YouTube Shorts, Instagram Reels, and LinkedIn — has the highest organic reach of any current content format. According to Meta's Creator guidelines, Reels receive prioritized distribution over static posts in the algorithm across Facebook and Instagram.
+Short-form video — particularly on YouTube Shorts, Instagram Reels, and LinkedIn — has the highest organic reach of any current content format. To maximize this reach, pair your video content with a structured [social media marketing strategy](/social-media/social-media-marketing-for-small-business) that defines your platform mix, posting cadence, and how you'll track results. According to Meta's Creator guidelines, Reels receive prioritized distribution over static posts in the algorithm across Facebook and Instagram.
 
 For small businesses, the format works best for:
 - Demonstrating a product or service in 30-60 seconds
