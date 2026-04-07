@@ -181,7 +181,7 @@ To reduce stall time:
 
 AI-assisted tools can significantly reduce the time reps spend on non-selling activities — administrative work, email writing, CRM updates, and deal research — freeing capacity for the high-value pipeline interactions that actually move deals.
 
-CRM platforms with AI-assisted deal scoring (like Salesforce Einstein or HubSpot AI) flag which deals are most likely to close and which are at risk, helping reps prioritize correctly. Natural language processing tools can analyze call transcripts and surface next steps automatically, reducing post-call admin by 30-40%.
+CRM platforms with AI-assisted deal scoring (like Salesforce Einstein or HubSpot AI) flag which deals are most likely to close and which are at risk, helping reps prioritize correctly. If your team is still choosing a CRM or implementing one for the first time, see the [best CRM for startups guide](/crm-tools/best-crm-for-startups) for a comparison of platforms suited to fast-moving teams building their pipeline from scratch. Natural language processing tools can analyze call transcripts and surface next steps automatically, reducing post-call admin by 30-40%.
 
 For a comprehensive look at how AI capabilities can be applied to B2B sales workflows, see [how to implement AI in business: a complete guide](https://ai.growthgear.com.au/machine-learning/how-to-implement-ai-in-business-complete-guide). The principles of AI adoption covered there apply directly to CRM and pipeline management contexts.
 
