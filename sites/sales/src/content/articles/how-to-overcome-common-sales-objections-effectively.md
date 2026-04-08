@@ -28,7 +28,7 @@ Learning how to overcome common sales objections effectively is one of the most 
 
 Sales objections are inevitable – in fact, 60% of customers say "no" four times before saying "yes," according to research by Sales Insights Lab. Yet many salespeople view objections as roadblocks rather than opportunities to better understand their prospects' needs and provide solutions.
 
-In this comprehensive guide, we'll explore proven strategies to turn objections into stepping stones toward successful sales outcomes. You'll discover how to prepare for the most common objections, respond with confidence, and ultimately guide prospects toward making informed purchasing decisions. For objections that arise specifically at the closing stage — like "I need to think about it" or "the price is too high" — see [how to close a sale: handling late-stage objections](/sales-techniques/how-to-close-a-sale-guide).
+In this comprehensive guide, we'll explore proven strategies to turn objections into stepping stones toward successful sales outcomes. You'll discover how to prepare for the most common objections, respond with confidence, and ultimately guide prospects toward making informed purchasing decisions. For objections that arise specifically at the closing stage — like "I need to think about it" or "the price is too high" — see [how to close a sale: handling late-stage objections](/sales-techniques/how-to-close-a-sale-guide). When price objections evolve into negotiation, the [sales negotiation techniques](/sales-techniques/sales-negotiation-techniques) guide covers BATNA, anchoring, and conditional concession strategies.
 
 ## Understanding Sales Objections: The Foundation of Success
 
