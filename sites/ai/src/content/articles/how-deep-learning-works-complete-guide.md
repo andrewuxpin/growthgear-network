@@ -139,7 +139,7 @@ LSTMs remain the go-to for structured time-series forecasting where training dat
 
 ### Transformers
 
-The Transformer architecture (introduced by Google in the 2017 paper "Attention Is All You Need") is now the dominant architecture for natural language processing and increasingly for vision tasks. It processes entire input sequences in parallel using **self-attention mechanisms**, capturing relationships between all elements simultaneously.
+The Transformer architecture (introduced by Google in the 2017 paper "Attention Is All You Need") is now the dominant architecture for natural language processing and increasingly for vision tasks. It processes entire input sequences in parallel using **self-attention mechanisms**, capturing relationships between all elements simultaneously. For a technical breakdown of how attention scoring works — including the query-key-value computation, multi-head attention, and why Flash Attention made 128K+ context windows viable — see our [attention mechanism in deep learning explainer](/deep-learning/attention-mechanism-deep-learning-explained).
 
 GPT-4, Claude, Gemini, and every major LLM are transformer-based — specifically decoder-only transformers trained via pretraining, fine-tuning, and RLHF. For a precise breakdown of how these training stages turn deep learning into a useful product like ChatGPT, read [is ChatGPT a neural network?](/deep-learning/is-chatgpt-a-neural-network-llm-explained). For business, this architecture powers:
 - Chatbots and customer service automation

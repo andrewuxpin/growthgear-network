@@ -67,7 +67,7 @@ Self-attention asks three questions for every token pair:
 
 The attention score between two tokens is the dot product of their Q and K vectors, scaled and passed through a softmax. High scores mean the model treats those tokens as strongly related. This computation runs in parallel across all token pairs simultaneously — which is why transformers can be trained on thousands of GPUs at once, and why modern LLMs exist at all.
 
-For a deeper technical breakdown of the transformer mechanism, see our [complete guide to transformer architecture in machine learning](/deep-learning/what-is-a-transformer-in-machine-learning).
+For a deeper technical breakdown of the transformer mechanism, see our [complete guide to transformer architecture in machine learning](/deep-learning/what-is-a-transformer-in-machine-learning). For a dedicated explainer on QKV scoring, multi-head attention, and Flash Attention's role in making large context windows practical, see our [attention mechanism in deep learning guide](/deep-learning/attention-mechanism-deep-learning-explained).
 
 ### Decoder-Only vs. Encoder-Decoder
 

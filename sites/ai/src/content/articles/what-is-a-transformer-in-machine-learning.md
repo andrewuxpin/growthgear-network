@@ -102,7 +102,7 @@ A single attention head captures one type of relationship. **Multi-head attentio
 - Another tracks coreference (connecting pronouns to their nouns)
 - Another tracks sentiment context
 
-GPT-3 uses 96 attention heads per layer. The outputs from all heads are concatenated and projected back to the model's working dimension. For a deeper dive into how these language capabilities power business tools, see our guide to [what is natural language processing](/machine-learning/what-is-natural-language-processing-explained).
+GPT-3 uses 96 attention heads per layer. The outputs from all heads are concatenated and projected back to the model's working dimension. For a complete technical breakdown of QKV scoring, attention variants (self-attention, cross-attention, Flash Attention), and how context window size is constrained by attention complexity, see our [attention mechanism in deep learning guide](/deep-learning/attention-mechanism-deep-learning-explained). For a deeper dive into how these language capabilities power business tools, see our guide to [what is natural language processing](/machine-learning/what-is-natural-language-processing-explained).
 
 ### Positional Encoding
 
