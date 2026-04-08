@@ -192,7 +192,7 @@ The [best content marketing tools guide](/content-marketing/best-content-marketi
 
 ## Measuring ROI Across Your Marketing Platforms
 
-Measuring ROI across digital marketing platforms requires two connected systems: consistent UTM tagging on every campaign and a CRM that links lead source to closed-won revenue. Without both, you can measure activity — clicks, opens, impressions — but not outcomes. Every marketing dollar spent becomes unattributable, and budget decisions default to gut feel rather than data.
+Measuring ROI across digital marketing platforms requires two connected systems: consistent UTM tagging on every campaign and a CRM that links lead source to closed-won revenue. Without both, you can measure activity — clicks, opens, impressions — but not outcomes. Every marketing dollar spent becomes unattributable, and budget decisions default to gut feel rather than data. A structured [digital marketing campaign plan](/content-marketing/how-to-plan-digital-marketing-campaign) defines these attribution touchpoints before launch, making ROI measurement a built-in feature rather than a post-campaign scramble.
 
 ### Key Performance Metrics by Platform Category
 

@@ -163,7 +163,7 @@ Define this before you publish a single piece of content, not after.
 
 ## Content Types, Channels, and Distribution Strategy
 
-Content distribution determines whether your plan produces results or just content. Most teams underinvest in distribution — spending 80% of effort creating and 20% promoting. The more effective ratio is closer to 50/50. A piece of content published without a distribution plan is an asset that generates no return.
+Content distribution determines whether your plan produces results or just content. Most teams underinvest in distribution — spending 80% of effort creating and 20% promoting. The more effective ratio is closer to 50/50. A piece of content published without a distribution plan is an asset that generates no return. If your content is feeding a broader paid or multi-channel push, pair your content plan with a [digital marketing campaign strategy](/content-marketing/how-to-plan-digital-marketing-campaign) that defines goals, channels, and budget allocation for each activation.
 
 ### The Distribution-First Planning Method
 

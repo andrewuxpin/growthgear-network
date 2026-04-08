@@ -184,7 +184,7 @@ Retargeting shows ads to people who visited your website but didn't convert. Sin
 - **Time-window targeting**: 30-day window for most B2B buyers; 7-day window for high-intent pages like pricing or contact
 - **Exclude existing customers and leads**: Remove converted contacts from retargeting audiences to avoid wasted spend
 
-Google's internal performance data shows retargeting campaigns typically achieve 3-5x higher click-through rates than equivalent cold display ads — making it one of the highest-ROI paid tactics available.
+Google's internal performance data shows retargeting campaigns typically achieve 3-5x higher click-through rates than equivalent cold display ads — making it one of the highest-ROI paid tactics available. For a step-by-step framework covering goals, channel selection, and measurement, the [digital marketing campaign planning guide](/content-marketing/how-to-plan-digital-marketing-campaign) walks through every stage from brief to post-campaign analysis.
 
 ### Email Marketing for Website Traffic
 
