@@ -213,7 +213,7 @@ For teams scaling their entire marketing stack, combining email performance data
 
 ## Turn Email Into Your Highest-ROI Channel
 
-Email done well beats every other digital channel on cost per acquisition, revenue per message, and long-term customer value. The gap between average programs and exceptional ones isn't budget — it's consistent application of the right practices.
+Email done well beats every other digital channel on cost per acquisition, revenue per message, and long-term customer value. The gap between average programs and exceptional ones isn't budget — it's consistent application of the right practices. For a full breakdown of what to expect at each spending level, see our guide to [how much email marketing costs](/content-marketing/how-much-does-email-marketing-cost).
 
 Whether you're building your first email program or optimizing a mature one, GrowthGear works with marketing teams to turn email into a predictable growth engine. Our clients average 156% growth — and email is consistently one of the top three contributing channels.
 

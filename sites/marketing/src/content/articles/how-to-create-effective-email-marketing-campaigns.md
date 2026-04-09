@@ -24,7 +24,7 @@ callout:
   content: "Sending the same email to your entire list is the fastest way to tank engagement and deliverability. Segment by purchase history, engagement level, or lifecycle stage, then tailor messaging to each group."
 ---
 
-Learning how to create effective email marketing campaigns is crucial for any business looking to maximize their digital marketing ROI. With email marketing delivering an average return of $42 for every $1 spent, according to DMA research, it remains one of the most cost-effective marketing channels available today. However, creating campaigns that truly resonate with your audience and drive meaningful results requires strategic planning, compelling content, and careful optimization.
+Learning how to create effective email marketing campaigns is crucial for any business looking to maximize their digital marketing ROI. With email marketing delivering an average return of $42 for every $1 spent, according to DMA research, it remains one of the most cost-effective marketing channels available today — and [what email marketing actually costs](/content-marketing/how-much-does-email-marketing-cost) is lower than most marketers assume. However, creating campaigns that truly resonate with your audience and drive meaningful results requires strategic planning, compelling content, and careful optimization.
 
 ## Why Email Marketing Still Dominates in 2024
 

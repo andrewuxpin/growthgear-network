@@ -37,7 +37,7 @@ In this comprehensive guide, we'll explore the top 15 email marketing platforms 
 Before diving into platform comparisons, it's important to understand why email marketing remains one of the most effective digital marketing channels for online retailers:
 
 - **Higher conversion rates**: Email subscribers are 3x more likely to share content on social media and have a 17% higher lifetime value
-- **Cost-effective**: Email marketing costs 40x less than Facebook and Twitter advertising
+- **Cost-effective**: Email marketing costs 40x less than Facebook and Twitter advertising — see our [email marketing cost guide](/content-marketing/how-much-does-email-marketing-cost) for a full budget breakdown by business stage
 - **Personalization opportunities**: 91% of consumers are more likely to shop with brands that provide relevant offers
 - **Direct customer communication**: Unlike social media algorithms, email ensures your message reaches your audience
 - **Measurable results**: Track open rates, click-through rates, conversions, and revenue attribution
