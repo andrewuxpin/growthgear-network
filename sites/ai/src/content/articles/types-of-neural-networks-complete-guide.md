@@ -136,7 +136,7 @@ A practical note for business applications: LSTMs running locally on edge hardwa
 
 **Transformers**, introduced in "[Attention Is All You Need](https://arxiv.org/abs/1706.03762)" (Vaswani et al., 2017), replaced sequential processing with **parallel self-attention**. Rather than processing one token at a time and passing a hidden state, transformers compute relationships between all tokens simultaneously.
 
-For a detailed technical breakdown of how transformers work, see our comprehensive guide to [what is a transformer in machine learning](/deep-learning/what-is-a-transformer-in-machine-learning). If you want to understand how ChatGPT specifically fits into this taxonomy — and why its decoder-only design matters for business applications — read our explainer on [whether ChatGPT is technically a neural network](/deep-learning/is-chatgpt-a-neural-network-llm-explained).
+For a detailed technical breakdown of how transformers work, see our comprehensive guide to [what is a transformer in machine learning](/deep-learning/what-is-a-transformer-in-machine-learning). If you want to understand how ChatGPT specifically fits into this taxonomy — and why its decoder-only design matters for business applications — read our explainer on [whether ChatGPT is technically a neural network](/deep-learning/is-chatgpt-a-neural-network-llm-explained). For a side-by-side comparison of decoder-only, encoder-only, and encoder-decoder LLM architectures along with guidance on matching each to your use case, see [do LLMs use neural networks: the architecture explained](/deep-learning/do-llms-use-neural-networks).
 
 **Where transformers excel:**
 - All natural language tasks: generation, classification, summarization, translation

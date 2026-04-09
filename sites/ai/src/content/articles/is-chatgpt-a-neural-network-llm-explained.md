@@ -83,7 +83,7 @@ ChatGPT is **decoder-only**. This means it reads your prompt from left to right,
 
 Encoder-only models like BERT are better at *understanding* a fixed input (sentiment classification, named entity recognition). Decoder-only models like GPT are better at *generating* extended outputs. For most business use cases — summarization, drafting, answering questions — a decoder-only model is the right default.
 
-For a full breakdown of how ChatGPT's transformer compares to CNNs, RNNs, LSTMs, and other architectures, see our [types of neural networks guide](/deep-learning/types-of-neural-networks-complete-guide).
+For a full breakdown of how ChatGPT's transformer compares to CNNs, RNNs, LSTMs, and other architectures, see our [types of neural networks guide](/deep-learning/types-of-neural-networks-complete-guide). And if you're evaluating multiple LLM vendors — not just ChatGPT — see [how all major LLMs compare architecturally](/deep-learning/do-llms-use-neural-networks) for a full breakdown of decoder-only, encoder-only, and encoder-decoder variants with practical selection guidance.
 
 ## How ChatGPT Learns: Pretraining, Fine-Tuning, and RLHF
 
