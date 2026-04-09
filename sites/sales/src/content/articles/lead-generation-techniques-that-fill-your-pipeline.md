@@ -182,7 +182,7 @@ Layer intent data on top of your ICP and you move from prospect lists to priorit
 
 Harvard Business Review research on inbound lead response found that companies responding within 5 minutes are 100x more likely to qualify a lead than those responding after 30 minutes. After an hour, the probability of qualification drops by 80%.
 
-Speed to lead matters most for inbound leads—website conversions, content downloads, demo requests. Build an automatic notification system that alerts the assigned SDR within 60 seconds of any high-intent action.
+Speed to lead matters most for inbound leads—website conversions, content downloads, demo requests. Before that matters, your [lead generation website](/sales-techniques/how-to-build-lead-generation-website) must be architected to capture those conversions in the first place — purpose-built pages, optimized forms, and clear conversion paths. Build an automatic notification system that alerts the assigned SDR within 60 seconds of any high-intent action.
 
 ## Building a Lead Generation System That Runs Consistently
 

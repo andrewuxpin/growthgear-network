@@ -266,7 +266,7 @@ Create seamless handoffs between marketing and sales:
 - **Ignoring mobile optimization**: 60% of B2B searches happen on mobile devices
 
 ### Tactical Mistakes
-- **Poor landing page design**: Cluttered pages reduce conversion rates by 40%
+- **Poor landing page design**: Cluttered pages reduce conversion rates by 40% — build on a dedicated [lead generation website](/sales-techniques/how-to-build-lead-generation-website) architecture rather than bolting pages onto a general brand site
 - **Weak calls-to-action**: Vague CTAs decrease click-through rates significantly
 - **Insufficient follow-up**: 44% of salespeople give up after one follow-up attempt — once leads are generated, a structured [lead engagement strategy](/sales-techniques/lead-engagement-strategies-guide) ensures every prospect receives consistent multi-touch follow-up rather than a single abandoned email
 - **Missing attribution tracking**: Unable to optimize without proper measurement
