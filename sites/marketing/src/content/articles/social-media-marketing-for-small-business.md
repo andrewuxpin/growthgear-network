@@ -175,7 +175,7 @@ This approach lets one to two hours of creative work produce a full week of cont
 | **Descript** | Video and podcast editing with transcription | Free–$24/month |
 | **Notion** | Content calendar and ideas database | Free–$10/month |
 
-For businesses ready to graduate to more comprehensive scheduling, analytics, and reporting, the [best social media automation tools for small business](/social-media/best-social-media-automation-tools-small-business) guide evaluates paid platforms worth considering once your content process is established and you're producing at least three posts per week consistently.
+For businesses ready to graduate to more comprehensive scheduling, analytics, and reporting, the [best social media automation tools for small business](/social-media/best-social-media-automation-tools-small-business) guide evaluates paid platforms worth considering once your content process is established and you're producing at least three posts per week consistently. For a complete overview of all social media tool categories — scheduling, analytics, and content creation — the [best social media marketing tools for 2026](/social-media/best-social-media-marketing-tools) guide walks through every functional layer of a modern marketing stack.
 
 Pairing automation with data-driven insights lifts performance further. [Best AI tools for data analysis](https://ai.growthgear.com.au/ai-tools/best-ai-tools-for-data-analysis) can help small business teams identify which content types and posting times perform best without manual spreadsheet analysis, freeing up time to create rather than report.
 

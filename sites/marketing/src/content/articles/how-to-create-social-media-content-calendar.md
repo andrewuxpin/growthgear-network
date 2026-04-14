@@ -153,7 +153,7 @@ The right tool depends on your team size and workflow:
 | Sprout Social | Enterprise, deep analytics | $249+/month |
 | Later | Visual-first brands (Instagram/TikTok) | $18–$80/month |
 
-For most SMBs, **Buffer + Notion** is the optimal combination: Buffer handles scheduling and analytics, Notion holds the editorial calendar, content briefs, and brand guidelines. For a deeper comparison, [Social Media Examiner's tool guide](https://www.socialmediaexaminer.com/how-to-create-social-media-content-calendar/) covers additional options. Once your calendar is operational, add a [social media monitoring tool](/social-media/best-social-media-monitoring-tools) to track how published content performs in the wild — mentions, sentiment shifts, and competitor responses all feed back into your next planning cycle.
+For most SMBs, **Buffer + Notion** is the optimal combination: Buffer handles scheduling and analytics, Notion holds the editorial calendar, content briefs, and brand guidelines. For a comprehensive comparison of all social media tool categories — scheduling, analytics, and content creation — see the [best social media marketing tools guide](/social-media/best-social-media-marketing-tools). Once your calendar is operational, add a [social media monitoring tool](/social-media/best-social-media-monitoring-tools) to track how published content performs in the wild — mentions, sentiment shifts, and competitor responses all feed back into your next planning cycle.
 
 ### The Monthly Planning Session
 
