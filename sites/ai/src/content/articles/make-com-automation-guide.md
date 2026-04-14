@@ -140,7 +140,7 @@ For teams building out their CRM integration, the automation value compounds whe
 
 If marketing automation is part of your scope, Make.com connects natively with email platforms, social schedulers, and analytics tools — the [AI marketing tools comparison guide](https://marketing.growthgear.com.au/content-marketing/best-ai-tools-digital-marketing-automation) covers the marketing stack tools that pair well with a Make.com automation backbone.
 
-For teams newer to automation in general, [our complete guide to using AI to automate business tasks](/ai-tools/how-to-use-ai-to-automate-tasks-complete-guide) covers how to identify which processes are worth automating before you build anything.
+For teams newer to automation in general, [our complete guide to using AI to automate business tasks](/ai-tools/how-to-use-ai-to-automate-tasks-complete-guide) covers how to identify which processes are worth automating before you build anything. Make.com also integrates natively with AI-powered project management platforms like Asana, ClickUp, and Monday.com — see [best AI tools for project management](/ai-tools/best-ai-tools-for-project-management) for how these PM tools pair with a Make.com automation backbone to eliminate manual status updates and task routing.
 
 ## Make.com Pricing: Plans, Costs, and ROI
 
