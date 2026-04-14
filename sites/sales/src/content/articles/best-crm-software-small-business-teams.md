@@ -38,7 +38,7 @@ Customer Relationship Management (CRM) software serves as the central hub for al
 - **Integration capabilities** with existing business tools
 - **Scalable solutions** that grow with your business
 
-According to Salesforce research, businesses using CRM software see an average ROI of $8.71 for every dollar spent, making it one of the most valuable investments for growing teams.
+According to Salesforce research, businesses using CRM software see an average ROI of $8.71 for every dollar spent, making it one of the most valuable investments for growing teams. That ROI depends on a structured rollout — our [CRM implementation guide](/crm-tools/crm-implementation-guide) walks through the complete deployment process from requirements planning through team adoption.
 
 ## Key Features Every Small Business CRM Should Have
 

@@ -43,7 +43,7 @@ callout:
 
 A CRM is only useful when your team actually uses it — and most don't. According to [Salesforce's State of Sales report](https://www.salesforce.com/resources/research-reports/state-of-sales/), sales reps spend just 28% of their week on actual selling. The rest goes to admin tasks, data entry, and chasing information scattered across email threads and spreadsheets. A properly configured CRM fixes all of that.
 
-This guide covers how to use CRM software from day one through daily operation: how to set it up correctly, manage your contacts and pipeline, and extract reporting insights that actually change behaviour. Whether you're deploying a CRM for the first time or trying to fix a broken implementation, these steps apply.
+This guide covers how to use CRM software from day one through daily operation: how to set it up correctly, manage your contacts and pipeline, and extract reporting insights that actually change behaviour. Whether you're deploying a CRM for the first time or trying to fix a broken implementation, these steps apply. For the strategic framework that precedes daily usage — requirements planning, data migration, and adoption strategy — see our [CRM implementation guide](/crm-tools/crm-implementation-guide).
 
 ## Setting Up Your CRM for Sales Success
 
