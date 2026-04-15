@@ -76,7 +76,7 @@ Not every channel deserves equal investment. For most businesses in their first 
 
 According to [HubSpot's 2025 State of Marketing Report](https://www.hubspot.com/marketing-statistics), organic search and email consistently rank as the top two highest-ROI channels for B2B businesses, with organic search generating 5.3x the ROI of paid search on a three-year horizon.
 
-Understanding your [website marketing strategy](/seo/website-marketing-strategy-guide) is the foundation for deciding which platforms to prioritize. A B2B software company with a 90-day sales cycle should weight SEO and email heavily; a D2C product brand with impulse purchase dynamics should weight social and paid ads more heavily.
+Understanding your [website marketing strategy](/seo/website-marketing-strategy-guide) is the foundation for deciding which platforms to prioritize. A B2B software company with a 90-day sales cycle should weight SEO and email heavily; a D2C product brand with impulse purchase dynamics should weight social and paid ads more heavily. A [digital marketing plan](/content-marketing/how-to-build-digital-marketing-plan) translates these priorities into a concrete channel budget before you start evaluating specific platforms.
 
 ---
 

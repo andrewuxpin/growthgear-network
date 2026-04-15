@@ -49,7 +49,7 @@ This guide walks through every stage of campaign planning: setting goals, alloca
 
 A digital marketing campaign is a coordinated series of marketing activities executed across one or more digital channels to achieve a specific, measurable goal within a defined timeframe. Unlike always-on marketing, a campaign has a clear start date, end date, budget, and success metric.
 
-Campaigns are distinct from your broader [digital marketing strategy](/seo/website-marketing-strategy-guide) in an important way: strategy defines where you're going; campaigns are the engine that gets you there.
+Campaigns are distinct from your broader [digital marketing strategy](/seo/website-marketing-strategy-guide) in an important way: strategy defines where you're going; campaigns are the engine that gets you there. Between strategy and campaigns sits the [digital marketing plan](/content-marketing/how-to-build-digital-marketing-plan) — the annual roadmap that allocates budget across channels and defines the campaigns you'll run throughout the year.
 
 ### The Core Components of Every Campaign
 
