@@ -88,7 +88,7 @@ The output is a weighted blend of all Values, where the weights reflect how rele
 
 Self-attention applies the QKV mechanism within a single sequence, letting every token attend to every other token in the same input. For the sentence "The bank can guarantee deposits" — where "bank" could mean financial institution or riverbank — self-attention allows the model to resolve the ambiguity by examining "deposits" and "guarantee" simultaneously, not sequentially.
 
-This is the mechanism that makes BERT ([Devlin et al., Google AI, 2018](https://arxiv.org/abs/1810.04805)) exceptional at language understanding. BERT uses **bidirectional self-attention**: each token can attend to all tokens that appear before and after it in the sentence, capturing full context rather than just left-to-right context.
+This is the mechanism that makes BERT ([Devlin et al., Google AI, 2018](https://arxiv.org/abs/1810.04805)) exceptional at language understanding. BERT uses **bidirectional self-attention**: each token can attend to all tokens that appear before and after it in the sentence, capturing full context rather than just left-to-right context. For a full breakdown of BERT's architecture, pre-training objectives, and business use cases, see [what is BERT in NLP](/deep-learning/what-is-bert-in-nlp-guide).
 
 ### How Self-Attention Works Step by Step
 

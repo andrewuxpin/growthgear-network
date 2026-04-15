@@ -73,7 +73,7 @@ These blocks are stacked — GPT-2 had 48 layers, GPT-3 had 96, and the largest 
 
 The original architecture had two halves:
 
-- **Encoder** (e.g., BERT): Reads the full input bidirectionally and builds a rich representation. Best for classification, question answering, and understanding tasks.
+- **Encoder** (e.g., BERT): Reads the full input bidirectionally and builds a rich representation. Best for classification, question answering, and understanding tasks. See [what is BERT in NLP](/deep-learning/what-is-bert-in-nlp-guide) for BERT's architecture, variants, and business deployment guide.
 - **Decoder** (e.g., GPT): Generates output autoregressively, predicting one token at a time while attending to previous tokens. Best for generation tasks.
 
 Most modern frontier LLMs (GPT-4, Claude, Llama) are decoder-only architectures. Models like T5 and Gemini use encoder-decoder for tasks that require both understanding and generation. For a practical breakdown of what this architecture means specifically for ChatGPT — including how pretraining and RLHF layer on top of the base transformer — see [is ChatGPT a neural network?](/deep-learning/is-chatgpt-a-neural-network-llm-explained). For a broader comparison covering all LLM variants — decoder-only, encoder-only (BERT), and encoder-decoder (T5) — with guidance on choosing between them for your use case, see [do LLMs use neural networks: the architecture explained](/deep-learning/do-llms-use-neural-networks).

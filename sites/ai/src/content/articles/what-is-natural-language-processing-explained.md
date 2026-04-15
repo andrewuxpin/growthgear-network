@@ -89,7 +89,7 @@ Modern NLP relies heavily on machine learning approaches:
 
 **Large Language Models**:
 - GPT (Generative Pre-trained Transformer)
-- BERT (Bidirectional Encoder Representations from Transformers)
+- [BERT (Bidirectional Encoder Representations from Transformers)](/deep-learning/what-is-bert-in-nlp-guide) — Google's 2018 encoder-only model, the default choice for classification, NER, and semantic search
 - T5 (Text-to-Text Transfer Transformer)
 
 ## Key NLP Techniques and Methods
