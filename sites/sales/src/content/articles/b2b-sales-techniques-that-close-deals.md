@@ -71,7 +71,7 @@ Understanding [how to build a sales pipeline from scratch](/b2b-sales/how-to-bui
 
 ## Prospecting Techniques That Fill Your B2B Pipeline
 
-Effective B2B prospecting combines targeting precision with multi-channel outreach. The goal is not to contact as many people as possible — it's to generate conversations with buyers who have the right problem, authority, budget, and timing to become customers within your target period.
+Effective B2B prospecting combines targeting precision with multi-channel outreach. The goal is not to contact as many people as possible — it's to generate conversations with buyers who have the right problem, authority, budget, and timing to become customers within your target period. For a full system covering cadence frameworks, channel playbooks, and performance metrics, see the [sales prospecting techniques guide](/sales-techniques/sales-prospecting-techniques).
 
 According to HubSpot's Sales Statistics report, sales reps who use three or more outreach channels generate 24% more meetings than those relying on a single channel. Email alone rarely moves the needle at scale.
 

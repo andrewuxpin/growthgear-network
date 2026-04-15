@@ -57,7 +57,7 @@ A pipeline full of unqualified leads is worse than a small pipeline of good-fit 
 
 ## Outbound Lead Generation Techniques That Actually Work
 
-Outbound is faster than inbound. When you need pipeline now, these are the techniques that produce it.
+Outbound is faster than inbound. When you need pipeline now, these are the techniques that produce it. For a complete system covering multi-channel prospecting cadences — email, phone, and LinkedIn coordinated in sequence — see our [sales prospecting techniques guide](/sales-techniques/sales-prospecting-techniques).
 
 ### Cold Email Sequences
 
