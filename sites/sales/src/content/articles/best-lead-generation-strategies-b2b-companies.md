@@ -46,7 +46,7 @@ Successful lead generation strategies must account for these behavioral shifts w
 
 ### 1. Content Marketing and Thought Leadership
 
-Content marketing remains the foundation of effective B2B lead generation, with companies that blog receiving 67% more leads than those that don't.
+Content marketing remains the foundation of effective B2B lead generation, with companies that blog receiving 67% more leads than those that don't. For a step-by-step blueprint on turning content into a consistent lead engine, see our [content marketing lead generation guide](/sales-techniques/content-marketing-lead-generation-guide).
 
 #### Implementation Strategy:
 - **Create pillar content**: Develop comprehensive guides addressing major pain points

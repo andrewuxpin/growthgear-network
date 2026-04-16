@@ -45,7 +45,7 @@ callout:
 
 A B2B sales funnel is a structured model that maps the journey of a business buyer from first awareness of your solution to a signed contract. Unlike consumer purchases, B2B funnels span weeks to months, involve multiple stakeholders, and require different content and actions at each stage to sustain momentum toward a decision.
 
-The word "funnel" captures a mathematical reality: far more leads enter at the top than exit as paying customers at the bottom. According to [Gartner's research on the B2B buying journey](https://www.gartner.com/en/sales/insights/b2b-buying-journey), the average complex B2B purchase involves 6-10 decision-makers, each consuming 4-5 pieces of content before a final decision. Your funnel's job is to deliver the right content to the right stakeholder at the right stage — consistently.
+The word "funnel" captures a mathematical reality: far more leads enter at the top than exit as paying customers at the bottom. According to [Gartner's research on the B2B buying journey](https://www.gartner.com/en/sales/insights/b2b-buying-journey), the average complex B2B purchase involves 6-10 decision-makers, each consuming 4-5 pieces of content before a final decision. Your funnel's job is to deliver the right content to the right stakeholder at the right stage — consistently. For how to build the content side of your funnel, see the [content marketing lead generation guide](/sales-techniques/content-marketing-lead-generation-guide).
 
 ### B2B vs. B2C Funnels: Key Differences
 

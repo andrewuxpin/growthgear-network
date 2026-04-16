@@ -59,7 +59,7 @@ A brand website organizes information by company structure: About, Services, Tea
 
 Map your site architecture to buyer journey stages:
 
-- **Awareness stage**: Blog content, educational guides, "what is X" articles that attract organic search traffic
+- **Awareness stage**: Blog content, educational guides, "what is X" articles that attract organic search traffic (pair with a [content marketing lead generation strategy](/sales-techniques/content-marketing-lead-generation-guide) to convert educational readers into leads)
 - **Consideration stage**: Comparison pages, case studies, tools and calculators that help buyers evaluate options
 - **Decision stage**: Pricing pages, demo booking, free trials, consultation offers with friction-minimized forms
 
