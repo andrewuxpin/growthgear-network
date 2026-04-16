@@ -81,7 +81,7 @@ For ecommerce brands, the win-back sequence has specific timing and incentive lo
 
 Your subject line determines whether your email gets read or deleted. According to HubSpot research, 47% of recipients open emails based on the subject line alone. Every element — length, tone, personalization, urgency — influences the open rate before a single word of body copy is read.
 
-Strong subject lines share three characteristics: they're specific (not vague), they match the email's actual content, and they create a reason to open now rather than later.
+Strong subject lines share three characteristics: they're specific (not vague), they match the email's actual content, and they create a reason to open now rather than later. Before settling on your own formula, [analyze the subject line patterns your competitors use most](/content-marketing/how-to-analyze-competitors-email-marketing) — identifying which formula types dominate your space reveals the gaps where a different approach can stand out.
 
 ### Practice 4: Write Subject Lines That Are 6-10 Words Long
 

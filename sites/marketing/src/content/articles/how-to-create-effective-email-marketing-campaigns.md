@@ -192,7 +192,7 @@ Go beyond "Hi [Name]" to create truly personalized experiences:
 ### Key Performance Indicators (KPIs)
 
 **Primary Metrics:**
-- **Open Rate**: Industry average is 21.33% (varies by industry)
+- **Open Rate**: Industry average is 21.33% (varies by industry) — [research what competitors in your industry average](/content-marketing/how-to-analyze-competitors-email-marketing) to set realistic targets
 - **Click-Through Rate (CTR)**: Average 2.62% across all industries
 - **Conversion Rate**: Percentage of recipients who complete desired action
 - **Revenue Per Email**: Total revenue divided by number of emails sent
