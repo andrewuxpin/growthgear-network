@@ -131,7 +131,7 @@ The result is a richer representation that captures multiple relationship types 
 
 ### Positional Encoding: Solving Order Without Recurrence
 
-Pure attention has no inherent sense of order. "Cat bites dog" and "Dog bites cat" would produce identical attention patterns if position weren't injected. Transformers solve this with **positional encoding** — a vector added to each token embedding that encodes its position in the sequence.
+Pure attention has no inherent sense of order. "Cat bites dog" and "Dog bites cat" would produce identical attention patterns if position weren't injected. Transformers solve this with [**positional encoding**](/deep-learning/what-is-positional-encoding-in-transformers) — a vector added to each token embedding that encodes its position in the sequence.
 
 The original transformer used sinusoidal positional encoding (fixed, based on sine and cosine functions at different frequencies). Modern models like GPT-4 and LLaMA use **Rotary Position Embedding (RoPE)**, which encodes relative rather than absolute position — a significant improvement for long sequences.
 

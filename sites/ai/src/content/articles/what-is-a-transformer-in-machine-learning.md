@@ -106,7 +106,7 @@ GPT-3 uses 96 attention heads per layer. The outputs from all heads are concaten
 
 ### Positional Encoding
 
-Because transformers process all tokens simultaneously, they have no built-in sense of order. **Positional encoding** solves this by adding a position-dependent signal to each token embedding before the first layer.
+Because transformers process all tokens simultaneously, they have no built-in sense of order. [**Positional encoding**](/deep-learning/what-is-positional-encoding-in-transformers) solves this by adding a position-dependent signal to each token embedding before the first layer.
 
 The original paper used fixed sinusoidal encodings. Most modern models use learned positional embeddings or **Rotary Position Embedding (RoPE)**, which scales more gracefully to long contexts. Llama 3 and Mistral use RoPE, enabling context windows of 128K tokens or more.
 
