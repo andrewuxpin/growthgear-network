@@ -208,7 +208,7 @@ For detailed automation setup, [how to use AI to automate tasks](/ai-tools/how-t
 
 Once you have customers and revenue, AI shifts from a bootstrapping tool to a scaling engine. The companies that grow fastest don't hire proportionally — they build AI infrastructure that scales output without proportional headcount growth.
 
-GrowthGear has advised 50+ startups through this transition. The pattern is consistent: founders who invest in AI systems early achieve the same output at 40-60% of the headcount cost compared to those who hire first and automate later.
+GrowthGear has advised 50+ startups through this transition. The pattern is consistent: founders who invest in AI systems early achieve the same output at 40-60% of the headcount cost compared to those who hire first and automate later. For a complete framework on using AI to grow an established business—covering marketing, sales, and operations—see the guide on [how to use AI to grow your business](/ai-tools/how-to-use-ai-to-grow-a-business-guide).
 
 ### Prioritizing Which Processes to Automate First
 

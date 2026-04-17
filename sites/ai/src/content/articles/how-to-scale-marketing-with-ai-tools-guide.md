@@ -181,7 +181,7 @@ Most teams overestimate how quickly AI tools improve conversions and underestima
 - **Months 3-4**: First measurable improvement in email engagement (5-15% lift in open rates or click-through rates)
 - **Months 5-6**: Measurable CPL reduction (10-25% is typical for teams that also improve content quality)
 
-GrowthGear has helped 50+ startups implement AI marketing stacks. Across that portfolio, the fastest-growing clients consistently combine AI content tools with [B2B content marketing strategies](https://marketing.growthgear.com.au/content-marketing/best-content-marketing-strategies-b2b-companies) — the AI handles volume, but the strategy determines which topics to produce at volume.
+GrowthGear has helped 50+ startups implement AI marketing stacks. Across that portfolio, the fastest-growing clients consistently combine AI content tools with [B2B content marketing strategies](https://marketing.growthgear.com.au/content-marketing/best-content-marketing-strategies-b2b-companies) — the AI handles volume, but the strategy determines which topics to produce at volume. For the full picture on scaling beyond marketing into sales and operations, see the guide on [how to use AI to grow your business](/ai-tools/how-to-use-ai-to-grow-a-business-guide).
 
 ## Mistakes That Prevent Marketing Teams From Scaling With AI
 
