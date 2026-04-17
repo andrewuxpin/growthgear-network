@@ -48,7 +48,7 @@ This guide covers the most widely adopted CRM software examples for B2B sales te
 
 CRM software (Customer Relationship Management software) is a platform that centralizes customer data, deal activity, and communication history so your entire sales team works from a single source of truth. The core purpose: ensure no lead falls through the cracks, every deal has a clear owner and next action, and sales managers can see pipeline health without asking reps for updates.
 
-Beyond contact storage, modern CRM software examples handle pipeline stage tracking, email integration, automated follow-up tasks, workflow automation, and sales reporting. Advanced platforms add AI-powered deal scoring, revenue forecasting, and conversation intelligence.
+Beyond contact storage, modern CRM software examples handle pipeline stage tracking, email integration, automated follow-up tasks, workflow automation, and sales reporting. Advanced platforms add AI-powered deal scoring, revenue forecasting, and conversation intelligence. Teams that need deeper pipeline analytics and deal-level automation beyond what their CRM provides natively often complement their setup with dedicated [deal management software](/crm-tools/best-deal-management-software).
 
 According to [Gartner](https://www.gartner.com/en/information-technology/glossary/customer-relationship-management-crm), CRM software is the largest enterprise application software category globally, underscoring how central it has become to revenue operations. For most B2B sales teams, the CRM is where every rep starts their day and where every manager runs their pipeline review. All of the examples in this guide are [cloud-based CRM platforms](/crm-tools/best-cloud-based-crm-software) — no on-premise installation required.
 
