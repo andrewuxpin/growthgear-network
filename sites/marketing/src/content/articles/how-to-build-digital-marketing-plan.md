@@ -267,6 +267,7 @@ This feedback loop is the mechanism that graduates marketing plans from "activit
 | **Campaign calendar** | Always-on + burst campaigns scheduled | Campaign bursts amplify always-on programs, not replace them |
 | **Measurement** | GA4, UTMs, dashboards, baseline snapshot | All in place before any plan activity launches |
 | **Review cadence** | Weekly, monthly, and quarterly reviews | Standing meetings with documented decisions and outputs |
+| **Team development** | Curated reading list + certifications | Use the [best digital marketing resources](/content-marketing/best-digital-marketing-resources-for-marketers) to keep skills current as channels evolve |
 
 ## Sources & References
 

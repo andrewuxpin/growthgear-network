@@ -199,7 +199,7 @@ The fix: define your ICP with painful specificity. If your product genuinely ser
 
 Many teams jump to tactics — running Facebook ads, posting on LinkedIn, publishing blog content — before defining what they're trying to achieve, who they're speaking to, or how success is measured.
 
-Tactics without strategy produce activity but not results. Spend two to four hours building a one-page strategy document before launching any campaign. That document should cover your ICP, your positioning, your three-to-six month goals, and your chosen channels.
+Tactics without strategy produce activity but not results. Spend two to four hours building a one-page strategy document before launching any campaign. That document should cover your ICP, your positioning, your three-to-six month goals, and your chosen channels. For marketers building their foundational knowledge, our guide to the [best digital marketing resources](/content-marketing/best-digital-marketing-resources-for-marketers) covers the blogs, certifications, and frameworks that keep strategy thinking sharp.
 
 ### Mistake 3: Ignoring the Full Funnel
 

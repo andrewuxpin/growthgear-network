@@ -203,7 +203,7 @@ For teams looking at how to build on these tools with a full editorial strategy,
 
 ## Turn Your Content Tools Into a Growth Engine
 
-The right content marketing tools reduce production time, increase distribution reach, and make your analytics actionable. But tools alone do not build an audience. The strategy behind your content — which topics you target, which audiences you reach, and how you align content with revenue goals — determines whether your investment in tools translates to growth.
+The right content marketing tools reduce production time, increase distribution reach, and make your analytics actionable. But tools alone do not build an audience. The strategy behind your content — which topics you target, which audiences you reach, and how you align content with revenue goals — determines whether your investment in tools translates to growth. Pair your tool stack with ongoing learning from the [best digital marketing resources](/content-marketing/best-digital-marketing-resources-for-marketers) to stay sharp as platforms evolve.
 
 GrowthGear has helped 50+ startups and growing businesses build content engines that generate compounding organic traffic and qualified leads. Whether you're selecting your first tool stack or consolidating an over-tooled programme, we can help you find the shortest path to measurable results.
 
