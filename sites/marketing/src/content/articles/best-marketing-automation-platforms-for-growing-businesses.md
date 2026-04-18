@@ -249,7 +249,7 @@ Pair automation performance data with [conversion rate optimization](/seo/conver
 | **Marketo Engage** | Enterprise B2B demand gen | ~$1,000/mo | Salesforce (best-in-class) | High |
 | **Pardot** | Salesforce-native B2B orgs | $1,250/mo | Native Salesforce | Medium-High |
 
-For teams just getting started with automation, the top recommendation depends on one question: where do your leads already exist? If they're in a HubSpot CRM, use HubSpot. If you're running Shopify, start with Klaviyo. The integration fit outweighs feature differences at every stage below enterprise.
+For teams just getting started with automation, the top recommendation depends on one question: where do your leads already exist? If they're in a HubSpot CRM, use HubSpot. If you're running Shopify, start with Klaviyo. The integration fit outweighs feature differences at every stage below enterprise. If you're deciding whether to run the platform yourself or hire an agency, see our [marketing automation services guide](/content-marketing/marketing-automation-services-guide) for a full cost and tradeoff comparison.
 
 For more on building your [digital marketing toolkit](/content-marketing/best-ai-tools-digital-marketing-automation), including AI tools that integrate with these platforms, read our companion guide.
 

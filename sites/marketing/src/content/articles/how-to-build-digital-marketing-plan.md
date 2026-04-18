@@ -201,7 +201,7 @@ Your calendar should distinguish clearly between two types of marketing activity
 
 The most effective calendar schedules campaign bursts to amplify always-on programs rather than replace them. A lead generation campaign performs significantly better when it directs traffic to landing pages backed by an established library of credibility-building content. Always-on email nurturing produces higher conversion rates when fresh campaigns continuously replenish the top of the subscriber funnel.
 
-[AI automation tools](https://ai.growthgear.com.au/machine-learning/how-to-implement-ai-in-business-complete-guide) can materially reduce the operational cost of maintaining always-on content production — particularly for social distribution, content repurposing, and email personalization — which is increasingly relevant as teams are asked to do more with flat headcount.
+[AI automation tools](https://ai.growthgear.com.au/machine-learning/how-to-implement-ai-in-business-complete-guide) can materially reduce the operational cost of maintaining always-on content production — particularly for social distribution, content repurposing, and email personalization — which is increasingly relevant as teams are asked to do more with flat headcount. For teams deciding whether to manage automation in-house or through a provider, our [marketing automation services guide](/content-marketing/marketing-automation-services-guide) covers the cost and tradeoff comparison.
 
 > **Pro tip:** Build your campaign calendar with explicit "no campaign" weeks for high-intensity always-on publishing. Teams that run campaigns and heavy content production simultaneously often compromise quality on both.
 
