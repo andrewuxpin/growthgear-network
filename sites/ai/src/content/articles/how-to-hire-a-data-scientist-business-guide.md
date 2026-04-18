@@ -76,7 +76,7 @@ Most businesses underestimate how much work steps 2 and 6 require. A model is no
 
 Before posting a data science vacancy, confirm which problem you're actually trying to solve. Many businesses hire data scientists when they need a data analyst, then wonder why the role doesn't deliver immediate value. It's also worth reading our analysis of [whether the data science job market is actually oversaturated](/machine-learning/is-data-science-oversaturated) — understanding the real talent supply picture will shape how competitive your compensation and sourcing strategy needs to be.
 
-For a deeper look at the analytics role landscape, see our guide to [data analytics jobs, roles, and AI tools](/machine-learning/data-analytics-jobs-roles-skills-guide).
+For a deeper look at the analytics role landscape, see our guide to [data analytics jobs, roles, and AI tools](/machine-learning/data-analytics-jobs-roles-skills-guide). For a direct head-to-head comparison of skills, tools, salary, and hire sequence, see [data science vs data analytics: key differences](/machine-learning/data-science-vs-data-analytics-guide).
 
 ## Technical Skills Every Data Science Hire Must Have
 
