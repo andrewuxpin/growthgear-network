@@ -42,7 +42,7 @@ callout:
 
 Cold email still works. The problem is that most sales teams use templates incorrectly — copying and blasting generic messages that prospects delete in two seconds. A well-structured cold email template, combined with prospect-specific personalization, is one of the highest-ROI outbound channels available to B2B sales teams.
 
-This guide gives you six proven templates, a personalization framework to adapt them at scale, a four-touch sequence structure, and the metrics to track whether your outreach is actually working. For the foundational principles behind building these emails from scratch—including subject line formulas, sender reputation, and sequence cadence—see the [outreach email guide](/sales-techniques/outreach-email-guide).
+This guide gives you six proven templates, a personalization framework to adapt them at scale, a four-touch sequence structure, and the metrics to track whether your outreach is actually working. For the foundational principles behind building these emails from scratch—including subject line formulas, sender reputation, and sequence cadence—see the [outreach email guide](/sales-techniques/outreach-email-guide). For templates organized by B2B lead generation use case — trigger events, industry verticals, follow-up sequences, and re-engagement — see [B2B lead generation email templates](/sales-techniques/b2b-lead-generation-email-templates).
 
 ## Why Most Cold Emails Go Unanswered
 
