@@ -176,7 +176,7 @@ According to McKinsey's [Economic Potential of Generative AI report](https://www
 
 The pricing gap is significant. [Zapier's Professional plan](/ai-tools/zapier-cost-pricing-guide) costs $19.99/month for 750 tasks. Make.com's Core plan delivers 10,000 operations for $9/month — roughly 13x more operations per dollar. For multi-step scenarios with 5+ modules, Make.com's operations model typically costs 4-8x less than Zapier for equivalent workflow volume.
 
-The trade-off: Make.com requires more configuration time per scenario. Zapier's simpler interface means faster setup for basic automations. The break-even point on setup investment versus subscription savings is typically 2-3 weeks for teams already familiar with one automation tool.
+The trade-off: Make.com requires more configuration time per scenario. Zapier's simpler interface means faster setup for basic automations. The break-even point on setup investment versus subscription savings is typically 2-3 weeks for teams already familiar with one automation tool. For a full side-by-side analysis of features, AI capabilities, and ease of use across both platforms, see the [Make vs Zapier comparison guide](/ai-tools/make-vs-zapier-comparison-guide).
 
 ## Make vs. Zapier vs. n8n: Full Comparison
 
