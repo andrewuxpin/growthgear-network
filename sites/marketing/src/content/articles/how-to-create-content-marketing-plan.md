@@ -116,7 +116,7 @@ Structure your keyword targets by funnel stage:
 
 - **Informational** (awareness): "what is content marketing", "content marketing examples"
 - **Navigational/comparison** (consideration): "best content marketing tools", "content marketing strategy guide"
-- **Commercial** (decision): "content marketing agency", "content marketing services for B2B"
+- **Commercial** (decision): "content marketing agency", "[content marketing services](/content-marketing/content-marketing-services-guide) for B2B"
 
 Build your [SEO content strategy](/seo/how-to-build-seo-content-strategy) around all three layers, with most content at the informational tier — this is where your audience begins, and where organic traffic volume is highest. For deeper context on combining search intent with content production, see [how SEO and content marketing work together](/content-marketing/how-seo-and-content-marketing-work-together).
 
