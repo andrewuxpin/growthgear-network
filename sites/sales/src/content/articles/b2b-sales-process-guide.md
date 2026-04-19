@@ -55,7 +55,7 @@ A well-designed B2B sales process does three things: it creates consistency acro
 
 The core difference is complexity. According to Gartner, the typical B2B buying group includes 6–10 stakeholders across multiple functions. Each stakeholder has different priorities: finance cares about ROI, IT cares about integration, and operations cares about workflow implications.
 
-This means your sales process must accommodate multi-threaded conversations, extended evaluation periods, and formal procurement requirements — none of which exist in most B2C transactions. The average B2B deal cycle runs 84 days, per Salesforce's State of Sales report.
+This means your sales process must accommodate multi-threaded conversations, extended evaluation periods, and formal procurement requirements — none of which exist in most B2C transactions. The average B2B deal cycle runs 84 days, per Salesforce's State of Sales report. For a full breakdown of each cycle stage and proven tactics to compress timelines, see our [B2B sales cycle guide](/b2b-sales/b2b-sales-cycle-guide).
 
 ### What a Defined Process Actually Changes
 

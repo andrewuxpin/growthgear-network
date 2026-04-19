@@ -74,7 +74,7 @@ The right number depends on deal complexity and sales cycle length:
 | Enterprise / Complex | 7-9 stages | 90-365 days |
 | Channel / Partner sales | 8-10 stages | 60-180 days |
 
-For most B2B teams, **7 stages** is the right starting point. It captures enough granularity to forecast accurately without becoming so complex that reps skip stages or game the system.
+For most B2B teams, **7 stages** is the right starting point. It captures enough granularity to forecast accurately without becoming so complex that reps skip stages or game the system. To understand how long each stage typically takes and what causes deals to stall, see our dedicated [B2B sales cycle guide](/b2b-sales/b2b-sales-cycle-guide).
 
 ## The 7 Core Sales Pipeline Stages Explained
 
