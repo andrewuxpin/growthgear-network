@@ -143,7 +143,7 @@ The implication for B2B teams is significant: **multi-threading is not optional*
 
 ### How Buying Decisions Are Made
 
-B2B buyers justify decisions with numbers. According to [McKinsey's B2B Pulse survey](https://www.mckinsey.com/capabilities/growth-marketing-and-sales/our-insights/b2b-pulse), 70% of B2B buyers expect vendors to provide a detailed ROI case before they commit to a purchase. A sales deck without a business case is a product demo, not a sales motion.
+B2B buyers justify decisions with numbers. According to McKinsey's B2B Pulse survey, 70% of B2B buyers expect vendors to provide a detailed ROI case before they commit to a purchase. A sales deck without a business case is a product demo, not a sales motion.
 
 B2C buyers blend logic and emotion. Price, convenience, aspiration, and social identity all influence B2C decisions. The persuasion frameworks differ accordingly — B2C leans on social proof, urgency, and aspirational identity; B2B leans on risk mitigation, financial return, and peer validation from comparable companies.
 
@@ -255,6 +255,6 @@ GrowthGear has helped 50+ startups and scaling SMBs build sales engines tailored
 
 1. [Salesforce State of Sales](https://www.salesforce.com/resources/research-reports/state-of-sales/) — "Inside sales costs approximately 60% less per rep than outside field sales; 82% of top performers describe their approach as consultative" (2024)
 2. [Gartner B2B Buying Journey](https://www.gartner.com/en/sales/insights/b2b-buying-journey) — "B2B purchases now involve an average of 6–10 stakeholders and take 3–12 months to close at enterprise scale" (2024)
-3. [McKinsey B2B Pulse Survey](https://www.mckinsey.com/capabilities/growth-marketing-and-sales/our-insights/b2b-pulse) — "70% of B2B buyers expect vendors to provide a detailed ROI case before committing to a purchase" (2024)
+3. McKinsey B2B Pulse Survey — "70% of B2B buyers expect vendors to provide a detailed ROI case before committing to a purchase" (2024)
 4. [LinkedIn State of Sales](https://www.linkedin.com/business/sales/blog/sales-performance/state-of-sales-report) — "77% of B2B buyers prefer video meetings over in-person visits for early-stage discovery" (2024)
 5. [Forrester Partner Ecosystem Research](https://www.forrester.com/research/) — "Companies with mature channel programs consistently outperform direct-only models on revenue per sales headcount" (2023)

@@ -1,5 +1,5 @@
 ---
-title: "Deep Learning for Time Series Forecasting Guide"
+title: "Deep Learning for Time Series Forecasting"
 description: "Learn how deep learning models like LSTM and Temporal Fusion Transformers outperform ARIMA for demand forecasting, financial prediction, and operations."
 category: "deep-learning"
 author:
@@ -262,7 +262,7 @@ Whether you're evaluating demand forecasting models for the first time or scalin
 
 ## Sources & References
 
-1. [McKinsey Global Institute](https://www.mckinsey.com/capabilities/operations/our-insights/supply-chain-planning-for-uncertainty) — "AI-powered demand forecasting reduces supply chain costs by 15–20% and lost sales from stockouts by up to 65%" (2023)
+1. McKinsey Global Institute — "AI-powered demand forecasting reduces supply chain costs by 15–20% and lost sales from stockouts by up to 65%" (2023)
 2. [Google Research — Temporal Fusion Transformers](https://research.google/pubs/pub49942/) — "Temporal Fusion Transformers for Interpretable Multi-horizon Time Series Forecasting" (Lim et al., 2021)
 3. [TensorFlow Time Series Tutorial](https://www.tensorflow.org/tutorials/structured_data/time_series) — Official TensorFlow documentation for time series forecasting with LSTM (2024)
 4. [Stanford HAI — Artificial Intelligence Index Report](https://aiindex.stanford.edu/report/) — "Time series forecasting identified as a top-three AI application in financial services" (2023)

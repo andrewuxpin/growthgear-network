@@ -1,5 +1,5 @@
 ---
-title: "Sales Strategy Template: Build Your 2026 Plan"
+title: "Sales Strategy Template: Build Your 2026"
 description: "Use our proven sales strategy template to define targets, tactics, and KPIs. Includes a fillable framework for B2B and SMB teams ready to hit quota in 2026."
 category: "sales-techniques"
 author:
@@ -65,7 +65,7 @@ Most teams undermine their own strategy by treating it as a goal-setting documen
 
 ### Why Seven Sections, Not More
 
-Longer templates get abandoned. According to [HubSpot Research](https://www.hubspot.com/sales-statistics), sales reps spend only 28% of their week actually selling — every minute spent navigating a 30-page strategy document is time not in front of buyers. Seven sections is the minimum viable structure that covers market, process, and measurement without creating overhead.
+Longer templates get abandoned. According to HubSpot Research, sales reps spend only 28% of their week actually selling — every minute spent navigating a 30-page strategy document is time not in front of buyers. Seven sections is the minimum viable structure that covers market, process, and measurement without creating overhead.
 
 [How to create a sales strategy that works](/sales-techniques/how-to-create-sales-strategy-that-works) covers the broader strategic context — this guide focuses on the template format itself.
 
@@ -205,7 +205,7 @@ Buyer personas describe psychology. Your sales ICP describes which *companies* t
 
 ### Mistake 3: No Objection Playbook
 
-The objection playbook is the most-used section of any strategy template. According to [Harvard Business Review](https://hbr.org/2017/07/6-ways-to-build-a-customer-centric-culture), rep performance gaps are often not talent gaps — they're preparation gaps. Document your top 5 objections with named responses, and train reps to deliver them consistently.
+The objection playbook is the most-used section of any strategy template. According to Harvard Business Review, rep performance gaps are often not talent gaps — they're preparation gaps. Document your top 5 objections with named responses, and train reps to deliver them consistently.
 
 A usable objection playbook has three parts for each objection:
 - **The trigger**: When does this objection typically surface? (Stage 3 qualification, Stage 5 proposal?)
@@ -252,7 +252,7 @@ A sales strategy template is only as good as the team using it. The template pro
 
 ## Sources & References
 
-1. [HubSpot Research — Sales Statistics](https://www.hubspot.com/sales-statistics) — "Sales reps spend only 28% of their week actually selling" (2024)
+1. HubSpot Research — Sales Statistics — "Sales reps spend only 28% of their week actually selling" (2024)
 2. [Salesforce State of Sales](https://www.salesforce.com/resources/research-reports/state-of-sales/) — High-performing teams 2.8x more likely to review strategy quarterly; 65-70% quota attainment benchmark (2024)
 3. [Gartner — Sales Strategy](https://www.gartner.com/en/sales) — Targeted account strategies outperform broad prospecting in enterprise cycles
-4. [Harvard Business Review — Customer-Centric Culture](https://hbr.org/2017/07/6-ways-to-build-a-customer-centric-culture) — Rep performance gaps are often preparation gaps, not talent gaps (2017)
+4. Harvard Business Review — Customer-Centric Culture — Rep performance gaps are often preparation gaps, not talent gaps (2017)

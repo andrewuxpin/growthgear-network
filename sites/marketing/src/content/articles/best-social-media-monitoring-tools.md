@@ -311,4 +311,4 @@ GrowthGear works with growing businesses to build marketing intelligence systems
 
 1. [Sprout Social 2024 Social Index](https://sproutsocial.com/insights/social-media-monitoring/) — "76% of consumers expect brands to respond to social media mentions within 24 hours" (2024)
 2. [Hootsuite Social Listening Guide](https://blog.hootsuite.com/social-media-monitoring/) — Real-time alerting is the most-cited purchasing reason for SMB monitoring tool buyers (2024)
-3. [HubSpot Social Media Monitoring](https://www.hubspot.com/social-media-monitoring) — Companies integrating social monitoring with CRM see 45% faster customer service response times (2024)
+3. HubSpot Social Media Monitoring — Companies integrating social monitoring with CRM see 45% faster customer service response times (2024)

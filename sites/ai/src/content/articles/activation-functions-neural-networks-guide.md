@@ -1,5 +1,5 @@
 ---
-title: "Activation Functions in Neural Networks: Complete Guide"
+title: "Activation Functions in Neural Networks:"
 description: "Activation functions control how neural networks learn. This guide covers ReLU, sigmoid, tanh, softmax, and how to choose the right function for your AI model."
 category: "deep-learning"
 author:

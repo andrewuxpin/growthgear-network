@@ -1,5 +1,5 @@
 ---
-title: "B2B Sales Pipeline: Build and Optimize for Growth"
+title: "B2B Sales Pipeline: Build and Optimize for"
 description: "Master your B2B sales pipeline with strategies for multi-stakeholder deals, faster velocity, and higher win rates. Practical guide for sales leaders and SDRs."
 category: "b2b-sales"
 author:
@@ -252,6 +252,6 @@ GrowthGear has helped 50+ B2B startups build sales pipelines that drive consiste
 
 1. [Salesforce State of Sales](https://www.salesforce.com/research/state-of-sales/) — Annual research on sales rep quota attainment, pipeline review practices, and high-performer habits (2024)
 2. [Gartner B2B Sales Research](https://www.gartner.com/en/sales) — "The typical B2B purchase involves 6 to 10 decision-makers" from The Challenger Customer research (2024)
-3. [HubSpot Sales Statistics](https://www.hubspot.com/sales-statistics) — B2B pipeline conversion benchmarks and multi-channel pipeline generation data (2024)
+3. HubSpot Sales Statistics — B2B pipeline conversion benchmarks and multi-channel pipeline generation data (2024)
 4. [LinkedIn Sales Solutions](https://business.linkedin.com/sales-solutions) — Research on B2B deal advancement rates with documented next steps and account-based prospecting outcomes (2024)
 5. [Harvard Business Review — Sales](https://hbr.org/topic/subject/sales) — Research on mutual action plans, sales cycle compression, and structured pipeline management practices (2023)

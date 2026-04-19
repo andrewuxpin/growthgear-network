@@ -1,5 +1,5 @@
 ---
-title: "How to Create a Content Marketing Plan That Works"
+title: "How to Create a Content Marketing Plan That"
 description: "Learn how to create a content marketing plan that drives traffic, leads, and growth. A proven step-by-step framework for marketing managers and growth leaders."
 category: "content-marketing"
 author:
@@ -283,4 +283,4 @@ GrowthGear has helped 50+ startups build content marketing engines that deliver 
 1. [Content Marketing Institute](https://contentmarketinginstitute.com/research/) — Annual B2B Content Marketing Report: documents strategy effectiveness by documentation status (2024)
 2. [HubSpot](https://www.hubspot.com/marketing-statistics) — Marketing Statistics Hub: companies publishing 16+ blog posts per month generate 4.5x more leads than those publishing 4 or fewer (2023)
 3. [Demand Gen Report](https://www.demandgenreport.com/resources/research/) — B2B Buyers Survey: 47% of B2B buyers consume 3-5 pieces of content before engaging a sales representative (2023)
-4. [Semrush](https://www.semrush.com/blog/content-marketing-strategy/) — State of Content Marketing Report: marketers with documented content strategies report significantly higher effectiveness rates (2024)
+4. Semrush — State of Content Marketing Report: marketers with documented content strategies report significantly higher effectiveness rates (2024)

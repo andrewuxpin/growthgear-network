@@ -1,5 +1,5 @@
 ---
-title: "Outreach Email: How to Write Emails That Get Replies"
+title: "Outreach Email: How to Write Emails That Get"
 description: "Learn how to write outreach emails that get replies. Proven subject lines, body copy frameworks, sequencing cadences, and performance metrics for B2B sales."
 category: "sales-techniques"
 author:
@@ -256,7 +256,7 @@ A high-performing outreach email programme is one of the fastest ways to fill yo
 
 ## Sources & References
 
-1. [HubSpot Sales Statistics](https://www.hubspot.com/sales-statistics) — Cold outreach email open rates average 24% across B2B industries; 64% of recipients decide whether to open based on the subject line alone (2024).
+1. HubSpot Sales Statistics — Cold outreach email open rates average 24% across B2B industries; 64% of recipients decide whether to open based on the subject line alone (2024).
 2. [Salesforce State of Sales](https://www.salesforce.com/research/state-of-sales/) — 80% of sales require at least five follow-up contacts; most reps abandon outreach after one or two emails (2024).
 3. [LinkedIn Sales Solutions](https://business.linkedin.com/sales-solutions) — Personalised outreach messages receive 3x more replies; multi-channel outreach drives 3x higher meeting-booking rates compared to email-only approaches (2024).
 4. [Harvard Business Review](https://hbr.org/topic/subject/sales) — Structured follow-up cadences and persistence in outreach are among the strongest predictors of B2B quota attainment (2023).

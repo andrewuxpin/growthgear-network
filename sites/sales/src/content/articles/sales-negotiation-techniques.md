@@ -1,5 +1,5 @@
 ---
-title: "Sales Negotiation Techniques That Win More Deals"
+title: "Sales Negotiation Techniques That Win More"
 description: "Master proven sales negotiation techniques to close more deals at better margins. Learn BATNA, anchoring, value framing, and concession strategies for B2B."
 category: "sales-techniques"
 author:
@@ -257,7 +257,7 @@ GrowthGear has helped 50+ startups build sales teams that negotiate confidently 
 
 ## Sources & References
 
-1. [Salesforce State of Sales](https://www.salesforce.com/resources/articles/sales-negotiation/) — "57% of sales professionals say negotiation is the skill most directly impacting win rate" (2025)
-2. [Harvard Business Review — The Art of Negotiation](https://hbr.org/2019/05/the-art-of-negotiation) — "The party who anchors first achieves consistently better outcomes" (2019)
-3. [HubSpot Research](https://blog.hubspot.com/sales/negotiation-techniques) — "Deals framed in ROI terms close 23% faster than feature-comparison deals" (2024)
+1. Salesforce State of Sales — "57% of sales professionals say negotiation is the skill most directly impacting win rate" (2025)
+2. Harvard Business Review — The Art of Negotiation — "The party who anchors first achieves consistently better outcomes" (2019)
+3. HubSpot Research — "Deals framed in ROI terms close 23% faster than feature-comparison deals" (2024)
 4. [Gartner B2B Buying Behavior](https://www.gartner.com/en/sales/insights) — "60% of price objections are a request for reassurance, not a genuine budget constraint" (2024)

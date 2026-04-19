@@ -42,7 +42,7 @@ callout:
 
 Organic SEO is the most cost-effective long-term marketing strategy for most businesses — and the most frequently misunderstood. While paid advertising delivers instant visibility, organic SEO builds something paid ads cannot: a compounding asset that generates traffic regardless of whether you're running a budget.
 
-According to [BrightEdge Research](https://videos.brightedge.com/research-report/BrightEdge_ChannelReport2019_FINAL.pdf), organic search drives 53% of all website traffic — more than paid search, social media, and email combined. Yet [Ahrefs data shows](https://ahrefs.com/blog/organic-traffic-study/) 90.63% of all web pages receive zero organic traffic from Google. The gap between those two statistics captures the entire challenge: most websites exist in search indexes but never earn meaningful rankings.
+According to [BrightEdge Research](https://videos.brightedge.com/research-report/BrightEdge_ChannelReport2019_FINAL.pdf), organic search drives 53% of all website traffic — more than paid search, social media, and email combined. Yet Ahrefs data shows 90.63% of all web pages receive zero organic traffic from Google. The gap between those two statistics captures the entire challenge: most websites exist in search indexes but never earn meaningful rankings.
 
 This guide covers the complete approach to building an organic SEO strategy that compounds — from the four foundational pillars through keyword research, content creation, link building, and performance measurement.
 
@@ -268,7 +268,7 @@ Whether you're building an organic SEO program from scratch or optimizing an est
 ## Sources & References
 
 1. [BrightEdge Channel Report](https://videos.brightedge.com/research-report/BrightEdge_ChannelReport2019_FINAL.pdf) — "Organic search drives 53% of all website traffic, vs. 15% from paid search." (2019)
-2. [Ahrefs Organic Traffic Study](https://ahrefs.com/blog/organic-traffic-study/) — "90.63% of all web pages receive zero organic traffic from Google." (2020)
+2. Ahrefs Organic Traffic Study — "90.63% of all web pages receive zero organic traffic from Google." (2020)
 3. [Moz Beginner's Guide to SEO](https://moz.com/beginners-guide-to-seo) — "Backlinks from authoritative domains are the single strongest off-page ranking signal." (2024)
 4. [Google Search Central: Creating Helpful Content](https://developers.google.com/search/docs/fundamentals/creating-helpful-content) — E-E-A-T guidelines for content quality evaluation and ranking. (2024)
 5. [HubSpot State of Marketing Report](https://www.hubspot.com/state-of-marketing) — Organic search conversion rates vs. social media traffic for B2B businesses. (2024)

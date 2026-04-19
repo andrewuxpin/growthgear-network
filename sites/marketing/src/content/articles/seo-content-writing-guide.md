@@ -1,5 +1,5 @@
 ---
-title: "SEO Content Writing: A Complete Guide to Ranking"
+title: "SEO Content Writing: A Complete Guide to"
 description: "Master SEO content writing: keyword research, on-page optimization, and structure techniques to rank higher in search and drive consistent organic traffic."
 category: "seo"
 author:
@@ -244,8 +244,8 @@ Whether you're writing your first optimized article or auditing an established b
 
 ## Sources & References
 
-1. [Ahrefs Organic Traffic Study](https://ahrefs.com/blog/organic-traffic-study/) — "90.63% of all pages get no organic traffic from Google" (2024)
+1. Ahrefs Organic Traffic Study — "90.63% of all pages get no organic traffic from Google" (2024)
 2. [BrightEdge Channel Report](https://videos.brightedge.com/research-report/BrightEdge_ChannelReport2019_FINAL.pdf) — "Organic search drives 53% of all website traffic" (2019)
-3. [HubSpot Historical Blog SEO](https://blog.hubspot.com/marketing/historical-blog-seo) — "Refreshed blog posts generate 106% more organic traffic than new posts in year one" (2023)
+3. HubSpot Historical Blog SEO — "Refreshed blog posts generate 106% more organic traffic than new posts in year one" (2023)
 4. [Moz Long-Tail SEO](https://moz.com/blog/long-tail-seo) — "Long-tail keywords account for 70% of all search queries" (2022)
 5. [Search Engine Journal Ranking Factors](https://www.searchenginejournal.com/ranking-factors/outbound-links/) — "Pages with outbound links to authoritative domains consistently rank higher" (2023)

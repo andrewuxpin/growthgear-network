@@ -84,7 +84,7 @@ A SMART campaign goal: *"Generate 250 qualified marketing leads from LinkedIn an
 
 The SMART version answers: What's the outcome? (250 MQLs) What channel? (LinkedIn + email) By when? (8 weeks) At what efficiency? ($80 CPL)
 
-[HubSpot's State of Marketing research](https://blog.hubspot.com/marketing/marketing-statistics) consistently finds that marketers with documented goals are more likely to report their campaigns as successful than those without them. Documentation forces the discipline of specificity.
+HubSpot's State of Marketing research consistently finds that marketers with documented goals are more likely to report their campaigns as successful than those without them. Documentation forces the discipline of specificity.
 
 Link your campaign goal to a business objective. "250 leads at $80 CPL" connects to revenue only if you know your lead-to-close rate and average contract value. If 10% of leads convert and each contract is worth $5,000, 250 leads yield $125,000 in pipeline — giving you a clear target to evaluate against spend.
 
@@ -96,7 +96,7 @@ Budget decisions follow goal decisions. A common professional framework is the *
 - **20%** to scaling something that's showing early results
 - **10%** to testing a new channel or format you haven't tried yet
 
-According to [Gartner's CMO Spend Survey](https://www.gartner.com/en/marketing/research/cmo-spend-survey), marketing budgets average approximately 9.1% of company revenue, with digital channels taking the majority share. For small and mid-market companies, digital often represents 60–70% of total marketing spend.
+According to Gartner's CMO Spend Survey, marketing budgets average approximately 9.1% of company revenue, with digital channels taking the majority share. For small and mid-market companies, digital often represents 60–70% of total marketing spend.
 
 When allocating across channels, start with customer acquisition cost benchmarks for your industry. If LinkedIn ads in your sector average $50–80 CPL and you need 100 leads, your minimum realistic LinkedIn budget is $5,000–$8,000. Budget backward from your goal, not forward from an arbitrary number.
 
@@ -257,8 +257,8 @@ Whether you're building your first digital marketing campaign from scratch or re
 
 ## Sources & References
 
-1. [HubSpot State of Marketing](https://blog.hubspot.com/marketing/marketing-statistics) — Research on goal-setting practices and marketing performance (2024)
-2. [Gartner CMO Spend Survey](https://www.gartner.com/en/marketing/research/cmo-spend-survey) — Marketing budgets average 9.1% of company revenue; digital channels take majority share (2023)
+1. HubSpot State of Marketing — Research on goal-setting practices and marketing performance (2024)
+2. Gartner CMO Spend Survey — Marketing budgets average 9.1% of company revenue; digital channels take majority share (2023)
 3. [Content Marketing Institute](https://contentmarketinginstitute.com/) — Integrated campaign + always-on content programs generate higher lifetime ROI (2024)
 4. [Litmus State of Email](https://www.litmus.com/resources/email-marketing-roi) — Email marketing delivers average ROI of $36 per $1 spent (2023)
-5. [Omnisend Marketing Automation Statistics](https://www.omnisend.com/blog/marketing-statistics/) — Multi-channel campaigns achieve up to 494% higher purchase rates than single-channel (2024)
+5. Omnisend Marketing Automation Statistics — Multi-channel campaigns achieve up to 494% higher purchase rates than single-channel (2024)

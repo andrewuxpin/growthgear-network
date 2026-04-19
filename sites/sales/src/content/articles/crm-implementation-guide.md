@@ -69,7 +69,7 @@ The phases overlap by design. Training shouldn't wait until technical setup is c
 
 ### Why CRM Implementations Fail
 
-According to [Harvard Business Review's research on CRM project outcomes](https://hbr.org/2018/07/why-crm-projects-fail-and-how-to-make-them-more-successful), failures most commonly trace back to four root causes:
+According to Harvard Business Review's research on CRM project outcomes, failures most commonly trace back to four root causes:
 
 - **Low user adoption** — reps revert to spreadsheets when the CRM adds friction instead of removing it
 - **Misaligned processes** — the CRM is configured around the software's defaults, not the team's actual sales motion
@@ -252,7 +252,7 @@ GrowthGear works with B2B sales teams to design and implement CRM systems that a
 
 ## Sources & References
 
-1. [Harvard Business Review](https://hbr.org/2018/07/why-crm-projects-fail-and-how-to-make-them-more-successful) — "Why CRM Projects Fail and How to Make Them More Successful" — documents CRM failure rates of 18–69%, attributing failures primarily to adoption, process, and data quality issues (2018)
+1. Harvard Business Review — "Why CRM Projects Fail and How to Make Them More Successful" — documents CRM failure rates of 18–69%, attributing failures primarily to adoption, process, and data quality issues (2018)
 2. [Salesforce State of Sales](https://www.salesforce.com/resources/research-reports/state-of-sales/) — Sales representatives spend only 28% of their working time actively selling; administrative tasks account for the remainder (2024)
-3. [Gartner CRM Research](https://www.gartner.com/en/information-technology/insights/crm-strategy) — Best practices for CRM strategy, selection, and enterprise adoption benchmarks
+3. Gartner CRM Research — Best practices for CRM strategy, selection, and enterprise adoption benchmarks
 4. [HubSpot CRM Platform](https://www.hubspot.com/products/crm) — CRM feature benchmarks and adoption data for SMB and mid-market sales teams

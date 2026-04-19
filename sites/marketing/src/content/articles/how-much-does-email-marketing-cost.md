@@ -1,5 +1,5 @@
 ---
-title: "How Much Does Email Marketing Cost? 2026 Guide"
+title: "How Much Does Email Marketing Cost? 2026"
 description: "Discover how much email marketing costs in 2026, from free tools to agency retainers. Get a full cost breakdown with ROI benchmarks for your budget."
 category: "content-marketing"
 author:
@@ -143,7 +143,7 @@ Most mid-tier platforms include drag-and-drop template builders that reduce desi
 
 ### List Management and Deliverability
 
-A clean list costs less to mail and earns better results. Per [Campaign Monitor's email marketing benchmarks](https://www.campaignmonitor.com/resources/benchmarks/), the average deliverability rate for well-maintained lists is 98%. Lists with bounce rates above 2% trigger ISP flags and damage future deliverability — the compounding cost of poor list hygiene is significant.
+A clean list costs less to mail and earns better results. Per Campaign Monitor's email marketing benchmarks, the average deliverability rate for well-maintained lists is 98%. Lists with bounce rates above 2% trigger ISP flags and damage future deliverability — the compounding cost of poor list hygiene is significant.
 
 Deliverability cost items to include:
 
@@ -279,6 +279,6 @@ GrowthGear has helped 50+ startups and growing businesses build email programs t
 
 1. [Litmus 2024 State of Email Report](https://www.litmus.com/resources/state-of-email/) — Email marketing delivers a median ROI of $36 for every $1 spent across measured industries. 2024.
 2. [HubSpot Marketing Statistics](https://www.hubspot.com/marketing-statistics) — 87% of B2B marketers use email as a primary distribution channel; 31% have a documented email strategy. 2024.
-3. [Campaign Monitor 2024 Email Marketing Benchmarks](https://www.campaignmonitor.com/resources/benchmarks/) — Industry average deliverability rate of 98% for well-maintained lists; open and click rate benchmarks by vertical. 2024.
+3. Campaign Monitor 2024 Email Marketing Benchmarks — Industry average deliverability rate of 98% for well-maintained lists; open and click rate benchmarks by vertical. 2024.
 4. [Statista: Email Marketing Market Data](https://www.statista.com/topics/1446/e-mail-marketing/) — Global email marketing market projected to reach $17.9 billion by 2027. 2024.
 5. [Content Marketing Institute](https://contentmarketinginstitute.com/) — Email newsletters consistently rank among the highest-ROI content marketing formats when combined with consistent scheduling. 2024.

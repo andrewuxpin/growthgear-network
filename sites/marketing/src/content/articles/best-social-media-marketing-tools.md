@@ -304,7 +304,7 @@ The right social media marketing tools don't replace a solid strategy — they e
 
 ## Sources & References
 
-1. [GWI Global Digital Trends Report 2024](https://www.gwi.com/reports/digital-trends) — "Average person spends 2 hours 23 minutes per day on social platforms globally" (2024)
+1. GWI Global Digital Trends Report 2024 — "Average person spends 2 hours 23 minutes per day on social platforms globally" (2024)
 2. [HubSpot State of Marketing Report 2025](https://www.hubspot.com/state-of-marketing) — "Short-form video delivers the highest ROI of any content format for the third consecutive year" (2025)
 3. [Sprout Social Platform Data 2025](https://sproutsocial.com/insights/) — "Teams using Sprout's reporting suite reduce monthly social performance reporting time by an average of 60% vs. manual compilation" (2025)
 4. [Hootsuite Digital Trends Report 2025](https://www.hootsuite.com/research/social-trends) — Social media usage patterns and platform advertising benchmarks by industry (2025)

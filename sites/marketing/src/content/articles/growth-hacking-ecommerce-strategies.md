@@ -1,5 +1,5 @@
 ---
-title: "Growth Hacking for Ecommerce: 8 Proven Strategies"
+title: "Growth Hacking for Ecommerce: 8 Proven"
 description: "Discover 8 proven growth hacking strategies for ecommerce that drive rapid customer acquisition, retention, and revenue expansion without large ad budgets."
 category: "content-marketing"
 author:
@@ -250,7 +250,7 @@ GrowthGear has helped 50+ ecommerce and DTC brands build growth engines that del
 
 ## Sources & References
 
-1. [McKinsey & Company](https://www.mckinsey.com/capabilities/growth-marketing-and-sales) — "Companies that systematically test and iterate marketing experiments grow 2.3x faster" (2023 Growth Report)
+1. McKinsey & Company — "Companies that systematically test and iterate marketing experiments grow 2.3x faster" (2023 Growth Report)
 2. [Adobe Digital Economy Index](https://business.adobe.com/resources/digital-economy-index.html) — "Over 60% of ecommerce revenue comes from repeat customers" (2022)
 3. [Klaviyo Ecommerce Benchmark Report](https://www.klaviyo.com/resources/benchmark-report) — "Abandoned cart sequences recover an average of 15% of lost revenue" (2023)
 4. [Nielsen Trust in Advertising Report](https://www.nielsen.com/insights/2022/trust-and-advertising/) — "92% of consumers trust peer recommendations over other advertising" (2022)

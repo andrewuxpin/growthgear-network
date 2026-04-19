@@ -117,7 +117,7 @@ For most B2B companies, 2–3 personas are sufficient and manageable. For B2C br
 
 ### Allocating Your Budget Across Channels
 
-[Gartner's 2023 CMO Spend Survey](https://www.gartner.com/en/marketing/research/cmo-spend-survey) found that marketing budgets average 9.1% of company revenue across industries, with digital channels now taking the majority of that allocation. Early-stage startups in competitive markets often invest 15–20% of revenue to accelerate market share gains.
+Gartner's 2023 CMO Spend Survey found that marketing budgets average 9.1% of company revenue across industries, with digital channels now taking the majority of that allocation. Early-stage startups in competitive markets often invest 15–20% of revenue to accelerate market share gains.
 
 The 70/20/10 allocation model provides a sensible starting framework:
 
@@ -218,7 +218,7 @@ Before your plan launches, confirm these four elements are in place:
 3. **Channel-level reporting dashboards** — so channel owners can check their KPIs without needing data engineering support
 4. **A documented baseline snapshot** — current performance across all tracked KPIs, taken before any plan changes take effect, so you have a clean before/after comparison for each initiative
 
-[McKinsey research](https://www.mckinsey.com/capabilities/growth-marketing-and-sales) shows that data-driven marketing organizations achieve 20–30% greater efficiency in marketing spend compared to organizations making intuitive channel decisions. The gap isn't analytical sophistication — it's simply the discipline of setting baselines and reviewing performance against them.
+McKinsey research shows that data-driven marketing organizations achieve 20–30% greater efficiency in marketing spend compared to organizations making intuitive channel decisions. The gap isn't analytical sophistication — it's simply the discipline of setting baselines and reviewing performance against them.
 
 ### The Monthly Review Cycle
 
@@ -272,9 +272,9 @@ This feedback loop is the mechanism that graduates marketing plans from "activit
 ## Sources & References
 
 1. [Content Marketing Institute — 2024 B2B Content Marketing Report](https://contentmarketinginstitute.com/research/) — "73% of B2B marketers actively use content marketing; fewer than 40% have a documented plan" (2024)
-2. [Gartner CMO Spend Survey 2023](https://www.gartner.com/en/marketing/research/cmo-spend-survey) — "Marketing budgets average 9.1% of company revenue across industries" (2023)
+2. Gartner CMO Spend Survey 2023 — "Marketing budgets average 9.1% of company revenue across industries" (2023)
 3. [CoSchedule Marketer Happiness Report](https://coschedule.com/marketing-statistics) — "Marketers who set goals are 376% more likely to report success"
-4. [McKinsey — Growth Marketing and Sales Research](https://www.mckinsey.com/capabilities/growth-marketing-and-sales) — "Data-driven marketing organizations achieve 20–30% greater efficiency in spend"
+4. McKinsey — Growth Marketing and Sales Research — "Data-driven marketing organizations achieve 20–30% greater efficiency in spend"
 5. [Salesforce State of Sales Report](https://www.salesforce.com/resources/research-reports/state-of-sales/) — "Aligned sales and marketing teams achieve 36% higher customer retention and 38% higher win rates"
 
 ---

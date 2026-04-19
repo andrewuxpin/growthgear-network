@@ -1,5 +1,5 @@
 ---
-title: "Data Science vs Data Analytics: Key Differences"
+title: "Data Science vs Data Analytics: Key"
 description: "Data science vs data analytics: understand the key differences in roles, skills, tools, and salaries — and learn which hire your business actually needs first."
 category: "machine-learning"
 author:
@@ -158,7 +158,7 @@ Australian salaries are typically 20–30% below US benchmarks in base compensat
 
 McKinsey Global Institute research shows that data-driven organizations are 23 times more likely to acquire new customers, 6 times more likely to retain them, and 19 times more likely to be profitable than competitors who rely on intuition ([McKinsey, Analytics Comes of Age, 2018](https://www.mckinsey.com/capabilities/quantumblack/our-insights/analytics-comes-of-age)). That commercial imperative sustains demand at both analyst and scientist levels.
 
-The nuance: entry-level data science is competitive. Senior and specialist roles — particularly MLOps engineers, causal inference specialists, and domain experts in healthcare, finance, and supply chain — remain genuinely scarce. IBM's [2022 Global AI Adoption Index](https://newsroom.ibm.com/2022-01-12-IBM-Global-AI-Adoption-Index-2022-Suggests-Growing-Business-Investment-in-AI) found that 35% of companies cited hiring challenges as their primary barrier to AI implementation.
+The nuance: entry-level data science is competitive. Senior and specialist roles — particularly MLOps engineers, causal inference specialists, and domain experts in healthcare, finance, and supply chain — remain genuinely scarce. IBM's 2022 Global AI Adoption Index found that 35% of companies cited hiring challenges as their primary barrier to AI implementation.
 
 > **Ready to build your data team?** GrowthGear has helped 50+ startups and scale-ups structure analytics and data science functions that deliver measurable ROI. [Book a Free Strategy Session](https://growthgear.com.au) to discuss your data roadmap.
 
@@ -253,4 +253,4 @@ Deciding between a data analyst and a data scientist — or figuring out when to
 
 1. [US Bureau of Labor Statistics — Occupational Outlook: Data Scientists](https://www.bls.gov/ooh/math/data-scientists.htm) — Median annual wage $108,020 (May 2023); 35% projected job growth through 2033 (2024)
 2. [McKinsey Global Institute — "Analytics Comes of Age"](https://www.mckinsey.com/capabilities/quantumblack/our-insights/analytics-comes-of-age) — Data-driven organizations are 23× more likely to acquire customers, 6× to retain them, and 19× more likely to be profitable (2018)
-3. [IBM — Global AI Adoption Index 2022](https://newsroom.ibm.com/2022-01-12-IBM-Global-AI-Adoption-Index-2022-Suggests-Growing-Business-Investment-in-AI) — 35% of companies cited hiring challenges as the primary barrier to AI implementation (2022)
+3. IBM — Global AI Adoption Index 2022 — 35% of companies cited hiring challenges as the primary barrier to AI implementation (2022)

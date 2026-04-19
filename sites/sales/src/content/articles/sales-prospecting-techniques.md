@@ -1,5 +1,5 @@
 ---
-title: "Sales Prospecting Techniques That Fill Your Pipeline"
+title: "Sales Prospecting Techniques That Fill Your"
 description: "Master sales prospecting techniques to build a full pipeline. Learn 6 proven outreach strategies, cadence frameworks, and key metrics for SDRs and AEs."
 category: "sales-techniques"
 author:
@@ -279,7 +279,7 @@ Building a consistent pipeline requires more than effort — it requires the rig
 
 ## Sources & References
 
-1. [HubSpot State of Sales Report 2024](https://www.hubspot.com/state-of-sales) — "40% of salespeople identify prospecting as the hardest part of their job" (2024)
+1. HubSpot State of Sales Report 2024 — "40% of salespeople identify prospecting as the hardest part of their job" (2024)
 2. [LinkedIn State of Sales Report 2024](https://business.linkedin.com/sales-solutions/b2b-sales-strategy-guides/the-state-of-sales-report) — "Social sellers are 51% more likely to reach quota than peers who don't use social selling" (2024)
 3. [Salesforce State of Sales 2024](https://www.salesforce.com/resources/research-reports/state-of-sales/) — "Referrals close at 30-50% versus 5-15% for cold outbound; sales reps spend only 28% of their time actually selling" (2024)
 4. [Gartner Sales Enablement Research](https://www.gartner.com/en/sales) — "Converting a cold prospect to a first meeting requires 15-18 touchpoints on average" (via TOPO, now Gartner) (2023)

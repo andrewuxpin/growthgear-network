@@ -1,5 +1,5 @@
 ---
-title: "Best Digital Marketing Resources for Marketers"
+title: "Best Digital Marketing Resources for"
 description: "Discover the best digital marketing resources for 2026: top blogs, certifications, books, podcasts, and tools that working marketers rely on to stay sharp."
 category: "content-marketing"
 author:
@@ -220,5 +220,5 @@ GrowthGear works with marketing teams at every stage, from building their first 
 1. [LinkedIn Learning 2024 Workplace Learning Report](https://learning.linkedin.com/resources/workplace-learning-report) — "Professionals who learn 5+ hours per week are 47% more likely to be promoted" (2024)
 2. [HubSpot Academy](https://academy.hubspot.com) — "300,000+ marketers earn HubSpot certifications annually" (2024)
 3. [Content Marketing Institute B2B Content Marketing Report](https://contentmarketinginstitute.com/research/) — Annual benchmark data on content investment and performance cited throughout (2024)
-4. [Coursera Career Outcomes Report](https://www.coursera.org/professional-certificates/google-digital-marketing) — Google and Meta certificates appear on 200,000+ LinkedIn profiles (2024)
+4. Coursera Career Outcomes Report — Google and Meta certificates appear on 200,000+ LinkedIn profiles (2024)
 5. [SEMrush Academy](https://www.semrush.com/academy/) — 12 free SEO and digital marketing courses and certifications (2024)

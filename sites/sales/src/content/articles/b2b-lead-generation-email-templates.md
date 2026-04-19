@@ -1,5 +1,5 @@
 ---
-title: "B2B Lead Generation Email Templates That Get Replies"
+title: "B2B Lead Generation Email Templates That Get"
 description: "Proven B2B lead generation email templates for cold outreach, follow-ups, and re-engagement. Copy-paste frameworks that get replies from decision-makers."
 category: "sales-techniques"
 author:
@@ -375,7 +375,7 @@ Building a high-performing B2B lead generation email system takes the right temp
 
 ## Sources & References
 
-1. [HubSpot Sales Statistics](https://blog.hubspot.com/sales/cold-email-stats) — Cold email reply rates average 1-5% without personalization; personalized sequences achieve 8-15% (2024)
+1. HubSpot Sales Statistics — Cold email reply rates average 1-5% without personalization; personalized sequences achieve 8-15% (2024)
 2. [Salesforce State of Sales](https://www.salesforce.com/resources/research-reports/state-of-sales/) — Most B2B prospects require 6-8 meaningful touchpoints before engaging; 33% of sales professionals identify cold email as their most effective outreach channel (2024)
 3. [LinkedIn Sales Solutions](https://business.linkedin.com/sales-solutions/b2b-sales-strategy-guides) — Sales professionals who reference trigger events in opening lines achieve reply rates 40% higher than generic approaches (2024)
 4. [Gartner B2B Buying Journey](https://www.gartner.com/en/sales/insights/b2b-buying-journey) — 77% of B2B buyers describe their most recent purchase as "very complex or difficult" (2023)

@@ -1,5 +1,5 @@
 ---
-title: "Marketing Fundamentals: Core Principles for Growth"
+title: "Marketing Fundamentals: Core Principles for"
 description: "Master marketing fundamentals with this actionable guide. Learn the 4 Ps, channel strategy, key metrics, and the costly mistakes that stall business growth."
 category: "content-marketing"
 author:
@@ -255,6 +255,6 @@ A sound marketing strategy doesn't happen by accident. Whether you're establishi
 
 1. [HubSpot Research: State of Marketing](https://research.hubspot.com) — "Campaigns with well-defined buyer personas generate 73% higher conversion rates than generic outreach." (2024)
 2. [Content Marketing Institute: B2B Content Marketing Report](https://contentmarketinginstitute.com/research/) — "Content marketing generates 3x the leads of paid advertising at 62% lower cost." (2024)
-3. [McKinsey: The Growth Triple Play](https://www.mckinsey.com/capabilities/growth-marketing-and-sales/our-insights) — "Companies with strong foundational marketing capabilities outperform peers by 2-3x on marketing ROI." (2024)
+3. McKinsey: The Growth Triple Play — "Companies with strong foundational marketing capabilities outperform peers by 2-3x on marketing ROI." (2024)
 4. [Gartner: B2B Buying Behavior Research](https://www.gartner.com/en/marketing/insights) — "Pricing strategy affects brand perception in 68% of B2B purchase decisions." (2024)
 5. [Salesforce: State of Marketing Report](https://www.salesforce.com/resources/research-reports/state-of-marketing/) — "84% of customers say the experience a company provides is as important as its products." (2024)

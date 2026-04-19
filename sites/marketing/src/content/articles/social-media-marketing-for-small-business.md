@@ -1,5 +1,5 @@
 ---
-title: "Social Media Marketing for Small Business Guide"
+title: "Social Media Marketing for Small Business"
 description: "Discover proven social media marketing strategies for small businesses. Learn platform selection, content creation, and ROI measurement to drive real growth."
 category: "social-media"
 author:
@@ -190,7 +190,7 @@ The most time-efficient small business content strategy is **repurposing**: crea
 - Two to three Instagram Stories with a poll or question sticker
 - An email newsletter section
 
-This approach means your best ideas get maximum distribution without requiring you to create original content from scratch every day. According to [Buffer's State of Social Media Report](https://buffer.com/state-of-social), businesses that consistently repurpose content across formats generate 60% more impressions from the same creative budget.
+This approach means your best ideas get maximum distribution without requiring you to create original content from scratch every day. According to Buffer's State of Social Media Report, businesses that consistently repurpose content across formats generate 60% more impressions from the same creative budget.
 
 ---
 
@@ -267,4 +267,4 @@ GrowthGear has helped 50+ startups build social media and marketing systems that
 1. [Sprout Social 2024 Social Media Index](https://sproutsocial.com/insights/social-media-statistics/) — "55% of consumers discover new brands through social media" and "small businesses running monthly strategy reviews see 40% higher engagement growth" (2024)
 2. [HubSpot Marketing Statistics](https://blog.hubspot.com/marketing/social-media-marketing) — "LinkedIn generates 277% more leads per visitor than Facebook for B2B companies" (2024)
 3. [Content Marketing Institute](https://contentmarketinginstitute.com/) — Educational and entertaining content outperforms promotional content 3-to-1 in organic reach (2024)
-4. [Buffer State of Social Media Report](https://buffer.com/state-of-social) — "Businesses that consistently repurpose content across formats generate 60% more impressions from the same creative budget" (2024)
+4. Buffer State of Social Media Report — "Businesses that consistently repurpose content across formats generate 60% more impressions from the same creative budget" (2024)

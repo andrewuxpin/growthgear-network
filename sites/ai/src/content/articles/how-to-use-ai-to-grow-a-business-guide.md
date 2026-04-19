@@ -1,5 +1,5 @@
 ---
-title: "How to Use AI to Grow Your Business: Practical Guide"
+title: "How to Use AI to Grow Your Business: Practical"
 description: "Learn how to use AI to grow your business with proven strategies for marketing, sales, and operations. Practical AI growth stack guide for founders and CTOs."
 category: "ai-tools"
 author:
@@ -51,7 +51,7 @@ For the full implementation framework, the [how to implement AI in business guid
 
 AI doesn't replace your strategy—it executes it faster. For established businesses, the growth lever isn't AI itself; it's the compounding effect of AI on your highest-ROI activities. A team of five using AI tools effectively can produce the output of a team of fifteen, without the overhead or coordination cost.
 
-According to McKinsey's [State of AI in 2023](https://www.mckinsey.com/capabilities/quantumblack/our-insights/the-state-of-ai-in-2023-generative-ais-breakout-year), 79% of respondents who have been exposed to generative AI have already used it in their work. Your competitors are not waiting to figure out AI—they're iterating on it now.
+According to McKinsey's State of AI in 2023, 79% of respondents who have been exposed to generative AI have already used it in their work. Your competitors are not waiting to figure out AI—they're iterating on it now.
 
 ### The Business Case for AI Growth Investment
 
@@ -244,7 +244,7 @@ Using AI to grow your business doesn't require a large budget or a technical tea
 
 ## Sources & References
 
-1. [McKinsey & Company — The State of AI in 2023: Generative AI's Breakout Year](https://www.mckinsey.com/capabilities/quantumblack/our-insights/the-state-of-ai-in-2023-generative-ais-breakout-year) — "79% of respondents who have been exposed to generative AI have used it in their work" (2023)
+1. McKinsey & Company — The State of AI in 2023: Generative AI's Breakout Year — "79% of respondents who have been exposed to generative AI have used it in their work" (2023)
 2. [Stanford HAI — Artificial Intelligence Index Report 2024](https://aiindex.stanford.edu/report/) — Documents accelerating enterprise AI adoption and widening performance gap between AI adopters and non-adopters (2024)
 3. [Salesforce — State of Sales, 5th Edition](https://www.salesforce.com/resources/research-reports/state-of-sales/) — "High-performing sales teams are 4.9x more likely to use AI tools than underperforming teams" (2023)
 4. [Gartner — More Than 80% of Enterprises Will Have Used Generative AI by 2026](https://www.gartner.com/en/newsroom/press-releases/2023-10-11-gartner-says-more-than-80-percent-of-enterprises-will-have-used-generative-ai-apis-or-deployed-generative-ai-enabled-applications-by-2026) — Forecasts for enterprise AI adoption and deployment timelines (2023)

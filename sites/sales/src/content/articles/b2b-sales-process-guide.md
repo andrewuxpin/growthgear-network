@@ -1,5 +1,5 @@
 ---
-title: "B2B Sales Process: 7 Steps to Close More Deals"
+title: "B2B Sales Process: 7 Steps to Close More"
 description: "Master the B2B sales process with a proven 7-step framework. Discover how top-performing B2B sales teams prospect, qualify, and close complex deals at scale."
 category: "b2b-sales"
 author:
@@ -223,4 +223,4 @@ A high-performing B2B sales process doesn't happen by accident. It requires docu
 1. [Salesforce State of Sales Report](https://www.salesforce.com/resources/articles/sales-process/) — "The average B2B sales cycle is 84 days; teams with a defined sales process close significantly more deals." (2024)
 2. [HubSpot Sales Statistics](https://blog.hubspot.com/sales/sales-process) — "Sales teams with a defined process close 33% more deals than those without one." (2024)
 3. [Gartner B2B Buying Journey Research](https://www.gartner.com/en/sales/insights/b2b-buying-journey) — "The typical B2B buying group includes 6–10 stakeholders involved in a purchase decision." (2023)
-4. [Harvard Business Review — The Elements of Value](https://hbr.org/2018/01/the-elements-of-value) — "B2B buyers prioritize functional value (time saved, costs reduced) over all other value dimensions." (2018)
+4. Harvard Business Review — The Elements of Value — "B2B buyers prioritize functional value (time saved, costs reduced) over all other value dimensions." (2018)

@@ -36,6 +36,7 @@ const articleUrl = `${siteConfig.seo.siteUrl}/${data.category}/${article.slug}`;
 const seo: SEOData = {
   title: `${data.title} | ${site.name}`,
   description: data.description,
+  canonical: articleUrl,
   type: "article",
   image: data.image?.src,
   publishedTime: data.publishedAt.toISOString(),

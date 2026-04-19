@@ -1,5 +1,5 @@
 ---
-title: "How to Analyze Competitor Email Marketing Strategies"
+title: "How to Analyze Competitor Email Marketing"
 description: "Learn how to research competitor email marketing using free tools, key metrics, and proven frameworks to sharpen your strategy and boost email results."
 category: "content-marketing"
 author:
@@ -189,7 +189,7 @@ For open rate benchmarking, cross-reference your rates against Mailchimp's indus
 
 The most actionable competitive intelligence lives in consistent gaps across the competitive landscape. Common patterns found in competitor email audits:
 
-**No re-engagement sequences**: Most brands acknowledge inactive subscribers exist but never build systematic reactivation campaigns. According to Campaign Monitor's [email segmentation research](https://www.campaignmonitor.com/resources/knowledge-base/why-is-list-segmentation-important), segmented and behavioral campaigns generate up to 760% more revenue than unsegmented broadcast sends. If your competitors aren't running re-engagement flows, a 60-90 day reactivation series can recover 15-25% of lapsed contacts — often at a lower CAC than acquiring new ones.
+**No re-engagement sequences**: Most brands acknowledge inactive subscribers exist but never build systematic reactivation campaigns. According to Campaign Monitor's email segmentation research, segmented and behavioral campaigns generate up to 760% more revenue than unsegmented broadcast sends. If your competitors aren't running re-engagement flows, a 60-90 day reactivation series can recover 15-25% of lapsed contacts — often at a lower CAC than acquiring new ones.
 
 **Over-reliance on urgency and discounts**: Brands that consistently email with countdown timers and last-chance language train their lists to wait for sales. This erodes perceived value over time and inflates unsubscribe rates. A content-first approach that builds [long-term inbound value](/content-marketing/how-email-marketing-fuels-inbound-strategy) differentiates you structurally, not just tactically.
 
@@ -242,6 +242,6 @@ Whether you're starting your first competitive monitoring program or systematizi
 
 1. [Mailchimp Email Marketing Benchmarks](https://mailchimp.com/resources/email-marketing-benchmarks/) — Industry average email open rates by category, ranging from 14% to 35% (2024)
 2. [HubSpot Email Marketing Statistics](https://blog.hubspot.com/marketing/email-marketing-stats) — Tuesday and Wednesday best send days for B2B; 10am–11am peak open window (2023)
-3. [Campaign Monitor — Email Segmentation](https://www.campaignmonitor.com/resources/knowledge-base/why-is-list-segmentation-important) — Segmented campaigns generate up to 760% more revenue than non-segmented sends (2023)
+3. Campaign Monitor — Email Segmentation — Segmented campaigns generate up to 760% more revenue than non-segmented sends (2023)
 4. [Litmus State of Email Marketing](https://www.litmus.com/blog/email-marketing-statistics) — Triggered and behavioral emails generate 4x–8x higher open rates than broadcast campaigns (2023)
 5. [Really Good Emails](https://reallygoodemails.com) — Curated library of 10,000+ email campaign examples searchable by brand and type

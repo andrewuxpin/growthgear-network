@@ -61,7 +61,7 @@ Make.com targets three distinct user types:
 - **Technical non-developers** who need data transformation, conditional routing, and API access without writing production code
 - **AI builders** connecting LLM APIs into business workflows — classifying customer emails, generating content, scoring leads — without backend infrastructure
 
-According to Gartner's [2025 Business Automation Market Analysis](https://www.gartner.com/en/information-technology/insights/automation), over 50% of enterprise automation buyers now evaluate multi-step data handling as a primary purchase criterion — the exact capability where Make.com differentiates from simpler tools.
+According to Gartner's 2025 Business Automation Market Analysis, over 50% of enterprise automation buyers now evaluate multi-step data handling as a primary purchase criterion — the exact capability where Make.com differentiates from simpler tools.
 
 ## How Make.com Automation Works
 
@@ -262,5 +262,5 @@ Make.com gives business teams a practical path to automating routine work withou
 
 1. [Make.com Pricing](https://www.make.com/en/pricing) — Official plan tiers, operation limits, and pricing for Core, Pro, Teams, and Enterprise plans (2026)
 2. [McKinsey: The Economic Potential of Generative AI](https://www.mckinsey.com/capabilities/mckinsey-digital/our-insights/the-economic-potential-of-generative-ai) — Companies systematically automating routine workflows recover 20-40% of employee time for higher-value work
-3. [Gartner: Business Automation Market Analysis](https://www.gartner.com/en/information-technology/insights/automation) — Over 50% of enterprise automation buyers evaluate multi-step data handling as a primary purchase criterion (2025)
+3. Gartner: Business Automation Market Analysis — Over 50% of enterprise automation buyers evaluate multi-step data handling as a primary purchase criterion (2025)
 4. [n8n Pricing](https://n8n.io/pricing) — n8n Cloud plan tiers used for competitive pricing comparison in this guide (2025)

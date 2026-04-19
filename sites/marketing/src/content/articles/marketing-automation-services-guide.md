@@ -1,5 +1,5 @@
 ---
-title: "Marketing Automation Services: Complete Guide"
+title: "Marketing Automation Services: Complete"
 description: "Learn what marketing automation services are, the key types available, how to evaluate providers, and what pricing to expect. A practical buyer's guide."
 category: "content-marketing"
 author:
@@ -77,7 +77,7 @@ Marketing automation services cover five major functional areas. Most providers 
 
 ### Email Automation Services
 
-Email automation is the highest-ROI category in marketing automation. According to [Litmus research](https://www.litmus.com/blog/roi-of-email-marketing), email returns $36 for every $1 spent — and automation multiplies that return by ensuring every lead receives the right message at the right time without manual intervention.
+Email automation is the highest-ROI category in marketing automation. According to Litmus research, email returns $36 for every $1 spent — and automation multiplies that return by ensuring every lead receives the right message at the right time without manual intervention.
 
 Core email automation services include:
 

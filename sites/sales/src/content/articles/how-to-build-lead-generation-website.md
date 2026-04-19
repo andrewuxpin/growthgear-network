@@ -1,5 +1,5 @@
 ---
-title: "How to Build a Lead Generation Website That Converts"
+title: "How to Build a Lead Generation Website That"
 description: "Learn how to build a lead generation website that captures B2B leads 24/7. Covers essential pages, conversion tactics, traffic strategies, and key KPIs."
 category: "sales-techniques"
 author:
@@ -255,7 +255,7 @@ The best-performing lead generation websites follow a consistent monthly optimiz
 4. **Test**: Launch an A/B test with clean control/variant split
 5. **Implement**: Roll out winning variants; document the learning
 
-Teams that maintain this cycle consistently achieve 15-25% conversion rate improvements per quarter according to [Salesforce State of Sales data](https://www.salesforce.com/blog/b2b-buyer-journey/). Those that test sporadically see gains of 2-5% annually.
+Teams that maintain this cycle consistently achieve 15-25% conversion rate improvements per quarter according to Salesforce State of Sales data. Those that test sporadically see gains of 2-5% annually.
 
 For a comprehensive view of how your lead gen website integrates into your overall demand generation strategy, the [high-converting sales funnels guide](https://marketing.growthgear.com.au/content-marketing/how-to-create-high-converting-sales-funnels-complete-guide) covers the full buyer journey architecture.
 
@@ -288,8 +288,8 @@ GrowthGear has helped 50+ B2B startups build lead generation systems that delive
 
 ## Sources & References
 
-1. [HubSpot — The Ultimate Guide to Lead Generation](https://blog.hubspot.com/marketing/lead-generation) — "Companies with dedicated lead generation websites generate 3x more leads per month than those without." (2025)
-2. [Salesforce — State of Sales Report](https://www.salesforce.com/blog/b2b-buyer-journey/) — "68% of B2B buyers conduct independent online research before contacting a vendor." (2024)
-3. [Unbounce — Landing Page Conversion Rate Benchmarks](https://unbounce.com/landing-pages/landing-page-forms/) — "Reducing form fields from 7 to 3 increases form submission rates by up to 120%." (2024)
+1. HubSpot — The Ultimate Guide to Lead Generation — "Companies with dedicated lead generation websites generate 3x more leads per month than those without." (2025)
+2. Salesforce — State of Sales Report — "68% of B2B buyers conduct independent online research before contacting a vendor." (2024)
+3. Unbounce — Landing Page Conversion Rate Benchmarks — "Reducing form fields from 7 to 3 increases form submission rates by up to 120%." (2024)
 4. [Demand Gen Report — B2B Demand Generation Benchmark Study](https://www.demandgenreport.com/) — "Purpose-built B2B lead generation sites convert at 2-5% of total visitors." (2024)
 5. [Gartner — B2B Buyer Journey Research](https://www.gartner.com/en/sales/insights/b2b-buying-journey) — "B2B buyers conduct an average of 27 interactions with a vendor before speaking to sales." (2024)

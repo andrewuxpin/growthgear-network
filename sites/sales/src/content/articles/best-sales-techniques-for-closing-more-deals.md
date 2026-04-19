@@ -110,7 +110,7 @@ LinkedIn Sales Navigator data shows personalized AIDA-structured messages get 3x
 
 Buyers trust other buyers more than they trust salespeople. Social proof — deployed at the right moment — can do more work than 30 minutes of feature presentation. The key is specificity: a case study from a company in the same industry, same size, and facing the same problem is dramatically more persuasive than a generic success story.
 
-According to [Salesforce's State of Sales report](https://www.salesforce.com/resources/articles/sales-techniques/), 82% of B2B buyers check vendor reputation and customer reviews before engaging with a sales rep. Having specific, named case studies available shortens sales cycles by reducing risk perception.
+According to Salesforce's State of Sales report, 82% of B2B buyers check vendor reputation and customer reviews before engaging with a sales rep. Having specific, named case studies available shortens sales cycles by reducing risk perception.
 
 > **Pro tip:** Prepare 3-5 hyper-specific case studies organized by industry, company size, and problem type. Present the one that matches the buyer's profile most closely, not the one with the biggest headline number.
 
@@ -249,7 +249,7 @@ Building a high-performing sales engine takes the right techniques, consistent c
 ## Sources & References
 
 1. [HubSpot Sales Blog](https://blog.hubspot.com/sales/sales-techniques) — "Reps who ask 11-14 discovery questions per call close 74% more deals than those who ask fewer than 7." (2025)
-2. [Salesforce State of Sales](https://www.salesforce.com/resources/articles/sales-techniques/) — "82% of B2B buyers check vendor reputation and customer reviews before engaging with a sales rep." (2025)
+2. Salesforce State of Sales — "82% of B2B buyers check vendor reputation and customer reviews before engaging with a sales rep." (2025)
 3. [Gartner Sales Research](https://www.gartner.com/en/sales) — "B2B buyers spend only 17% of their total buying journey meeting with potential suppliers." (2025)
 4. [Harvard Business Review](https://hbr.org/topic/sales) — "Risk reduction is the most powerful buying motivator in enterprise deals." (2024)
 5. [LinkedIn Sales Solutions](https://www.linkedin.com/business/sales/blog) — "Social sellers create 45% more opportunities and are 51% more likely to hit quota than peers." (2025)

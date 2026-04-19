@@ -1,5 +1,5 @@
 ---
-title: "How to Generate Leads for B2B Sales: Proven Methods"
+title: "How to Generate Leads for B2B Sales: Proven"
 description: "Learn proven strategies to generate B2B sales leads, from cold email to inbound content. Includes qualification frameworks, tools, and key performance metrics."
 category: "sales-techniques"
 author:
@@ -158,7 +158,7 @@ One of the most persistent sources of friction between marketing and sales teams
 
 An **MQL** has met a behavioral or demographic threshold that makes them worth a sales follow-up — but they haven't been contacted by sales yet. An **SQL** has been reviewed by a sales rep, who has confirmed they meet basic qualification criteria and there is a plausible sales opportunity.
 
-The handoff SLA matters as much as the definition. According to [HubSpot research](https://blog.hubspot.com/marketing/lead-generation), leads contacted within 5 minutes of converting are 21x more likely to enter the sales process than those contacted after 30 minutes. Build your routing rules and CRM workflows to enforce this SLA automatically.
+The handoff SLA matters as much as the definition. According to HubSpot research, leads contacted within 5 minutes of converting are 21x more likely to enter the sales process than those contacted after 30 minutes. Build your routing rules and CRM workflows to enforce this SLA automatically.
 
 For a complete system for managing leads once they're in pipeline, the [lead engagement strategies guide](/sales-techniques/lead-engagement-strategies-guide) covers the nurture sequences and follow-up cadences that keep deals moving.
 
@@ -262,5 +262,5 @@ Building a consistent B2B lead generation engine takes a deliberate system — t
 1. [HubSpot 2024 State of Sales Report](https://www.hubspot.com/marketing-statistics) — "Sales reps spend an average of 21% of their day actually selling; the rest is consumed by admin and prospecting." (2024)
 2. [Salesforce State of Sales 2024](https://www.salesforce.com/research/state-of-sales/) — "High-performing sales teams use an average of 3.7 lead generation channels, vs 1.9 for underperformers." (2024)
 3. [Forrester Research — Lead Management Report](https://www.demandgenreport.com/) — "Companies with strong lead management generate 50% more sales-ready leads at 33% lower cost." (2023)
-4. [HubSpot Lead Generation Research](https://blog.hubspot.com/marketing/lead-generation) — "Leads contacted within 5 minutes of converting are 21x more likely to enter the sales process than those contacted after 30 minutes." (2024)
+4. HubSpot Lead Generation Research — "Leads contacted within 5 minutes of converting are 21x more likely to enter the sales process than those contacted after 30 minutes." (2024)
 5. [LinkedIn B2B Institute](https://www.linkedin.com/business/sales/blog) — "Referred prospects convert at 4x the rate of cold outreach in B2B sales." (2024)

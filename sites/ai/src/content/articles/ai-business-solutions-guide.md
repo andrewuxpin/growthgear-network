@@ -1,5 +1,5 @@
 ---
-title: "AI Business Solutions: A Complete Guide for SMBs"
+title: "AI Business Solutions: A Complete Guide for"
 description: "Discover the best AI business solutions for SMBs in 2026. Learn which types deliver the best ROI, how to choose the right tool, and how to implement AI."
 category: "ai-tools"
 author:
