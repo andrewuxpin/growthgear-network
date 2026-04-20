@@ -161,7 +161,7 @@ For most business AI applications, starting with simpler, interpretable models a
 The **bias-variance tradeoff** is the central tension in machine learning. Every model must balance two competing failure modes:
 
 - **Underfitting (high bias)**: The model is too simple to capture real patterns. Performance is poor on both training data and new data. The fix is usually a more complex model or richer features.
-- **Overfitting (high variance)**: The model has memorized training examples rather than learning generalizable patterns. Training performance looks excellent, but the model fails on new inputs. The fix is regularization, more training data, or a simpler architecture.
+- **Overfitting (high variance)**: The model has memorized training examples rather than learning generalizable patterns. Training performance looks excellent, but the model fails on new inputs. The fix is regularization, more training data, or a simpler architecture. For a complete breakdown of causes and prevention techniques, see our [overfitting in machine learning guide](/machine-learning/what-is-overfitting-in-machine-learning).
 
 The goal is the middle ground — a model complex enough to capture genuine patterns but constrained enough to generalize. Techniques for managing overfitting include:
 

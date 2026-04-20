@@ -233,7 +233,7 @@ print(f"Average CV score: {scores.mean():.2f}")
 
 ### Overfitting
 
-**Problem**: Model performs well on training data but poorly on new data
+**Problem**: Model performs well on training data but poorly on new data. For a deep dive on detecting and fixing this, see our guide on [what overfitting is and how to prevent it](/machine-learning/what-is-overfitting-in-machine-learning).
 
 **Solutions:**
 - Use more training data

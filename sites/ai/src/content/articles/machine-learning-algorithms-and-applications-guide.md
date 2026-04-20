@@ -84,7 +84,7 @@ The practical ceiling for linear models is when the relationship between feature
 
 ### Decision Trees and Ensemble Methods: The Business Workhorses
 
-**Decision trees** split data sequentially on the most informative features to reach a prediction. A single tree is interpretable but prone to overfitting. Ensemble methods solve this by combining many trees:
+**Decision trees** split data sequentially on the most informative features to reach a prediction. A single tree is interpretable but prone to [overfitting](/machine-learning/what-is-overfitting-in-machine-learning) — memorizing training data patterns rather than generalizing to new data. Ensemble methods solve this by combining many trees:
 
 - **Random Forest**: Trains hundreds of trees on random data subsets and averages predictions. Robust, handles missing data, provides feature importance scores.
 - **Gradient Boosting (XGBoost, LightGBM)**: Trains trees sequentially, each correcting the errors of the previous. Consistently achieves state-of-the-art results on structured data.
