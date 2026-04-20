@@ -133,7 +133,7 @@ When a buyer cannot meet your price, offer a **reduced scope** at the lower pric
 
 "At that budget, here's what I can include... For the full scope we discussed, the investment is X."
 
-This move also creates a natural path to upsell: start them at the reduced scope, then expand once they see value.
+This move also creates a natural path to upsell: start them at the reduced scope, then expand once they see value. For a complete framework on [upselling and cross-selling strategies](/sales-techniques/upselling-and-cross-selling-strategies), including timing models and talk tracks, see our dedicated guide.
 
 ### The Higher Authority Move (and How to Counter It)
 

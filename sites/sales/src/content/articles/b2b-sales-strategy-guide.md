@@ -100,6 +100,8 @@ Don't build your ICP from assumptions — build it from your top 10 accounts by 
 - What specific pain triggered the purchase?
 - What made them renew or expand?
 
+Accounts that renew and expand are your most valuable revenue source. Building a systematic [upselling and cross-selling program](/sales-techniques/upselling-and-cross-selling-strategies) for these accounts delivers higher margins than any new logo acquisition campaign.
+
 This exercise typically reveals 2-3 high-fit segments where your win rate is 2-3x the company average. Concentrate 80% of your outreach on those segments and treat everything else as opportunistic.
 
 > **Common mistake:** Don't apply the same outreach sequence to every segment. Even small customizations — mentioning the industry vertical, referencing a relevant use case, or citing a competitor they're likely replacing — dramatically outperform generic approaches.

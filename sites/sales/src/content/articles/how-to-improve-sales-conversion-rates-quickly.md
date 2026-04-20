@@ -240,7 +240,7 @@ Track these essential metrics to measure improvement:
 - **Stage-Specific Conversion Rates:** Conversion rate at each funnel stage
 - **Time to Close:** Average time from first contact to sale
 - **Revenue per Lead:** Total revenue ÷ Total leads
-- **Customer Lifetime Value:** Total revenue from customer over relationship
+- **Customer Lifetime Value:** Total revenue from customer over relationship (expanded through [upselling and cross-selling strategies](/sales-techniques/upselling-and-cross-selling-strategies))
 
 ### Tools for Tracking Conversion Rates
 
