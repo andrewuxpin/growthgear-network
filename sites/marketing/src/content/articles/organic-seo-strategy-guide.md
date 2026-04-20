@@ -73,7 +73,7 @@ The compounding mechanism works through three reinforcing effects. **Content aut
 
 For B2B businesses specifically, the connection between strong organic search presence and sustainable [lead generation](https://sales.growthgear.com.au/b2b-sales/best-lead-generation-strategies-b2b-companies) is direct. HubSpot's State of Marketing research shows that companies ranking for buyer-intent keywords convert organic visitors at 2–5x the rate of social media traffic. GrowthGear has seen this pattern consistently across the 50+ startups we've advised — organic SEO is typically the channel that produces the highest-quality leads at the lowest sustained cost.
 
-Our guide to [increasing organic website traffic](/seo/how-to-increase-organic-website-traffic-fast) covers 15 proven tactics that complement the strategic framework in this guide.
+Our guide to [increasing organic website traffic](/seo/how-to-increase-organic-website-traffic-fast) covers 15 proven tactics that complement the strategic framework in this guide. If you're weighing where to focus your organic growth budget, [why content marketing is your only SEO strategy](/seo/why-content-marketing-is-the-only-seo-strategy-you-need) makes the evidence-based case for prioritizing content above all other SEO tactics.
 
 ## The 4 Core Pillars of Organic SEO
 

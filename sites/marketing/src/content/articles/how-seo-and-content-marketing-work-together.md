@@ -79,7 +79,7 @@ The implication: every dollar invested in SEO-aligned content produces a higher 
 
 An SEO-driven content strategy starts with demand research, organizes that demand into topic clusters, and schedules content to build topical authority systematically. The goal is not individual articles — it's complete coverage of a topic area that signals expertise to both users and search engines.
 
-For a step-by-step playbook on implementing this approach, see [how to build an SEO content strategy](/seo/how-to-build-seo-content-strategy). For audience-specific considerations, see [best content marketing strategies for B2B companies](/content-marketing/best-content-marketing-strategies-b2b-companies).
+For a step-by-step playbook on implementing this approach, see [how to build an SEO content strategy](/seo/how-to-build-seo-content-strategy). For audience-specific considerations, see [best content marketing strategies for B2B companies](/content-marketing/best-content-marketing-strategies-b2b-companies). For the strategic case that content marketing is the primary SEO discipline — not a supporting activity — read [why content marketing is your only SEO strategy](/seo/why-content-marketing-is-the-only-seo-strategy-you-need).
 
 ### Step 1: Keyword Research and Topic Clustering
 

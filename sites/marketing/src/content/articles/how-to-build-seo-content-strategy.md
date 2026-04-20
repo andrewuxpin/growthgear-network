@@ -66,7 +66,7 @@ Miss any one of these and the strategy collapses. Strong content with poor keywo
 
 The most common failure mode is treating each article as a standalone piece rather than part of a coordinated coverage map. Publishing 10 articles on tangentially related topics signals nothing to Google. Publishing a pillar page plus 8 supporting cluster articles on a single topic signals expertise — and expertise is what Google rewards with rankings.
 
-Understanding [how SEO and content marketing work together](/seo/how-seo-and-content-marketing-work-together) is the conceptual foundation before building the strategy itself. Pairing that with a strong [organic SEO strategy](/seo/organic-seo-strategy-guide) — covering technical health, link building, and UX signals alongside content — ensures the strategy has a platform to compound from.
+Understanding [how SEO and content marketing work together](/seo/how-seo-and-content-marketing-work-together) is the conceptual foundation before building the strategy itself. Pairing that with a strong [organic SEO strategy](/seo/organic-seo-strategy-guide) — covering technical health, link building, and UX signals alongside content — ensures the strategy has a platform to compound from. For the broader argument that content marketing, not technical optimization, is the primary SEO driver, see [why content marketing is your only SEO strategy](/seo/why-content-marketing-is-the-only-seo-strategy-you-need).
 
 ## Step 1: Keyword Research and Intent Mapping
 
