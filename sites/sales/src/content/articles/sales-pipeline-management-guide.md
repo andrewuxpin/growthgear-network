@@ -311,7 +311,7 @@ The [Sales Hacker community on pipeline management](https://www.saleshacker.com/
 
 ## Building the Pipeline Management Discipline That Compounds
 
-Pipeline management isn't a project. It's a discipline that compounds over time. Teams that run consistent pipeline reviews, maintain clean data, and actively analyze their losses outperform peers by widening margins — because every quarter, they get slightly better at identifying which deals are real and how to advance them.
+Pipeline management isn't a project. It's a discipline that compounds over time. Teams that run consistent pipeline reviews, maintain clean data, and actively analyze their losses outperform peers by widening margins — because every quarter, they get slightly better at identifying which deals are real and how to advance them. For a complete guide to structuring and maintaining the CRM data that powers pipeline reviews, see the [CRM database guide](/crm-tools/crm-database-guide).
 
 The practical starting point: pick one metric you don't currently track consistently and make it a standing agenda item in your next pipeline review. Win rate is usually the highest-leverage starting point. Once you know your actual win rate by stage, deal size, and deal source, you'll see exactly where to focus your improvement efforts.
 

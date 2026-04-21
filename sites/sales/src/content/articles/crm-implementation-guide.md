@@ -80,7 +80,7 @@ The Salesforce [State of Sales report](https://www.salesforce.com/resources/rese
 
 ## Phase 1 — Define Your CRM Strategy and Requirements
 
-The planning phase determines whether your CRM implementation succeeds or stalls. Start by mapping your current sales process, documenting pain points, and listing must-have integrations. Establish a dedicated project owner — typically a sales operations or revenue operations manager — define success metrics before go-live, and build a realistic timeline that accounts for data cleanup, which routinely takes twice as long as teams initially estimate.
+The planning phase determines whether your CRM implementation succeeds or stalls. Start by mapping your current sales process, documenting pain points, and listing must-have integrations. Establish a dedicated project owner — typically a sales operations or revenue operations manager — define success metrics before go-live, and build a realistic timeline that accounts for data cleanup, which routinely takes twice as long as teams initially estimate. Before finalizing your data migration plan, review what a well-structured [CRM database](/crm-tools/crm-database-guide) should contain — the core objects, required fields, and data quality metrics that determine whether your post-migration reports are trustworthy.
 
 ### Map Your Sales Process Before Touching the Software
 

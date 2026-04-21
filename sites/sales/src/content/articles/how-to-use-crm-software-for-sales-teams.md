@@ -183,7 +183,7 @@ CRM adoption failure is one of the most expensive mistakes in sales operations. 
 ### The Five Most Common CRM Mistakes
 
 - **Over-engineering the pipeline on day one**: Starting with 10+ stages confuses reps and slows deal entry. Start with 4-5 stages and add complexity only when your data shows a genuine need.
-- **No data entry standards**: Without mandatory fields and clear definitions, your CRM fills with partial records that undermine reporting.
+- **No data entry standards**: Without mandatory fields and clear definitions, your CRM fills with partial records that undermine reporting. The [CRM database guide](/crm-tools/crm-database-guide) details the required fields and object relationships that keep data reportable.
 - **Skipping the email integration**: Reps who must manually log emails will stop logging within two weeks. Native email sync is non-negotiable.
 - **Not assigning a CRM owner**: Someone must own the system configuration, data quality, and training. This doesn't need to be a full-time role — even a dedicated part-time admin makes a significant difference.
 - **Treating the CRM as a reporting tool for managers, not a productivity tool for reps**: Reps adopt tools that make their jobs easier. Show them how the CRM's task reminders and deal history reduce prep time before calls, and adoption increases naturally.
