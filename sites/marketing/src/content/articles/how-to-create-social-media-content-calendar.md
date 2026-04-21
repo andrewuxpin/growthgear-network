@@ -85,7 +85,7 @@ Look for patterns. Do video posts outperform static images? Does educational con
 
 Record when you've been posting versus when your audience is most active. Most platforms show audience activity windows in their native analytics. If you're posting at 9 AM but your audience is most active at 6 PM, you're losing reach before you even start.
 
-Use [AI-powered data analysis tools](https://ai.growthgear.com.au/ai-tools/best-ai-tools-for-data-analysis) to surface these patterns faster if you're managing multiple platforms.
+Use [AI-powered data analysis tools](https://ai.growthgear.com.au/ai-tools/best-ai-tools-for-data-analysis) to surface these patterns faster if you're managing multiple platforms. Once your calendar structure is set, the guide on [how to manage multiple social media accounts](/social-media/how-to-manage-multiple-social-media-accounts) covers the execution workflow — scheduling tools, batching sessions, and cross-platform content repurposing.
 
 ### Identify Content Gaps
 

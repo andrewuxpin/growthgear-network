@@ -96,7 +96,7 @@ The right platform depends on three factors: where your target audience is activ
 
 **E-commerce businesses** should evaluate Instagram, TikTok, and Pinterest based on product category. Fashion, beauty, and home goods perform exceptionally on Pinterest, which functions as a visual search engine with purchase intent. TikTok's algorithmic discovery is disproportionately powerful for new brands — a single well-executed video can reach tens of thousands of ideal customers without any ad spend.
 
-Before scaling to multiple channels, read [should you focus on one social media platform](/social-media/should-you-focus-on-one-social-media-platform) — mastering one platform before expanding produces measurably better results than spreading the same effort across five channels simultaneously.
+Before scaling to multiple channels, read [should you focus on one social media platform](/social-media/should-you-focus-on-one-social-media-platform) — mastering one platform before expanding produces measurably better results than spreading the same effort across five channels simultaneously. When you're ready to expand, the guide on [how to manage multiple social media accounts](/social-media/how-to-manage-multiple-social-media-accounts) covers the full operational workflow — scheduling tools, content batching, and cross-platform repurposing.
 
 ---
 
