@@ -197,7 +197,7 @@ A practical starting framework for a business content team:
 
 The most common mistake is adding tools simultaneously. Start with the content type that represents your biggest production bottleneck. If blog content is the constraint, start with Jasper or Writesonic. If social design is the bottleneck, start with Canva AI. Adding three tools at once means none of them get used properly.
 
-For a complete view of where AI tools fit in the broader business technology stack, see [AI business solutions for SMBs](/ai-tools/ai-business-solutions-guide) and [best AI productivity tools for business](/ai-tools/best-ai-productivity-tools-for-business). For a budget-focused breakdown covering content, automation, and customer service tools in a single stack, see our [best AI tools for small business guide](/ai-tools/best-ai-tools-for-small-business).
+For a complete view of where AI tools fit in the broader business technology stack, see [AI business solutions for SMBs](/ai-tools/ai-business-solutions-guide) and [best AI productivity tools for business](/ai-tools/best-ai-productivity-tools-for-business). For a budget-focused breakdown covering content, automation, and customer service tools in a single stack, see our [best AI tools for small business guide](/ai-tools/best-ai-tools-for-small-business). For e-commerce teams applying these tools to product descriptions, email sequences, and ad copy, our [best AI tools for e-commerce](/ai-tools/best-ai-tools-for-ecommerce) guide covers Jasper alongside purpose-built retail AI platforms.
 
 ### Integration and Workflow Architecture
 

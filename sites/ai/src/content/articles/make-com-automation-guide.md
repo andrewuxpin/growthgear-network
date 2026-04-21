@@ -232,7 +232,7 @@ For teams evaluating n8n alongside Make.com, the decision primarily comes down t
 - You're running >10,000 workflow executions per month and per-execution SaaS pricing is prohibitive
 - You need custom node development for proprietary internal tools
 
-For teams evaluating automation as part of a broader AI strategy, [our n8n templates guide](/ai-tools/best-n8n-templates-ai-automation-workflows) and [AI productivity tools roundup](/ai-tools/best-ai-productivity-tools-for-business) provide complementary context on building a complete automation stack.
+For teams evaluating automation as part of a broader AI strategy, [our n8n templates guide](/ai-tools/best-n8n-templates-ai-automation-workflows) and [AI productivity tools roundup](/ai-tools/best-ai-productivity-tools-for-business) provide complementary context on building a complete automation stack. For e-commerce operators connecting Shopify, Klaviyo, and Gorgias into automated workflows, our [best AI tools for e-commerce](/ai-tools/best-ai-tools-for-ecommerce) guide covers the full retail AI stack.
 
 ---
 

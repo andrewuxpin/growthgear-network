@@ -118,7 +118,7 @@ For a comparison of CRM options specifically sized for small teams, see [best CR
 
 ### AI Customer Service Tools
 
-**Tidio** (free for live chat; Lyro AI chatbot from $29/month) resolves up to 70% of customer service inquiries automatically using AI trained on your product documentation and FAQs. The Lyro AI chatbot handles returns questions, shipping status, product details, and account issues without a human agent. For e-commerce businesses or SaaS products with repetitive support volumes, Tidio reduces support costs while maintaining response times under 60 seconds.
+**Tidio** (free for live chat; Lyro AI chatbot from $29/month) resolves up to 70% of customer service inquiries automatically using AI trained on your product documentation and FAQs. The Lyro AI chatbot handles returns questions, shipping status, product details, and account issues without a human agent. For e-commerce businesses or SaaS products with repetitive support volumes, Tidio reduces support costs while maintaining response times under 60 seconds. For a dedicated breakdown of AI tools purpose-built for online retailers — including Klaviyo, Rebuy, Gorgias, and Linnworks — see our [best AI tools for e-commerce](/ai-tools/best-ai-tools-for-ecommerce) guide.
 
 **Intercom** (Essential plan from $39/month) provides the Fin AI Agent — a GPT-4-powered support bot that answers questions from your existing help docs with source citations. Fin escalates to a human agent when it cannot resolve an issue, creating a hybrid support model that scales without proportional headcount growth. For SMBs handling 100+ support conversations per month, the cost per resolved conversation is typically lower than hiring part-time support staff.
 
