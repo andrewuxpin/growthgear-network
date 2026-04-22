@@ -106,7 +106,7 @@ BERT is trained to classify each pair as `IsNext` or `NotNext` using the `[CLS]`
 
 ## BERT Fine-Tuning: From Pre-Trained to Production
 
-Fine-tuning is the step that transforms a general-purpose BERT model into a task-specific tool. You take the pre-trained model, add a lightweight task-specific output layer, and train end-to-end on a labeled dataset. Because BERT already "knows" language, fine-tuning converges in 2–4 training epochs with as few as 1,000 examples — versus the millions of examples needed to train an NLP model from scratch.
+Fine-tuning is the step that transforms a general-purpose BERT model into a task-specific tool. You take the pre-trained model, add a lightweight task-specific output layer, and train end-to-end on a labeled dataset. Because BERT already "knows" language, fine-tuning converges in 2–4 training epochs with as few as 1,000 examples — versus the millions of examples needed to train an NLP model from scratch. For a broader look at fine-tuning beyond BERT — including LoRA, RLHF, cost benchmarks, and the fine-tune vs. RAG decision framework — see [what is fine-tuning in deep learning](/deep-learning/what-is-fine-tuning-in-deep-learning).
 
 According to [how deep learning works](/deep-learning/how-deep-learning-works-complete-guide), this is the same transfer learning principle that made computer vision practical: train on ImageNet, fine-tune on your specific classification problem.
 

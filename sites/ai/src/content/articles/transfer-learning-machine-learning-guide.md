@@ -140,7 +140,7 @@ Modern large language models demonstrate **zero-shot transfer** — performing t
 
 **Few-shot learning** provides a small number of examples (3-32 "shots") in the prompt to steer the model's behavior. For tasks where labeled data is expensive to collect, few-shot prompting of a powerful LLM often matches fine-tuned smaller models at a fraction of the data and compute cost.
 
-The practical decision rule: if GPT-4 or Claude with a well-crafted prompt achieves your target accuracy, the infrastructure complexity of fine-tuning may not be worth it. If the task is highly specialized, requires low latency, or has privacy constraints, fine-tune a smaller model.
+The practical decision rule: if GPT-4 or Claude with a well-crafted prompt achieves your target accuracy, the infrastructure complexity of fine-tuning may not be worth it. If the task is highly specialized, requires low latency, or has privacy constraints, fine-tune a smaller model. For a dedicated guide on the mechanics of fine-tuning — covering LoRA, QLoRA, RLHF, infrastructure options, and cost benchmarks — see [what is fine-tuning in deep learning](/deep-learning/what-is-fine-tuning-in-deep-learning).
 
 ## Business Applications of Transfer Learning
 

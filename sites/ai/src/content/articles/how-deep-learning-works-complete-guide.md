@@ -243,7 +243,7 @@ Traditional ML remains the right choice when data is small, structured, and inte
 
 **Transfer learning** changes the deep learning calculus for smaller businesses. Instead of training a model from scratch on millions of examples, you take a model pre-trained on a massive dataset (like ImageNet or GPT-4) and fine-tune it on your specific task with a fraction of the data.
 
-Fine-tuning a vision model on 500 custom product images takes hours on a single GPU and achieves performance that would previously require 100,000+ labeled examples. This makes deep learning accessible to businesses that previously lacked the data volume to justify it.
+Fine-tuning a vision model on 500 custom product images takes hours on a single GPU and achieves performance that would previously require 100,000+ labeled examples. This makes deep learning accessible to businesses that previously lacked the data volume to justify it. For a complete breakdown of fine-tuning — covering LoRA, RLHF, cost benchmarks, and when to use RAG instead — see [what is fine-tuning in deep learning](/deep-learning/what-is-fine-tuning-in-deep-learning).
 
 ### Summary: Deep Learning at a Glance
 
