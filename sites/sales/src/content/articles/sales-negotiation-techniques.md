@@ -52,7 +52,7 @@ Effective negotiation is not about manipulation or pressure. It is about prepara
 
 Most salespeople enter negotiations in the wrong frame. They see negotiation as confrontation — a zero-sum battle where one side wins and the other loses. Top performers approach it as a **value alignment conversation**: how do we structure this deal so both sides get what they need most?
 
-This shift matters because buyers can sense desperation. When you negotiate from a place of genuine confidence in your product's value, you negotiate more effectively. When you negotiate from fear of losing the deal, you concede faster and deeper than you need to.
+This shift matters because buyers can sense desperation. When you negotiate from a place of genuine confidence in your product's value, you negotiate more effectively. When you negotiate from fear of losing the deal, you concede faster and deeper than you need to. The psychological principles behind confident negotiation — particularly contrast framing and reciprocity — connect directly to the broader [persuasive techniques](/sales-techniques/persuasive-techniques-for-sales) used throughout the B2B sales cycle.
 
 ### Preparation Is 80% of Negotiation Success
 
