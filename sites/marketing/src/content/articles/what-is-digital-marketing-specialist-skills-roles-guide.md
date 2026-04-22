@@ -220,7 +220,7 @@ For companies earlier in their journey, exploring [lead generation strategies fo
 
 ## Building a High-Performance Digital Marketing Team
 
-Hiring one great specialist is the start. Building a team that consistently compounds growth requires structure.
+Hiring one great specialist is the start. Building a team that consistently compounds growth requires structure. When your specialist team grows beyond two or three people, you'll need a [digital marketing manager](/content-marketing/what-does-a-digital-marketing-manager-do) to set strategy, allocate budget across channels, and keep specialists aligned to the same business outcomes rather than optimizing in silos.
 
 ### The Marketing Stack That Enables Specialists
 

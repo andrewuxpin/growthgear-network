@@ -225,7 +225,7 @@ Marketing is most effective when it runs as a cross-functional discipline, not a
 
 The most effective growth companies — those that consistently achieve 30%+ year-over-year revenue growth, according to McKinsey — treat marketing as a shared function that influences product decisions, sales enablement, customer success content, and executive communication. This doesn't require a large team; it requires clear information flow between functions.
 
-Practically, this means a weekly sync between marketing and sales, a shared CRM with attribution data, and marketing leaders who sit in on customer calls quarterly. When marketing hears directly from customers, messaging improves faster than any A/B test.
+Practically, this means a weekly sync between marketing and sales, a shared CRM with attribution data, and marketing leaders who sit in on customer calls quarterly. When marketing hears directly from customers, messaging improves faster than any A/B test. For businesses scaling beyond a single marketing generalist, understanding [what a digital marketing manager does](/content-marketing/what-does-a-digital-marketing-manager-do) helps frame when and how to add this coordinating role as your program grows.
 
 For a structured approach to developing your full business development and marketing strategy, the [business development strategy framework](https://sales.growthgear.com.au/b2b-sales/how-to-develop-business-development-strategy-plan) from Sales Mastery is a practical complement to the marketing fundamentals covered here.
 
