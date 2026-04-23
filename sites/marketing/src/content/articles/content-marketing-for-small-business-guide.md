@@ -131,7 +131,7 @@ Review [real-world content marketing examples](/content-marketing/examples-of-co
 
 ### Email Newsletters
 
-Email is the only channel a small business fully owns. Social algorithms change; ad costs fluctuate; email lists are your direct line to an audience that has already expressed interest.
+Email is the only channel a small business fully owns. Social algorithms change; ad costs fluctuate; email lists are your direct line to an audience that has already expressed interest. The [business benefits of email marketing](/content-marketing/benefits-of-email-marketing) go well beyond this — from $36 ROI per $1 spent to precise behavioral segmentation and automation that runs without a team.
 
 An email list of 1,000 engaged subscribers typically outperforms 10,000 social media followers in terms of click-through rates and conversions. The average email open rate across industries sits at 21.5%, according to Mailchimp's benchmark data — versus organic social reach of 2-5% for most brand accounts.
 

@@ -43,7 +43,7 @@ callout:
 
 Email marketing is how inbound strategies pay off. SEO, content, and social media attract visitors — but without email, most of that traffic leaves and never returns. Email is the channel that captures those visitors, builds trust over time, and converts subscribers into clients. When you align your email activity with your inbound funnel, the results compound.
 
-This guide covers exactly how to make that connection: mapping emails to funnel stages, segmenting your list, building automation sequences, and measuring what matters. If you already know the basics, check out our [email marketing best practices guide](/content-marketing/email-marketing-best-practices-guide) for complementary tactics.
+This guide covers exactly how to make that connection: mapping emails to funnel stages, segmenting your list, building automation sequences, and measuring what matters. If you already know the basics, check out our [email marketing best practices guide](/content-marketing/email-marketing-best-practices-guide) for complementary tactics, or read our breakdown of [the business benefits of email marketing](/content-marketing/benefits-of-email-marketing) to strengthen your case for investing in the channel.
 
 ## Why Email Marketing Is the Core of Inbound
 
