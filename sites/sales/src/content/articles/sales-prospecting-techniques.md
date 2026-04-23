@@ -74,6 +74,8 @@ Every effective prospecting effort starts with a tight **Ideal Customer Profile 
 
 A poorly defined ICP is the single most common reason prospecting pipelines stall. Targeting wrong-fit accounts wastes outreach capacity on prospects who can't buy, won't buy, or aren't ready.
 
+For teams with a geographic ICP component, a focused [local lead generation guide](/sales-techniques/local-lead-generation-guide) covers the LinkedIn Navigator filters, Chamber of Commerce directories, and local networking channels that maximize conversion within a defined territory.
+
 ## 6 Sales Prospecting Techniques That Actually Work
 
 The most effective prospecting programs combine outbound and social channels simultaneously. According to HubSpot's 2024 State of Sales Report, reps who prospect across three or more channels consistently outperform single-channel reps in both pipeline volume and deal win rates. The six techniques below form the core of a modern, multi-channel approach.

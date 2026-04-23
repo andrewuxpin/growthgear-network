@@ -73,6 +73,8 @@ A reliable B2B lead generation system draws from at least three channels simulta
 
 The key principle: channels are interdependent. A prospect who sees your content on LinkedIn is more likely to respond to a cold email the following week. A referral is more likely to close if they've already seen your case studies. Build channels that reinforce each other, not operate in silos.
 
+For teams targeting a specific geographic territory, [local B2B lead generation](/sales-techniques/local-lead-generation-guide) is a high-ROI focus strategy — local prospects convert at significantly higher rates due to shared community trust and easier in-person relationship building.
+
 ### Outbound Lead Generation: Cold Email and LinkedIn Outreach
 
 Outbound remains the fastest path to pipeline for most B2B teams. You can start generating qualified conversations within 2-4 weeks of a properly structured outbound motion.

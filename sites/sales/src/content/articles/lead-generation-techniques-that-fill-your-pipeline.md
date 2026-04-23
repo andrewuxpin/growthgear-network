@@ -59,6 +59,8 @@ A pipeline full of unqualified leads is worse than a small pipeline of good-fit 
 
 Outbound is faster than inbound. When you need pipeline now, these are the techniques that produce it. For a complete system covering multi-channel prospecting cadences — email, phone, and LinkedIn coordinated in sequence — see our [sales prospecting techniques guide](/sales-techniques/sales-prospecting-techniques).
 
+For sales teams focused on a specific geographic market, a [local lead generation strategy](/sales-techniques/local-lead-generation-guide) can deliver 3x higher conversion rates than broad national outbound campaigns by building relationship density within your territory.
+
 ### Cold Email Sequences
 
 Cold email remains the highest-ROI outbound channel when executed correctly. The average cold email response rate is 1-5%, but personalized sequences targeting decision-makers with specific pain points achieve 8-15%.
