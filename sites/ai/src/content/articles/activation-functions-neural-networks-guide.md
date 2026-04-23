@@ -43,7 +43,7 @@ callout:
 
 Activation functions are the mathematical operations that determine whether and how strongly a neuron fires in a neural network. Without them, even a hundred-layer network reduces to a single linear equation — unable to model curves, patterns, or complex relationships in data.
 
-Choosing the right activation function is one of the highest-leverage architectural decisions in deep learning. A wrong choice at the output layer causes silent model failure. A wrong choice in hidden layers can cause gradients to vanish over dozens of layers. Getting it right accelerates training and often improves final accuracy without any other changes.
+Choosing the right activation function is one of the highest-leverage architectural decisions in deep learning. A wrong choice at the output layer causes silent model failure. A wrong choice in hidden layers can cause gradients to vanish over dozens of layers — an effect rooted in how [backpropagation propagates error signals](/deep-learning/how-does-backpropagation-work-neural-networks) through the chain rule. Getting it right accelerates training and often improves final accuracy without any other changes.
 
 This guide covers every major activation function used in production AI systems — from the workhorse ReLU to the transformer-era GELU and SwiGLU — and gives you a decision framework for choosing the right one for your architecture.
 

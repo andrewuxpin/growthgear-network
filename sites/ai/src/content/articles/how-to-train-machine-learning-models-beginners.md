@@ -30,7 +30,7 @@ Whether you're a software developer, data analyst, or simply curious about artif
 
 ## What is Machine Learning Model Training?
 
-Machine learning model training is the process of teaching algorithms to recognize patterns in data and make predictions or decisions based on that information. Think of it like teaching a child to recognize different animals by showing them thousands of pictures with labels. To understand the underlying mechanics — why models adjust their parameters and how gradient descent drives improvement — our guide to [why machines learn](/machine-learning/why-machines-learn-how-ai-learns-from-data) covers the full picture before you start training your first model.
+Machine learning model training is the process of teaching algorithms to recognize patterns in data and make predictions or decisions based on that information. Think of it like teaching a child to recognize different animals by showing them thousands of pictures with labels. To understand the underlying mechanics — why models adjust their parameters, how [backpropagation computes gradients](/deep-learning/how-does-backpropagation-work-neural-networks), and how gradient descent drives improvement — our guide to [why machines learn](/machine-learning/why-machines-learn-how-ai-learns-from-data) covers the full picture before you start training your first model.
 
 ### Key Components of Model Training
 

@@ -71,7 +71,7 @@ Every gradient descent step involves three calculations:
 2. **Loss computation**: Compare predictions to ground truth using the loss function (cross-entropy for classification, MSE for regression)
 3. **Backward pass (backpropagation)**: Compute gradients of the loss with respect to every weight in the network
 
-After backpropagation, the optimizer applies the weight update: `new_weight = old_weight - learning_rate × gradient`. This loop repeats for thousands of iterations. For a complete explanation of how this fits into the full neural network architecture, see [how deep learning works end-to-end](/deep-learning/how-deep-learning-works-complete-guide).
+After [backpropagation](/deep-learning/how-does-backpropagation-work-neural-networks) computes the gradients using the chain rule, the optimizer applies the weight update: `new_weight = old_weight - learning_rate × gradient`. This loop repeats for thousands of iterations. For a complete explanation of how this fits into the full neural network architecture, see [how deep learning works end-to-end](/deep-learning/how-deep-learning-works-complete-guide).
 
 ## How the Gradient Descent Algorithm Works Step by Step
 
