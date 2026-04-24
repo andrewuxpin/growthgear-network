@@ -266,7 +266,7 @@ Your CRM is the operational backbone of pipeline management. The key is choosing
 - Pipeline reporting with filter options
 - Mobile access for field reps
 
-For smaller teams starting out, HubSpot and Pipedrive offer the fastest time-to-value. For teams that need deeper customization and have technical resources, Salesforce remains the most configurable option. Teams managing a high volume of concurrent active deals may also benefit from a dedicated [deal management software](/crm-tools/best-deal-management-software) platform built specifically for pipeline tracking, stage automation, and win/loss analytics.
+For smaller teams starting out, HubSpot and Pipedrive offer the fastest time-to-value. For teams that need deeper customization and have technical resources, Salesforce remains the most configurable option. Teams managing a high volume of concurrent active deals may also benefit from a dedicated [deal management software](/crm-tools/best-deal-management-software) platform built specifically for pipeline tracking, stage automation, and win/loss analytics. For a full comparison of CRM tools ranked specifically on pipeline visibility and automation depth, see our guide to [best sales pipeline management software](/crm-tools/best-sales-pipeline-management-software).
 
 ### Sales Intelligence and Prospecting Tools
 

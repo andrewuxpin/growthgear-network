@@ -51,7 +51,7 @@ Most CRMs include deal management as a built-in module, but the distinction matt
 
 Purpose-built deal management tools often deliver superior pipeline analytics, stage-by-stage conversion tracking, and deeper deal-level automation compared to the deal module within a broad CRM. Teams with complex sales cycles and multiple concurrent opportunities typically benefit from these specialized capabilities.
 
-For companies starting out, a CRM with built-in deal management (like HubSpot or Pipedrive) covers both needs in one platform. For enterprise teams with existing CRM infrastructure, a dedicated deal management layer can integrate on top.
+For companies starting out, a CRM with built-in deal management (like HubSpot or Pipedrive) covers both needs in one platform. For enterprise teams with existing CRM infrastructure, a dedicated deal management layer can integrate on top. For a side-by-side comparison of platforms ranked specifically on pipeline visualization and stage automation, see our guide to [best sales pipeline management software](/crm-tools/best-sales-pipeline-management-software).
 
 ### Key Use Cases for Sales Teams
 

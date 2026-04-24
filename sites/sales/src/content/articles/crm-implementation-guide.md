@@ -109,7 +109,7 @@ Establish a pre-CRM baseline for each metric, however rough. You need that bench
 
 If you haven't selected a CRM yet, the choice should be driven by your pipeline complexity and your integration requirements. A startup with 10 reps and a straightforward two-step handoff process doesn't need Salesforce's full enterprise configuration.
 
-Our breakdown of [the best CRM software for small business teams](/crm-tools/best-crm-software-small-business-teams) covers the leading options by company size and sales motion. For a comparison of how different platforms handle pipeline and reporting, [CRM software examples for sales teams](/crm-tools/crm-software-examples-sales-teams) walks through real-world use cases.
+Our breakdown of [the best CRM software for small business teams](/crm-tools/best-crm-software-small-business-teams) covers the leading options by company size and sales motion. For a comparison of how different platforms handle pipeline and reporting, [CRM software examples for sales teams](/crm-tools/crm-software-examples-sales-teams) walks through real-world use cases. For teams evaluating tools specifically for pipeline visibility and stage automation, our [best sales pipeline management software](/crm-tools/best-sales-pipeline-management-software) guide compares seven platforms across pricing, AI features, and ease of adoption.
 
 For teams evaluating AI-native CRM capabilities, the [GrowthGear guide to implementing AI in your business](https://ai.growthgear.com.au/machine-learning/how-to-implement-ai-in-business-complete-guide) covers the broader AI adoption framework that applies directly to modern CRM selection.
 
