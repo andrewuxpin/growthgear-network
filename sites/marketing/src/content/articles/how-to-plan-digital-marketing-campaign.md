@@ -68,7 +68,7 @@ Always-on marketing — your website, SEO content, email list nurturing — runs
 
 Both are necessary. Campaigns without always-on infrastructure have nowhere to send traffic. Always-on programs without campaigns lack the focused pushes that drive peak performance windows. According to the [Content Marketing Institute](https://contentmarketinginstitute.com/), businesses that integrate campaign bursts with a consistent content program generate higher lifetime content ROI than those using either approach alone.
 
-At GrowthGear, we advise clients to think of always-on as the foundation and campaigns as the accelerant — each amplifies the other. The responsibility for balancing these two modes typically falls to a [digital marketing manager](/content-marketing/what-does-a-digital-marketing-manager-do) — the person who sets channel strategy, owns the budget, and decides when to push and when to conserve.
+At GrowthGear, we advise clients to think of always-on as the foundation and campaigns as the accelerant — each amplifies the other. The responsibility for balancing these two modes typically falls to a [digital marketing manager](/content-marketing/what-does-a-digital-marketing-manager-do) — the person who sets channel strategy, owns the budget, and decides when to push and when to conserve. For real-world inspiration on what strong execution looks like, see [marketing campaign examples that drive results](/content-marketing/marketing-campaign-examples-that-drive-results) — including performance benchmarks across email, social, and content campaigns.
 
 ## How to Set Campaign Goals and Budget
 
