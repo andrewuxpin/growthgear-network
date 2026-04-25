@@ -89,7 +89,7 @@ Cold email remains the highest-volume prospecting channel when executed correctl
 - **Names the problem before the pitch**: What pain are you solving? State it specifically.
 - **Has one clear CTA**: Ask for a 15-minute call, nothing more complex
 
-Well-targeted cold emails achieve open rates of 30-45% and reply rates of 5-15%. Our guide on [cold email templates that get replies](/sales-techniques/cold-email-templates-that-get-replies) covers tested frameworks for every outreach scenario.
+Well-targeted cold emails achieve open rates of 30-45% and reply rates of 5-15%. Our guide on [cold email templates that get replies](/sales-techniques/cold-email-templates-that-get-replies) covers tested frameworks for every outreach scenario. For scenario-specific examples of how to write opening lines that feel conversational rather than templated, see [conversational cold email examples](/sales-techniques/conversational-cold-email-examples).
 
 ### LinkedIn Social Selling
 

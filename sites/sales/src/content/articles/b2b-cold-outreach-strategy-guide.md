@@ -134,6 +134,8 @@ According to [Salesforce's State of Sales research](https://www.salesforce.com/r
 
 *Bad:* "I noticed your company is growing and thought I'd reach out."
 
+For eight scenario-based examples of these opening lines — covering job triggers, funding rounds, competitive switches, and re-engagement — see [conversational cold email examples that get replies](/sales-techniques/conversational-cold-email-examples).
+
 **Value proposition (1-2 sentences):** What you do, for whom, and a specific result. Not a feature list.
 
 *Good:* "We help enterprise SaaS teams cut their deal cycle by 22% by automating the handoff between SDR and AE — something that typically breaks manually at your scale."

@@ -66,7 +66,7 @@ Build a simple research checklist:
 - **LinkedIn activity**: Recent posts, comments, or career changes
 - **Tech stack**: Tools they use (visible via BuiltWith or ZoomInfo)
 
-One signal is enough. Use it in the opening line, and the rest of your template can run standard.
+One signal is enough. Use it in the opening line, and the rest of your template can run standard. For worked examples of how to write that opening line across eight outreach scenarios — from funding triggers to re-engagement emails — see [conversational cold email examples that get replies](/sales-techniques/conversational-cold-email-examples).
 
 ## 6 Cold Email Templates That Get Replies
 
