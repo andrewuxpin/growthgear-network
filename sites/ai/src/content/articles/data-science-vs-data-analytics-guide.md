@@ -44,7 +44,7 @@ Data science and data analytics are the two roles businesses most often confuse 
 
 The short version: data analytics tells you what happened and why, using historical data, dashboards, and reporting. Data science predicts what will happen next, using machine learning, statistical modeling, and experimentation. Both are valuable — but they solve different problems, at different stages of business maturity.
 
-This guide breaks down every dimension that matters: role definitions, required skills, tools, salary benchmarks, and which hire your business actually needs right now.
+This guide breaks down every dimension that matters: role definitions, required skills, tools, salary benchmarks, and which hire your business actually needs right now. If you're also evaluating where machine learning engineering fits into your data team, see our companion guide on [data science vs machine learning: key differences](/machine-learning/data-science-vs-machine-learning-guide).
 
 ## Core Definitions: What Each Role Actually Does
 

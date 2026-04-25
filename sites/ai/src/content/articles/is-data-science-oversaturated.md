@@ -71,7 +71,7 @@ None of these factors represent structural demand collapse. They represent a cor
 
 ## Where the Real Talent Gap Exists
 
-The real talent gap is in specialized and senior data science roles. According to McKinsey's State of AI research, organizations consistently identify finding data scientists who combine technical proficiency with deep domain knowledge as their primary AI talent challenge. Healthcare, manufacturing, and financial services report the longest time-to-hire for data roles — often 4–6 months.
+The real talent gap is in specialized and senior data science roles. According to McKinsey's State of AI research, organizations consistently identify finding data scientists who combine technical proficiency with deep domain knowledge as their primary AI talent challenge. Healthcare, manufacturing, and financial services report the longest time-to-hire for data roles — often 4–6 months. Employers also frequently conflate data science with machine learning engineering — two distinct roles with different skill sets and hiring timelines. For a clear breakdown of how the two disciplines differ, see [data science vs machine learning: key differences](/machine-learning/data-science-vs-machine-learning-guide).
 
 ### Specialized Skills Still in High Demand
 
