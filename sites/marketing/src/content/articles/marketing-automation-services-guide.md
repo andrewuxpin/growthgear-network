@@ -59,7 +59,7 @@ The distinction shapes every other decision:
 - **Managed services**: An external agency or specialist builds, manages, and optimizes your automation programs. Higher monthly cost, lower internal burden. Suited to teams without dedicated marketing operations resources.
 - **Hybrid model**: You own the platform; the agency handles strategy and configuration. Common among mid-market companies scaling from startup stage.
 
-For a deeper breakdown of the leading software tools in this category, see our guide to [best marketing automation platforms for growing businesses](/content-marketing/best-marketing-automation-platforms-for-growing-businesses).
+For a deeper breakdown of the leading software tools in this category, see our guide to [best marketing automation platforms for growing businesses](/content-marketing/best-marketing-automation-platforms-for-growing-businesses). If you're evaluating whether to manage automation in-house or bring in external expertise, our [marketing automation agency guide](/content-marketing/marketing-automation-agency-guide) covers hiring criteria, pricing models, and when each model makes sense.
 
 ### Who Needs Marketing Automation Services
 

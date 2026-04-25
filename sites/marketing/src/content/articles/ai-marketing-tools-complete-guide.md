@@ -247,7 +247,7 @@ For more on building out a broader set of [content marketing tools for businesse
 | Semrush AI | SEO + content | Keyword research, competitive intel | $129/month | High |
 | Salesforce Marketing Cloud | Enterprise automation | Large-scale B2B/B2C campaigns | Custom | Very High |
 
-**Bottom line:** The AI marketing tools market has reached a level of maturity where there is a proven, well-supported tool for every core marketing function. The constraint is no longer technology access — it's implementation strategy and team discipline. Start with one tool per function, measure obsessively, and expand based on evidence.
+**Bottom line:** The AI marketing tools market has reached a level of maturity where there is a proven, well-supported tool for every core marketing function. The constraint is no longer technology access — it's implementation strategy and team discipline. Start with one tool per function, measure obsessively, and expand based on evidence. If you're deciding whether to manage AI-powered automation in-house or through an agency partner, our [marketing automation agency guide](/content-marketing/marketing-automation-agency-guide) covers the full hiring and evaluation framework.
 
 ---
 
