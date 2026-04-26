@@ -1,6 +1,6 @@
 ---
 title: "What is Natural Language Processing Explained: A Complete Guide to NLP in 2024"
-description: "Discover what is natural language processing explained in simple terms. Learn NLP applications, techniques, and real-world examples. Start your AI journey today!"
+description: "Discover what is natural language processing explained in simple terms. Learn NLP applications, techniques, and real-world examples. Start your AI..."
 category: "machine-learning"
 author:
   name: "GrowthGear Team"

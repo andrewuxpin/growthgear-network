@@ -42,7 +42,7 @@ callout:
 
 Your CRM is only as good as the data inside it. A well-structured CRM database gives your sales team instant visibility into every deal, every contact, and every conversation that has ever happened with a prospect. A poorly structured one gives you a very expensive contact list that nobody trusts.
 
-According to [Gartner's data quality research](https://www.gartner.com/en/newsroom/press-releases/2021-07-06-gartner-says-poor-data-quality-costs-organizations-average-15-million-dollars-annually), poor data quality costs organizations an average of $12.9 million per year. In sales teams specifically, the damage is immediate: reps skip deals because contact details are wrong, managers cannot forecast accurately because pipeline stages are inconsistent, and leadership makes resource decisions on data that does not reflect reality.
+According to Gartner's data quality research, poor data quality costs organizations an average of $12.9 million per year. In sales teams specifically, the damage is immediate: reps skip deals because contact details are wrong, managers cannot forecast accurately because pipeline stages are inconsistent, and leadership makes resource decisions on data that does not reflect reality.
 
 This guide covers everything you need to build, structure, and maintain a CRM database that your sales team will actually use — from core object design to quarterly audits to the metrics that tell you whether your data is driving revenue or hiding it.
 
@@ -165,7 +165,7 @@ When leadership uses the CRM visibly in every revenue conversation, adoption bec
 
 ## How to Keep CRM Data Clean and Accurate
 
-CRM data quality decays at a predictable rate. According to [HubSpot Research on data decay](https://blog.hubspot.com/marketing/data-decay), B2B contact data degrades at approximately 22.5% per year. A contact database that was 100% accurate at the start of the year is 77.5% accurate by year-end, with no active maintenance. People change jobs, companies get acquired, email addresses become invalid, and deal values shift as scope changes.
+CRM data quality decays at a predictable rate. According to HubSpot Research on data decay, B2B contact data degrades at approximately 22.5% per year. A contact database that was 100% accurate at the start of the year is 77.5% accurate by year-end, with no active maintenance. People change jobs, companies get acquired, email addresses become invalid, and deal values shift as scope changes.
 
 Data cleaning is not a one-time event. It is a quarterly operational task that protects the integrity of your pipeline reporting and forecast accuracy.
 
@@ -260,8 +260,8 @@ GrowthGear has helped 50+ startups build CRM systems and sales processes that de
 
 ## Sources & References
 
-- Gartner — [Poor Data Quality Costs Organizations $12.9M Annually](https://www.gartner.com/en/newsroom/press-releases/2021-07-06-gartner-says-poor-data-quality-costs-organizations-average-15-million-dollars-annually) (2021)
+- Gartner — Poor Data Quality Costs Organizations $12.9M Annually (2021)
 - Salesforce — [State of Sales Report](https://www.salesforce.com/resources/research-reports/state-of-sales/)
-- HubSpot — [The Impact of Data Decay on B2B Databases](https://blog.hubspot.com/marketing/data-decay)
-- Harvard Business Review — [Why CRM Projects Fail and How to Make Them More Successful](https://hbr.org/2018/04/why-crm-projects-fail-and-how-to-make-them-more-successful)
+- HubSpot — The Impact of Data Decay on B2B Databases
+- Harvard Business Review — Why CRM Projects Fail and How to Make Them More Successful
 - Forrester — [The Forrester Wave: CRM Suites](https://www.forrester.com/report/the-forrester-wave-crm-suites/)

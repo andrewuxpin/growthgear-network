@@ -1,6 +1,6 @@
 ---
 title: "How to Prevent AI Bias in Algorithms: A Guide"
-description: "Learn proven strategies to prevent AI bias in algorithms. Discover testing methods, data preprocessing techniques, and fairness frameworks for ethical AI in 2026."
+description: "Learn proven strategies to prevent AI bias in algorithms. Discover testing methods, data preprocessing techniques, and fairness frameworks for ethical..."
 category: "machine-learning"
 author:
   name: "GrowthGear Team"

@@ -67,7 +67,7 @@ Persuasion and manipulation share surface similarities but differ fundamentally 
 
 The practical test: would the buyer still be satisfied with their decision six months later if they knew every technique you used? If yes, it's persuasion. If no, it's manipulation.
 
-Ethical persuasion is also better business. The [Salesforce State of Sales](https://www.salesforce.com/resources/research-and-insights/state-of-sales/) research consistently ranks trust in the salesperson as the top driver of customer retention and expansion. Sales teams that close with honesty outperform those that pressure-close over any meaningful time horizon.
+Ethical persuasion is also better business. The Salesforce State of Sales research consistently ranks trust in the salesperson as the top driver of customer retention and expansion. Sales teams that close with honesty outperform those that pressure-close over any meaningful time horizon.
 
 ### Cialdini's Influence Principles Applied to Sales
 
@@ -135,7 +135,7 @@ This shifts the buyer's reference point from your price to the cost of inaction,
 
 In sales, this plays out through micro-commitments: scheduling a second call, agreeing on an evaluation framework, having the prospect walk you through their current process. Each agreement builds psychological investment in the outcome.
 
-When a prospect says "yes, that's exactly our problem" in a discovery call, they've made a cognitive commitment that moves them closer to "yes" at signing. The [consultative selling approach](https://www.salesforce.com/resources/research-and-insights/state-of-sales/) systematically uses this principle by drawing agreement through questions before presenting solutions.
+When a prospect says "yes, that's exactly our problem" in a discovery call, they've made a cognitive commitment that moves them closer to "yes" at signing. The consultative selling approach systematically uses this principle by drawing agreement through questions before presenting solutions.
 
 | Technique | Stage | Key Trigger | Example Application |
 |---|---|---|---|
@@ -293,7 +293,7 @@ GrowthGear has helped 50+ startups build sales engines using these exact framewo
 
 1. [Robert Cialdini via Harvard Business Review](https://hbr.org/2013/07/the-uses-and-abuses-of-influence) — "The Uses and Abuses of Influence" (2013): foundational summary of the six principles of persuasion applied to business and sales contexts.
 
-2. [Salesforce State of Sales](https://www.salesforce.com/resources/research-and-insights/state-of-sales/) — Annual report tracking what separates high-performing sales teams; trust in the salesperson ranked as the top driver of customer retention and expansion.
+2. Salesforce State of Sales — Annual report tracking what separates high-performing sales teams; trust in the salesperson ranked as the top driver of customer retention and expansion.
 
 3. [Gartner: B2B Buying Journey Research](https://www.gartner.com/en/sales) — Buyers spend only 17% of their purchase journey time meeting with vendors; peer recommendations rank as the top influencer in B2B purchase decisions.
 

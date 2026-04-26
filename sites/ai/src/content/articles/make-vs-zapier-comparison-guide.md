@@ -120,7 +120,7 @@ The "13x more operations per dollar" comparison — 10,000 ops at $9 versus 750 
 
 ## Features and AI Capabilities
 
-Both Make and Zapier have expanded AI capabilities significantly, but their core architectures favor different use cases. Make's visual canvas enables complex conditional logic, data transformation, and multi-branch AI pipelines. Zapier's guided editor and 7,000-app ecosystem favor rapid deployment and breadth of coverage. According to Gartner's [2025 Business Automation Market Analysis](https://www.gartner.com/en/information-technology/insights/automation), over 50% of enterprise automation buyers now prioritize multi-step data handling as a primary purchase criterion — the exact capability where Make's architecture differentiates.
+Both Make and Zapier have expanded AI capabilities significantly, but their core architectures favor different use cases. Make's visual canvas enables complex conditional logic, data transformation, and multi-branch AI pipelines. Zapier's guided editor and 7,000-app ecosystem favor rapid deployment and breadth of coverage. According to Gartner's 2025 Business Automation Market Analysis, over 50% of enterprise automation buyers now prioritize multi-step data handling as a primary purchase criterion — the exact capability where Make's architecture differentiates.
 
 ### Make's Visual Canvas and Advanced Logic
 
@@ -200,7 +200,7 @@ The decision isn't about which platform is objectively better — it's about whi
 - **You need data transformation** — iterators, aggregators, and the formula editor handle messy real-world data that simple field-mapping connectors cannot parse
 - **You have technical capacity** — Make rewards investment in learning; teams with at least one operations-minded employee get full value from the platform within a few weeks
 
-According to McKinsey Global Institute research on [automation and productivity](https://www.mckinsey.com/featured-insights/future-of-work/a-future-that-works-automation-employment-and-productivity), automation can reduce routine task time by 40-70% — a ROI that justifies the learning investment in more capable tools when workflows are complex.
+According to McKinsey Global Institute research on automation and productivity, automation can reduce routine task time by 40-70% — a ROI that justifies the learning investment in more capable tools when workflows are complex.
 
 ### Choose Zapier If...
 
@@ -247,5 +247,5 @@ Choosing between Make and Zapier is the starting point — the real value comes 
 
 1. [Make.com Pricing](https://www.make.com/en/pricing) — Core plan: $9/month for 10,000 operations/month; Free plan: 1,000 operations/month (2026)
 2. [Zapier Pricing](https://zapier.com/pricing) — Professional plan: $19.99/month for 750 tasks/month; Free plan: 100 tasks, 5 Zaps (2026)
-3. [Gartner 2025 Business Automation Market Analysis](https://www.gartner.com/en/information-technology/insights/automation) — "Over 50% of enterprise automation buyers prioritize multi-step data handling as a primary purchase criterion" (2025)
-4. [McKinsey Global Institute: A Future That Works](https://www.mckinsey.com/featured-insights/future-of-work/a-future-that-works-automation-employment-and-productivity) — Automation can reduce routine task time by 40-70% (2017, foundational automation research)
+3. Gartner 2025 Business Automation Market Analysis — "Over 50% of enterprise automation buyers prioritize multi-step data handling as a primary purchase criterion" (2025)
+4. McKinsey Global Institute: A Future That Works — Automation can reduce routine task time by 40-70% (2017, foundational automation research)

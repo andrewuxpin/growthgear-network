@@ -262,4 +262,4 @@ Building high-performance expansion revenue into your sales motion requires the 
 
 1. [Harvard Business Review](https://hbr.org/2014/10/the-value-of-keeping-the-right-customers) — "Acquiring a new customer is anywhere from five to 25 times more expensive than retaining an existing one." (2014)
 2. [Salesforce State of Sales](https://www.salesforce.com/resources/research-reports/state-of-sales/) — Top-performing sales reps spend measurably more time connecting product capability to customer outcomes, including in expansion and upselling contexts. (Annual report)
-3. [HubSpot Sales Blog](https://blog.hubspot.com/sales/upselling-cross-selling) — Frameworks and research on upselling and cross-selling techniques for B2B sales teams. (2024)
+3. HubSpot Sales Blog — Frameworks and research on upselling and cross-selling techniques for B2B sales teams. (2024)

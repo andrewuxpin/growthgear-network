@@ -253,5 +253,5 @@ GrowthGear has helped 50+ ecommerce and DTC brands build growth engines that del
 1. McKinsey & Company — "Companies that systematically test and iterate marketing experiments grow 2.3x faster" (2023 Growth Report)
 2. [Adobe Digital Economy Index](https://business.adobe.com/resources/digital-economy-index.html) — "Over 60% of ecommerce revenue comes from repeat customers" (2022)
 3. [Klaviyo Ecommerce Benchmark Report](https://www.klaviyo.com/resources/benchmark-report) — "Abandoned cart sequences recover an average of 15% of lost revenue" (2023)
-4. [Nielsen Trust in Advertising Report](https://www.nielsen.com/insights/2022/trust-and-advertising/) — "92% of consumers trust peer recommendations over other advertising" (2022)
+4. Nielsen Trust in Advertising Report — "92% of consumers trust peer recommendations over other advertising" (2022)
 5. [Ahrefs Research](https://ahrefs.com/blog/ecommerce-seo/) — "Ecommerce sites with optimized category pages earn 4.7x more organic traffic" (2023)

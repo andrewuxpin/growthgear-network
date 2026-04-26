@@ -372,7 +372,7 @@ Building a cold outreach motion that actually books meetings takes the right com
 
 ## Sources & References
 
-1. [HubSpot Email Marketing Research](https://blog.hubspot.com/sales/cold-email) — "Personalized emails generate 6x higher transaction rates than generic alternatives" (2024)
+1. HubSpot Email Marketing Research — "Personalized emails generate 6x higher transaction rates than generic alternatives" (2024)
 2. [Salesforce State of Sales Report](https://www.salesforce.com/resources/research-reports/state-of-sales/) — Data on buyer touch requirements and response preferences across B2B sales (2024)
 3. [SalesHacker Cold Email Benchmarks](https://www.saleshacker.com/cold-email/) — Cold email reply rate benchmarks by personalization level: 1-3% generic, 15-25% highly personalized (2024)
 4. [LinkedIn Sales Solutions](https://business.linkedin.com/sales-solutions) — Data on social selling and prospecting signal identification for B2B outreach (2024)

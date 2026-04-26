@@ -1,6 +1,6 @@
 ---
 title: "How to Create Winning Sales Presentation Templates: Complete Guide for 2024"
-description: "Learn how to create winning sales presentation templates that close deals. Expert tips, proven frameworks, and actionable strategies to boost your sales success."
+description: "Learn how to create winning sales presentation templates that close deals. Expert tips, proven frameworks, and actionable strategies to boost your..."
 category: "sales-techniques"
 author:
   name: "GrowthGear Team"

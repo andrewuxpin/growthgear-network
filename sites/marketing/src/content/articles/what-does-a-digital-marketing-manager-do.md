@@ -233,7 +233,7 @@ GrowthGear has helped 50+ startups build marketing teams and campaigns that deli
 
 ## Sources & References
 
-1. [Gartner Digital Advertising Forecast](https://www.gartner.com/en/marketing/insights/articles/digital-advertising-forecast) — Global digital advertising spend exceeded $740 billion in 2025 (Gartner, 2025)
+1. Gartner Digital Advertising Forecast — Global digital advertising spend exceeded $740 billion in 2025 (Gartner, 2025)
 2. [Content Marketing Institute B2B Content Marketing Report](https://contentmarketinginstitute.com/articles/b2b-content-marketing-research/) — Marketers who document their strategy are 538% more likely to report success (CMI, 2024)
 3. [McKinsey State of AI in Marketing](https://www.mckinsey.com/capabilities/growth-marketing-and-sales/our-insights/the-state-of-ai) — 71% of marketing managers use AI tools for content, ad optimization, or personalization (McKinsey, 2024)
 4. [HubSpot State of Marketing Report 2024](https://www.hubspot.com/state-of-marketing) — Data analysis and interpretation ranked #1 skill valued by hiring managers (HubSpot, 2024)

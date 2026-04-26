@@ -1,6 +1,6 @@
 ---
 title: "How to Build a Sales Pipeline From Scratch: Complete Guide for 2024"
-description: "Learn how to build a sales pipeline from scratch with proven strategies, templates, and best practices. Boost conversions and revenue with our step-by-step guide."
+description: "Learn how to build a sales pipeline from scratch with proven strategies, templates, and best practices. Boost conversions and revenue with our..."
 category: "sales-techniques"
 author:
   name: "GrowthGear Team"

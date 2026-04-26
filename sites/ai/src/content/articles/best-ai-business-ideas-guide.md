@@ -284,7 +284,7 @@ Whether you're deciding between models or ready to land your first client, Growt
 
 ## Sources & References
 
-1. [McKinsey & Company — The State of AI in Early 2024](https://www.mckinsey.com/capabilities/quantumblack/our-insights/the-state-of-ai-in-early-2024) — 65% of organizations now regularly use generative AI, up from 33% a year prior (2024)
+1. McKinsey & Company — The State of AI in Early 2024 — 65% of organizations now regularly use generative AI, up from 33% a year prior (2024)
 2. [Grand View Research — Artificial Intelligence Market Analysis](https://www.grandviewresearch.com/industry-analysis/artificial-intelligence-ai-market) — Global AI market projected CAGR of 28.5% through 2030 (2024)
 3. [Stanford HAI — AI Index Report 2025](https://aiindex.stanford.edu/report/) — Global private AI investment reached $131 billion in 2024, up 28% year-over-year (2025)
-4. [Gartner — Survey Shows AI Adoption Still Growing](https://www.gartner.com/en/newsroom/press-releases/2024-06-17-gartner-survey-shows-artificial-intelligence-adoption-still-growing) — Projection that 80%+ of enterprises will deploy generative AI applications by 2026 (2024)
+4. Gartner — Survey Shows AI Adoption Still Growing — Projection that 80%+ of enterprises will deploy generative AI applications by 2026 (2024)

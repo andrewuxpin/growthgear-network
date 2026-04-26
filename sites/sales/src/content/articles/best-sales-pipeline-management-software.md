@@ -232,7 +232,7 @@ To measure pipeline software ROI, track three core metrics before and after impl
 
 **2. Stage conversion rate**: The percentage of deals that advance from each stage to the next. Pipeline software makes it possible to identify exactly where deals are dying — whether at demo scheduling, proposal send, or contract review. A stage conversion problem is a coaching problem, not a volume problem.
 
-**3. Forecast accuracy**: The delta between your weekly forecast and actual closed revenue. Most teams without pipeline software forecast at 60-70% accuracy. Teams with clean pipeline data and structured stage definitions consistently hit 85-95% accuracy according to data from [HubSpot's sales pipeline benchmarks](https://blog.hubspot.com/sales/how-to-manage-a-sales-pipeline).
+**3. Forecast accuracy**: The delta between your weekly forecast and actual closed revenue. Most teams without pipeline software forecast at 60-70% accuracy. Teams with clean pipeline data and structured stage definitions consistently hit 85-95% accuracy according to data from HubSpot's sales pipeline benchmarks.
 
 ### Community Perspective: What Sales Teams Report After Deployment
 
@@ -269,7 +269,7 @@ The right sales pipeline management software does not just organize your deals �
 ## Sources & References
 
 1. [Salesforce State of Sales Report](https://www.salesforce.com/resources/research-reports/state-of-sales/) — "High-performing sales teams are 2.8x more likely to use sales analytics platforms than underperforming teams." (2023)
-2. [HubSpot Sales Pipeline Management Guide](https://blog.hubspot.com/sales/how-to-manage-a-sales-pipeline) — Forecast accuracy benchmarks for teams with and without structured pipeline processes. (2024)
+2. HubSpot Sales Pipeline Management Guide — Forecast accuracy benchmarks for teams with and without structured pipeline processes. (2024)
 3. [Pipedrive](https://www.pipedrive.com) — Pipeline visualization design and activity-based selling methodology. (2024)
 4. [G2 CRM Software Rankings](https://www.g2.com/categories/crm) — User satisfaction and ease-of-use scores across CRM and pipeline management software categories. (2025)
 5. [Gartner Sales Technology Research](https://www.gartner.com/en/sales) — CRM as the largest enterprise software category; pipeline analytics adoption trends. (2024)

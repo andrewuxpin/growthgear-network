@@ -86,7 +86,7 @@ For each platform you manage, create:
 - **3-5 caption frameworks** (hook, body, CTA structures that work for your brand)
 - **A hashtag library** of 20-30 validated hashtags per platform, organized by topic cluster
 
-A content library — a shared folder of approved brand images, logos, product shots, and b-roll clips — eliminates the "where is that asset?" time drain that kills scheduling sessions. [Buffer's 2024 State of Social report](https://buffer.com/state-of-social-media) found that teams using pre-built templates produce content 62% faster than those creating posts from scratch.
+A content library — a shared folder of approved brand images, logos, product shots, and b-roll clips — eliminates the "where is that asset?" time drain that kills scheduling sessions. Buffer's 2024 State of Social report found that teams using pre-built templates produce content 62% faster than those creating posts from scratch.
 
 ## The Best Tools for Managing Multiple Accounts
 
@@ -236,5 +236,5 @@ GrowthGear has helped 50+ startups build multi-channel social media systems that
 
 1. [Sprout Social 2024 Social Media Index](https://sproutsocial.com/insights/social-media-statistics/) — "63% of social media managers report platform proliferation as their top source of burnout" (2024)
 2. [HubSpot State of Marketing Report 2024](https://blog.hubspot.com/marketing/social-media-marketing) — "Brands focusing social effort on 2-3 high-performing channels see 47% higher engagement rates than those distributing budget across 5+ channels" (2024)
-3. [Buffer State of Social 2024](https://buffer.com/state-of-social-media) — "Teams using pre-built templates produce content 62% faster than those creating posts from scratch; accounts posting at platform-optimal times see 36% higher initial reach" (2024)
+3. Buffer State of Social 2024 — "Teams using pre-built templates produce content 62% faster than those creating posts from scratch; accounts posting at platform-optimal times see 36% higher initial reach" (2024)
 4. [LinkedIn Social Selling Index 2024](https://business.linkedin.com/sales-solutions/social-selling) — "Sales professionals in the top quartile of social activity close 45% more deals than those in the bottom quartile" (2024)

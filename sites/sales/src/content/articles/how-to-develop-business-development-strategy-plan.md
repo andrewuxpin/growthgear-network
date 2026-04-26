@@ -1,6 +1,6 @@
 ---
 title: "How to Develop a Business Development Strategy Plan: Complete Guide for 2024"
-description: "Learn how to develop a business development strategy plan with our complete guide. Get actionable templates, examples, and proven frameworks to grow your business."
+description: "Learn how to develop a business development strategy plan with our complete guide. Get actionable templates, examples, and proven frameworks to grow..."
 category: "sales-techniques"
 author:
   name: "GrowthGear Team"

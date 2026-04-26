@@ -1,6 +1,6 @@
 ---
 title: "Content Marketing for Small Business: Complete Guide"
-description: "Build a content marketing strategy for your small business. Proven tactics, formats, and ROI measurement that help lean marketing teams grow fast with limited budgets."
+description: "Build a content marketing strategy for your small business. Proven tactics, formats, and ROI measurement that help lean marketing teams grow fast with..."
 category: "content-marketing"
 author:
   name: "GrowthGear Team"

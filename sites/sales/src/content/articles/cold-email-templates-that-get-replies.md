@@ -363,7 +363,7 @@ Building a cold email system that consistently books meetings takes the right te
 
 ## Sources & References
 
-- HubSpot Sales Blog — Cold Email Research and Benchmarks: https://blog.hubspot.com/sales/cold-email
+- HubSpot Sales Blog — Cold Email Research and Benchmarks: 
 - Salesforce — State of Sales Report: https://www.salesforce.com/resources/research-reports/state-of-sales/
 - SalesHacker — Outbound Sales Methodology and Benchmarks: https://www.saleshacker.com
 - Harvard Business Review — Sales and Buyer Behavior Research: https://hbr.org/topic/subject/sales

@@ -260,7 +260,7 @@ Whether you're building your first email sequence or running a multi-channel con
 1. [Litmus 2021 State of Email Report](https://www.litmus.com/resources/email-marketing-roi/) — "Email marketing delivers an average return of $36 for every $1 spent" (2021)
 2. [Campaign Monitor Email Benchmarks](https://www.campaignmonitor.com/resources/guides/email-marketing-benchmarks/) — "Welcome emails generate 4x the open rate and 5x the click-through rate of standard promotional emails" (2023)
 3. [HubSpot Research: Marketing Statistics](https://www.hubspot.com/marketing-statistics) — "Personalized email subject lines improve open rates by 26%; inbound campaigns cost 61% less per lead than outbound" (2024)
-4. [Omnisend E-commerce Statistics](https://www.omnisend.com/blog/marketing-statistics/) — "Multi-channel campaigns drive 287% higher purchase rates than single-channel campaigns" (2023)
+4. Omnisend E-commerce Statistics — "Multi-channel campaigns drive 287% higher purchase rates than single-channel campaigns" (2023)
 5. [Content Marketing Institute B2B Content Marketing Report](https://contentmarketinginstitute.com/research/) — "Content marketing generates 3x more leads per dollar than outbound; 58% of B2B marketers rate webinars as the most effective mid-funnel format" (2024)
 6. [Nielsen Trust in Advertising](https://www.nielsen.com/insights/2021/global-trust-in-advertising/) — "92% of consumers trust user-generated content more than traditional brand advertising" (2021)
 7. [Hootsuite Social Media Trends Report](https://www.hootsuite.com/research/social-trends) — "Average organic reach on Facebook has declined to approximately 5% of a Page's total followers" (2024)
