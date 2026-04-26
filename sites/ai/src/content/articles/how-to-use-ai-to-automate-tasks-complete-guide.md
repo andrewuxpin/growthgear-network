@@ -134,7 +134,7 @@ This documentation becomes the specification for your automation. If you can't d
 
 ### Step 2: Choose the Right Tool Layer
 
-AI automation typically involves two layers working together:
+AI automation typically involves two layers working together. If you're evaluating managed [AI automation services](/ai-tools/ai-automation-services-guide) rather than self-configuring tools, that guide covers the full category breakdown — from RPA platforms to agentic AI services — and includes a vendor evaluation framework with ROI calculation.
 
 **Orchestration layer** (connects apps and triggers workflows):
 - **Zapier** — best for non-technical teams; connects 6,000+ apps, visual workflow builder

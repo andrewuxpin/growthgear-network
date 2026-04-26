@@ -43,7 +43,7 @@ callout:
 
 Make.com is the automation platform that business teams reach for when Zapier's task limits start costing real money. Formerly known as Integromat, Make.com connects 1,800+ apps through a visual canvas builder — and at $9/month for 10,000 operations, it delivers significantly more automation capacity per dollar than comparable tools.
 
-This guide covers everything you need to build your first Make.com automation: how the platform works, a step-by-step scenario setup walkthrough, a clear pricing breakdown, and a direct comparison with Zapier and n8n to help you choose the right tool for your stack.
+This guide covers everything you need to build your first Make.com automation: how the platform works, a step-by-step scenario setup walkthrough, a clear pricing breakdown, and a direct comparison with Zapier and n8n to help you choose the right tool for your stack. For a broader view of the automation landscape — including enterprise RPA platforms, agentic AI, and ML-powered options — see our guide to [AI automation services](/ai-tools/ai-automation-services-guide).
 
 ## What Is Make.com? (Formerly Integromat)
 
