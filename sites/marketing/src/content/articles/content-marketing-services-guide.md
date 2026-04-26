@@ -236,7 +236,7 @@ This model gives you brand control and strategic ownership without the overhead 
 
 Pair your content marketing service with strong [lead generation fundamentals](https://sales.growthgear.com.au/b2b-sales/best-lead-generation-strategies-b2b-companies) to convert the organic traffic it builds into pipeline. If you're integrating AI tools into your content production workflow, [understanding how to implement AI in your business](https://ai.growthgear.com.au/machine-learning/how-to-implement-ai-in-business-complete-guide) can significantly cut research and first-draft production time.
 
-For a deeper look at how content and SEO amplify each other, the article on [how SEO and content marketing work together](/seo/how-seo-and-content-marketing-work-together) explains how to build content assets that compound in value over time.
+For a deeper look at how content and SEO amplify each other, the article on [how SEO and content marketing work together](/seo/how-seo-and-content-marketing-work-together) explains how to build content assets that compound in value over time. And if you're building the internal business case for a content investment, our [benefits of content marketing guide](/content-marketing/benefits-of-content-marketing) provides the lead generation, CAC, and ROI data that justify the budget.
 
 ---
 

@@ -48,7 +48,7 @@ This guide breaks down 10 real-world examples — spanning blogs, video, podcast
 
 ## What Makes a Content Marketing Example Worth Studying?
 
-A content marketing example is worth studying when it generated **measurable, attributable business results** — not just traffic or likes. The examples in this guide drove leads, reduced customer acquisition costs, built brand authority, or accelerated sales cycles. Vanity metrics don't count.
+A content marketing example is worth studying when it generated **measurable, attributable business results** — not just traffic or likes. The examples in this guide drove leads, reduced customer acquisition costs, built brand authority, or accelerated sales cycles. Vanity metrics don't count. For data and benchmarks behind each of these benefits, see our [benefits of content marketing breakdown](/content-marketing/benefits-of-content-marketing).
 
 Three criteria separate high-performing content from average content:
 

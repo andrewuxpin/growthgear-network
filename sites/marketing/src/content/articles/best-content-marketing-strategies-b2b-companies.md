@@ -33,7 +33,7 @@ According to the Content Marketing Institute, 91% of B2B marketers use content m
 
 B2B buyers have fundamentally changed how they research and purchase solutions. Gartner research shows that B2B buyers spend only 17% of their time meeting with potential suppliers when considering a purchase. The majority of their journey happens independently, consuming content to educate themselves and build confidence in their decisions.
 
-This shift makes content marketing not just important, but essential for B2B success. Companies that excel at content marketing generate 67% more leads than those that don't, according to DemandMetric research.
+This shift makes content marketing not just important, but essential for B2B success. Companies that excel at content marketing generate 67% more leads than those that don't, according to DemandMetric research. For a full breakdown of each business advantage — from lower customer acquisition costs to long-term domain authority — see our [benefits of content marketing guide](/content-marketing/benefits-of-content-marketing).
 
 ## Understanding Your B2B Content Marketing Foundation
 
