@@ -45,7 +45,7 @@ Most B2B sales leaders know their average cycle length. Far fewer know which sta
 
 The B2B sales cycle is the backbone of predictable revenue. Every quarter you miss quota, there's a good chance the answer isn't a pipeline volume problem — it's a cycle efficiency problem. Deals that should close in 60 days routinely bleed into 120 because of avoidable delays: missing stakeholders, unclear next steps, and proposals that go unanswered.
 
-This guide breaks down the six core stages of the B2B sales cycle, the benchmarks that separate average from high-performing teams, and the specific tactics that compress cycle length without cutting corners on qualification.
+This guide breaks down the six core stages of the B2B sales cycle, the benchmarks that separate average from high-performing teams, and the specific tactics that compress cycle length without cutting corners on qualification. For practical execution-level advice at each stage, the [B2B sales tips guide](/b2b-sales/b2b-sales-tips-guide) covers 12 specific strategies for prospecting, multi-stakeholder discovery, and closing.
 
 If you've already built your [B2B sales strategy](/b2b-sales/b2b-sales-strategy-guide) and mapped your [pipeline stages](/b2b-sales/sales-pipeline-stages-guide), this is the natural next step: understanding how long each stage should take and what to do when it doesn't.
 

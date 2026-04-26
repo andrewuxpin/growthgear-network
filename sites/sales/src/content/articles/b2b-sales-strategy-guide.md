@@ -72,7 +72,7 @@ Mapping these roles in your CRM — and tracking which stakeholders you've engag
 | Key channel | Email, LinkedIn, phone | Social ads, SEO, retail |
 | Post-sale risk | High (churn = large revenue loss) | Lower (per-unit impact smaller) |
 
-Understanding these differences is why generic "sales tips" fail in B2B. Every tactic in your strategy must account for committee buying, extended timelines, and the need to justify spend to a finance team that didn't initiate the purchase.
+Understanding these differences is why generic "sales tips" fail in B2B. Every tactic in your strategy must account for committee buying, extended timelines, and the need to justify spend to a finance team that didn't initiate the purchase. For execution-level tactics that work specifically in B2B environments, the [B2B sales tips guide](/b2b-sales/b2b-sales-tips-guide) covers 12 specific strategies across prospecting, discovery, and closing.
 
 ## Define Your Ideal Customer Profile and Target Market
 

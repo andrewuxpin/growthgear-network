@@ -43,7 +43,7 @@ callout:
 
 Sales prospecting is the engine that keeps every pipeline full. Yet according to HubSpot's 2024 State of Sales Report, 40% of salespeople identify prospecting as the hardest part of their job — harder than closing, handling objections, or qualifying. The reason isn't complexity. It's inconsistency.
 
-This guide gives you a system: the six most effective prospecting techniques, a cadence framework that works at scale, and the metrics to know when it's working.
+This guide gives you a system: the six most effective prospecting techniques, a cadence framework that works at scale, and the metrics to know when it's working. Once your pipeline is generating qualified conversations, the [B2B sales tips guide](/b2b-sales/b2b-sales-tips-guide) covers how to execute discovery, manage multi-stakeholder deals, and close more of the opportunities you've prospected.
 
 ## What Is Sales Prospecting (and Why It's Different from Lead Gen)
 
