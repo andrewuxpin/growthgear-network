@@ -122,6 +122,8 @@ Key features:
 
 **Pricing**: Starter from $18/month; Growth from $40/month.
 
+Later's Pinterest scheduling is particularly effective when paired with a keyword-first publishing approach — see our guide on [how Pinterest works as a visual search engine](/social-media/is-pinterest-social-media-marketing-guide) for the strategy that makes Pinterest scheduling worth the investment.
+
 > **Pro tip:** Later's best-time-to-post suggestions are calculated from your specific account's historical engagement data — not industry averages. The recommendations improve in accuracy over 6-8 weeks as the tool accumulates more data points from your actual audience.
 
 ---

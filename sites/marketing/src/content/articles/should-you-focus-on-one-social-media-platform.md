@@ -95,7 +95,7 @@ The logic: B2B buyers use LinkedIn to vet vendors and YouTube to evaluate produc
 **B2C businesses** often benefit from platform pairs that serve different intent stages:
 - Awareness: TikTok or Instagram Reels (discovery)
 - Consideration: Instagram static + stories (product education)
-- Conversion: Pinterest (intent-driven product discovery)
+- Conversion: [Pinterest](/social-media/is-pinterest-social-media-marketing-guide) (intent-driven product discovery)
 
 HubSpot's State of Marketing Report found that B2C brands running coordinated campaigns across two complementary platforms generate 58% more conversions than those running isolated single-platform campaigns — but only when the content is adapted for each channel's native behavior.
 

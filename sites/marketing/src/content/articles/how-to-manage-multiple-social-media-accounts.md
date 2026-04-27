@@ -53,7 +53,7 @@ Managing multiple social media accounts efficiently starts with architecture, no
 
 **Before managing multiple accounts, decide which accounts actually deserve resources.** The default instinct — "we should be on every platform" — produces mediocre content everywhere. A single well-executed platform outperforms four underperforming ones.
 
-Base your platform selection on two signals: where your target audience is most active, and where your content type performs best. For B2B brands, LinkedIn and X (formerly Twitter) typically deliver the highest qualified engagement. For consumer brands with visual products, Instagram and TikTok outperform LinkedIn significantly. Pinterest drives consistent traffic for lifestyle, retail, and DIY brands — a channel worth adding before you [decide whether to focus on one platform or many](/social-media/should-you-focus-on-one-social-media-platform).
+Base your platform selection on two signals: where your target audience is most active, and where your content type performs best. For B2B brands, LinkedIn and X (formerly Twitter) typically deliver the highest qualified engagement. For consumer brands with visual products, Instagram and TikTok outperform LinkedIn significantly. [Pinterest](/social-media/is-pinterest-social-media-marketing-guide) drives consistent traffic for lifestyle, retail, and DIY brands — a channel worth adding before you [decide whether to focus on one platform or many](/social-media/should-you-focus-on-one-social-media-platform).
 
 | Platform | Best For | Primary Content Format | Posting Frequency |
 |---|---|---|---|
