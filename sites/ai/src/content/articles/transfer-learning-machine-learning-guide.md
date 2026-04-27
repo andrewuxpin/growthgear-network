@@ -156,7 +156,7 @@ With transfer learning from ImageNet-pre-trained models like EfficientNet or Res
 
 A [Nature paper on transfer learning in industrial inspection](https://www.nature.com/articles/s41586-021-03819-2) documented 40% accuracy improvements over from-scratch models on small manufacturing datasets.
 
-This is directly relevant to the broader [computer vision applications](/deep-learning/what-is-computer-vision-applications) landscape — virtually every modern production computer vision system starts from a pre-trained backbone.
+This is directly relevant to the broader [computer vision applications](/deep-learning/what-is-computer-vision-applications) landscape — virtually every modern production computer vision system starts from a pre-trained backbone. Teams that want to validate a visual classification problem before committing to production infrastructure can start with [Google Teachable Machine](/ai-tools/google-teachable-machine-guide), which applies MobileNet-based transfer learning through a browser interface with no code required—typically producing a proof-of-concept model in under 20 minutes.
 
 ### NLP: Customer Intelligence at Scale
 

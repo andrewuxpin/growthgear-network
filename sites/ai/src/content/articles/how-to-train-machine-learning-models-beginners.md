@@ -140,7 +140,7 @@ Selecting the appropriate algorithm depends on several factors:
 | Regression | Linear Regression | Random Forest, SVR | Neural Networks, Gradient Boosting |
 | Clustering | K-means | K-means, Hierarchical | K-means, DBSCAN |
 
-For a complete reference on each algorithm's strengths, minimum data requirements, and business use cases, see our [machine learning algorithms and applications guide](/machine-learning/machine-learning-algorithms-and-applications-guide).
+For a complete reference on each algorithm's strengths, minimum data requirements, and business use cases, see our [machine learning algorithms and applications guide](/machine-learning/machine-learning-algorithms-and-applications-guide). Teams without coding experience can bypass algorithm selection entirely with [Google Teachable Machine](/ai-tools/google-teachable-machine-guide), a free browser-based tool that handles the full training pipeline for image, sound, and pose classifiers—no code required.
 
 ### Step 4: Set Up Your Development Environment
 

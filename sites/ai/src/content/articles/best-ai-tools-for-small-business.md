@@ -102,6 +102,8 @@ For small businesses handling more than 5 automated workflows per day, Make.com'
 
 **Otter.ai** (free for 300 minutes/month; Pro at $16.99/month) transcribes meetings, generates summaries, and extracts action items automatically. The Pro plan adds vocabulary customization for industry terms and integrates with Zoom, Google Meet, and Microsoft Teams. For sales teams or client-service businesses spending 10+ hours per week in meetings, Otter.ai makes every conversation searchable and actionable. Pair it with the [best AI productivity tools for business](/ai-tools/best-ai-productivity-tools-for-business) stack for a full operations upgrade.
 
+Teams that need a custom ML classifier—for visual quality checks, document sorting, or gesture-based interfaces—can prototype with [Google Teachable Machine](/ai-tools/google-teachable-machine-guide), a free browser-based tool that trains image, sound, and pose models without any coding in under 20 minutes.
+
 > **Ready to implement AI in your business?** GrowthGear's team has helped 50+ startups integrate AI solutions that drive real results. [Book a Free Strategy Session](https://growthgear.com.au) to discuss which AI tools will have the highest ROI for your specific business model.
 
 ## Best AI Tools for Sales and Customer Service
