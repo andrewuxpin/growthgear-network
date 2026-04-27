@@ -135,7 +135,7 @@ LinkedIn is the highest-ROI channel for most B2B sales teams targeting mid-marke
 - **Warm intro requests**: Leveraging 2nd-degree connections via mutual contacts produces 5-8x higher response rates than cold outreach to the same account.
 - **Content engagement before outreach**: Thoughtfully commenting on a prospect's posts or sharing relevant content before sending a connection request significantly increases reply rates.
 
-Align your LinkedIn strategy with your [content marketing approach](https://marketing.growthgear.com.au/content-marketing/best-content-marketing-strategies-b2b-companies) — prospects who've engaged with your brand content before receiving outreach convert at measurably higher rates than cold contacts.
+Align your LinkedIn strategy with your [content marketing approach](https://marketing.growthgear.com.au/content-marketing/best-content-marketing-strategies-b2b-companies) — prospects who've engaged with your brand content before receiving outreach convert at measurably higher rates than cold contacts. For a broader view of how different B2B sales strategies compare in practice, see our roundup of [sales strategy examples that drive B2B growth](/sales-techniques/sales-strategy-examples-that-drive-b2b-growth).
 
 ### AI-Assisted Prospecting
 

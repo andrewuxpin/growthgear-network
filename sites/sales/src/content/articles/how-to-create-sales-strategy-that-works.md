@@ -149,7 +149,7 @@ An example framework for a B2B SaaS company:
 | Negotiation | Proposal reviewed | Pricing discussion, objection handling | Verbal agreement reached |
 | Closed Won/Lost | Decision made | Contract signed or loss documented | Deal outcome recorded |
 
-For a complete guide to building and managing this pipeline structure, [how to build a sales pipeline from scratch](/sales-techniques/how-to-build-sales-pipeline-from-scratch) goes deeper on pipeline architecture and stage design.
+For a complete guide to building and managing this pipeline structure, [how to build a sales pipeline from scratch](/sales-techniques/how-to-build-sales-pipeline-from-scratch) goes deeper on pipeline architecture and stage design. For concrete examples of how different B2B companies structure their complete sales strategies across inbound, outbound, and ABM, see our guide to [sales strategy examples that drive B2B growth](/sales-techniques/sales-strategy-examples-that-drive-b2b-growth).
 
 ### Choosing Your Sales Methodology
 

@@ -88,7 +88,7 @@ Developed by Neil Rackham at Huthwaite through analysis of 35,000 sales calls, S
 
 ### 3. The Challenger Sale
 
-The Challenger approach, documented by Gartner researchers Matthew Dixon and Brent Adamson, involves teaching buyers something new about their business, tailoring the message to specific stakeholders, and taking control of the sales conversation. According to their research, 40% of high-performing sales reps in complex deals use a Challenger-style approach, while only 7% of low performers do.
+The Challenger approach, documented by Gartner researchers Matthew Dixon and Brent Adamson, involves teaching buyers something new about their business, tailoring the message to specific stakeholders, and taking control of the sales conversation. According to their research, 40% of high-performing sales reps in complex deals use a Challenger-style approach, while only 7% of low performers do. To see how the Challenger Sale fits within a broader sales motion alongside inbound, ABM, and outbound strategies, see our guide on [proven sales strategy examples for B2B teams](/sales-techniques/sales-strategy-examples-that-drive-b2b-growth).
 
 The three moves of the Challenger Sale:
 - **Teach**: Share a counterintuitive insight that reframes how the buyer sees their problem
