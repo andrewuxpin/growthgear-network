@@ -170,7 +170,7 @@ Key features:
 
 **Pricing**: Free.
 
-Meta Business Suite's limitation is obvious: it only covers Meta properties. If you're also active on LinkedIn, TikTok, or X, you'll need a separate analytics layer or manual aggregation across platform-native dashboards.
+Meta Business Suite's limitation is obvious: it only covers Meta properties. If you're also active on LinkedIn, TikTok, or X, you'll need a separate analytics layer or manual aggregation across platform-native dashboards. When deciding which platforms to prioritize, [which social media platform pays the most for advertisers and creators](/social-media/which-social-media-platform-pays-the-most) compares advertising ROAS and creator economics across every major channel.
 
 ### Google Analytics 4 for Social Attribution
 

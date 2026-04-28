@@ -140,6 +140,8 @@ Here's how the major platforms compare across key dimensions for business growth
 
 Key insight: **TikTok and YouTube offer the highest organic reach** because both platforms actively distribute content to non-followers based on quality signals. If you're starting from zero, these two give you the fastest path to initial traction — assuming your content format matches. YouTube's dual function as a social platform and search engine makes it uniquely valuable; see our full breakdown in [is YouTube social media and how to use it for marketing](/social-media/is-youtube-social-media-marketing-guide).
 
+Beyond organic reach, understanding what each platform actually pays — both to creators and advertisers — shapes investment priorities. See [which social media platform pays the most for creators and brands](/social-media/which-social-media-platform-pays-the-most) for CPM rates, advertising ROAS benchmarks, and influencer pricing across all major platforms.
+
 ### Matching Content Format to Platform Strength
 
 The most common platform selection mistake is choosing based on audience demographics alone without accounting for content format fit. A business that can produce excellent written content will struggle on TikTok, even if their audience is technically there. Choose the platform where your content *type* thrives:
