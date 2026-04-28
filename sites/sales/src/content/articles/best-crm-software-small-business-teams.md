@@ -86,7 +86,7 @@ Data-driven insights help small teams make informed decisions:
 
 ## Top CRM Software Solutions for Small Business Teams
 
-For a side-by-side comparison of these platforms and more options beyond the small business segment, see our complete [CRM software examples guide for sales teams](/crm-tools/crm-software-examples-sales-teams).
+For a side-by-side comparison of these platforms and more options beyond the small business segment, see our complete [CRM software examples guide for sales teams](/crm-tools/crm-software-examples-sales-teams). Teams in service industries or agencies that need project management features alongside their CRM should also see our [best client management software comparison](/crm-tools/best-client-management-software), which covers platforms that combine sales pipelines with client delivery workflows.
 
 ### 1. HubSpot CRM
 
