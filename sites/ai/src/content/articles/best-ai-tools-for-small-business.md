@@ -74,7 +74,7 @@ The highest-ROI category for small businesses is content and marketing. AI writi
 
 **Claude Pro** ($20/month) from Anthropic is the strongest alternative for long-form writing that requires consistent brand voice or complex reasoning. Claude handles 200,000-token context windows on Pro — useful for feeding it a full style guide or existing article library before generating new content. Many business owners run both ChatGPT and Claude on the same budget, using each for different content types. For a detailed comparison of AI writing tools, see our [best AI writing tools for business](/ai-tools/best-ai-writing-tools-for-business) guide.
 
-**Canva AI** (free tier; Pro at $15/month) solves the design bottleneck that stalls most small business content pipelines. Magic Studio — Canva's AI suite — includes text-to-image generation, background removal, one-click video editing, and the Magic Write copy assistant. For businesses without a designer, Canva AI replaces $50-200/hour freelance design costs on social graphics, presentations, and ad creatives.
+**Canva AI** (free tier; Pro at $15/month) solves the design bottleneck that stalls most small business content pipelines. Magic Studio — Canva's AI suite — includes text-to-image generation, background removal, one-click video editing, and the Magic Write copy assistant. For businesses without a designer, Canva AI replaces $50-200/hour freelance design costs on social graphics, presentations, and ad creatives. For dedicated AI video production — text-to-video generation, avatar platforms, and social clip repurposing tools — see [best AI video tools for business](/ai-tools/best-ai-video-tools-for-business).
 
 ### AI SEO and Content Strategy Tools
 
