@@ -87,7 +87,7 @@ Three properties make CNNs effective for visual data:
 - Long-range dependencies across large images (transformers outperform here at scale)
 - Small datasets without transfer learning
 
-CNNs form the backbone of nearly every visual AI system deployed in production. If your business involves [computer vision applications](/deep-learning/what-is-computer-vision-applications) — quality control, retail analytics, medical imaging — CNNs are almost certainly part of the stack.
+CNNs form the backbone of nearly every visual AI system deployed in production. If your business involves [computer vision applications](/deep-learning/what-is-computer-vision-applications) — quality control, retail analytics, medical imaging — CNNs are almost certainly part of the stack. For a detailed implementation guide covering CNN architectures (ResNet, EfficientNet, MobileNet), training data requirements, and deployment options, see our [CNN image classification guide](/deep-learning/convolutional-neural-network-image-classification-guide).
 
 ## Recurrent and Sequence-Based Networks
 

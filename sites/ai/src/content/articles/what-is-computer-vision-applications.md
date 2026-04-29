@@ -50,7 +50,7 @@ The technology works by:
 ### Software Components
 - **Image processing libraries**: OpenCV, PIL, scikit-image
 - **Machine learning frameworks**: TensorFlow, PyTorch, Keras
-- **Pre-trained models**: YOLO, ResNet, VGG — the foundation for [transfer learning in computer vision](/deep-learning/transfer-learning-machine-learning-guide), enabling high accuracy with minimal training data. These are convolutional neural networks — one of several [types of neural networks](/deep-learning/types-of-neural-networks-complete-guide) used across AI applications
+- **Pre-trained models**: YOLO, ResNet, VGG — the foundation for [transfer learning in computer vision](/deep-learning/transfer-learning-machine-learning-guide), enabling high accuracy with minimal training data. These are convolutional neural networks — one of several [types of neural networks](/deep-learning/types-of-neural-networks-complete-guide) used across AI applications. See our [complete guide to CNN image classification](/deep-learning/convolutional-neural-network-image-classification-guide) for architecture comparisons and implementation approaches
 - **Custom algorithms**: Tailored for specific applications
 
 ## 15 Revolutionary Computer Vision Applications

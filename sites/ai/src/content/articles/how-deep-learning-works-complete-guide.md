@@ -123,7 +123,7 @@ Business applications of CNNs:
 - **Retail**: Visual product search, shelf-stock monitoring, and planogram compliance
 - **Security**: License plate recognition, perimeter monitoring
 
-CNNs dominated computer vision from 2012 (AlexNet) through 2020. For more on how they fit into the broader neural network family, see our [types of neural networks guide](/deep-learning/types-of-neural-networks-complete-guide).
+CNNs dominated computer vision from 2012 (AlexNet) through 2020. For more on how they fit into the broader neural network family, see our [types of neural networks guide](/deep-learning/types-of-neural-networks-complete-guide). For a practical breakdown of CNN architectures and how to implement image classification in your business, see our [CNN image classification guide](/deep-learning/convolutional-neural-network-image-classification-guide).
 
 ### Recurrent Neural Networks and LSTMs
 
