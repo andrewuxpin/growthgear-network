@@ -57,7 +57,7 @@ A full-service digital agency offers breadth: they can rebuild your website, run
 
 An SMMA trades breadth for depth. Platform algorithm updates, creative format changes, and audience targeting options shift constantly. A dedicated SMMA tracks these changes daily, which translates into faster campaign adjustments, better creative quality, and higher platform-specific performance.
 
-For businesses where social media drives a meaningful share of leads or revenue, the depth argument typically wins. For businesses that need light social maintenance alongside significant work in other channels, a full-service agency may be more cost-effective.
+For businesses where social media drives a meaningful share of leads or revenue, the depth argument typically wins. For businesses that need light social maintenance alongside significant work in other channels, a full-service agency may be more cost-effective. If you're evaluating whether to build broader digital marketing capabilities — or start an agency yourself — our guide on [how to start a digital marketing agency](/content-marketing/how-to-start-a-digital-marketing-agency) covers the full service mix and pricing structures in detail.
 
 ### The Two SMMA Business Models
 

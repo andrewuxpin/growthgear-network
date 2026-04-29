@@ -49,7 +49,7 @@ This guide covers everything marketing managers and growth leaders need to know:
 
 A marketing automation agency builds and manages the automated systems that move prospects through your funnel — from first contact through closed deal. They handle email sequences, lead scoring models, CRM integrations, campaign analytics, and cross-channel workflows, so your marketing runs 24/7 without manual intervention.
 
-The distinction from a general [digital marketing platforms](/content-marketing/best-digital-marketing-platforms-for-business) provider is specialization. Automation agencies own the middle of your funnel: the infrastructure that converts existing traffic into pipeline. They don't typically generate traffic; they convert it.
+The distinction from a general [digital marketing platforms](/content-marketing/best-digital-marketing-platforms-for-business) provider is specialization. Automation agencies own the middle of your funnel: the infrastructure that converts existing traffic into pipeline. They don't typically generate traffic; they convert it. If you're considering the broader landscape of agency models — from full-service to specialist — our guide on [how to start a digital marketing agency](/content-marketing/how-to-start-a-digital-marketing-agency) explains how different agency types are structured and priced.
 
 ### Core Service Offerings
 
