@@ -63,7 +63,7 @@ The fix: Identify the economic buyer early. [Qualifying leads using BANT criteri
 
 Without a reason to decide now, most prospects choose the comfort of the status quo. Urgency isn't manufactured through artificial pressure—it's uncovered by helping the prospect quantify the cost of inaction.
 
-The fix: Calculate the cost of waiting. If your solution saves $40,000 per month in operational costs, every month of delay costs them $40,000. When the math is explicit, urgency becomes real.
+The fix: Calculate the cost of waiting. If your solution saves $40,000 per month in operational costs, every month of delay costs them $40,000. When the math is explicit, urgency becomes real. For the broader set of tactical moves that create and sustain momentum across the deal, see our guide on [sales tactics that close deals](/sales-techniques/sales-tactics-that-close-deals).
 
 > **Looking to accelerate your sales growth?** GrowthGear has helped 50+ startups build sales engines that deliver 156% average growth. [Book a Free Strategy Session](https://growthgear.com.au) to map out your closing strategy and fix the gaps that are costing you deals.
 

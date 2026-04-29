@@ -77,7 +77,7 @@ Build a referral engine by:
 
 ## Discovery Techniques That Surface Real Buying Motivations
 
-Discovery is where most deals are won or lost—long before the demo or proposal. Salespeople who invest more in discovery close more deals because they understand real pain, stakeholder dynamics, and decision criteria before presenting. The goal of discovery is not to gather information—it's to help the buyer articulate their own problem until the solution becomes obvious.
+Discovery is where most deals are won or lost—long before the demo or proposal. Salespeople who invest more in discovery close more deals because they understand real pain, stakeholder dynamics, and decision criteria before presenting. The goal of discovery is not to gather information—it's to help the buyer articulate their own problem until the solution becomes obvious. For a complete map of which [sales tactics](/sales-techniques/sales-tactics-that-close-deals) to deploy at each pipeline stage, from first contact through close, see our dedicated tactics guide.
 
 ### SPIN Selling: The Question Framework That Works
 
