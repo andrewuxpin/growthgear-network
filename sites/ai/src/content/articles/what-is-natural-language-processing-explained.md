@@ -112,7 +112,7 @@ Representing text as a collection of word frequencies, ignoring grammar and word
 Weighting words based on their frequency in a document relative to their frequency across all documents.
 
 #### Word Embeddings
-Representing words as dense numerical vectors that capture semantic relationships:
+[Word embeddings](/deep-learning/what-is-word-embedding-in-nlp) represent words as dense numerical vectors that capture semantic relationships:
 - **Word2Vec**: Learns word relationships from context
 - **GloVe**: Global vectors for word representation
 - **FastText**: Handles out-of-vocabulary words better

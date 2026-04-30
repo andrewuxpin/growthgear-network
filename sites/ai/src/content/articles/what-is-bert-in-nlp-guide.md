@@ -152,7 +152,7 @@ Teams investing in [AI tools for digital marketing automation](https://marketing
 
 ### Document Classification and Sentiment Analysis
 
-Fine-tuned BERT models classify documents with far greater accuracy than TF-IDF or word embedding baselines, particularly for short texts where context matters. Real-world applications include:
+Fine-tuned BERT models classify documents with far greater accuracy than TF-IDF or [word embedding](/deep-learning/what-is-word-embedding-in-nlp) baselines, particularly for short texts where context matters. Real-world applications include:
 
 - **Support ticket routing**: Classifying incoming tickets by product area, urgency, or resolution type. A fine-tuned BERT classifier on 5,000 labeled tickets typically achieves 85–92% accuracy on 10–20 routing categories.
 - **Email intent classification**: Identifying whether an inbound email is a sales inquiry, complaint, renewal, or spam — enabling automatic CRM routing. Integrating with [CRM software](https://sales.growthgear.com.au/crm-tools/best-crm-software-small-business-teams) via BERT-powered intake reduces manual triage by 60–80%.

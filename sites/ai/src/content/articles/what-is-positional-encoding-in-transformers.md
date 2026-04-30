@@ -59,7 +59,7 @@ In practice, even modest reordering changes meaning in ways that downstream NLP 
 
 ### Position Injection at the Embedding Layer
 
-Each input token is first converted to a high-dimensional embedding vector — typically 512 to 4096 dimensions depending on model size. Positional encoding produces a second vector of the same dimension, encoding the token's index, and sums the two before passing the result into the first attention layer.
+Each input token is first converted to a high-dimensional [word embedding](/deep-learning/what-is-word-embedding-in-nlp) vector — typically 512 to 4096 dimensions depending on model size. Positional encoding produces a second vector of the same dimension, encoding the token's index, and sums the two before passing the result into the first attention layer.
 
 This addition preserves the semantic content of the token embedding while modulating it with positional information. The transformer's attention layers then receive embeddings encoding both *what* the token means and *where* it appears. The two signals are entangled throughout all subsequent layers, shaping how attention scores are computed at every position.
 
