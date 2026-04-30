@@ -43,7 +43,7 @@ callout:
 
 Email marketing returns $36 for every $1 spent, according to Litmus research — making it the [highest-ROI channel in digital marketing](/content-marketing/benefits-of-email-marketing). Yet most businesses capture only a fraction of that potential, sending generic campaigns to unsegmented lists and wondering why results plateau.
 
-The gap between average and exceptional email performance comes down to execution. The 12 best practices in this guide separate brands that treat email as a broadcast tool from those that use it as a precision revenue engine. Each practice is actionable, measurable, and grounded in how real email programs perform at scale.
+The gap between average and exceptional email performance comes down to execution. The 12 best practices in this guide separate brands that treat email as a broadcast tool from those that use it as a precision revenue engine. Each practice is actionable, measurable, and grounded in how real email programs perform at scale. For inspiration before you build, browse [email marketing examples across every campaign type](/content-marketing/email-marketing-examples-that-drive-results) — from welcome sequences to re-engagement campaigns.
 
 ### How We Evaluated These Best Practices
 

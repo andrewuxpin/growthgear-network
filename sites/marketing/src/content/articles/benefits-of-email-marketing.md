@@ -60,7 +60,7 @@ The channel's economics favor businesses at every size. A startup with 500 subsc
 
 Paid advertising delivers results only while the budget runs. Turn off the spend, and the leads stop. Email works differently: a well-built list retains value indefinitely, and every new subscriber adds to future revenue potential without additional acquisition cost.
 
-The compounding effect accelerates with automation. A single well-constructed welcome sequence, abandoned cart flow, or re-engagement campaign runs continuously without manual effort — generating revenue from emails you built once, months or years ago. GrowthGear clients who invest in building email infrastructure early consistently see this compounding effect contribute to their [156% average growth](https://growthgear.com.au) within 12-18 months.
+The compounding effect accelerates with automation. A single well-constructed welcome sequence, abandoned cart flow, or re-engagement campaign runs continuously without manual effort — generating revenue from emails you built once, months or years ago. For a practical set of proven structures to adapt, see [email marketing examples that drive results](/content-marketing/email-marketing-examples-that-drive-results). GrowthGear clients who invest in building email infrastructure early consistently see this compounding effect contribute to their [156% average growth](https://growthgear.com.au) within 12-18 months.
 
 Well-maintained lists also appreciate in quality over time. Subscribers who have been on your list for 6-12 months and consistently engage have demonstrated purchase intent — they're worth significantly more per email than new subscribers, and they remain in your list at no ongoing cost.
 
