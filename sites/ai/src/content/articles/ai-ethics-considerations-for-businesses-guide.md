@@ -395,7 +395,7 @@ The rise of generative AI brings unique challenges:
 
 Implementing ethical AI practices isn't just a regulatory requirement—it's a strategic imperative for businesses seeking long-term success in an AI-driven economy. Organizations that proactively address AI ethics considerations will build stronger customer relationships, reduce regulatory risks, and create sustainable competitive advantages.
 
-The key to success lies in treating AI ethics as an integral part of business strategy rather than an afterthought. This requires ongoing commitment, diverse perspectives, robust governance frameworks, and continuous learning and adaptation.
+The key to success lies in treating AI ethics as an integral part of business strategy rather than an afterthought. This requires ongoing commitment, diverse perspectives, robust governance frameworks, and continuous learning and adaptation. To translate these principles into operational policy, see our [AI governance for business guide](/machine-learning/ai-governance-for-business-guide) — it covers the EU AI Act, NIST AI RMF, risk classification, and the four-phase implementation plan that converts ethical intent into enforceable practice.
 
 As AI technology continues to evolve rapidly, businesses must remain vigilant and adaptive in their ethical approaches. Those that do will not only avoid potential pitfalls but will also lead in creating a more trustworthy and beneficial AI ecosystem for all stakeholders.
 

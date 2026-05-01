@@ -158,7 +158,7 @@ To build [your client acquisition strategy](https://sales.growthgear.com.au/b2b-
 
 ### AI Consulting and Strategy
 
-AI consulting businesses help organizations understand, plan, and implement AI across their operations. Unlike automation agencies, consultants typically operate at a strategic level — advising on AI roadmaps, vendor selection, build-versus-buy decisions, governance frameworks, and ROI measurement.
+AI consulting businesses help organizations understand, plan, and implement AI across their operations. Unlike automation agencies, consultants typically operate at a strategic level — advising on AI roadmaps, vendor selection, build-versus-buy decisions, [governance frameworks](/machine-learning/ai-governance-for-business-guide), and ROI measurement.
 
 The strongest AI consulting practices specialize by industry or function rather than positioning as generalist AI advisors. GrowthGear has consistently seen AI consultants achieve faster traction when they focus on one vertical (healthcare, legal, financial services, logistics) or one functional area (marketing AI, sales AI, operations AI) where they bring existing domain credibility.
 

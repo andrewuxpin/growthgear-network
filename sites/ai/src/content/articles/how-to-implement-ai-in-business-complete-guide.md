@@ -273,7 +273,7 @@ When evaluating AI vendors and solutions, consider these factors:
 - Deploy AI solutions to broader user base
 - Integrate multiple AI components
 - Develop internal training programs
-- Establish governance frameworks
+- Establish governance frameworks — see the [AI governance for business guide](/machine-learning/ai-governance-for-business-guide) for a complete policy and compliance framework
 
 #### Phase 3: Optimization (Months 9-12)
 
