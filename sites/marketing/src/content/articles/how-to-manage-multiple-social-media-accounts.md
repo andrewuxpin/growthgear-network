@@ -47,7 +47,7 @@ The solution is not fewer platforms or more hours. It is a system: a defined wor
 
 ## Building Your Multi-Platform Social Media System
 
-Managing multiple social media accounts efficiently starts with architecture, not execution. Define which platforms you will operate, build a platform-specific content framework for each, and create reusable assets before you schedule a single post. Teams that skip this phase spend 3x more time on execution and produce less consistent results.
+Managing multiple social media accounts efficiently starts with architecture, not execution. Define which platforms you will operate, build a platform-specific content framework for each, and create reusable assets before you schedule a single post. Teams that also invest in [building a strong brand identity on social media](/social-media/how-to-build-a-brand-on-social-media) before expanding to multiple accounts find the transition significantly smoother — documented brand guidelines make cross-platform consistency far easier to maintain.
 
 ### Choose Your Core Platforms First
 
