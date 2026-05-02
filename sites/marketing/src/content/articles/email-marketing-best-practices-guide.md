@@ -71,7 +71,7 @@ Each segment gets different messaging, cadence, and CTAs. A new subscriber shoul
 
 ### Practice 3: Maintain List Hygiene Every 90 Days
 
-Remove or re-engage subscribers who haven't opened in 90 days. Send a re-engagement sequence (2-3 emails asking if they want to stay subscribed), then remove non-responders. Hard bounces should be removed immediately. Soft bounces after 3 consecutive failures. Keeping an inflated, unengaged list destroys your sender reputation and inbox placement rates.
+Remove or re-engage subscribers who haven't opened in 90 days. Send a [re-engagement drip campaign](/content-marketing/drip-campaign-guide) (2-3 emails asking if they want to stay subscribed), then remove non-responders. Hard bounces should be removed immediately. Soft bounces after 3 consecutive failures. Keeping an inflated, unengaged list destroys your sender reputation and inbox placement rates.
 
 > **Common mistake:** Many marketers keep unengaged subscribers "in case they come back." In practice, dead contacts drag down your domain's engagement signals and push active campaigns into spam folders. A smaller, engaged list always outperforms a large, disengaged one.
 

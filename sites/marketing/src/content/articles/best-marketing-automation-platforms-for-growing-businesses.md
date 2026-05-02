@@ -171,7 +171,7 @@ The most common implementation failure is trying to automate everything at once.
 
 ### Workflow 1: Lead Nurture Sequence (5-7 emails, 21-28 days)
 
-A lead nurture sequence converts new leads into sales-qualified prospects by delivering educational content based on their stated or inferred interest. According to [HubSpot Research](https://www.hubspot.com/marketing-statistics), nurtured leads make purchases that are 47% larger than non-nurtured leads. For the full picture of how nurture sequences fit within a broader inbound funnel, see [how email marketing fuels your inbound strategy](/content-marketing/how-email-marketing-fuels-inbound-strategy).
+A lead nurture sequence converts new leads into sales-qualified prospects by delivering educational content based on their stated or inferred interest. According to [HubSpot Research](https://www.hubspot.com/marketing-statistics), nurtured leads make purchases that are 47% larger than non-nurtured leads. For a step-by-step guide to building and automating these sequences, see the [drip campaign guide](/content-marketing/drip-campaign-guide). For the full picture of how nurture sequences fit within a broader inbound funnel, see [how email marketing fuels your inbound strategy](/content-marketing/how-email-marketing-fuels-inbound-strategy).
 
 Structure:
 - **Day 0**: Welcome + primary resource (the content they requested or the page they converted on)
