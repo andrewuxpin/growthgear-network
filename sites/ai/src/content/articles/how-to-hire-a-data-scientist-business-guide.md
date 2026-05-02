@@ -103,6 +103,8 @@ Not every role requires deep learning expertise. Be specific about what you need
 
 For context on how [machine learning algorithms work in business applications](/machine-learning/machine-learning-algorithms-and-applications-guide), read our overview of the core methods.
 
+To understand exactly how much Python and SQL depth to require by role tier — and which screening questions reveal real-world data skills — see our complete guide on [does data science require coding](/machine-learning/does-data-science-require-coding-guide).
+
 ### What to Evaluate in a Candidate's Past Work
 
 Beyond the interview, ask for evidence of shipped work. The strongest signal is a GitHub repository or portfolio with code the candidate wrote for a real project — not a tutorial dataset. What to look for:

@@ -86,6 +86,8 @@ In small teams, one person often does both. The distinction matters most at hiri
 
 The skills required for data analytics and data science diverge most at the coding depth and statistical sophistication needed. Analysts need proficiency; scientists need expertise. This gap directly explains the salary differential and the 18–36 month career path between the two roles.
 
+For a precise breakdown of which languages each role needs, at what coding depth, and how to screen candidates effectively, see our guide on [does data science require coding](/machine-learning/does-data-science-require-coding-guide).
+
 ### The Data Analytics Stack
 
 A mid-level data analyst is typically proficient in the following tools and skills:
