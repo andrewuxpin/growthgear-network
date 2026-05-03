@@ -40,7 +40,7 @@ callout:
   content: "Most reps check their pipeline count, not quality. A pipeline full of stale deals gives false confidence — review deal age and confirmed next steps weekly."
 ---
 
-Most salespeople don't miss quota because they lack effort. They miss because their strategies are reactive rather than systematic. The top 20% of salespeople who consistently hit quota share a set of repeatable behaviors: deliberate prospecting, structured deal management, disciplined time allocation, and weekly performance reviews.
+Most salespeople don't miss quota because they lack effort. They miss because their strategies are reactive rather than systematic. The top 20% of salespeople who consistently hit quota share a set of repeatable behaviors: deliberate prospecting, structured deal management, disciplined time allocation, and weekly performance reviews. Identifying candidates who already demonstrate these behaviors is where team-wide consistency begins — the right [B2B sales interview questions](/b2b-sales/b2b-sales-interview-questions) help you screen for process discipline before day one.
 
 This guide breaks down each of those behaviors into actionable tactics you can implement this week.
 

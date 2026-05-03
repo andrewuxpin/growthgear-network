@@ -61,7 +61,7 @@ This means your sales process must accommodate multi-threaded conversations, ext
 
 Teams with a documented sales process don't just close more deals — they close them faster and with less discounting. HubSpot research shows that sales teams with a defined process close 33% more deals than those without one. The reason: reps spend time on the right activities at the right stage rather than improvising.
 
-A documented process also accelerates onboarding. New reps ramp 30–50% faster when there's a clear playbook to follow, according to data from CSO Insights. For fast-growing B2B teams, this speed-to-productivity advantage compounds quickly. Pairing your process with the right [sales tactics at each stage](/sales-techniques/sales-tactics-that-close-deals) is what converts a documented framework into consistent deal outcomes.
+A documented process also accelerates onboarding. New reps ramp 30–50% faster when there's a clear playbook to follow, according to data from CSO Insights. For fast-growing B2B teams, this speed-to-productivity advantage compounds quickly. Pairing your process with the right [sales tactics at each stage](/sales-techniques/sales-tactics-that-close-deals) is what converts a documented framework into consistent deal outcomes. Hiring reps who already understand structured sales methodology accelerates this further — [B2B sales interview questions](/b2b-sales/b2b-sales-interview-questions) that probe process knowledge and quota attainment history help you identify those candidates before day one.
 
 ## Stages 1–2: Prospecting and Qualifying Leads
 
