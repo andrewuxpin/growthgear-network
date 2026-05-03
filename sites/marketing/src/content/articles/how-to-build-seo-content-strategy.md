@@ -50,7 +50,7 @@ This guide walks through a four-step framework for building an SEO content strat
 
 An SEO content strategy is a systematic plan for creating and publishing content that ranks in search engines, attracts qualified visitors, and moves them toward a business goal. It differs from ad hoc blogging in that every piece is planned before it's written, with a target keyword, defined intent, and a clear role in the site's topic architecture.
 
-The distinction matters commercially. According to [HubSpot's State of Marketing report](https://www.hubspot.com/state-of-marketing), businesses that publish blog content consistently generate 55% more website visitors than those that don't — but that advantage only compounds when content is coordinated rather than random.
+The distinction matters commercially. According to [HubSpot's State of Marketing report](https://www.hubspot.com/state-of-marketing), businesses that publish blog content consistently generate 55% more website visitors than those that don't — but that advantage only compounds when content is coordinated rather than random. For teams where blogging is the primary content channel, a [blog marketing strategy](/content-marketing/blog-marketing-strategy-guide) provides the editorial system that turns this coordination from concept into execution.
 
 ### Three Pillars of an Effective SEO Content Strategy
 

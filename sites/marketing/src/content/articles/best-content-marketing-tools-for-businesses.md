@@ -41,7 +41,7 @@ callout:
   content: "Start with one creation tool and one SEO tool. Mastering two tools delivers more ROI than poorly using six."
 ---
 
-Most content marketing programs stall not because of bad strategy, but because of bad tools — or more precisely, the wrong mix of tools used in the wrong order. Before evaluating tools, make sure you have a [content marketing plan](/content-marketing/how-to-create-content-marketing-plan) in place — tools without a plan amplify activity, not results.
+Most content marketing programs stall not because of bad strategy, but because of bad tools — or more precisely, the wrong mix of tools used in the wrong order. Before evaluating tools, make sure you have a [content marketing plan](/content-marketing/how-to-create-content-marketing-plan) in place — tools without a plan amplify activity, not results. If blogging is your primary content channel, a dedicated [blog marketing strategy](/content-marketing/blog-marketing-strategy-guide) should precede tool selection so you choose platforms that fit your actual publishing workflow.
 
 A mid-sized marketing team juggling five disconnected platforms will consistently underperform a lean team with two well-integrated tools. The goal is not maximum tooling; it is the minimum stack that eliminates your biggest workflow bottlenecks.
 
