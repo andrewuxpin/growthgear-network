@@ -116,7 +116,7 @@ Successful AI implementation starts with well-defined goals. Consider these stra
 
 ### Business Process Analysis
 
-To identify the best AI implementation opportunities, conduct a thorough analysis of your business processes:
+To identify the best AI implementation opportunities, conduct a thorough analysis of your business processes. For a step-by-step framework specifically focused on process selection, ROI calculation, and automation rollout, the [AI business automation guide](/ai-tools/ai-business-automation-guide) provides a scoring matrix across finance, customer service, marketing, and HR workflows.
 
 #### High-Impact Areas for AI Implementation
 

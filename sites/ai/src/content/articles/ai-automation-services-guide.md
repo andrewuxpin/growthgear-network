@@ -71,7 +71,7 @@ Not every process benefits from AI automation. Three signals indicate a process 
 - **Input variation**: Inputs vary in format, source, or language, but the required output is always standardised
 - **Current labour cost**: A skilled team member spends more than 5 hours/week on it — that's $15,000+/year at typical professional rates
 
-If a process meets two of three criteria, it's a strong automation candidate. If it meets all three, automating it should be your immediate priority. Learning [how to use AI to automate tasks](/ai-tools/how-to-use-ai-to-automate-tasks-complete-guide) systematically — starting with process audits before tool selection — prevents the common mistake of automating low-value work first.
+If a process meets two of three criteria, it's a strong automation candidate. If it meets all three, automating it should be your immediate priority. Learning [how to use AI to automate tasks](/ai-tools/how-to-use-ai-to-automate-tasks-complete-guide) systematically — starting with process audits before tool selection — prevents the common mistake of automating low-value work first. For a structured cross-department approach covering process prioritization, tool selection, and ROI measurement, the [AI business automation guide](/ai-tools/ai-business-automation-guide) walks through the four-phase framework from audit to scale.
 
 ## The Four Types of AI Automation Services
 
