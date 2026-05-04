@@ -91,7 +91,7 @@ For deeper prospecting strategies, see the [sales prospecting techniques guide](
 
 ### LinkedIn Social Selling Tactics
 
-LinkedIn remains the highest-ROI prospecting channel for B2B sales. According to [LinkedIn Sales Solutions](https://business.linkedin.com/sales-solutions), social selling leaders create 45% more opportunities than peers with low social selling index scores.
+LinkedIn remains the highest-ROI prospecting channel for B2B sales. According to [LinkedIn Sales Solutions](https://business.linkedin.com/sales-solutions), social selling leaders create 45% more opportunities than peers with low social selling index scores. Online-first businesses that pair LinkedIn social selling with content-triggered outreach and intent data can amplify these results further — the full framework is in our guide to [sales techniques for online businesses](/sales-techniques/sales-techniques-for-online-businesses).
 
 Effective LinkedIn prospecting tactics:
 - **Content engagement first**: Like, comment, or share a prospect's post before connecting — this surfaces your name in their feed before the connection request

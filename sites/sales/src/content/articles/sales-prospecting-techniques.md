@@ -78,7 +78,7 @@ For teams with a geographic ICP component, a focused [local lead generation guid
 
 ## 6 Sales Prospecting Techniques That Actually Work
 
-The most effective prospecting programs combine outbound and social channels simultaneously. According to HubSpot's 2024 State of Sales Report, reps who prospect across three or more channels consistently outperform single-channel reps in both pipeline volume and deal win rates. The six techniques below form the core of a modern, multi-channel approach.
+The most effective prospecting programs combine outbound and social channels simultaneously. According to HubSpot's 2024 State of Sales Report, reps who prospect across three or more channels consistently outperform single-channel reps in both pipeline volume and deal win rates. The six techniques below form the core of a modern, multi-channel approach. For teams that sell primarily through digital channels, these techniques combine with virtual demo and proposal strategies covered in [sales techniques for online businesses](/sales-techniques/sales-techniques-for-online-businesses).
 
 ### Cold Email Prospecting
 
