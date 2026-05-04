@@ -134,7 +134,7 @@ Beyond the basic batch/stochastic/mini-batch distinction, the optimizer algorith
 
 ### SGD with Momentum
 
-Standard SGD accumulates a weighted moving average of past gradients (momentum) to smooth out noisy updates and accelerate movement through flat regions of the loss surface. The momentum parameter (typically 0.9) controls how much past gradient information is retained.
+Standard SGD accumulates a weighted moving average of past gradients (momentum) to smooth out noisy updates and accelerate movement through flat regions of the loss surface. The momentum parameter (typically 0.9) controls how much past gradient information is retained. This adaptive smoothing concept also appears outside ML entirely — [adaptive moving averages in time series analysis](/machine-learning/is-adaptive-moving-average-machine-learning) use a similar efficiency ratio to adjust smoothing speed without any gradient computation.
 
 **Best for**: Image classification with ResNets and other standard convolutional architectures, where SGD with momentum + cosine LR schedule often achieves slightly better final accuracy than Adam after full training.
 

@@ -47,7 +47,7 @@ This guide maps the core ML algorithm families to their business applications, w
 
 ## What Are Machine Learning Algorithms?
 
-Machine learning algorithms are mathematical procedures that learn patterns from data and use those patterns to make predictions or decisions on new, unseen inputs. Unlike traditional software that follows explicit human-written rules, ML algorithms infer rules from examples — the pattern is discovered, not programmed. Every algorithm makes a trade-off between predictive accuracy, interpretability, and computational cost.
+Machine learning algorithms are mathematical procedures that learn patterns from data and use those patterns to make predictions or decisions on new, unseen inputs. Unlike traditional software that follows explicit human-written rules, ML algorithms infer rules from examples — the pattern is discovered, not programmed. Not all adaptive systems qualify as ML: an [adaptive moving average](/machine-learning/is-adaptive-moving-average-machine-learning), for instance, self-adjusts using a fixed formula but never learns from training data. Every ML algorithm makes a trade-off between predictive accuracy, interpretability, and computational cost.
 
 ### The Three Learning Paradigms
 

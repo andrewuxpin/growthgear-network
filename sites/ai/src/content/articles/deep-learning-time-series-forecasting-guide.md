@@ -59,6 +59,8 @@ Classical forecasting methods — ARIMA, Holt-Winters, SARIMA — remain valid i
 - Explainability for regulators is a hard requirement
 - No external variables influence the target series
 
+For the simplest single-variable cases, [adaptive moving averages](/machine-learning/is-adaptive-moving-average-machine-learning) are worth considering before reaching for full deep learning — they self-adjust to trend and noise phases with zero training overhead.
+
 Deep learning becomes the better choice when:
 
 - **Data volume is large**: 10,000+ observations per series
