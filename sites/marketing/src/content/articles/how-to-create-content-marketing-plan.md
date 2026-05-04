@@ -135,7 +135,7 @@ Match your format to how your audience actually consumes content:
 | Original research report | Link building, PR | 20-40 hours each |
 | Podcast | Thought leadership, brand | 3-5 hours per episode |
 
-**Start with one format you can execute consistently.** Adding a second format before you have one working is a resource trap that undermines both. For most B2B teams, long-form blog content delivers the best sustained organic ROI — see [how to build a blog marketing strategy](/content-marketing/blog-marketing-strategy-guide) for a complete framework to make your company blog the core of your content program.
+**Start with one format you can execute consistently.** Adding a second format before you have one working is a resource trap that undermines both. For most B2B teams, long-form blog content delivers the best sustained organic ROI — see [how to build a blog marketing strategy](/content-marketing/blog-marketing-strategy-guide) for a complete framework to make your company blog the core of your content program. Once your primary format is working, expand using [25 proven content marketing ideas ranked by effort and impact](/content-marketing/content-marketing-ideas-proven-tactics) to choose where to grow next.
 
 ### Step 5 — Build Your Editorial Calendar
 

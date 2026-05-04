@@ -132,7 +132,7 @@ Use this filtering framework:
 - **Match intent**: informational for TOFU, commercial for MOFU/BOFU
 - **No cannibalization**: each keyword cluster gets one dedicated article
 
-Structure your blog around 3-5 pillar topics with 8-12 supporting articles per pillar. This hub-and-spoke architecture is how the highest-ranking B2B blogs build topical authority quickly — each supporting article links back to the pillar, concentrating domain authority upward. When building your keyword map, align it directly with your [content marketing plan](/content-marketing/how-to-create-content-marketing-plan) so topics serve both search intent and business goals.
+Structure your blog around 3-5 pillar topics with 8-12 supporting articles per pillar. This hub-and-spoke architecture is how the highest-ranking B2B blogs build topical authority quickly — each supporting article links back to the pillar, concentrating domain authority upward. When building your keyword map, align it directly with your [content marketing plan](/content-marketing/how-to-create-content-marketing-plan) so topics serve both search intent and business goals. For a ranked list of blog and content formats by effort and impact, see [25 proven content marketing ideas for business growth](/content-marketing/content-marketing-ideas-proven-tactics).
 
 ### Step 4: Create a 90-Day Editorial Calendar
 
