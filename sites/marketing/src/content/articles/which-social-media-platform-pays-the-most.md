@@ -222,7 +222,7 @@ The GrowthGear team has seen this play out consistently across the 50+ startups 
 
 ## Grow Your Social Media Revenue, Not Just Your Following
 
-Knowing which social media platform pays the most is the starting point — but translating that into real revenue requires matching platform economics to your specific audience, content capacity, and sales cycle. Whether you're building a creator monetization strategy or optimizing brand advertising ROI, the platforms that deliver results are the ones aligned with how your buyers actually make decisions.
+Knowing which social media platform pays the most is the starting point — but translating that into real revenue requires matching platform economics to your specific audience, content capacity, and sales cycle. For a complete breakdown of every monetization model available — from affiliate marketing and brand deals to digital products and paid communities — see [how to make money on social media](/social-media/how-to-make-money-on-social-media). Whether you're building a creator monetization strategy or optimizing brand advertising ROI, the platforms that deliver results are the ones aligned with how your buyers actually make decisions.
 
 GrowthGear helps growth-focused brands and marketing teams build platform investment strategies that connect social activity to pipeline and revenue — not just impressions and engagement.
 

@@ -234,7 +234,7 @@ Building a social media brand is an iterative process, not a one-time setup. Run
 - **Month 2**: Test one variable at a time. Try a different posting frequency, a new content format (video versus static image), a slightly different tone, or a new content pillar. Change only one thing per testing period.
 - **Month 3**: Double down on what worked. Remove from rotation any content type that underperformed for two consecutive months.
 
-Structured experimentation is what separates brands that grow from brands that plateau. Pairing social brand-building with a robust [lead generation strategy](https://sales.growthgear.com.au/b2b-sales/best-lead-generation-strategies-b2b-companies) ensures that the awareness your brand generates flows into a pipeline that converts it into revenue.
+Structured experimentation is what separates brands that grow from brands that plateau. Pairing social brand-building with a robust [lead generation strategy](https://sales.growthgear.com.au/b2b-sales/best-lead-generation-strategies-b2b-companies) ensures that the awareness your brand generates flows into a pipeline that converts it into revenue. Once your brand is established and your audience is engaged, [how to make money on social media](/social-media/how-to-make-money-on-social-media) gives you the full monetization framework — brand partnerships, affiliate marketing, digital products, and subscription communities — mapped to your audience size.
 
 > **Common mistake:** Don't test multiple variables in the same month. If you change both your posting frequency and your content format simultaneously, you won't know which change drove the results. One variable at a time is the discipline that makes testing actionable.
 
