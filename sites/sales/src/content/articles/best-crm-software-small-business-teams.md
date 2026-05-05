@@ -271,7 +271,7 @@ Create a checklist of essential features:
 
 ### 1. Choosing Features Over Usability
 
-While feature-rich platforms may seem appealing, complex systems often lead to poor user adoption. Prioritize ease of use and core functionality over extensive feature sets.
+While feature-rich platforms may seem appealing, complex systems often lead to poor user adoption. Prioritize ease of use and core functionality over extensive feature sets. If simplicity is your primary requirement, our [Less Annoying CRM review](/crm-tools/less-annoying-crm-review) covers a tool built entirely around this principle at $15/user/month flat.
 
 ### 2. Insufficient Training and Support
 

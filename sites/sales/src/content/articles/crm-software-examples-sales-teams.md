@@ -184,7 +184,7 @@ Less Annoying CRM lives up to its name. One plan, one price, no feature tiers, n
 
 **Limitations:** No native automation, email sequences, or AI features. Reporting is minimal. Not scalable past approximately 10 users before significant feature gaps appear.
 
-**Ideal for:** Solopreneurs and teams of 1-5 reps who need reliable relationship tracking without complexity, configuration overhead, or hidden upgrade costs.
+**Ideal for:** Solopreneurs and teams of 1-5 reps who need reliable relationship tracking without complexity, configuration overhead, or hidden upgrade costs. For a full breakdown of features, pricing, and how it compares to HubSpot and Pipedrive, see our [Less Annoying CRM review](/crm-tools/less-annoying-crm-review).
 
 ---
 
