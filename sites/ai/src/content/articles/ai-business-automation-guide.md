@@ -87,7 +87,7 @@ According to McKinsey's [State of AI 2024 report](https://www.mckinsey.com/capab
 
 ### High-Value Automation Candidates
 
-**Finance and accounts payable** is the most universally automatable back-office function. Invoice receipt, data extraction, three-way matching (PO, receipt, invoice), approval routing, and payment scheduling can all be handled by intelligent automation. Businesses processing 100+ invoices per month typically see 60–80% reduction in processing time.
+**Finance and accounts payable** is the most universally automatable back-office function. Invoice receipt, data extraction, three-way matching (PO, receipt, invoice), approval routing, and payment scheduling can all be handled by intelligent automation. Businesses processing 100+ invoices per month typically see 60–80% reduction in processing time. For a complete breakdown of AI tools purpose-built for finance teams — from FP&A platforms to AP automation to financial analytics — see our [best AI tools for finance teams guide](/ai-tools/best-ai-tools-for-finance).
 
 **Customer support triage** is the second highest-value target. AI can classify incoming support tickets, route to the right team, generate first-draft responses for common queries, and escalate edge cases. According to Salesforce's [State of Service 2024 report](https://www.salesforce.com/resources/research-reports/state-of-service/), service organizations using AI resolve cases 30% faster than those without.
 

@@ -127,7 +127,7 @@ Monday.com AI is available from the Standard plan ($12/seat/month with a minimum
 Key AI capabilities:
 
 - **AI automation builder**: Describe an automation rule in plain English — "When a task is marked Done, send a summary email to the client contact on this project" — and Monday.com builds the trigger-action logic without requiring you to navigate an automation rules interface.
-- **AI formula column**: Describe the calculation you need in natural language and the AI writes the formula. Useful for project health scores, budget tracking, and capacity calculations.
+- **AI formula column**: Describe the calculation you need in natural language and the AI writes the formula. Useful for project health scores, budget tracking, and capacity calculations. For dedicated finance department tools beyond project-level budget tracking, our [best AI tools for finance teams guide](/ai-tools/best-ai-tools-for-finance) covers FP&A platforms, expense management, and analytics tools.
 - **Board summary**: Generate a status overview of all items on a board in one click, formatted for executive review — on-track items, delayed items, and blockers separated.
 - **Update summarization**: Condense long update histories on any board item to the three most recent decisions and next steps.
 

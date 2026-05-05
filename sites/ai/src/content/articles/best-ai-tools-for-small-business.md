@@ -146,7 +146,7 @@ The most effective approach to small business AI adoption is sequential, not sim
 
 This three-tool stack costs $20-50/month and typically saves 8-15 hours per week once fully configured. GrowthGear has used this exact phased approach with 50+ startups — the businesses that see the fastest returns are those that commit to using each tool every day for 30 days before evaluating whether to keep or replace it.
 
-For founders using AI from day one, our [guide to using AI to start a business](/ai-tools/how-to-use-ai-to-start-a-business-guide) covers how to build your initial product, brand, and operations stack on AI tools from the ground up. Once you've established your AI foundation, our [guide to using AI to grow your business](/ai-tools/how-to-use-ai-to-grow-a-business-guide) covers how to scale marketing, sales, and operations with a systematic AI growth stack.
+For founders using AI from day one, our [guide to using AI to start a business](/ai-tools/how-to-use-ai-to-start-a-business-guide) covers how to build your initial product, brand, and operations stack on AI tools from the ground up. Once you've established your AI foundation, our [guide to using AI to grow your business](/ai-tools/how-to-use-ai-to-grow-a-business-guide) covers how to scale marketing, sales, and operations with a systematic AI growth stack. For AI tools tailored specifically to your finance function — covering FP&A platforms, expense management, and AP automation — our [best AI tools for finance teams guide](/ai-tools/best-ai-tools-for-finance) covers 9 tools with pricing and a decision framework by revenue stage.
 
 ### Common Mistakes to Avoid
 
