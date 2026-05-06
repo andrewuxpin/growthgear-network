@@ -190,7 +190,7 @@ The [TensorFlow Keras documentation](https://www.tensorflow.org/tutorials/keras/
 
 Dropout randomly deactivates a fraction of neurons during each training step, preventing the network from learning to rely on specific co-activations between particular nodes. Without dropout, deep networks develop brittle dependencies — specific neurons that fire together consistently, overfitting particular features of the training data.
 
-Introduced by Srivastava et al. at the University of Toronto and published in the [Journal of Machine Learning Research (2014)](https://jmlr.org/papers/v15/srivastava14a.html), dropout remains one of the most widely deployed regularization techniques for deep neural networks. Standard dropout rates are:
+Introduced by Srivastava et al. at the University of Toronto and published in the [Journal of Machine Learning Research (2014)](https://jmlr.org/papers/v15/srivastava14a.html), dropout remains one of the most widely deployed regularization techniques for deep neural networks. For a complete breakdown of variants, rates, and architecture-specific placement, see our [guide to dropout in deep learning](/deep-learning/what-is-dropout-in-deep-learning). Standard dropout rates are:
 
 - **Dense (fully connected) layers**: 0.3-0.5 dropout rate
 - **Convolutional layers**: 0.1-0.2 dropout rate (spatial structure warrants less aggressive dropout)

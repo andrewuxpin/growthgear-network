@@ -239,7 +239,7 @@ print(f"Average CV score: {scores.mean():.2f}")
 - Use more training data
 - Apply regularization techniques
 - Reduce model complexity
-- Use dropout (for neural networks)
+- Use [dropout](/deep-learning/what-is-dropout-in-deep-learning) (for neural networks)
 - Implement early stopping
 
 ### Underfitting

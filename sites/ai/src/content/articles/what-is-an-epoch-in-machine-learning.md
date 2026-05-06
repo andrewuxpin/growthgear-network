@@ -156,7 +156,7 @@ If your business is applying these concepts to deep neural network architectures
 
 ## Common Epoch Problems and How to Fix Them
 
-The two most common epoch-related problems are underfitting (too few epochs — the model hasn't learned enough) and overfitting (too many epochs — the model memorizes training data). Both degrade real-world performance. Early stopping, learning rate scheduling, and regularization techniques like dropout are the standard toolkit for managing epoch-related issues.
+The two most common epoch-related problems are underfitting (too few epochs — the model hasn't learned enough) and overfitting (too many epochs — the model memorizes training data). Both degrade real-world performance. Early stopping, learning rate scheduling, and regularization techniques like [dropout](/deep-learning/what-is-dropout-in-deep-learning) are the standard toolkit for managing epoch-related issues.
 
 ### Diagnosing Overfitting from Epoch Charts
 
