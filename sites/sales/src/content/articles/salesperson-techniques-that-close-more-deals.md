@@ -55,7 +55,7 @@ Use this opening structure:
 
 ### LinkedIn Outreach With Personalization at Scale
 
-LinkedIn's response rate for personalized InMail messages is 25-35% compared to 1-5% for generic sequences, according to [LinkedIn Sales Solutions data](https://business.linkedin.com/sales-solutions/blog). The key is finding a personalization hook for each prospect that takes 2-3 minutes of research, not 20. For online businesses combining LinkedIn with content-triggered outreach and intent data, these techniques form part of a broader digital-first playbook — see [sales techniques for online businesses](/sales-techniques/sales-techniques-for-online-businesses) for a step-by-step framework.
+LinkedIn's response rate for personalized InMail messages is 25-35% compared to 1-5% for generic sequences, according to [LinkedIn Sales Solutions data](https://business.linkedin.com/sales-solutions/blog). The key is finding a personalization hook for each prospect that takes 2-3 minutes of research, not 20. For online businesses combining LinkedIn with content-triggered outreach and intent data, these techniques form part of a broader digital-first playbook — see [sales techniques for online businesses](/sales-techniques/sales-techniques-for-online-businesses) for a step-by-step framework. For reps who are newer to the craft, the [sales techniques for beginners guide](/sales-techniques/sales-techniques-for-beginners) covers the foundational listening, qualifying, and closing skills to build before adding advanced outreach methods.
 
 Effective hooks include:
 - Commenting on a post they recently published

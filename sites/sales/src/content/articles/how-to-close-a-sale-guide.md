@@ -42,7 +42,7 @@ callout:
 
 Closing a sale is the moment your entire sales process has been building toward — yet it's where most reps lose deals they should have won. Not because they lack technique, but because they misunderstand what closing actually is.
 
-This guide covers the complete closing process: what it means, how to set it up correctly, how to read the room, and how to handle the objections that appear at the worst possible moment.
+This guide covers the complete closing process: what it means, how to set it up correctly, how to read the room, and how to handle the objections that appear at the worst possible moment. If you are new to selling, the [sales techniques for beginners guide](/sales-techniques/sales-techniques-for-beginners) covers the discovery and qualification work that makes the close far easier before you focus on closing technique itself.
 
 ## What Closing a Sale Actually Means (and Why Most Reps Get It Wrong)
 
