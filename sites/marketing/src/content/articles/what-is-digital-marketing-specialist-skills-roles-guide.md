@@ -90,7 +90,7 @@ Specialists who aren't comfortable in spreadsheets or dashboards will always be 
 
 ### SEO and Organic Search
 
-Even specialists who focus primarily on paid or social need a working understanding of SEO. Search intent shapes all content, and organic search remains one of the highest-ROI acquisition channels for B2B companies.
+Even specialists who focus primarily on paid or social need a working understanding of SEO. Search intent shapes all content, and organic search remains one of the highest-ROI acquisition channels for B2B companies. For a full overview of all eight [types of digital marketing](/content-marketing/types-of-digital-marketing-explained) that a well-rounded specialist should understand — including how each channel works, its typical costs, and how channels complement each other — our complete guide covers the full landscape.
 
 At minimum, a specialist should understand:
 - Keyword research and search intent mapping

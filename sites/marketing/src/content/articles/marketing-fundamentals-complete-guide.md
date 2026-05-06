@@ -93,7 +93,7 @@ According to Gartner research on B2B buying behavior, pricing strategy affects b
 
 ### Place: Channel Strategy Is a Fundamental Choice
 
-"Place" in the digital era means channel — where your customer encounters your brand. The wrong channel wastes budget even with perfect creative and positioning.
+"Place" in the digital era means channel — where your customer encounters your brand. The wrong channel wastes budget even with perfect creative and positioning. For a complete breakdown of all eight [types of digital marketing](/content-marketing/types-of-digital-marketing-explained) — from SEO and PPC to influencer and affiliate — see our channel comparison guide that covers cost, timeline, and audience fit for each.
 
 Channel selection should follow one rule: **go where your audience already is**. For most B2B businesses targeting growth-stage companies, that means LinkedIn, email, and [increasing organic website traffic](/seo/how-to-increase-organic-website-traffic-fast) through SEO. For B2C ecommerce, it likely means Instagram, Google Shopping, and email sequences.
 
