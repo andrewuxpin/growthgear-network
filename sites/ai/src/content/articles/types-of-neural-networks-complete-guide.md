@@ -41,7 +41,7 @@ These two architectures form the foundation of most practical deep learning. If 
 
 ### Feedforward Networks (Multilayer Perceptrons)
 
-A **feedforward network**, also called a multilayer perceptron (MLP), is the simplest neural network architecture. Data flows in one direction — from input through one or more hidden layers to an output — with no loops or cycles.
+A **[feedforward network](/deep-learning/feedforward-neural-network-guide)**, also called a multilayer perceptron (MLP), is the simplest neural network architecture. Data flows in one direction — from input through one or more hidden layers to an output — with no loops or cycles.
 
 Each neuron in a layer receives inputs from all neurons in the previous layer, applies a weighted sum, adds a bias, then passes the result through an [activation function (ReLU, sigmoid, or tanh)](/deep-learning/activation-functions-neural-networks-guide). The network learns by adjusting weights through backpropagation to minimize prediction error.
 

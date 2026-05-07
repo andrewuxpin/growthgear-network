@@ -73,7 +73,7 @@ The forward pass is the "inference" step. In production deployment, only the for
 
 Each neuron in a hidden layer computes the same basic operation: take the outputs from the previous layer, multiply each by a learned weight, sum them together with a bias term, and apply an activation function to introduce nonlinearity.
 
-The [choice of activation function](/deep-learning/activation-functions-neural-networks-guide) — ReLU, sigmoid, tanh, GELU — determines how gradients flow during backpropagation. This makes activation functions architecturally critical. ReLU (Rectified Linear Unit) passes positive values unchanged and zeros out negatives, producing a derivative of either 1 or 0. This behavior largely eliminates the vanishing gradient problem in feedforward networks, which is why ReLU became the default activation in deep learning after 2012.
+The [choice of activation function](/deep-learning/activation-functions-neural-networks-guide) — ReLU, sigmoid, tanh, GELU — determines how gradients flow during backpropagation. This makes activation functions architecturally critical. ReLU (Rectified Linear Unit) passes positive values unchanged and zeros out negatives, producing a derivative of either 1 or 0. This behavior largely eliminates the vanishing gradient problem in [feedforward networks](/deep-learning/feedforward-neural-network-guide), which is why ReLU became the default activation in deep learning after 2012.
 
 ### The Loss Function: Measuring Prediction Error
 

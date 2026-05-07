@@ -71,7 +71,7 @@ Five activation functions cover the vast majority of modern neural network use c
 
 ### ReLU (Rectified Linear Unit)
 
-ReLU is defined as f(x) = max(0, x): it outputs zero for any negative input and passes positive inputs unchanged. Popularized for deep learning by Nair and Hinton (2010) in their work on Restricted Boltzmann Machines, ReLU quickly became the standard activation for convolutional and feedforward networks.
+ReLU is defined as f(x) = max(0, x): it outputs zero for any negative input and passes positive inputs unchanged. Popularized for deep learning by Nair and Hinton (2010) in their work on Restricted Boltzmann Machines, ReLU quickly became the standard activation for convolutional and [feedforward networks](/deep-learning/feedforward-neural-network-guide).
 
 **Why ReLU dominates hidden layers:**
 - **Computationally cheap** — one comparison operation per neuron, no exponentials
