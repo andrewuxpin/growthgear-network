@@ -221,7 +221,7 @@ Sales intelligence tools like LinkedIn Sales Navigator, Apollo.io, and ZoomInfo 
 - **Buyer intent data**: Signals from Bombora or 6sense that prospects are actively researching solutions like yours
 - **Org charts**: Map all relevant stakeholders in a target account, not just the first contact you found
 
-For most B2B teams selling to mid-market and enterprise accounts, LinkedIn Sales Navigator is the essential starting point. Apollo.io provides a more accessible entry for early-stage teams with limited budgets.
+For most B2B teams selling to mid-market and enterprise accounts, LinkedIn Sales Navigator is the essential starting point. Apollo.io provides a more accessible entry for early-stage teams with limited budgets. For a complete comparison of these platforms with pricing, feature breakdowns, and stack-building guidance, see the [best lead generation tools guide](/sales-techniques/best-lead-generation-tools).
 
 ### AI-Powered Prospecting at Scale
 

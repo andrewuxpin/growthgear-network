@@ -194,7 +194,7 @@ A practical starting point: **linear attribution** (equal credit to each touchpo
 
 Building a lead generation technology stack requires four tool categories: CRM (to track and manage leads), lead intelligence (to find and enrich prospect data), outreach automation (to run email and LinkedIn sequences), and analytics (to measure performance). According to G2's research, companies using three or more integrated lead gen tools see up to 45% higher conversion rates compared to those relying on point solutions without integration.
 
-The goal is not the most tools — it's the right tools working together with clean data flowing between them.
+The goal is not the most tools — it's the right tools working together with clean data flowing between them. For a full breakdown of which platforms to choose at each layer, see our [best lead generation tools guide](/sales-techniques/best-lead-generation-tools).
 
 ### CRM Platforms for Lead Management
 
