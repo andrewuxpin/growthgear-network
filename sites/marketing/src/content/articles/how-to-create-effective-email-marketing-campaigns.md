@@ -152,6 +152,8 @@ Your subject line is the gatekeeper to your email content. With the average pers
 - Place key information above the fold
 - Use images strategically to support your message
 
+For proven email structures you can adapt across campaign types, see our [email marketing templates guide](/content-marketing/email-marketing-templates-guide) — it covers welcome series, promotional sends, and win-back frameworks with ready-to-use copy structures.
+
 ## Personalization and Automation Strategies
 
 ### Dynamic Content Personalization

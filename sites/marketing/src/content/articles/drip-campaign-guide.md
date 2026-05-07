@@ -183,6 +183,8 @@ Write one email at a time, in sequence. Each email should follow this structure:
 
 **Single CTA**: One link, one action per email. Multiple calls-to-action split attention and reduce the overall conversion rate. If you want the subscriber to book a call, every element of the email should point toward booking the call.
 
+For pre-built structures to accelerate your sequence writing, the [email marketing templates guide](/content-marketing/email-marketing-templates-guide) covers subject line and body copy frameworks for every stage of the subscriber journey — from welcome to win-back.
+
 Your [email deployment setup](/content-marketing/email-deployment-strategy-guide) — SPF, DKIM, DMARC authentication, and list hygiene protocols — determines whether your emails reach inboxes at all. Technical deliverability issues silently kill drip campaign performance without any obvious indicator in open rates (because emails that never arrive aren't tracked as unread).
 
 ### Step 4: Automate, Test, and Launch

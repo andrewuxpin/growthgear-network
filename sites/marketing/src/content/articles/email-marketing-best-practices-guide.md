@@ -92,6 +92,8 @@ Effective frameworks:
 - **Specific outcome**: "Double your click rate in 2 weeks"
 - **Direct value**: "5 subject line formulas for higher opens"
 
+For copy-ready subject line and body copy structures across campaign types, the [email marketing templates guide](/content-marketing/email-marketing-templates-guide) provides proven frameworks for welcome, promotional, and re-engagement sends.
+
 ### Practice 5: Use Preheader Text as a Second Subject Line
 
 The preheader (preview text shown in the inbox before the email opens) adds 40-90 characters of additional context. Most email clients show it alongside the subject line. A preheader that echoes the subject line wastes this space — use it to extend the hook or add a second proof point.
