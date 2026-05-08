@@ -148,7 +148,7 @@ Community research prevents you from copying what's visible (follower counts, po
 
 ## Content Creation on a Small Business Budget
 
-Small businesses can create high-quality, engaging social content without a professional studio, a design team, or an agency retainer. The key is working within your constraints: batching creation, repurposing across formats, and building repeatable templates that maintain brand consistency without requiring design work every time.
+Small businesses can create high-quality, engaging social content without a professional studio, a design team, or an agency retainer. The key is working within your constraints: batching creation, repurposing across formats, and building repeatable templates that maintain brand consistency without requiring design work every time. When social media work consistently exceeds 10 hours per week, it is worth understanding [what a social media manager does and what the role costs](/social-media/what-does-a-social-media-manager-do) before deciding whether to hire or continue managing in-house.
 
 ### The Batching Approach
 

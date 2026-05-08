@@ -105,7 +105,7 @@ Visual identity is your brand's most immediate signal — the first thing audien
 - **Typography**: One heading font and one body font, applied consistently in all graphics
 - **Image style**: Photography, flat illustration, data visualization, or designed graphics — choose one style and commit to it
 
-Create platform-specific templates for your most common content types: quote cards, stat callouts, carousel slides, and link preview graphics. Template libraries in Canva, Adobe Express, or Figma give your team guardrails without requiring design expertise on every post.
+Create platform-specific templates for your most common content types: quote cards, stat callouts, carousel slides, and link preview graphics. Template libraries in Canva, Adobe Express, or Figma give your team guardrails without requiring design expertise on every post. When template production and cross-platform publishing grow beyond a side responsibility, delegating to a [dedicated social media manager](/social-media/what-does-a-social-media-manager-do) is often the right structural move.
 
 > **Pro tip:** Your profile image, cover photo, and bio copy are brand signals too. An outdated logo or mismatched bio description across platforms erodes brand credibility before an audience reads your first post.
 

@@ -41,7 +41,7 @@ callout:
   content: "Posting identical text across every platform is the most common mistake in multi-account management. Each algorithm penalizes duplicate content differently — and audiences notice."
 ---
 
-Managing four social media platforms simultaneously — each with its own algorithm, content format, and audience expectations — is one of the most demanding operational challenges in marketing. According to [Sprout Social's 2024 Social Media Index](https://sproutsocial.com/insights/social-media-statistics/), 63% of social media managers report platform proliferation as their top source of burnout.
+Managing four social media platforms simultaneously — each with its own algorithm, content format, and audience expectations — is one of the most demanding operational challenges in marketing. According to [Sprout Social's 2024 Social Media Index](https://sproutsocial.com/insights/social-media-statistics/), 63% of social media managers report platform proliferation as their top source of burnout. Before expanding to more platforms, reviewing [what a social media manager's full scope requires](/social-media/what-does-a-social-media-manager-do) — typically 18–30 hours per week per brand — helps set realistic expectations for team capacity.
 
 The solution is not fewer platforms or more hours. It is a system: a defined workflow, the right tools, and a content architecture that scales without requiring proportionally more time. This guide gives you that system — the exact framework used by marketing teams managing 4-6 platforms with 5-10 hours per week.
 
