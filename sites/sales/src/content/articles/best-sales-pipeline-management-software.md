@@ -69,7 +69,7 @@ A basic CRM stores contacts and tracks interactions. Pipeline management softwar
 
 Many modern CRMs include solid pipeline management as a built-in module. The meaningful distinction today is whether a CRM is pipeline-first in its design (Pipedrive, Close) or pipeline-as-a-feature (older enterprise tools where pipeline views were retrofitted onto a contact database). Pipeline-first tools tend to have faster rep adoption because the UI is organized around deal progression rather than contact records.
 
-For a deeper look at the operational discipline that pipeline software supports, see our [sales pipeline management guide](/b2b-sales/sales-pipeline-management-guide).
+For a deeper look at the operational discipline that pipeline software supports, see our [sales pipeline management guide](/b2b-sales/sales-pipeline-management-guide). If you're choosing between specific platforms based on pipeline features, our [pipeline CRM software comparison](/crm-tools/pipeline-crm-software-comparison) evaluates HubSpot, Salesforce, Pipedrive, Close, and Monday Sales CRM side by side.
 
 ## The 7 Best Sales Pipeline Management Software Tools
 
