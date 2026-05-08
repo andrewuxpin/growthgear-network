@@ -83,7 +83,7 @@ Most SMBs should target levels 3–4. Level 5 agentic AI is powerful but require
 
 The best starting point for AI business automation is any process that is high-volume, rule-based, data-rich, and currently consuming 20 or more staff hours per week. Prioritize processes with measurable outputs — where you can calculate before-and-after time and cost with precision.
 
-According to McKinsey's [State of AI 2024 report](https://www.mckinsey.com/capabilities/quantumblack/our-insights/the-state-of-ai), 65% of organizations now use generative AI in at least one function. The departments reporting the fastest ROI are consistently the same three: finance operations, customer service, and marketing.
+According to McKinsey's [State of AI 2024 report](https://www.mckinsey.com/capabilities/quantumblack/our-insights/the-state-of-ai), 65% of organizations now use generative AI in at least one function. The departments reporting the fastest ROI are consistently the same three: finance operations, customer service, and marketing. For a dedicated breakdown of generative AI applications across these functions — including foundation model selection, tool costs, and a 4-phase deployment roadmap — see the [generative AI for business guide](/ai-tools/generative-ai-for-business-guide).
 
 ### High-Value Automation Candidates
 
