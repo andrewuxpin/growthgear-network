@@ -46,7 +46,7 @@ This guide gives you six proven templates, a personalization framework to adapt 
 
 ## Why Most Cold Emails Go Unanswered
 
-Most cold emails fail because they open with "I" instead of "you." They lead with the sender's company, the sender's product, and the sender's goals — before establishing any relevance to the person receiving the message. Prospects delete these emails in two seconds because they contain zero reason to keep reading. The fix isn't better copywriting; it's a different structure that puts the prospect's problem first.
+Most cold emails fail because they open with "I" instead of "you." They lead with the sender's company, the sender's product, and the sender's goals — before establishing any relevance to the person receiving the message. Prospects delete these emails in two seconds because they contain zero reason to keep reading. The structural fix is putting the prospect's problem first — but if you also want to master the copywriting fundamentals (subject line formulas, PAS vs. AIDA, and personalisation at scale), see our [cold email copywriting guide](/sales-techniques/cold-email-copywriting-guide).
 
 ### The 2-Second Delete Decision
 

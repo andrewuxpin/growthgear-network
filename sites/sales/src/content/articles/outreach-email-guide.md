@@ -124,7 +124,7 @@ Used together, a strong subject line and preview text can lift open rates by 10-
 
 ## How to Craft Outreach Email Body Copy That Gets Replies
 
-The body of a high-performing outreach email has one job: make it easy and compelling for the prospect to reply. Most outreach copy fails because it centres the sender's agenda rather than the recipient's problem. Keep body copy under 150 words and lead with something specific to them—not a description of your product.
+The body of a high-performing outreach email has one job: make it easy and compelling for the prospect to reply. Most outreach copy fails because it centres the sender's agenda rather than the recipient's problem. Keep body copy under 150 words and lead with something specific to them — not a description of your product. For a complete breakdown of copywriting formulas (PAS, AIDA, Before-After-Bridge) and how to apply them to cold email, see the [cold email copywriting guide](/sales-techniques/cold-email-copywriting-guide).
 
 ### The First Line: Make It About Them, Not You
 
