@@ -78,7 +78,7 @@ Understanding the differences matters whether you're building a team or choosing
 
 ### Data Analyst vs. Data Scientist vs. Data Engineer
 
-**Data analysts** answer specific business questions using existing data. They write SQL queries, build dashboards, and present findings to non-technical stakeholders. Analysts work closest to business users and are primarily retrospective—what happened, and why?
+**Data analysts** answer specific business questions using existing data. They write SQL queries, build dashboards, and present findings to non-technical stakeholders. Analysts work closest to business users and are primarily retrospective—what happened, and why? For a complete breakdown of the data analyst role — including types, day-to-day responsibilities, salary benchmarks, and when to hire — see our [what is a data analyst guide](/machine-learning/what-is-a-data-analyst-guide).
 
 **Data scientists** build predictive models and develop algorithms that generate forward-looking insights. They apply statistical techniques and [machine learning algorithms](/machine-learning/machine-learning-algorithms-and-applications-guide) to structured and unstructured data. Data scientists typically require a stronger mathematical background than analysts. When you're ready to hire for this role specifically, our [data scientist hiring guide](/machine-learning/how-to-hire-a-data-scientist-business-guide) covers skills, salary benchmarks, and interview process in detail. For a direct comparison of data science and data analytics across skills, tools, salary, and hire timing, see [data science vs data analytics: key differences](/machine-learning/data-science-vs-data-analytics-guide).
 

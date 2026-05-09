@@ -49,7 +49,7 @@ Data science is a broad field spanning business intelligence, statistical analys
 
 **Yes — data science requires coding for the vast majority of roles, but the depth varies significantly.** Python and SQL are the two non-negotiable languages across the industry. According to the [Kaggle State of Data Science & Machine Learning 2023 survey](https://www.kaggle.com/competitions/kaggle-survey-2023), Python is used by approximately 77% of data science practitioners, with SQL close behind as the universal language for data access and manipulation.
 
-The threshold varies by role. A data analyst producing weekly sales reports may need only intermediate SQL and basic Excel/Sheets. A data scientist building churn prediction models needs Python, statistical libraries (scikit-learn, statsmodels), and version control. An ML engineer deploying those models at scale needs advanced Python, cloud infrastructure knowledge, and software engineering practices.
+The threshold varies by role. A data analyst producing weekly sales reports may need only intermediate SQL and basic Excel/Sheets — for a complete breakdown of what the data analyst role requires in terms of skills, tools, and business judgment, see [what is a data analyst and what they actually do](/machine-learning/what-is-a-data-analyst-guide). A data scientist building churn prediction models needs Python, statistical libraries (scikit-learn, statsmodels), and version control. An ML engineer deploying those models at scale needs advanced Python, cloud infrastructure knowledge, and software engineering practices.
 
 ### Python: The Dominant Language
 

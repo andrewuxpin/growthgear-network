@@ -62,7 +62,7 @@ Core outputs for a data analyst include:
 
 Data analysts need strong SQL, at least one visualization tool, and excellent business communication. They typically don't write production code or deploy models into live systems. Their value is turning raw data into decisions — quickly and consistently.
 
-For a full breakdown of the data analyst career path, compensation, and core tools, [data analytics jobs: roles, skills & AI tools](/machine-learning/data-analytics-jobs-roles-skills-guide) covers the complete landscape from junior analyst to VP of Analytics.
+For a full breakdown of the data analyst career path, compensation, and core tools, [data analytics jobs: roles, skills & AI tools](/machine-learning/data-analytics-jobs-roles-skills-guide) covers the complete landscape from junior analyst to VP of Analytics. For a focused look at what the role entails day-to-day — including skills required, salary benchmarks, and when to make the hire — see our [complete data analyst guide](/machine-learning/what-is-a-data-analyst-guide).
 
 ### The Data Scientist Role
 
