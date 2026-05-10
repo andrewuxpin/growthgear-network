@@ -113,7 +113,7 @@ Examples include AI agents that research prospects and draft personalised outrea
 
 Machine learning automation applies trained models to classify, predict, or extract structured information from unstructured inputs. Document processing that reads invoices from any format, customer sentiment models that route support tickets to the right team, and demand forecasting models that adjust inventory automatically all fall in this category.
 
-This type requires training data and ML expertise — either in-house or from a specialist service provider. The upfront cost is higher than workflow automation, but the resulting systems handle variation at a scale that would otherwise require a full-time team. For businesses with consistent high-volume document workflows, the ROI over 24 months is typically the highest of any automation type.
+This type requires training data and ML expertise — either in-house, from a [specialist AI automation agency](/ai-tools/what-is-an-ai-automation-agency-guide) that handles model selection and deployment, or from a dedicated ML service provider. The upfront cost is higher than workflow automation, but the resulting systems handle variation at a scale that would otherwise require a full-time team. For businesses with consistent high-volume document workflows, the ROI over 24 months is typically the highest of any automation type.
 
 ## Top Providers: Enterprise, SMB, and Specialist Options
 

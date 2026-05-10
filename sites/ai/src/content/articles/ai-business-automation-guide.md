@@ -173,7 +173,7 @@ Here's how the major workflow orchestration platforms compare for SMB use cases:
 
 When evaluating platforms, prioritize: native integration with your existing stack, no-code configuration for non-technical teams, audit logs for compliance, and clear escalation paths to human agents.
 
-For businesses that need a managed implementation rather than a self-serve approach, our guide to [AI automation services](/ai-tools/ai-automation-services-guide) covers when to hire a specialist.
+For businesses that need a managed implementation rather than a self-serve approach, our guide to [AI automation services](/ai-tools/ai-automation-services-guide) covers when to hire a specialist — or for a deeper look at evaluating and hiring the firms that deliver it, see our guide to [what an AI automation agency does and how to choose one](/ai-tools/what-is-an-ai-automation-agency-guide).
 
 ### Phase 3 — Pilot, Measure, and Scale
 
