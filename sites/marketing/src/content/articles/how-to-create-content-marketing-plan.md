@@ -47,7 +47,7 @@ A **content marketing plan** is the operational document that closes the gap bet
 
 According to the [Content Marketing Institute's annual B2B research](https://contentmarketinginstitute.com/research/), marketers with a documented content strategy consistently report higher effectiveness than those relying on informal alignment — often by a factor of three or more. Yet fewer than half of all B2B marketing teams have one.
 
-This guide gives you a practical, step-by-step framework to build a content marketing plan that works — whether you're starting from scratch or overhauling a program that has stalled.
+This guide gives you a practical, step-by-step framework to build a content marketing plan that works — whether you're starting from scratch or overhauling a program that has stalled. If you want a broader foundation first, our [complete content marketing guide](/content-marketing/complete-content-marketing-guide) covers strategy, content types, distribution, and measurement in a single reference.
 
 ## What Is a Content Marketing Plan (and Why Most Teams Miss the Mark)
 
