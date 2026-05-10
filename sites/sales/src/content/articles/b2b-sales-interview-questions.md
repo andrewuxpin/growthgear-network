@@ -288,4 +288,4 @@ Building a high-performing B2B sales team starts with hiring the right people an
 1. [Salesforce State of Sales](https://www.salesforce.com/resources/research-reports/state-of-sales/) — "Only 28% of sales reps' time is spent on actual selling activities" (2024)
 2. [LinkedIn Talent Solutions](https://business.linkedin.com/talent-solutions/blog) — "Structured behavioral interviews predict job performance twice as accurately as unstructured approaches" (2024)
 3. [Harvard Business Review](https://hbr.org/topic/subject/sales) — "A failed sales hire can cost a company up to 200% of the rep's annual salary in lost productivity and recruiting costs" (2023)
-4. [HubSpot State of Sales Report](https://blog.hubspot.com/sales/sales-interview-questions) — Top-performing sales reps allocate time more deliberately and protect prospecting blocks (2024)
+4. HubSpot State of Sales Report — Top-performing sales reps allocate time more deliberately and protect prospecting blocks (2024)

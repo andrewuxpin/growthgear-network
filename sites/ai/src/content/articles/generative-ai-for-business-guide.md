@@ -97,7 +97,7 @@ For teams building a broader [AI-powered marketing stack](https://marketing.grow
 
 ### Sales and Customer Engagement
 
-Sales teams apply generative AI to solve two persistent productivity problems: personalization at scale and time lost to non-selling tasks. According to [Salesforce's State of Sales 2024](https://www.salesforce.com/resources/articles/sales-statistics/), sales reps spend only 28% of their week actually selling — the rest goes to admin, proposal writing, CRM updates, and research.
+Sales teams apply generative AI to solve two persistent productivity problems: personalization at scale and time lost to non-selling tasks. According to Salesforce's State of Sales 2024, sales reps spend only 28% of their week actually selling — the rest goes to admin, proposal writing, CRM updates, and research.
 
 High-impact sales applications:
 
@@ -295,4 +295,4 @@ Generative AI is the highest-leverage technology available to businesses right n
 2. [Stanford HAI AI Index Report 2025](https://aiindex.stanford.edu/report/) — "$131B in private AI investment in 2024, with generative AI the leading investment category" (2025)
 3. [Goldman Sachs Global Investment Research](https://www.goldmansachs.com/intelligence/pages/generative-ai-could-raise-global-gdp-by-7-percent.html) — "Generative AI could raise annual global GDP by 7%, equivalent to approximately $7 trillion over 10 years" (2023)
 4. [Gartner: The Future of Generative AI for Enterprises](https://www.gartner.com/en/articles/beyond-chatgpt-the-future-of-generative-ai-for-enterprises) — "By 2026, more than 80% of enterprises will have used generative AI APIs or deployed generative AI-enabled applications in production" (2023)
-5. [Salesforce State of Sales Report 2024](https://www.salesforce.com/resources/articles/sales-statistics/) — "Sales representatives spend only 28% of their working week actually selling; AI targeted to reduce administrative overhead and increase selling time" (2024)
+5. Salesforce State of Sales Report 2024 — "Sales representatives spend only 28% of their working week actually selling; AI targeted to reduce administrative overhead and increase selling time" (2024)

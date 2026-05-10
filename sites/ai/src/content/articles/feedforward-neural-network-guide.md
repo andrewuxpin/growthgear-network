@@ -83,7 +83,7 @@ Single-layer perceptrons have no practical standalone use today, but every deep 
 
 The MLP adds hidden layers between input and output. This single architectural change has profound consequences: in 1989, Hornik, Stinchcombe, and White proved the **universal approximation theorem**, showing that a single hidden layer MLP with enough neurons can approximate any continuous function to arbitrary precision. This result established the MLP as a theoretically complete model for regression and classification.
 
-In practice, MLPs with 2-4 hidden layers and 64-512 neurons per layer handle the vast majority of business prediction tasks. The [Google ML Crash Course](https://developers.google.com/machine-learning/crash-course/introduction-to-neural-networks/overview) recommends starting with 2 hidden layers for most structured data problems and adding depth only when the simpler configuration underfits.
+In practice, MLPs with 2-4 hidden layers and 64-512 neurons per layer handle the vast majority of business prediction tasks. The Google ML Crash Course recommends starting with 2 hidden layers for most structured data problems and adding depth only when the simpler configuration underfits.
 
 Key configuration decisions for MLPs:
 

@@ -285,6 +285,6 @@ Building a high-performing B2B sales engine takes more than individual tips. It 
 ## Sources & References
 
 1. [Gartner — The B2B Buying Journey](https://www.gartner.com/en/sales/insights/b2b-buying-journey) — "The typical buying group for a complex B2B solution involves 6-10 decision makers, each bringing different priorities and risk thresholds." (2023)
-2. [HubSpot — State of Sales Report](https://www.hubspot.com/state-of-sales) — Research on prospect qualification rates and the proportion of prospects that are genuinely a good fit for sellers. (2024)
+2. HubSpot — State of Sales Report — Research on prospect qualification rates and the proportion of prospects that are genuinely a good fit for sellers. (2024)
 3. [Salesforce — State of Sales](https://www.salesforce.com/resources/research-reports/state-of-sales/) — Data on average B2B sales cycle length, primary causes of deal stall, and the cost ratio of customer acquisition vs. expansion. (2024)
 4. [LinkedIn Sales Solutions — Social Selling Research](https://www.linkedin.com/business/sales/blog/sales-tips/b2b-sales-tips) — Research on multi-channel outreach performance and the opportunity creation advantage of social selling leaders. (2023)

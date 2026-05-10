@@ -161,7 +161,7 @@ Key capabilities:
 
 Ramp is an AI-powered corporate card and expense management platform built on the principle that policy enforcement should happen at the point of transaction — not during a monthly expense review. The AI engine flags out-of-policy spending in real time, identifies duplicate vendor payments, surfaces savings opportunities, and benchmarks your SaaS spending against similar-sized companies.
 
-According to [Ramp's published customer data](https://ramp.com/blog/finance-trends), businesses using Ramp save an average of 5% on total company spending in their first year through AI-detected savings opportunities and duplicate vendor identification.
+According to Ramp's published customer data, businesses using Ramp save an average of 5% on total company spending in their first year through AI-detected savings opportunities and duplicate vendor identification.
 
 Key capabilities:
 - **Real-time policy enforcement**: AI declines or alerts on out-of-policy transactions at the point of purchase
@@ -325,4 +325,4 @@ Implementing AI finance tools does not have to be overwhelming. Whether you are 
 2. [Deloitte Finance Function of the Future](https://www2.deloitte.com/us/en/pages/finance/articles/finance-function-of-the-future.html) — Research on AI adoption in finance functions and analyst time reallocation from data gathering to business partnership (2024)
 3. [Gartner Finance Technology Insights](https://www.gartner.com/en/finance/topics/finance-technology) — AI in finance function predictions and adoption benchmarks (2024)
 4. [Grand View Research AI in FinTech Market](https://www.grandviewresearch.com/industry-analysis/ai-in-fintech-market) — AI in financial technology market size and growth rate analysis (2023)
-5. [Ramp Customer Data](https://ramp.com/blog/finance-trends) — Average 5% company spending reduction in first year, based on Ramp published customer benchmarks (2024)
+5. Ramp Customer Data — Average 5% company spending reduction in first year, based on Ramp published customer benchmarks (2024)

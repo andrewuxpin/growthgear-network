@@ -43,7 +43,7 @@ callout:
 
 Cold email copywriting is the difference between a reply and a delete. Most sales reps treat cold email as a numbers game — blast enough and some will stick. The reps who actually fill pipelines treat it as a craft: precise, personalised, and structured around the reader's problem.
 
-According to [Backlinko's analysis of 12 million cold emails](https://backlinko.com/cold-email-study), the average cold email reply rate is 8.5%. The top quartile achieves 27%+. The gap between those two numbers comes down almost entirely to copywriting quality.
+According to Backlinko's analysis of 12 million cold emails, the average cold email reply rate is 8.5%. The top quartile achieves 27%+. The gap between those two numbers comes down almost entirely to copywriting quality.
 
 This guide gives you the frameworks, formulas, and techniques to write cold emails that get replies — not just opens.
 
@@ -57,7 +57,7 @@ Great cold email copy does three things: it demonstrates you understand the pros
 
 ### The Psychology Behind Cold Email Response
 
-Recipients decide whether to respond within 3-5 seconds of opening. They're asking a single question: "Is this relevant to me right now?" According to [Salesforce's State of Sales research](https://www.salesforce.com/resources/research-and-insights/state-of-sales/), 79% of buyers expect reps to understand their business context before reaching out.
+Recipients decide whether to respond within 3-5 seconds of opening. They're asking a single question: "Is this relevant to me right now?" According to Salesforce's State of Sales research, 79% of buyers expect reps to understand their business context before reaching out.
 
 That means your subject line earns the open, your first sentence earns the read, and your CTA earns the reply. Each element does a discrete job. Weak copy at any stage breaks the chain.
 
@@ -99,7 +99,7 @@ Avoid subject lines that sound like marketing: "Revolutionise your sales process
 
 ## 5 Cold Email Copywriting Formulas That Work
 
-Formulas give your copy structure without making it sound formulaic. Use them as scaffolding, then layer in your own personalization and voice. The best cold email practitioners [internalize these structures](https://blog.hubspot.com/sales/cold-email-tips) and adapt them in real time rather than copy-pasting templates verbatim. Each formula below has a specific context where it outperforms the others — match the formula to the prospect's situation, not just their industry.
+Formulas give your copy structure without making it sound formulaic. Use them as scaffolding, then layer in your own personalization and voice. The best cold email practitioners internalize these structures and adapt them in real time rather than copy-pasting templates verbatim. Each formula below has a specific context where it outperforms the others — match the formula to the prospect's situation, not just their industry.
 
 ### 1. PAS: Problem-Agitate-Solution
 
@@ -144,7 +144,7 @@ The goal is to make replying easier than deleting.
 
 ## Personalization Techniques That Double Reply Rates
 
-Personalisation is the single highest-ROI activity in cold email copywriting. According to a [Campaign Monitor analysis](https://www.campaignmonitor.com/resources/knowledge-base/what-is-a-good-email-open-rate/), personalised email campaigns deliver 6x higher transaction rates than generic ones. In cold outreach, that effect is even more pronounced because every element of the email is visible — there's no product landing page to hide behind.
+Personalisation is the single highest-ROI activity in cold email copywriting. According to a Campaign Monitor analysis, personalised email campaigns deliver 6x higher transaction rates than generic ones. In cold outreach, that effect is even more pronounced because every element of the email is visible — there's no product landing page to hide behind.
 
 Genuine personalisation is not inserting `{{FirstName}}` in a subject line. It's demonstrating knowledge of the prospect's specific situation.
 
@@ -208,7 +208,7 @@ Fix: One CTA, one friction level. "Are you open to a 15-minute call on Thursday?
 
 Sending one cold email and expecting a reply is the equivalent of making one cold call and writing off the prospect forever. According to HubSpot research, 80% of sales require five or more touchpoints. Most reps stop after one or two.
 
-Build your [follow-up email sequence](https://www.salesforce.com/resources/articles/cold-email/) before you send the first email. Cadence: Day 1, Day 4, Day 8, Day 14, Day 21. Each follow-up should introduce new information or a new angle — not just "following up on my last email."
+Build your follow-up email sequence before you send the first email. Cadence: Day 1, Day 4, Day 8, Day 14, Day 21. Each follow-up should introduce new information or a new angle — not just "following up on my last email."
 
 For a proven framework on follow-up structure, see our [sales follow-up email guide](/sales-techniques/sales-follow-up-email-guide) and the [outreach email guide](/sales-techniques/outreach-email-guide) for sequencing best practices.
 
@@ -250,7 +250,7 @@ Your cold email copy is often the first impression a prospect gets of your compa
 
 ## Sources & References
 
-1. [Backlinko — Cold Email Study](https://backlinko.com/cold-email-study) — "The average cold email reply rate is 8.5%; top-performing campaigns achieve 27%+" (2023)
-2. [Salesforce — State of Sales](https://www.salesforce.com/resources/research-and-insights/state-of-sales/) — "79% of buyers expect reps to understand their business context before reaching out" (2024)
-3. [HubSpot — Cold Email Tips](https://blog.hubspot.com/sales/cold-email-tips) — "80% of sales require five or more follow-up touchpoints" (2024)
-4. [Campaign Monitor — Email Open Rate Benchmarks](https://www.campaignmonitor.com/resources/knowledge-base/what-is-a-good-email-open-rate/) — "Personalised campaigns deliver 6x higher transaction rates than generic sends" (2024)
+1. Backlinko — Cold Email Study — "The average cold email reply rate is 8.5%; top-performing campaigns achieve 27%+" (2023)
+2. Salesforce — State of Sales — "79% of buyers expect reps to understand their business context before reaching out" (2024)
+3. HubSpot — Cold Email Tips — "80% of sales require five or more follow-up touchpoints" (2024)
+4. Campaign Monitor — Email Open Rate Benchmarks — "Personalised campaigns deliver 6x higher transaction rates than generic sends" (2024)

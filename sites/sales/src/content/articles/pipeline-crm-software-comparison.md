@@ -263,7 +263,7 @@ Selecting and configuring the right pipeline CRM is one of the highest-leverage 
 ## Sources & References
 
 1. [Salesforce State of Sales](https://www.salesforce.com/resources/research-reports/state-of-sales/) — Sales representatives spend less than 28% of their working day on actual selling activities (2024)
-2. [Gartner CRM Research](https://www.gartner.com/en/sales/topics/crm) — CRM is the largest enterprise software category globally; failed implementations most often trace to insufficient admin support
-3. [HubSpot Sales Statistics](https://www.hubspot.com/sales-statistics) — 80% of sales require 5+ follow-up contacts; 44% of salespeople give up after one follow-up
+2. Gartner CRM Research — CRM is the largest enterprise software category globally; failed implementations most often trace to insufficient admin support
+3. HubSpot Sales Statistics — 80% of sales require 5+ follow-up contacts; 44% of salespeople give up after one follow-up
 4. [Forrester B2B Sales Technology](https://www.forrester.com/report/) — Total CRM cost of ownership is typically 2.5-4x published licensing cost over three years
 5. [G2 CRM Category](https://www.g2.com/categories/crm) — Pipedrive consistently rates highest for ease of use among SMB sales CRM tools

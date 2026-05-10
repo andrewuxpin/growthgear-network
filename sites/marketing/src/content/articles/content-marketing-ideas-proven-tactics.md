@@ -55,7 +55,7 @@ Most content marketing ideas fail not because the idea is wrong, but because the
 
 Most marketing teams fall into the **content treadmill**: producing at volume without coherent strategy. They publish posts that don't rank, share content few people see, and measure success by output rather than outcomes. The result is a growing archive of content that delivers declining marginal returns.
 
-According to [Semrush's 2024 State of Content Marketing report](https://www.semrush.com/state-of-content-marketing/), 53% of companies don't consistently update or repurpose existing content — meaning they're continuously adding to the pile while leaving existing assets underperform. A smarter approach audits what you already have before committing to new ideas.
+According to Semrush's 2024 State of Content Marketing report, 53% of companies don't consistently update or repurpose existing content — meaning they're continuously adding to the pile while leaving existing assets underperform. A smarter approach audits what you already have before committing to new ideas.
 
 The fix isn't producing more. It's selecting fewer, higher-quality ideas and executing them with full focus on search demand, topical relevance, and promotion.
 
@@ -230,6 +230,6 @@ A great content marketing idea is only the beginning. Without a system for consi
 
 1. [Content Marketing Institute](https://contentmarketinginstitute.com/articles/b2b-content-marketing-research/) — "B2B Content Marketing Benchmarks, Budgets, and Trends 2024" — 40% of B2B marketers report very high organizational commitment to content marketing (2024)
 2. [HubSpot State of Marketing 2024](https://www.hubspot.com/state-of-marketing) — 54% of consumers want more video content from brands; email delivers ~$36 ROI per $1 spent (2024)
-3. [Semrush State of Content Marketing](https://www.semrush.com/state-of-content-marketing/) — 53% of companies don't consistently update or repurpose existing content (2024)
+3. Semrush State of Content Marketing — 53% of companies don't consistently update or repurpose existing content (2024)
 4. [Demand Gen Report](https://www.demandgenreport.com/) — Interactive content generates 2x more conversions than static formats; 47% of buyers consume 3-5 content pieces before engaging sales (2024)
 5. [Edison Research, The Infinite Dial 2024](https://www.edisonresearch.com/the-infinite-dial-2024/) — 57% of Americans have listened to a podcast in the past month (2024)

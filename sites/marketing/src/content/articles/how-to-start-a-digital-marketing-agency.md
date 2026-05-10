@@ -40,7 +40,7 @@ callout:
   content: "New agencies that offer 10+ services from day one rarely win competitive pitches. Pick a niche, master it, then expand once you have case studies that prove your results."
 ---
 
-The global digital advertising market surpassed $740 billion in 2024, according to [Statista](https://www.statista.com/statistics/272353/global-advertising-expenditure/), and demand for skilled marketing expertise continues to outpace supply. For professionals with proven channel experience, starting a digital marketing agency is one of the most accessible paths to entrepreneurship — low startup costs, no physical inventory, and immediate demand from businesses that need help but cannot afford full-time specialists.
+The global digital advertising market surpassed $740 billion in 2024, according to Statista, and demand for skilled marketing expertise continues to outpace supply. For professionals with proven channel experience, starting a digital marketing agency is one of the most accessible paths to entrepreneurship — low startup costs, no physical inventory, and immediate demand from businesses that need help but cannot afford full-time specialists.
 
 But starting an agency and building a profitable one are two different things. Most new agencies stall at 3-5 clients because founders under-price their work, try to serve every industry and channel at once, and fail to systematize before scaling. This guide covers the four decisions that separate agencies that plateau from those that grow: service selection, business structure, client acquisition, and pricing.
 
@@ -136,7 +136,7 @@ A winning proposal is 6–10 pages, not a 25-page brochure. SMB decision-makers 
 
 ## Agency Pricing Models: What Works in 2026
 
-Monthly retainers are the most sustainable pricing model for digital marketing agencies, creating predictable revenue for you and predictable costs for clients. According to [HubSpot's agency benchmarks](https://www.hubspot.com/agency-growth), 65% of successful agencies use retainers as their primary model by year two. Project-based and performance-based work play a supporting role, not the primary one.
+Monthly retainers are the most sustainable pricing model for digital marketing agencies, creating predictable revenue for you and predictable costs for clients. According to HubSpot's agency benchmarks, 65% of successful agencies use retainers as their primary model by year two. Project-based and performance-based work play a supporting role, not the primary one.
 
 ### Retainer vs Project vs Performance Pricing
 
@@ -163,7 +163,7 @@ Understanding what a [digital marketing manager](/content-marketing/what-does-a-
 
 ## Scaling From Solo Operator to Full Agency
 
-Scaling past 10 clients requires two simultaneous capabilities: standardized service delivery and systematic client acquisition. Without both, growth creates operational chaos. According to [Semrush's Agency Survey](https://www.semrush.com/blog/digital-marketing-agency/), agencies that documented their delivery processes before making their first hire grew 3x faster and experienced half the client churn of those who hired first and tried to systematize afterward.
+Scaling past 10 clients requires two simultaneous capabilities: standardized service delivery and systematic client acquisition. Without both, growth creates operational chaos. According to Semrush's Agency Survey, agencies that documented their delivery processes before making their first hire grew 3x faster and experienced half the client churn of those who hired first and tried to systematize afterward.
 
 ### Building Your First Team
 
@@ -215,8 +215,8 @@ GrowthGear has helped 50+ startups and growing businesses build marketing functi
 
 ## Sources & References
 
-1. [Statista — Digital Advertising Worldwide](https://www.statista.com/statistics/272353/global-advertising-expenditure/) — Global digital ad market surpassed $740 billion in 2024 (2024)
+1. Statista — Digital Advertising Worldwide — Global digital ad market surpassed $740 billion in 2024 (2024)
 2. [Clutch — Digital Marketing Agency Survey](https://clutch.co/agencies/digital-marketing) — 62% of business clients prefer agencies with industry-specific experience over generalists (2024)
 3. [Salesforce — State of the Connected Customer](https://www.salesforce.com/resources/research-reports/state-of-the-connected-customer/) — 84% of business buyers start purchasing processes with a trusted referral (2023)
-4. [HubSpot — Agency Growth Benchmarks](https://www.hubspot.com/agency-growth) — 65% of successful agencies use monthly retainers as their primary revenue model by year two (2024)
-5. [Semrush — Digital Marketing Agency Survey](https://www.semrush.com/blog/digital-marketing-agency/) — Agencies that document processes before hiring grow 3x faster with half the client churn (2024)
+4. HubSpot — Agency Growth Benchmarks — 65% of successful agencies use monthly retainers as their primary revenue model by year two (2024)
+5. Semrush — Digital Marketing Agency Survey — Agencies that document processes before hiring grow 3x faster with half the client churn (2024)

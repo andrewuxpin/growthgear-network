@@ -50,7 +50,7 @@ A drip campaign is a sequence of pre-written emails sent automatically based on 
 
 The term "drip" comes from drip irrigation: steady, measured delivery produces better results than a single flood. Applied to email, it means distributing value across multiple sends rather than overwhelming subscribers in one message or disappearing after the first.
 
-According to [HubSpot](https://blog.hubspot.com/marketing/email-drip-campaign), drip campaign emails generate 80% higher open rates and 3x higher click-through rates compared to single-send marketing emails. The performance gap is not subtle — it reflects the fundamental difference between sending when it's convenient for the sender versus when it's meaningful for the recipient.
+According to HubSpot, drip campaign emails generate 80% higher open rates and 3x higher click-through rates compared to single-send marketing emails. The performance gap is not subtle — it reflects the fundamental difference between sending when it's convenient for the sender versus when it's meaningful for the recipient.
 
 The [benefits of email marketing](/content-marketing/benefits-of-email-marketing) extend significantly when automation is added. Each message arrives when intent is highest: seconds after a signup, hours after an abandoned cart, or days after a content download. That precision is what separates a drip campaign from a broadcast.
 
@@ -263,7 +263,7 @@ GrowthGear has helped 50+ startups design and launch email automation systems th
 
 ## Sources & References
 
-1. [HubSpot](https://blog.hubspot.com/marketing/email-drip-campaign) — "Drip emails generate 80% higher open rates and 3x higher click-through rates than single-send marketing emails" (2024)
+1. HubSpot — "Drip emails generate 80% higher open rates and 3x higher click-through rates than single-send marketing emails" (2024)
 2. [Campaign Monitor](https://www.campaignmonitor.com/resources/guides/email-marketing-benchmarks/) — Email Marketing Benchmarks: open rates, CTR, unsubscribe rate averages by industry (2025)
 3. [Neil Patel](https://neilpatel.com/blog/drip-email-campaign/) — "Segmented email campaigns generate 760% more revenue than non-segmented ones," citing DMA research (2024)
 4. [Content Marketing Institute](https://contentmarketinginstitute.com/articles/email-marketing-automation/) — Research on multi-touchpoint requirements for lead conversion in B2B email programs (2024)

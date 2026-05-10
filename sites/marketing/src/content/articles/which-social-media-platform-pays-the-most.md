@@ -235,5 +235,5 @@ GrowthGear helps growth-focused brands and marketing teams build platform invest
 1. [Influencer Marketing Hub — Creator Earnings Benchmark Report](https://influencermarketinghub.com/influencer-marketing-benchmark-report/) — Platform CPM rates and sponsored content pricing by tier (2024)
 2. [Sprout Social — Social Media Index](https://www.sproutsocial.com/insights/social-media-roi/) — Brand engagement benchmarks and platform focus data (2024)
 3. [Pinterest Business — Advertiser Research](https://business.pinterest.com/en-us/blog/shopping-on-pinterest/) — 80% of weekly Pinners discover new brands on the platform (2024)
-4. [HubSpot — State of Marketing Report](https://blog.hubspot.com/marketing/social-media-roi) — Micro-influencer engagement rate advantage over macro-influencers (2024)
+4. HubSpot — State of Marketing Report — Micro-influencer engagement rate advantage over macro-influencers (2024)
 5. [Pew Research Center — Social Media Use in 2024](https://www.pewresearch.org/internet/2024/01/31/social-media-use-in-2024/) — Platform demographic penetration data by age group (2024)

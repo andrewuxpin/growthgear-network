@@ -149,7 +149,7 @@ Challengers do three things that average performers do not:
 - **Tailor to resonate**: They customize the insight to the specific economic drivers, competitive pressures, and strategic priorities of this account, not a generic industry narrative.
 - **Take control of the buying process**: They drive the sales process forward with confidence, set the timeline, and direct the buyer toward a decision rather than waiting passively for instructions.
 
-CEB's research found that 40% of high-performing B2B sales reps in complex deals used the Challenger profile, while only 7% of core performers did. The findings are documented in the [Harvard Business Review article on the end of solution selling](https://hbr.org/2011/07/the-end-of-solution-sales), which remains one of the most cited pieces of B2B sales research. For a deeper look at how consultative and insight-led approaches differ in practice, see our guide on [what is consultative selling](/sales-techniques/what-is-consultative-selling-approach-benefits).
+CEB's research found that 40% of high-performing B2B sales reps in complex deals used the Challenger profile, while only 7% of core performers did. The findings are documented in the Harvard Business Review article on the end of solution selling, which remains one of the most cited pieces of B2B sales research. For a deeper look at how consultative and insight-led approaches differ in practice, see our guide on [what is consultative selling](/sales-techniques/what-is-consultative-selling-approach-benefits).
 
 ### Example 6: AI-Assisted Prospecting and Sales Intelligence
 
@@ -230,6 +230,6 @@ Building a high-performing sales engine takes the right strategy, the right tool
 
 1. [Gartner B2B Buying Journey Research](https://www.gartner.com/en/sales/insights/b2b-buying-journey) — "B2B buyers complete 57-70% of their purchase decision before speaking with a sales representative" (2019-2023)
 2. [Salesforce State of Sales Report](https://www.salesforce.com/resources/research-reports/state-of-sales/) — High-performing sales teams consistently use more AI and sales intelligence tools than lower-performing counterparts (2024)
-3. [The End of Solution Sales, Harvard Business Review](https://hbr.org/2011/07/the-end-of-solution-sales) — CEB research documenting the Challenger Sale: 40% of star performers in complex B2B deals used insight-led techniques (2012)
+3. The End of Solution Sales, Harvard Business Review — CEB research documenting the Challenger Sale: 40% of star performers in complex B2B deals used insight-led techniques (2012)
 4. [LinkedIn Sales Solutions](https://business.linkedin.com/sales-solutions) — Research on account-based selling effectiveness and social selling within enterprise sales motions
 5. [HubSpot Sales Blog](https://blog.hubspot.com/sales/sales-strategy) — Lead response time data and inbound sales methodology documentation, including cost-per-lead benchmarks by channel

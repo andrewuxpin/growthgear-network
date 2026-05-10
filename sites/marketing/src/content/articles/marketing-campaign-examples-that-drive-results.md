@@ -141,7 +141,7 @@ Social media campaigns operate in a fundamentally different environment from ema
 
 ### User-Generated Content Campaign Examples
 
-User-generated content (UGC) campaigns transform customers into content creators — which matters because of the trust differential. According to [Nielsen's Trust in Advertising research](https://www.nielsen.com/insights/2021/global-trust-in-advertising/), 92% of consumers trust UGC more than branded content. A UGC campaign doesn't just generate content; it generates content that your audience actually believes.
+User-generated content (UGC) campaigns transform customers into content creators — which matters because of the trust differential. According to Nielsen's Trust in Advertising research, 92% of consumers trust UGC more than branded content. A UGC campaign doesn't just generate content; it generates content that your audience actually believes.
 
 High-converting UGC campaigns share three structural elements:
 - **A specific, easy action**: A photo challenge, a short video format, a review prompt — the lower the friction, the higher the participation rate
@@ -262,5 +262,5 @@ Whether you're building your first email sequence or running a multi-channel con
 3. [HubSpot Research: Marketing Statistics](https://www.hubspot.com/marketing-statistics) — "Personalized email subject lines improve open rates by 26%; inbound campaigns cost 61% less per lead than outbound" (2024)
 4. Omnisend E-commerce Statistics — "Multi-channel campaigns drive 287% higher purchase rates than single-channel campaigns" (2023)
 5. [Content Marketing Institute B2B Content Marketing Report](https://contentmarketinginstitute.com/research/) — "Content marketing generates 3x more leads per dollar than outbound; 58% of B2B marketers rate webinars as the most effective mid-funnel format" (2024)
-6. [Nielsen Trust in Advertising](https://www.nielsen.com/insights/2021/global-trust-in-advertising/) — "92% of consumers trust user-generated content more than traditional brand advertising" (2021)
+6. Nielsen Trust in Advertising — "92% of consumers trust user-generated content more than traditional brand advertising" (2021)
 7. [Hootsuite Social Media Trends Report](https://www.hootsuite.com/research/social-trends) — "Average organic reach on Facebook has declined to approximately 5% of a Page's total followers" (2024)

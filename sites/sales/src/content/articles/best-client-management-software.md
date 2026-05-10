@@ -112,7 +112,7 @@ HubSpot CRM offers one of the most complete free tiers in the market: unlimited 
 
 **Watch out for:** Costs can escalate quickly when adding marketing, service, and operations hubs to a growing team. Map out your full tool requirements before committing to a HubSpot bundle.
 
-According to [HubSpot research](https://blog.hubspot.com/crm/what-is-crm), teams that centralize client data in a CRM see measurable improvements in deal close rates within the first 90 days of adoption.
+According to HubSpot research, teams that centralize client data in a CRM see measurable improvements in deal close rates within the first 90 days of adoption.
 
 ### 2. Salesforce Sales Cloud — Best for Enterprise
 
@@ -267,7 +267,7 @@ For teams building a complete revenue pipeline alongside their CRM rollout, the 
 | Zoho CRM | Growing SMBs | Free / $14/user/mo | Up to 3 users | Best price-to-feature ratio |
 | Monday.com CRM | Project-heavy teams | $12/seat/mo | No (14-day trial) | Project + CRM in one platform |
 
-For teams earlier in the evaluation process, Forrester's [CRM research](https://www.forrester.com/research/crm/) covers enterprise buying criteria and vendor positioning in detail.
+For teams earlier in the evaluation process, Forrester's CRM research covers enterprise buying criteria and vendor positioning in detail.
 
 ---
 
@@ -283,6 +283,6 @@ Building a high-performing client management system takes the right platform, cl
 
 1. [Salesforce State of Sales](https://www.salesforce.com/resources/research-reports/state-of-sales/) — "Sales representatives spend 28% of their time actually selling, with the remainder spent on administrative tasks and other activities." (2024)
 2. [Gartner CRM Glossary](https://www.gartner.com/en/information-technology/glossary/customer-relationship-management-crm) — Definition and vendor landscape for customer relationship management platforms. (2024)
-3. [HubSpot: What Is CRM?](https://blog.hubspot.com/crm/what-is-crm) — Overview of CRM benefits and adoption patterns for SMB and mid-market teams. (2024)
-4. [Forrester CRM Research](https://www.forrester.com/research/crm/) — Enterprise CRM buying criteria, vendor evaluation frameworks, and market sizing. (2024)
-5. [Nucleus Research: CRM ROI](https://nucleusresearch.com/research/single/crm-pays-back-for-every-dollar-spent/) — Analysis of CRM return on investment across enterprise deployments. (2023)
+3. HubSpot: What Is CRM? — Overview of CRM benefits and adoption patterns for SMB and mid-market teams. (2024)
+4. Forrester CRM Research — Enterprise CRM buying criteria, vendor evaluation frameworks, and market sizing. (2024)
+5. Nucleus Research: CRM ROI — Analysis of CRM return on investment across enterprise deployments. (2023)

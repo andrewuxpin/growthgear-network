@@ -258,7 +258,7 @@ The techniques in this guide work consistently when you practice them deliberate
 
 ## Sources & References
 
-1. [Salesforce State of Sales](https://www.salesforce.com/resources/articles/sales-techniques/) — 79% of business buyers say it is critical that a sales rep understands their business before pitching (2023)
+1. Salesforce State of Sales — 79% of business buyers say it is critical that a sales rep understands their business before pitching (2023)
 2. [HubSpot State of Sales](https://blog.hubspot.com/sales/sales-techniques) — 80% of sales require five or more follow-up contacts; 44% of reps give up after one follow-up (2024)
 3. [Harvard Business Review — The End of Solution Sales](https://hbr.org/2012/07/the-end-of-solution-sales) — Insight-led selling outperforms solution selling in complex B2B deals; the Challenger Sale framework (2012)
 4. [Gartner Sales Research](https://www.gartner.com/en/sales) — B2B buyer behavior and sales experience benchmarks (2024)

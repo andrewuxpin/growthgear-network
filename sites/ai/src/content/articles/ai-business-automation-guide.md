@@ -110,7 +110,7 @@ Not every process should be automated. Flag these as low-priority or off-limits:
 
 ## How to Build Your AI Automation Strategy
 
-An effective AI business automation strategy follows four phases: audit your current state, prioritize by ROI potential, run a scoped pilot, then scale. Skipping directly to tool selection — the most common mistake — is why automation projects fail. According to [Gartner's automation research](https://www.gartner.com/en/information-technology/insights/automation), initiative failures stem primarily from poor process selection and change management, not technology limitations.
+An effective AI business automation strategy follows four phases: audit your current state, prioritize by ROI potential, run a scoped pilot, then scale. Skipping directly to tool selection — the most common mistake — is why automation projects fail. According to Gartner's automation research, initiative failures stem primarily from poor process selection and change management, not technology limitations.
 
 > **Ready to implement AI in your business?** GrowthGear's team has helped 50+ startups integrate AI automation solutions that drive real results. [Book a Free Strategy Session](https://growthgear.com.au) to map your highest-ROI automation opportunities.
 
@@ -257,4 +257,4 @@ Whether you're mapping your first automation pilot or scaling across five depart
 2. [Grand View Research — Intelligent Process Automation Market](https://www.grandviewresearch.com/industry-analysis/intelligent-process-automation-market) — IPA market size of $13.6 billion in 2023, projected to grow at 38.2% CAGR through 2030. (2023)
 3. [Salesforce — State of Service Report 2024](https://www.salesforce.com/resources/research-reports/state-of-service/) — Service organizations using AI resolve cases 30% faster than those relying on manual processes. (2024)
 4. [Stanford HAI — AI Index Report 2024](https://hai.stanford.edu/ai-index-report) — Organizations measuring AI ROI at the process level report significantly higher satisfaction with automation outcomes. (2024)
-5. [Gartner — Automation Research and Insights](https://www.gartner.com/en/information-technology/insights/automation) — Initiative failures in automation stem primarily from poor process selection and change management, not technology limitations. (2024)
+5. Gartner — Automation Research and Insights — Initiative failures in automation stem primarily from poor process selection and change management, not technology limitations. (2024)

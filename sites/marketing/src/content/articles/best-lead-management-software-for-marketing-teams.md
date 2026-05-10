@@ -276,8 +276,8 @@ Whether you're implementing your first lead management system or optimizing an e
 
 ## Sources & References
 
-1. [MarketingSherpa](https://www.marketingsherpa.com/article/chart/leads-that-never-become-opportunities) — "79% of marketing leads never convert into sales" (2023)
-2. [HubSpot Research](https://blog.hubspot.com/marketing/lead-response-time-nj) — "Responding to leads within 5 minutes increases conversion likelihood 9x compared to 30-minute response time" (2024)
+1. MarketingSherpa — "79% of marketing leads never convert into sales" (2023)
+2. HubSpot Research — "Responding to leads within 5 minutes increases conversion likelihood 9x compared to 30-minute response time" (2024)
 3. [Demand Gen Report](https://www.demandgenreport.com/resources/research/2023-demand-generation-benchmark-survey-report) — "Companies with mature lead management generate 50% more sales-ready leads at 33% lower cost" (2023)
 4. [Content Marketing Institute](https://contentmarketinginstitute.com/articles/b2b-content-marketing-research) — "Teams using lead scoring report 77% higher lead generation ROI" (2024)
-5. [Forrester Research](https://www.forrester.com/blogs/the-b2b-demand-waterfall-evolves/) — "Companies formally defining MQL criteria report 20% higher pipeline accuracy" (2024)
+5. Forrester Research — "Companies formally defining MQL criteria report 20% higher pipeline accuracy" (2024)

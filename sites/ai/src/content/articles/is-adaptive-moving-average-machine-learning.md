@@ -249,7 +249,7 @@ Deciding between adaptive moving averages and machine learning — or how to com
 ## Sources & References
 
 1. [Kaufman, Perry J. — *Trading Systems and Methods, 6th Edition*](https://www.wiley.com/en-au/Trading+Systems+and+Methods%2C+6th+Edition-p-9781119605355) — Original development of the Kaufman Adaptive Moving Average (KAMA) and efficiency ratio methodology (Wiley, 2020)
-2. [pandas-ta — Technical Analysis Library for Python](https://github.com/twopirllc/pandas-ta) — Open-source implementation of KAMA, EMA, and 130+ technical indicators for pandas DataFrames (2024)
+2. pandas-ta — Technical Analysis Library for Python — Open-source implementation of KAMA, EMA, and 130+ technical indicators for pandas DataFrames (2024)
 3. [Stanford HAI AI Index 2024](https://aiindex.stanford.edu/report/) — "Adoption of hybrid rule-based plus machine learning approaches in quantitative finance has grown alongside pure ML deployment, driven by interpretability and regulatory requirements" (2024)
 4. [scikit-learn — Preprocessing and Feature Engineering](https://scikit-learn.org/stable/modules/preprocessing.html) — Documentation on time series feature engineering, scaling, and integration with gradient boosting pipelines (2024)
 5. [McKinsey Global Institute — State of AI 2024](https://www.mckinsey.com/capabilities/quantumblack/our-insights/the-state-of-ai) — Adoption patterns for hybrid rule-based plus ML systems, and factors driving interpretability requirements in regulated industries (McKinsey, 2024)

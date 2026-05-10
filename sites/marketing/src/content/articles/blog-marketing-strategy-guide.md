@@ -56,7 +56,7 @@ The core mechanic is search intent. When a buyer types "how to reduce customer c
 
 ### Why Blog Marketing Outperforms Other Channels Over Time
 
-Paid ads stop the moment you stop paying. Blog content is a compounding asset. [Semrush research](https://www.semrush.com/blog/blogging-statistics/) shows the top-performing 10% of blog posts generate over 50% of a site's total organic traffic — and those top posts are typically 2-4 years old, not freshly published.
+Paid ads stop the moment you stop paying. Blog content is a compounding asset. Semrush research shows the top-performing 10% of blog posts generate over 50% of a site's total organic traffic — and those top posts are typically 2-4 years old, not freshly published.
 
 Blog marketing also creates a content distribution flywheel. Each published article becomes:
 
@@ -291,4 +291,4 @@ GrowthGear has helped 50+ startups build blog marketing programs that compound i
 1. [HubSpot State of Marketing Report](https://www.hubspot.com/marketing-statistics) — "Companies that blog consistently receive 55% more website visitors and generate 67% more monthly leads than non-blogging companies" (2024)
 2. [Content Marketing Institute B2B Content Marketing Benchmarks](https://contentmarketinginstitute.com/articles/blog-content-marketing/) — "Marketers with documented personas are 3.2x more likely to report their content strategy as effective" (2024)
 3. [Backlinko Content Study — 912M Blog Posts](https://backlinko.com/content-study) — "Data-rich articles earn 94% more backlinks than opinion-based content" (2023)
-4. [Semrush Blogging Statistics Report](https://www.semrush.com/blog/blogging-statistics/) — "The top 10% of blog posts generate over 50% of a site's total organic traffic; 95% of new content earns no traffic in the first 3 months" (2024)
+4. Semrush Blogging Statistics Report — "The top 10% of blog posts generate over 50% of a site's total organic traffic; 95% of new content earns no traffic in the first 3 months" (2024)

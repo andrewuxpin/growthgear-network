@@ -47,7 +47,7 @@ Data science is a broad field spanning business intelligence, statistical analys
 
 ## Does Data Science Require Coding?
 
-**Yes — data science requires coding for the vast majority of roles, but the depth varies significantly.** Python and SQL are the two non-negotiable languages across the industry. According to the [Kaggle State of Data Science & Machine Learning 2023 survey](https://www.kaggle.com/competitions/kaggle-survey-2023), Python is used by approximately 77% of data science practitioners, with SQL close behind as the universal language for data access and manipulation.
+**Yes — data science requires coding for the vast majority of roles, but the depth varies significantly.** Python and SQL are the two non-negotiable languages across the industry. According to the Kaggle State of Data Science & Machine Learning 2023 survey, Python is used by approximately 77% of data science practitioners, with SQL close behind as the universal language for data access and manipulation.
 
 The threshold varies by role. A data analyst producing weekly sales reports may need only intermediate SQL and basic Excel/Sheets — for a complete breakdown of what the data analyst role requires in terms of skills, tools, and business judgment, see [what is a data analyst and what they actually do](/machine-learning/what-is-a-data-analyst-guide). A data scientist building churn prediction models needs Python, statistical libraries (scikit-learn, statsmodels), and version control. An ML engineer deploying those models at scale needs advanced Python, cloud infrastructure knowledge, and software engineering practices.
 
@@ -214,7 +214,7 @@ Building the right data science team doesn't have to mean overpaying for skills 
 
 ## Sources & References
 
-1. [Kaggle State of Data Science & Machine Learning 2023](https://www.kaggle.com/competitions/kaggle-survey-2023) — "Python is used by approximately 77% of data science and ML practitioners surveyed" (2023)
+1. Kaggle State of Data Science & Machine Learning 2023 — "Python is used by approximately 77% of data science and ML practitioners surveyed" (2023)
 2. [Bureau of Labor Statistics — Data Scientists](https://www.bls.gov/ooh/math/data-scientists.htm) — "Employment of data scientists is projected to grow 36% from 2023 to 2033, much faster than the average for all occupations; median annual salary $108,020" (2024)
 3. [Stack Overflow Developer Survey 2024](https://survey.stackoverflow.co/2024) — "Python has been the most popular programming language for 12 consecutive years; 68% of developers prefer take-home assessments over whiteboard interviews for technical evaluation" (2024)
 4. [IBM Analytics Research](https://www.ibm.com/analytics/data-science) — "Approximately 80% of business analytics use cases are descriptive or diagnostic (reporting, KPI dashboards) rather than predictive or prescriptive" (2023)

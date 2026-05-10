@@ -267,5 +267,5 @@ The right lead generation tools remove friction from your pipeline — but tools
 
 1. [Salesforce State of Sales Report](https://www.salesforce.com/resources/research-reports/state-of-sales/) — "Sales reps spend only 28% of their week actually selling" (2024)
 2. [LinkedIn Sales Solutions](https://business.linkedin.com/sales-solutions) — "Social sellers using Sales Navigator exceed their quotas 51% more than non-users" (2024)
-3. [HubSpot Sales Blog](https://blog.hubspot.com/sales/lead-generation) — Lead generation statistics and form conversion benchmarks (2024)
-4. [Gartner Sales Technology Research](https://www.gartner.com/en/sales/topics/sales-technology) — B2B sales technology adoption and ROI benchmarks (2024)
+3. HubSpot Sales Blog — Lead generation statistics and form conversion benchmarks (2024)
+4. Gartner Sales Technology Research — B2B sales technology adoption and ROI benchmarks (2024)

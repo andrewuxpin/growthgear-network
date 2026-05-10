@@ -61,7 +61,7 @@ Data analysts own the full analytical workflow from data extraction to stakehold
 - **Communicate findings** to non-technical stakeholders through clear narratives and visualizations
 - **Monitor live metrics** and flag significant changes to the relevant team
 
-According to Anaconda's [State of Data Science 2023 report](https://www.anaconda.com/resources/whitepapers/state-of-data-science-2023), data practitioners spend roughly 45% of their time on data preparation and cleaning before any analysis begins. For business leaders, this is important context: hiring a data analyst doesn't instantly produce insights — a meaningful portion of their work is invisible infrastructure that enables better analysis over time.
+According to Anaconda's State of Data Science 2023 report, data practitioners spend roughly 45% of their time on data preparation and cleaning before any analysis begins. For business leaders, this is important context: hiring a data analyst doesn't instantly produce insights — a meaningful portion of their work is invisible infrastructure that enables better analysis over time.
 
 ### Types of Data Analysts
 
@@ -259,5 +259,5 @@ Building a data function doesn't have to mean hiring three specialists before yo
 ## Sources & References
 
 1. [U.S. Bureau of Labor Statistics — Data Scientists](https://www.bls.gov/ooh/math/data-scientists.htm) — "Employment of data scientists is projected to grow 35% from 2022 to 2032, much faster than the average for all occupations." (2024)
-2. [Anaconda — State of Data Science 2023](https://www.anaconda.com/resources/whitepapers/state-of-data-science-2023) — "Data practitioners spend approximately 45% of their time on data preparation and cleaning before analysis can begin." (2023)
+2. Anaconda — State of Data Science 2023 — "Data practitioners spend approximately 45% of their time on data preparation and cleaning before analysis can begin." (2023)
 3. [McKinsey — State of AI 2024](https://www.mckinsey.com/capabilities/quantumblack/our-insights/the-state-of-ai) — "Companies with data-driven decision-making are 23 times more likely to acquire customers and 19 times more likely to be profitable." (2024)
