@@ -81,6 +81,8 @@ Firmographics are the foundation — the baseline that determines whether an acc
 - **Geography**: Which regions do you serve effectively? Enterprise accounts outside your support coverage create delivery risk.
 - **Growth stage**: High-growth companies (typically Series C+ or $50M+ ARR) have different urgency and budget cycles than mature enterprise accounts.
 
+For context on which B2B industries should sit at the top of your vertical targeting list, see our [B2B industry examples guide](/b2b-sales/b2b-industry-examples-guide), which maps revenue potential, deal sizes, and buyer dynamics across seven key sectors.
+
 ### 2. Technographic Fit
 
 Technology stack analysis tells you which companies are operationally ready to buy. Technographic fit includes:

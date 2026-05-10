@@ -95,7 +95,7 @@ B2B sales decisions are organizational decisions. They involve budget cycles, ap
 
 Teams that understand the B2B/B2C distinction build their entire go-to-market around it. B2B content must educate, not entertain. B2B outreach must add value, not just generate clicks. And B2B metrics focus on pipeline quality and deal velocity — not just lead volume.
 
-This is why [effective B2B content marketing strategies](https://marketing.growthgear.com.au/content-marketing/best-content-marketing-strategies-b2b-companies) look so different from B2C campaigns: white papers, case studies, and ROI-focused webinars outperform viral content every time in B2B.
+This is why [effective B2B content marketing strategies](https://marketing.growthgear.com.au/content-marketing/best-content-marketing-strategies-b2b-companies) look so different from B2C campaigns: white papers, case studies, and ROI-focused webinars outperform viral content every time in B2B. The B2B/B2C distinction also shapes which industries you should target — see our [B2B industry examples guide](/b2b-sales/b2b-industry-examples-guide) for a breakdown of how deal sizes, sales cycles, and buyer committees differ across the top B2B sectors.
 
 > **Looking to accelerate your sales growth?** GrowthGear has helped 50+ startups build sales engines that deliver 156% average growth. [Book a Free Strategy Session](https://growthgear.com.au) to map out your B2B sales strategy.
 

@@ -88,7 +88,7 @@ A strong B2B ICP captures:
 - **Geography**: Key regions where your team can engage and support customers effectively.
 - **Growth signals**: Recent funding rounds, headcount growth on LinkedIn, new product launches, executive hires — these indicate budget availability and active investment.
 
-For a complete scoring framework, see our guide on [B2B enterprise target profile criteria](/b2b-sales/b2b-enterprise-target-profile-criteria), which covers how enterprise sales teams score and prioritize target accounts.
+For a complete scoring framework, see our guide on [B2B enterprise target profile criteria](/b2b-sales/b2b-enterprise-target-profile-criteria), which covers how enterprise sales teams score and prioritize target accounts. For a breakdown of which B2B industries offer the highest revenue potential by vertical, see our [B2B industry examples guide](/b2b-sales/b2b-industry-examples-guide).
 
 ### ICP Validation Through Your Best Customers
 
