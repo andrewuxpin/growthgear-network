@@ -41,7 +41,7 @@ callout:
 
 Most sales training focuses on scripts and closing lines. But the reps who consistently hit quota aren't winning because of a clever phrase — they're winning because of disciplined preparation, better questions, and faster follow-up.
 
-At GrowthGear, we've worked with 50+ startups and sales teams to build repeatable sales processes. The patterns below show up consistently across the teams that grow fastest. These aren't abstract principles. They're specific behaviors you can implement today.
+At GrowthGear, we've worked with 50+ startups and sales teams to build repeatable sales processes. The patterns below show up consistently across the teams that grow fastest. These aren't abstract principles. They're specific behaviors you can implement today. If you want the organizational view that sits above individual technique — how ICP refinement, process discipline, and CRM adoption drive [sustainable sales revenue growth](/sales-techniques/how-to-increase-sales-revenue) — that strategic framework complements everything in this guide.
 
 Here are 10 proven sales tips grouped into the five phases where deals are most often won or lost.
 
