@@ -92,7 +92,7 @@ The practical ceiling for linear models is when the relationship between feature
 According to Kaggle's 2023 ML competition analysis, gradient boosting algorithms won more than 60% of structured data competitions — the most reliable starting point for business ML.
 
 Business applications:
-- **Fraud detection**: XGBoost on transaction features (amount, location, device fingerprint, timing patterns) with 95%+ precision at production scale
+- **Fraud detection**: XGBoost on transaction features (amount, location, device fingerprint, timing patterns) achieves high precision at scale — but [sensitivity (recall) is equally critical for fraud detection](/machine-learning/what-is-sensitivity-in-machine-learning), since missing a genuine fraud event costs far more than a false positive review
 - **Customer churn prediction**: Random forest on usage patterns, support tickets, and billing history — identifying at-risk customers 30-60 days before cancellation
 - **Supply chain forecasting**: LightGBM on inventory, lead time, and demand signals outperforms traditional time-series methods for irregular demand patterns
 

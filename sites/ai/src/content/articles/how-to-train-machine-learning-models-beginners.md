@@ -88,7 +88,7 @@ Reinforcement learning trains models through trial and error with rewards and pe
 Start by clearly defining what you want to achieve:
 
 1. **Identify the problem type**: Classification, regression, clustering, or reinforcement learning?
-2. **Set success metrics**: Accuracy, precision, recall, F1-score, or mean squared error?
+2. **Set success metrics**: Accuracy, precision, recall, F1-score, or mean squared error? For imbalanced classification tasks, [sensitivity and recall](/machine-learning/what-is-sensitivity-in-machine-learning) are far more informative than overall accuracy alone.
 3. **Determine constraints**: Time, budget, computational resources, and data availability
 
 **Example**: Predicting house prices (regression problem) with a target accuracy of 85% using real estate data.
