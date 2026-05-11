@@ -101,7 +101,7 @@ Specialist providers focus on a single content function and deliver concentrated
 | **Podcast production** | Recording, editing, and distribution | Thought leadership and B2B brand building |
 | **Technical SEO content** | Audits, schema, structured content | Sites with existing content, ranking issues |
 
-Specialists cost less than full-service agencies but require you to own the strategy and coordination. Many high-growth companies hire a fractional content strategist to manage multiple specialists — getting full-service output at a lower per-function cost.
+Specialists cost less than full-service agencies but require you to own the strategy and coordination. Many high-growth companies hire a fractional content strategist to manage multiple specialists — getting full-service output at a lower per-function cost. If you're weighing an in-house hire against agency engagement, understanding [what a content marketing specialist does and earns](/content-marketing/what-is-a-content-marketing-specialist) helps you model the economics of both options accurately.
 
 ### Managed Freelance Marketplaces
 

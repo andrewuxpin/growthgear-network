@@ -159,7 +159,7 @@ Interactive and distribution-focused ideas are the force multipliers of any cont
 
 ## Building Your Content Calendar Around These Ideas
 
-Choosing the right mix of content ideas means honestly assessing your team's capacity and your brand's current authority. For most businesses, high-impact/low-effort formats — FAQ posts, weekly email newsletters, systematic repurposing — deliver the fastest compounding ROI. Add complexity as your capacity grows and your early bets start generating returns.
+Choosing the right mix of content ideas means honestly assessing your team's capacity and your brand's current authority. If your capacity is limited, a dedicated [content marketing specialist](/content-marketing/what-is-a-content-marketing-specialist) — even fractional — dramatically increases how many of these formats you can execute consistently. For most businesses, high-impact/low-effort formats — FAQ posts, weekly email newsletters, systematic repurposing — deliver the fastest compounding ROI. Add complexity as your capacity grows and your early bets start generating returns.
 
 ### Prioritize by Effort vs. Impact
 
