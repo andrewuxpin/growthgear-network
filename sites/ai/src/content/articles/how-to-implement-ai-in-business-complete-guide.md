@@ -126,6 +126,8 @@ To identify the best AI implementation opportunities, conduct a thorough analysi
 - Provide real-time sentiment analysis
 - Enable predictive customer issue resolution
 
+For a platform-by-platform breakdown of AI tools covering each of these customer service layers — from help desk AI and agent assist to QA analytics and workforce management — see our guide to [best AI tools for customer service](/ai-tools/best-ai-tools-for-customer-service).
+
 **2. Sales and Marketing**
 - Personalize customer experiences
 - Optimize pricing strategies
