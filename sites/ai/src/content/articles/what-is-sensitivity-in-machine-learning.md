@@ -133,7 +133,7 @@ For sales teams using AI-powered CRM tools, the precision-recall balance in lead
 
 ## F1 Score, ROC-AUC, and Advanced Evaluation Metrics
 
-No single metric captures classifier quality completely. F1 score, ROC-AUC, and log loss each add context that sensitivity alone cannot provide. For most business classification problems, report sensitivity, precision, F1, and AUC together — they tell you different things about where the model succeeds and fails.
+No single metric captures classifier quality completely. F1 score, ROC-AUC, and log loss each add context that sensitivity alone cannot provide. For most business classification problems, report sensitivity, precision, F1, and AUC together — scikit-learn's [ML classification report](/machine-learning/classification-report-machine-learning-guide) presents all four metrics per class in a single structured output, alongside support counts that tell you whether each estimate is statistically reliable.
 
 ### F1 Score: The Harmonic Balance
 

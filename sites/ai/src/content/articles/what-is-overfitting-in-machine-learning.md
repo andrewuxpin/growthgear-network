@@ -104,7 +104,7 @@ Track training accuracy and validation accuracy throughout training. The gap bet
 | 10-20 points | Moderate overfitting | Add regularization before proceeding |
 | > 20 points | Severe overfitting | More data or simpler architecture required |
 
-For imbalanced classification tasks — fraud, churn, defects — accuracy alone is misleading even when there is no overfitting. Tracking [sensitivity and recall](/machine-learning/what-is-sensitivity-in-machine-learning) separately from the aggregate accuracy score prevents deployment decisions based on deceptive metrics: a model scoring 99% accuracy on a 1% positive-rate dataset may have zero recall.
+For imbalanced classification tasks — fraud, churn, defects — accuracy alone is misleading even when there is no overfitting. Tracking [sensitivity and recall](/machine-learning/what-is-sensitivity-in-machine-learning) separately from the aggregate accuracy score prevents deployment decisions based on deceptive metrics: a model scoring 99% accuracy on a 1% positive-rate dataset may have zero recall. A full [ML classification report](/machine-learning/classification-report-machine-learning-guide) — covering precision, recall, F1-score, and support per class — surfaces exactly this failure mode in a single structured output.
 
 ### Learning Curve Analysis
 

@@ -223,7 +223,7 @@ You can extend model accuracy with [transfer learning techniques](/machine-learn
 
 Accuracy is rarely the right evaluation metric:
 
-- **Fraud detection**: Use precision-recall tradeoff — a model with 99% accuracy that flags nothing is useless
+- **Fraud detection**: Use precision-recall tradeoff — a model with 99% accuracy that flags nothing is useless. Use a [classification report](/machine-learning/classification-report-machine-learning-guide) to see per-class precision, recall, and F1-score so the fraud class weakness is immediately visible
 - **Churn prediction**: Use lift at top decile — how much better is the model at finding churners than random selection?
 - **Revenue forecasting**: Use MAPE (Mean Absolute Percentage Error) — percentage error is meaningful to finance teams; RMSE is not
 
