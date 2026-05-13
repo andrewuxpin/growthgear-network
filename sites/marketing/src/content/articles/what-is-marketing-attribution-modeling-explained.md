@@ -128,6 +128,8 @@ With proper attribution insights, you can:
 - Increase investment in high-performing touchpoints
 - Achieve up to 30% improvement in marketing ROI
 
+To capture the full revenue impact of each channel, connect your attribution model to [CRM analytics data](/seo/crm-analytics-guide) — your CRM holds the closed-deal revenue data that attribution tools need to calculate true marketing ROI beyond click-through metrics.
+
 ### 2. Improved Customer Experience
 Understanding the customer journey helps you:
 - Deliver more relevant messaging at each touchpoint

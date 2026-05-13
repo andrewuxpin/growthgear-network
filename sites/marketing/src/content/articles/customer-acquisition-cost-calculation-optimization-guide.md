@@ -115,7 +115,7 @@ Analyzing CAC by customer cohorts reveals important patterns:
 
 ### 3. Channel-Specific CAC Calculation
 
-Breaking down CAC by acquisition channel provides actionable insights:
+Breaking down CAC by acquisition channel provides actionable insights. Accurate channel-level CAC depends on clean lead source tagging in your CRM — see the [CRM analytics guide for marketing teams](/seo/crm-analytics-guide) for the technical setup required to track CAC reliably at the channel level.
 
 | Channel | Monthly Spend | Customers | CAC | Quality Score |
 |---------|---------------|-----------|-----|---------------|

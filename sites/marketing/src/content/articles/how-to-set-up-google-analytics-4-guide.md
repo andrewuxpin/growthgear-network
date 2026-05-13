@@ -389,6 +389,8 @@ Use GA4's real-time reports to verify tracking:
 - Revenue attribution
 - Customer lifetime value
 
+For revenue attribution beyond session-level data, complement your GA4 setup with [CRM analytics](/seo/crm-analytics-guide) — your CRM contains deal-level revenue data tied to specific leads and campaigns that GA4 cannot capture directly from website sessions.
+
 **Audience Metrics**:
 - New vs. returning users
 - Demographics
