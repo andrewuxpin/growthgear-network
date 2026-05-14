@@ -49,7 +49,7 @@ This guide gives you a system: the six most effective prospecting techniques, a 
 
 Sales prospecting is the active, rep-led process of identifying potential buyers who match your ideal customer profile, initiating contact, and qualifying them for a sales conversation. Unlike lead generation, which relies on marketing campaigns to attract inbound interest, prospecting puts control directly in the hands of the sales team. You decide who to target, when to reach out, and how to personalize the message.
 
-Most B2B teams see pipeline results within the first 30 days of implementing a structured prospecting program. The distinction matters operationally. Lead generation creates demand; prospecting converts it. When marketing pipelines run dry or campaigns underperform, prospecting is the lever that keeps momentum.
+Most B2B teams see pipeline results within the first 30 days of implementing a structured prospecting program. The distinction matters operationally. Lead generation creates demand; prospecting converts it. When marketing pipelines run dry or campaigns underperform, prospecting is the lever that keeps momentum. For a team-level system that scales individual prospecting into a structured [outbound lead generation program](/sales-techniques/outbound-lead-generation-guide) with defined ICP, sequenced cadences, and measurement frameworks, see our complete outbound guide.
 
 ### Prospecting vs. Lead Generation: Core Differences
 

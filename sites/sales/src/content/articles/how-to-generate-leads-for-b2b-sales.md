@@ -77,7 +77,7 @@ For teams targeting a specific geographic territory, [local B2B lead generation]
 
 ### Outbound Lead Generation: Cold Email and LinkedIn Outreach
 
-Outbound remains the fastest path to pipeline for most B2B teams. You can start generating qualified conversations within 2-4 weeks of a properly structured outbound motion.
+Outbound remains the fastest path to pipeline for most B2B teams. You can start generating qualified conversations within 2-4 weeks of a properly structured outbound motion. For a complete system covering ICP definition, contact list building, multi-channel cadences, and outbound metrics, see our [outbound lead generation guide](/sales-techniques/outbound-lead-generation-guide).
 
 **Cold email** works when three conditions are met: the list is tightly targeted to your ICP, the message is personalized to the recipient's specific situation, and the call to action asks for a small commitment (a 15-minute call, not a full demo). Generic bulk email to purchased lists produces spam complaints, not meetings.
 
