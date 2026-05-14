@@ -124,7 +124,7 @@ The loss function produces a single scalar — a measure of how wrong the curren
 
 ### Phase 3: Backpropagation and Weight Updates
 
-Once loss is computed, **backpropagation** calculates how much each weight contributed to the error. Introduced by Rumelhart, Hinton, and Williams in their landmark [1986 Nature paper](https://www.nature.com/articles/323533a0), backpropagation applies the chain rule of calculus to propagate error gradients backward through every layer — from output to input.
+Once loss is computed, **backpropagation** calculates how much each weight contributed to the error. Introduced by Rumelhart, Hinton, and Williams in their landmark [1986 Nature paper](https://www.nature.com/articles/323533a0), backpropagation applies the chain rule of calculus to propagate error gradients backward through every layer — from output to input. Backpropagation extends the [delta rule](/deep-learning/what-is-the-delta-rule-in-neural-networks) — Widrow & Hoff's 1960 single-layer error update formula — to multi-layer networks through recursive chain rule computation.
 
 Each weight receives a gradient: a value indicating whether increasing or decreasing the weight would reduce loss, and by how much. Gradient descent then updates each weight by a small step in the loss-reducing direction:
 

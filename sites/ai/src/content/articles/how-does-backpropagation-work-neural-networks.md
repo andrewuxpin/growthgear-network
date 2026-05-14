@@ -59,7 +59,7 @@ This property is what makes backpropagation tractable in networks with dozens or
 
 ### The 1986 Breakthrough
 
-Before Rumelhart, Hinton, and Williams, researchers knew multi-layer networks were theoretically powerful. The universal approximation theorem showed that a network with even one hidden layer could approximate any continuous function. But training those networks remained elusive — no efficient method existed for computing how interior weights should change.
+Before Rumelhart, Hinton, and Williams, researchers knew multi-layer networks were theoretically powerful. The universal approximation theorem showed that a network with even one hidden layer could approximate any continuous function. But training those networks remained elusive — no efficient method existed for computing how interior weights should change. The [delta rule](/deep-learning/what-is-the-delta-rule-in-neural-networks) — Widrow and Hoff's 1960 algorithm for single-layer networks — provided the output-layer update formula. Backpropagation solved the harder problem: propagating equivalent error signals to hidden layers via the chain rule.
 
 The 1986 paper demonstrated that backpropagation could compute exact gradients for every weight in a single backward sweep, in time proportional to the number of weights — not exponential in the number of layers. According to LeCun, Bengio, and Hinton's 2015 review in *Nature*, this breakthrough combined with GPU parallelism is the primary technical driver behind modern deep learning.
 
