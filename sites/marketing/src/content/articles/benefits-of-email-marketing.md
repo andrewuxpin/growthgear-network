@@ -62,7 +62,7 @@ Paid advertising delivers results only while the budget runs. Turn off the spend
 
 The compounding effect accelerates with automation. A single well-constructed welcome sequence, abandoned cart flow, or re-engagement campaign runs continuously without manual effort — generating revenue from emails you built once, months or years ago. For a practical set of proven structures to adapt, see [email marketing examples that drive results](/content-marketing/email-marketing-examples-that-drive-results). GrowthGear clients who invest in building email infrastructure early consistently see this compounding effect contribute to their [156% average growth](https://growthgear.com.au) within 12-18 months.
 
-Well-maintained lists also appreciate in quality over time. Subscribers who have been on your list for 6-12 months and consistently engage have demonstrated purchase intent — they're worth significantly more per email than new subscribers, and they remain in your list at no ongoing cost.
+Well-maintained lists also appreciate in quality over time. Subscribers who have been on your list for 6-12 months and consistently engage have demonstrated purchase intent — they're worth significantly more per email than new subscribers, and they remain in your list at no ongoing cost. The most effective vehicle for sustaining this long-term engagement is a structured [email newsletter strategy](/content-marketing/email-newsletter-strategy-guide) — a regular, value-driven send that builds trust without asking for a purchase every issue.
 
 ## The Core Benefits of Email Marketing
 

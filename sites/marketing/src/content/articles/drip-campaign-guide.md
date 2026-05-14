@@ -64,7 +64,7 @@ A drip campaign differs in three ways:
 - **Relevance**: Content reflects where the subscriber is in their journey, not a single moment broadcast to everyone
 - **Persistence**: Multiple touchpoints compound impact — each email builds on what came before
 
-A subscriber who just downloaded your pricing guide needs different messaging than someone who signed up six weeks ago and hasn't clicked anything. Drip campaigns handle that differentiation automatically, at scale. [Effective email marketing campaigns](/content-marketing/how-to-create-effective-email-marketing-campaigns) combine one-time blasts for announcements with ongoing drip sequences for nurturing — both have a role in a complete email program.
+A subscriber who just downloaded your pricing guide needs different messaging than someone who signed up six weeks ago and hasn't clicked anything. Drip campaigns handle that differentiation automatically, at scale. [Effective email marketing campaigns](/content-marketing/how-to-create-effective-email-marketing-campaigns) combine one-time blasts for announcements with ongoing drip sequences for nurturing — both have a role in a complete email program. For brands also running a regular newsletter, the formats work together: drip sequences guide new subscribers toward conversion while a [well-built email newsletter strategy](/content-marketing/email-newsletter-strategy-guide) builds long-term trust and keeps your audience engaged between active sales cycles.
 
 ### Why Drip Campaigns Work
 
