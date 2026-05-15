@@ -186,7 +186,7 @@ These tools are most valuable for ecommerce or DTC brands with complex paid medi
 
 ### What Marketing Teams Actually Use
 
-In practice, most B2B marketing teams under 100 employees standardize on HubSpot CRM as their primary analytics platform, supplemented by GA4 for website behavior. Enterprise teams typically use Salesforce. The pattern across GrowthGear's client engagements: teams that try to build custom analytics in spreadsheets or BI tools before standardizing CRM data capture end up with months of unusable, inconsistent data. Start with your CRM's native analytics — add complexity only after you've grown a clean data foundation and have specific reporting gaps that native tools can't close.
+In practice, most B2B marketing teams under 100 employees standardize on HubSpot CRM as their primary analytics platform, supplemented by GA4 for website behavior. Enterprise teams typically use Salesforce. The pattern across GrowthGear's client engagements: teams that try to build custom analytics in spreadsheets or BI tools before standardizing CRM data capture end up with months of unusable, inconsistent data. Start with your CRM's native analytics — add complexity only after you've grown a clean data foundation and have specific reporting gaps that native tools can't close. For a comparison of the sales management platforms that generate the deal and pipeline data that feeds these analytics, see our [sales management software guide](/content-marketing/sales-management-software-guide).
 
 ---
 

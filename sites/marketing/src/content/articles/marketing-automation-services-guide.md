@@ -205,7 +205,7 @@ For teams with 500-10,000 contacts:
 - **Social scheduling**: Buffer or Hootsuite ($18-49/month)
 - **Analytics**: Google Analytics 4 + Looker Studio (free)
 
-This stack handles lead capture, email nurture, CRM sync, social publishing, and performance reporting. It integrates natively without custom development.
+This stack handles lead capture, email nurture, CRM sync, social publishing, and performance reporting. It integrates natively without custom development. Pairing this with a dedicated [sales management platform](/content-marketing/sales-management-software-guide) — HubSpot Sales Hub or Pipedrive — creates the full lead-to-revenue workflow that makes marketing automation contribution measurable at the deal level.
 
 ### Scaling the Stack (Mid-Market)
 

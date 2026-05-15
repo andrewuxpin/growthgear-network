@@ -117,7 +117,7 @@ The marketing-to-sales handoff is where most lead management systems break down.
 - Assigned owner with response time SLA
 - Suggested first step based on lead engagement pattern
 
-If any part of this handoff requires manual data entry, you're introducing the error rate that kills pipeline velocity. This connects directly to [how to build a sales pipeline from scratch](https://sales.growthgear.com.au/b2b-sales/how-to-build-sales-pipeline-from-scratch) — your lead management system is the upstream feeder that determines pipeline quality before a rep ever makes contact.
+If any part of this handoff requires manual data entry, you're introducing the error rate that kills pipeline velocity. This connects directly to [how to build a sales pipeline from scratch](https://sales.growthgear.com.au/b2b-sales/how-to-build-sales-pipeline-from-scratch) — your lead management system is the upstream feeder that determines pipeline quality before a rep ever makes contact. For the downstream layer where deals are tracked, forecasted, and closed after the handoff, see our [sales management software guide](/content-marketing/sales-management-software-guide) for a comparison of the top tools at every team size.
 
 > **Want to build a lead engine that converts?** GrowthGear has helped 50+ startups implement lead management systems that deliver 156% average growth. [Book a Free Strategy Session](https://growthgear.com.au) to design your lead pipeline.
 
