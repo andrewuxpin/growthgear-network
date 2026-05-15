@@ -60,7 +60,7 @@ Before evaluating tools, define which features matter for your team:
 | Rep-level visibility | Shows forecast by individual contributor | Sales managers, RevOps |
 | Historical trend analysis | Benchmarks current pipeline against past quarters | CEOs, CFOs |
 
-Teams that [build their sales pipeline systematically](/sales-techniques/how-to-build-sales-pipeline-from-scratch) will extract more value from forecasting software—garbage-in, garbage-out applies here more than anywhere else in the sales stack.
+Teams that [build their sales pipeline systematically](/sales-techniques/how-to-build-sales-pipeline-from-scratch) will extract more value from forecasting software—garbage-in, garbage-out applies here more than anywhere else in the sales stack. A structured [sales pipeline report](/crm-tools/sales-pipeline-report-guide) is the essential bridge between raw CRM data and the clean inputs your forecasting tool needs to generate accurate projections.
 
 ### When You Actually Need Dedicated Forecasting Software
 

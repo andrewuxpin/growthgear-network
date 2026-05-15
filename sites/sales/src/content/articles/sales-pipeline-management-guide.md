@@ -296,6 +296,8 @@ Pipeline management generates a lot of data. Making sense of it requires analyti
 
 For advanced pipeline analytics and forecasting, [dedicated sales analytics tools](/crm-tools/best-sales-forecasting-software-tools) apply machine learning to your historical data to produce more accurate forecasts and highlight pipeline anomalies before they become missed quarters.
 
+Before adding analytics tooling, make sure you have a structured [sales pipeline report](/crm-tools/sales-pipeline-report-guide) in place — it is the foundation that translates raw CRM data into the weekly review cadence that drives forecast accuracy.
+
 Data-driven pipeline management also benefits from [AI-powered data analysis tools](https://ai.growthgear.com.au/ai-tools/best-ai-tools-for-data-analysis) that can surface patterns across thousands of deals that would take humans weeks to identify manually.
 
 ### Pipeline Management Tech Stack by Team Size
