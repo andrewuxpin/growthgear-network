@@ -157,6 +157,8 @@ For most SMBs and mid-market businesses, the right tools depend on where the aut
 - Intercom Fin, Zendesk AI — enterprise-grade triage and response generation
 - Gorgias — purpose-built for e-commerce support
 
+For a full comparison of AI tools across all business functions — marketing, operations, sales, and support — with pricing and best-fit guidance by team size, see the [best AI tools for business guide](/ai-tools/best-ai-tools-for-business-guide).
+
 **AI-powered CRM and sales automation**:
 - HubSpot with AI features — contact scoring, email personalization, pipeline forecasting
 - Salesforce Einstein — enterprise lead scoring and opportunity intelligence
