@@ -84,7 +84,7 @@ HubSpot's strength is integration depth with its own CRM — contact records, de
 - **Professional:** $800/month (email automation, Salesforce sync, A/B testing)
 - **Enterprise:** $3,600/month (adaptive testing, multi-touch attribution, custom objects)
 
-HubSpot's free tier is genuinely useful for early-stage teams — it's the best on-ramp for teams that haven't committed to a platform yet. Explore [best content marketing strategies for B2B](/content-marketing/best-content-marketing-strategies-b2b-companies) to build the content foundation HubSpot needs to perform.
+HubSpot's free tier is genuinely useful for early-stage teams — it's the best on-ramp for teams that haven't committed to a platform yet. Explore [best content marketing strategies for B2B](/content-marketing/best-content-marketing-strategies-b2b-companies) to build the content foundation HubSpot needs to perform. If you're already on HubSpot and questioning whether the cost justifies the value, see our guide to [best HubSpot alternatives for marketing teams](/content-marketing/best-hubspot-alternatives-for-marketing-teams).
 
 ### ActiveCampaign
 
