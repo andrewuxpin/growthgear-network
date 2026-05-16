@@ -84,7 +84,7 @@ The title varies by company, but the underlying skill set — querying data, bui
 The overlap between adjacent roles creates frequent confusion in job postings and hiring processes. Clarity matters before you write a job description:
 
 - **Not a data scientist**: Analysts rarely build ML models or work with neural networks. If you need churn prediction or demand forecasting with ML, that's a data science role.
-- **Not a data engineer**: Analysts consume data from pipelines they didn't build. Engineers design and maintain the infrastructure — Kafka, Airflow, Spark — that makes clean data available.
+- **Not a data engineer**: Analysts consume data from pipelines they didn't build. Engineers design and maintain the infrastructure — Kafka, Airflow, Spark — that makes clean data available. For a complete breakdown of the data engineer role and when to hire one, see our guide on [what data engineering is and how it differs from analytics](/machine-learning/what-is-data-engineering-guide).
 - **Not a business analyst (strictly)**: The titles often merge, but traditional business analysts focus on process improvement and requirements documentation, not SQL and BI tools.
 - **Not a data entry clerk**: Data entry is manual input; data analysis is extracting meaning from existing datasets.
 

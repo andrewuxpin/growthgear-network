@@ -66,7 +66,7 @@ Data scientists primarily use Python (pandas, NumPy, scikit-learn) and SQL, with
 
 If you're defining job requirements or evaluating candidates, the amount of coding each data role actually requires varies significantly by tier. Our guide on [does data science require coding](/machine-learning/does-data-science-require-coding-guide) breaks down the specific Python and SQL depth expected at each level — from analyst to ML engineer.
 
-The scope of data science also includes adjacent specializations: data analysts who focus on reporting and business intelligence, and data engineers who build the pipelines that move data from source systems into analytical stores. The full picture of how these roles relate — and how data analysts fit into both — is part of the broader data function that precedes any ML investment.
+The scope of data science also includes adjacent specializations: data analysts who focus on reporting and business intelligence, and data engineers who build the pipelines that move data from source systems into analytical stores. Understanding [what data engineering involves](/machine-learning/what-is-data-engineering-guide) — and how it underpins both analytics and ML — is essential before deciding which data role to hire first.
 
 ### Defining Machine Learning
 

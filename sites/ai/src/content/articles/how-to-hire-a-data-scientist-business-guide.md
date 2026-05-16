@@ -180,7 +180,7 @@ Outsource or delay the hire when:
 - **You're pre-product-market fit** — spend on growth, not analytics infrastructure
 - **Your use case is a one-time project** — a single customer segmentation or pricing model doesn't justify a $120,000+ annual salary
 - **AI tools can close 80% of the gap** — tools like [DataRobot, Google Vertex AI](https://cloud.google.com/vertex-ai), and AutoML platforms can build baseline models without a dedicated data scientist
-- **You lack data infrastructure** — hiring a data scientist before you have a clean data warehouse is expensive; build the pipeline first
+- **You lack data infrastructure** — hiring a data scientist before you have a clean data warehouse is expensive; build the pipeline first. See our guide on [what data engineering involves](/machine-learning/what-is-data-engineering-guide) to understand what infrastructure needs to exist before data science work can succeed.
 
 A good rule: if you cannot describe the specific prediction problem the hire will solve on day one, you're not ready to hire.
 
