@@ -143,7 +143,7 @@ LinkedIn is the most credible outbound channel for senior buyer engagement. Acco
 
 LinkedIn outreach works differently from email. The connection request is the first touchpoint, and the message needs to be genuinely relevant to the recipient's role and context — not a copy-paste sales pitch. Reference something from their profile, their company's recent activity, or a shared connection.
 
-Use LinkedIn in combination with email: view a prospect's profile before sending a cold email, then connect on LinkedIn as a secondary touch. This two-channel approach increases familiarity and drives higher overall reply rates. LinkedIn also lets you engage with prospects' content through comments and reactions, building presence before any direct outreach.
+Use LinkedIn in combination with email: view a prospect's profile before sending a cold email, then connect on LinkedIn as a secondary touch. This two-channel approach increases familiarity and drives higher overall reply rates. LinkedIn also lets you engage with prospects' content through comments and reactions, building presence before any direct outreach. For teams ready to extend beyond email and LinkedIn into video messages, SMS, and direct mail, [multichannel cold outreach strategies](/sales-techniques/cold-outreach-strategies-multichannel) covers how to build a coordinated 8-touch sequence across all six channels.
 
 ### Account-Based Advertising
 

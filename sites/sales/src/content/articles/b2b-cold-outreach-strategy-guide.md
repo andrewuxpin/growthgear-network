@@ -213,6 +213,8 @@ The channel sequence that performs best for B2B:
 3. **LinkedIn message** (after connection, as a secondary touchpoint)
 4. **Phone** (reserved for Tier 1 high-priority prospects only)
 
+For teams ready to extend the channel mix beyond these four into video messages, SMS, and direct mail, [multichannel cold outreach strategies](/sales-techniques/cold-outreach-strategies-multichannel) covers how to build an 8-touch coordinated sequence that combines all six channels.
+
 For teams building out the full-funnel infrastructure that makes outreach campaigns sustainable, integrating cold outreach with your [lead generation techniques](/sales-techniques/lead-generation-techniques-that-fill-your-pipeline) creates the compounding effect where each channel reinforces the others.
 
 Connecting cold outreach results to your [sales pipeline management system](/b2b-sales/sales-pipeline-management-guide) keeps your sequence efforts visible in the revenue forecast — and makes the case for continued investment in outbound.

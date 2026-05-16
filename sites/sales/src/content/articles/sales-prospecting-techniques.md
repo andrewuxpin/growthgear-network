@@ -181,7 +181,7 @@ This sequence uses each channel for its strengths: email for detailed context, p
 
 One cadence doesn't fit every prospect. Adjust based on deal size and ICP fit:
 
-- **Tier 1 (Perfect ICP fit, large deal size)**: 12-15 touches over 30 days. Include video messages and direct mail for standout moments.
+- **Tier 1 (Perfect ICP fit, large deal size)**: 12-15 touches over 30 days. Include video messages and direct mail for standout moments. See [multichannel cold outreach strategies](/sales-techniques/cold-outreach-strategies-multichannel) for a step-by-step sequence that combines all six channels.
 - **Tier 2 (Good fit, mid-market deal size)**: 8-10 touches over 21 days. Email, phone, and LinkedIn.
 - **Tier 3 (Marginal fit, small deal size)**: 4-5 touches over 14 days. Email-heavy, minimal phone investment.
 
