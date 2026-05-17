@@ -91,7 +91,7 @@ According to Gartner's 2024 Market Guide for Robotic Process Automation, the RPA
 
 Workflow automation tools connect cloud applications via APIs, triggering actions based on events or schedules. When a new lead enters your CRM, a workflow automatically creates a task in your project management tool, sends a Slack notification, adds the contact to an email sequence, and logs the event — without any manual steps.
 
-This is where most SMBs and growing businesses should start. Tools like [Make.com](/ai-tools/make-com-automation-guide), [Zapier](/ai-tools/zapier-cost-pricing-guide), and [n8n](/ai-tools/best-n8n-templates-ai-automation-workflows) sit in this category, with AI capabilities layered in through OpenAI, Claude, or Gemini integrations that can parse, classify, or generate content mid-workflow.
+This is where most SMBs and growing businesses should start. Tools like [Make.com](/ai-tools/make-com-automation-guide), [Zapier](/ai-tools/zapier-cost-pricing-guide), and [n8n](/ai-tools/best-n8n-templates-ai-automation-workflows) sit in this category, with AI capabilities layered in through OpenAI, Claude, or Gemini integrations that can parse, classify, or generate content mid-workflow. For a detailed cost comparison of the leading SMB workflow tools — including per-operation pricing mechanics and which plan fits your team — see our [Make.com pricing plans guide](/ai-tools/make-com-pricing-plans-guide).
 
 **Best for**: API-connected SaaS stacks, marketing and sales workflows, notifications and approvals, content routing, and data synchronisation between modern cloud platforms.
 

@@ -158,7 +158,7 @@ Make.com bills by **operations** — the number of times any module executes per
 
 *Pricing from [Make.com's official pricing page](https://www.make.com/en/pricing). Annual billing required for listed rates.*
 
-The **Core plan at $9/month** is the right starting point for most small business teams. Ten thousand operations per month handles 20+ active scenarios running multiple times daily. The Pro plan adds priority support, advanced scenario settings, and full-text execution history at $16/month — worth it once Make.com becomes mission-critical for your operations.
+The **Core plan at $9/month** is the right starting point for most small business teams. Ten thousand operations per month handles 20+ active scenarios running multiple times daily. The Pro plan adds priority support, advanced scenario settings, and full-text execution history at $16/month — worth it once Make.com becomes mission-critical for your operations. For a complete tier-by-tier breakdown including DataStore access and how to calculate your monthly operation budget, see our [Make.com pricing plans guide](/ai-tools/make-com-pricing-plans-guide).
 
 ### Estimating Your Monthly Operations Budget
 

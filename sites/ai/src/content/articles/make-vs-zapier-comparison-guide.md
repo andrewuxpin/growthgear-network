@@ -90,7 +90,7 @@ The Core plan at $9/month is the right starting point for most SMBs. Unlimited a
 
 One important cost mechanic: Make's per-operation billing means workflow design directly affects your monthly bill. A 10-module scenario costs 10 operations per execution. Complex loops using iterators multiply operation consumption per batch. When planning higher-volume automations, factor step count into the economics — not just trigger frequency.
 
-For a complete cost walkthrough including the self-hosted alternative, see the [n8n pricing and cloud hosting comparison](/ai-tools/n8n-pricing-cloud-vs-self-hosted-guide), which provides useful context on what full stack control looks like at the opposite end of the spectrum.
+For a complete cost walkthrough including the self-hosted alternative, see the [n8n pricing and cloud hosting comparison](/ai-tools/n8n-pricing-cloud-vs-self-hosted-guide), which provides useful context on what full stack control looks like at the opposite end of the spectrum. For a dedicated breakdown of all Make.com plan tiers, operation counting mechanics, and annual savings calculations, see our [Make.com pricing plans guide](/ai-tools/make-com-pricing-plans-guide).
 
 ### Zapier Pricing Tiers
 
