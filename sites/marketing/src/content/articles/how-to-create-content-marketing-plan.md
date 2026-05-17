@@ -66,7 +66,7 @@ Many teams confuse content strategy with a content marketing plan. They're relat
 
 Your content strategy answers: "Why does this content exist and who is it for?" Your content marketing plan answers: "What will we create, when, on which channels, and how will we measure success?"
 
-Both matter. But most teams that struggle with content are missing the plan, not the strategy. A content marketing plan also works best within the context of a broader [digital marketing plan](/content-marketing/how-to-build-digital-marketing-plan) that coordinates budgets across SEO, paid, email, and social simultaneously.
+Both matter. But most teams that struggle with content are missing the plan, not the strategy. A content marketing plan also works best within the context of a broader [digital marketing plan](/content-marketing/how-to-build-digital-marketing-plan) that coordinates budgets across SEO, paid, email, and social simultaneously. Before finalizing your plan, establishing the six-component [digital content strategy](/content-marketing/how-to-build-digital-content-strategy) — goals, personas, channel selection, content mix, editorial calendar, and measurement framework — ensures your plan is built on a strategic foundation rather than tactical guesswork.
 
 ### Why Content Marketing Plans Fail
 
