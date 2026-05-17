@@ -194,7 +194,7 @@ A B2B sales strategy without measurement is activity without improvement. The me
 | **Average deal size** | Total revenue ÷ number of closed deals | Track by ICP segment separately |
 | **Sales cycle length** | Days from first qualified contact to signed contract | 60–90 days mid-market; 6–12 months enterprise |
 
-Track these metrics by segment — not just in aggregate. A 25% win rate overall can mask a 50% win rate in your core ICP segment and a 5% win rate outside it. That gap shows exactly where to concentrate resources and where to stop spending.
+Track these metrics by segment — not just in aggregate. A 25% win rate overall can mask a 50% win rate in your core ICP segment and a 5% win rate outside it. That gap shows exactly where to concentrate resources and where to stop spending. Segmenting these metrics also requires clear territory boundaries — our [sales territory planning guide](/b2b-sales/sales-territory-planning-guide) covers how to structure territories so that segment-level metrics are meaningful rather than arbitrary.
 
 ### Pipeline Reviews That Coach, Not Just Track
 

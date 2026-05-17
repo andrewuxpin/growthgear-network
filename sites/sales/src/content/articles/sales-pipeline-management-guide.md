@@ -87,7 +87,7 @@ A **3x–4x coverage ratio** is the standard benchmark for most B2B sales teams.
 
 Below 3x signals a volume problem — your reps aren't generating enough qualified opportunities. Above 5x often means pipeline hygiene is poor, with stale or unqualified deals inflating the number.
 
-Coverage ratios vary by industry: Gartner research on sales pipeline management shows enterprise software companies typically need 4x–5x coverage due to longer sales cycles and higher deal mortality rates.
+Coverage ratios vary by industry: Gartner research on sales pipeline management shows enterprise software companies typically need 4x–5x coverage due to longer sales cycles and higher deal mortality rates. Coverage ratios should also be measured by territory, not just in aggregate — our [sales territory planning guide](/b2b-sales/sales-territory-planning-guide) explains how to identify which territories are chronically under-covered and how to rebalance rep assignments before it affects your number.
 
 ### 2. Win Rate
 

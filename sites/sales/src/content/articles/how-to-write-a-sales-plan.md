@@ -185,7 +185,7 @@ One page maximum. Include:
 - **Revenue target**: Total, broken down by new business and expansion
 - **Primary segments**: 2-3 ICPs you're targeting
 - **Key initiatives**: 3-5 programs driving growth (new vertical launch, outbound sequence rollout, etc.)
-- **Team structure**: Headcount, roles, and territory assignments
+- **Team structure**: Headcount, roles, and territory assignments (see our guide to [sales territory planning](/b2b-sales/sales-territory-planning-guide) for the framework behind building balanced territory structures)
 
 The executive summary should give any new hire or stakeholder the full picture in 5 minutes.
 
