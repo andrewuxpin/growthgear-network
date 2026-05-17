@@ -193,7 +193,7 @@ For teams implementing AI-powered attribution and pipeline intelligence, see our
 
 ### Managing Lead Handoff to Sales
 
-Lead handoff is the highest-risk moment in the marketing-sales process. According to Salesforce research, 79% of marketing leads never convert to sales due to inadequate follow-up — with slow initial response time being the leading cause. [Harvard Business Review research](https://hbr.org/2011/03/the-short-life-of-online-sales) found that responding to leads within 5 minutes makes qualification 9x more likely than waiting 60 minutes.
+Lead handoff is the highest-risk moment in the marketing-sales process. According to Salesforce research, 79% of marketing leads never convert to sales due to inadequate follow-up — with slow initial response time being the leading cause. Harvard Business Review research found that responding to leads within 5 minutes makes qualification 9x more likely than waiting 60 minutes.
 
 A structured handoff process using sales management software:
 
@@ -287,5 +287,5 @@ The software decision is 40% of the equation. The other 60% is process design: c
 
 1. [Salesforce State of Sales](https://www.salesforce.com/resources/research-reports/state-of-sales/) — "High-performing sales teams are 1.6x more likely to use dedicated sales analytics platforms; companies using Sales Cloud see 26% average increase in sales productivity" (2024)
 2. [HubSpot Research — Marketing Statistics](https://www.hubspot.com/marketing-statistics) — "Aligned marketing and sales teams achieve 38% higher win rates and 36% higher customer retention" (2024)
-3. [Harvard Business Review — The Short Life of Online Sales Leads](https://hbr.org/2011/03/the-short-life-of-online-sales) — "Contacting prospects within 5 minutes makes qualification 9x more likely than waiting 60 minutes" (2011)
+3. Harvard Business Review — The Short Life of Online Sales Leads — "Contacting prospects within 5 minutes makes qualification 9x more likely than waiting 60 minutes" (2011)
 4. [Gartner — CRM and Sales Technology Research](https://www.gartner.com/en/sales/insights) — "Properly implemented sales management systems generate positive ROI within 12-18 months, driven primarily by win rate and pipeline velocity improvements" (2024)

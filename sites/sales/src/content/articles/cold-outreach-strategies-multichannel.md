@@ -51,7 +51,7 @@ Relying on email alone limits your reach and increasingly delivers diminishing r
 
 ### The Mathematics of Multi-Touch Outreach
 
-Most B2B buyers need 8-12 touches before they respond, according to [HubSpot's 2025 Sales Trends report](https://www.hubspot.com/sales-trends). No single email or call will get there alone. Each additional channel you add increases the probability of reaching a prospect during a receptive moment.
+Most B2B buyers need 8-12 touches before they respond, according to HubSpot's 2025 Sales Trends report. No single email or call will get there alone. Each additional channel you add increases the probability of reaching a prospect during a receptive moment.
 
 The key dynamic is **channel switching**. When a prospect ignores your email, a LinkedIn message creates a fresh impression. When they ignore your LinkedIn message, a video message stands out because so few competitors send one. Each new channel prevents your outreach from feeling like repeated noise from the same direction.
 
@@ -102,7 +102,7 @@ The most effective voicemails end with a concrete next step: "I'll follow up wit
 
 ## Video and LinkedIn Direct Message Outreach
 
-Video messages and LinkedIn direct messages give prospects something to react to that text-based outreach cannot provide. These channels work best as pattern interrupts after initial digital touchpoints have gone unanswered. [Vidyard's 2025 State of Video report](https://www.vidyard.com/business-video-trends/) shows personalized video messages generate 3x higher reply rates than equivalent text-only emails sent to cold prospects.
+Video messages and LinkedIn direct messages give prospects something to react to that text-based outreach cannot provide. These channels work best as pattern interrupts after initial digital touchpoints have gone unanswered. Vidyard's 2025 State of Video report shows personalized video messages generate 3x higher reply rates than equivalent text-only emails sent to cold prospects.
 
 ### LinkedIn Direct Messages
 
@@ -241,7 +241,7 @@ Multichannel outreach is not complex to set up, but it requires consistency acro
 ## Sources & References
 
 1. [Aberdeen Research](https://www.aberdeen.com) — "Companies using 3 or more outreach channels achieve 287% higher purchase rates than single-channel approaches" (2024)
-2. [HubSpot Sales Trends Report](https://www.hubspot.com/sales-trends) — "Most B2B buyers require 8-12 touches before responding; top-performing cold sequences average 5-8% meeting rates" (2025)
+2. HubSpot Sales Trends Report — "Most B2B buyers require 8-12 touches before responding; top-performing cold sequences average 5-8% meeting rates" (2025)
 3. [Gong Revenue Intelligence](https://www.gong.io/resources) — "Sellers combining phone and email close at 28% higher rates; calls opening with 'The reason I'm calling is' perform 2.1x better than permission-seeking openers" (2025)
 4. [Salesforce State of Sales](https://www.salesforce.com/resources/research-reports/state-of-sales/) — "B2B SMS open rates exceed 90%; top-performing SDRs use 5.4 channels on average versus 3.1 for average performers; AI-assisted outreach increases productivity 30%" (2025)
-5. [Vidyard 2025 State of Video Report](https://www.vidyard.com/business-video-trends/) — "Personalized video messages generate 3x higher reply rates than text-only emails; face-visible thumbnails increase play rates by 40%" (2025)
+5. Vidyard 2025 State of Video Report — "Personalized video messages generate 3x higher reply rates than text-only emails; face-visible thumbnails increase play rates by 40%" (2025)

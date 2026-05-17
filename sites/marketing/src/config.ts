@@ -29,7 +29,7 @@ export const siteConfig: SiteConfig = {
   },
   seo: {
     titleTemplate: "%s | Marketing Edge",
-    defaultDescription: "Cutting-edge digital marketing strategies, growth hacks, and insights to scale your business.",
+    defaultDescription: "Cutting-edge digital marketing strategies, growth hacks, and expert insights to help your business attract, engage, and convert customers across every channel.",
     siteUrl: "https://marketing.growthgear.com.au",
   },
 };

@@ -120,7 +120,7 @@ Less Annoying CRM's biggest advantage is its adoption rate, since simple tools g
 
 **5. Pricing predictability**: One plan, one price, zero ambiguity. You know exactly what you'll pay at any team size.
 
-According to [Salesforce's State of Sales research](https://www.salesforce.com/resources/research-and-insights/state-of-sales/), high CRM adoption is among the strongest predictors of sales team performance. Simplicity drives adoption. Tools that feel intuitive on day one get used on day 365.
+According to Salesforce's State of Sales research, high CRM adoption is among the strongest predictors of sales team performance. Simplicity drives adoption. Tools that feel intuitive on day one get used on day 365.
 
 GrowthGear has worked with 50+ startups on sales system setup. The most common CRM failure pattern is not choosing the wrong tool — it is choosing the right tool at the wrong complexity level, then watching adoption collapse by month three. A simpler CRM with consistent daily usage beats a feature-rich platform used sporadically.
 
@@ -235,6 +235,6 @@ Building a high-performing sales engine starts with a tool your team actually us
 ## Sources & References
 
 1. [Less Annoying CRM Pricing](https://www.lessannoyingcrm.com/pricing) — "$15 per user per month, all features included, 30-day free trial, no credit card required" (2026)
-2. [Salesforce State of Sales Report](https://www.salesforce.com/resources/research-and-insights/state-of-sales/) — CRM adoption benchmarks and sales team performance data (2024)
+2. Salesforce State of Sales Report — CRM adoption benchmarks and sales team performance data (2024)
 3. [G2 CRM Software Category](https://www.g2.com/categories/crm) — User satisfaction ratings for ease of use and support quality across CRM platforms (2026)
 4. [HubSpot CRM Pricing](https://www.hubspot.com/pricing/crm) — Sales Hub tier pricing from free through Professional (2026)

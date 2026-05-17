@@ -103,7 +103,7 @@ Your handle must pass the verbal recommendation test: if a customer says "follow
 **5. Check all platforms before committing.**
 Use a cross-platform name checker — Namecheckr or KnowEm cover 100+ platforms — before registering anywhere. Discovering your preferred handle is taken on TikTok after printing 5,000 business cards is a preventable but expensive problem.
 
-According to [HubSpot's 2024 State of Marketing Report](https://blog.hubspot.com/marketing/social-media), brands with consistent usernames across platforms drive higher direct referral traffic from social channels — because audiences can find them reliably regardless of which platform they use first.
+According to HubSpot's 2024 State of Marketing Report, brands with consistent usernames across platforms drive higher direct referral traffic from social channels — because audiences can find them reliably regardless of which platform they use first.
 
 ### When Your Handle Is Already Taken
 
@@ -200,7 +200,7 @@ When your brand appears with the same @handle across multiple major platforms, G
 - Display a Knowledge Panel in branded search results (the information card appearing to the right of search results)
 - Reduce the probability of impersonator or unrelated accounts outranking your legitimate profiles
 
-According to [Moz's research on brand signals and SEO](https://moz.com/beginners-guide-to-seo/social-media), consistent social profiles contribute to brand authority signals that correlate with stronger performance on branded and near-branded search queries.
+According to Moz's research on brand signals and SEO, consistent social profiles contribute to brand authority signals that correlate with stronger performance on branded and near-branded search queries.
 
 The implication is significant: your handle isn't purely a social media decision. It shapes how search engines understand and surface your business for years after setup — making it a foundational brand decision with lasting SEO consequences.
 
@@ -250,5 +250,5 @@ GrowthGear has helped 50+ startups and SMBs build social media brands with the c
 
 1. [Statista Digital Population Report](https://www.statista.com/statistics/617136/digital-population-worldwide/) — "Over 5.17 billion social media users worldwide" (2024)
 2. [Sprout Social 2024 Social Media Index](https://sproutsocial.com/insights/data/) — "68% of consumers follow brands to stay updated on products and services" (2024)
-3. [HubSpot State of Marketing Report](https://blog.hubspot.com/marketing/social-media) — Brands with consistent social usernames drive higher direct referral traffic from social channels (2024)
-4. [Moz Beginner's Guide to SEO](https://moz.com/beginners-guide-to-seo/social-media) — Consistent social profiles contribute to brand authority signals correlated with stronger branded search performance (2024)
+3. HubSpot State of Marketing Report — Brands with consistent social usernames drive higher direct referral traffic from social channels (2024)
+4. Moz Beginner's Guide to SEO — Consistent social profiles contribute to brand authority signals correlated with stronger branded search performance (2024)

@@ -84,7 +84,7 @@ The technology sector is the most discussed in B2B sales circles, and for good r
 - Typical deal sizes: $500/year (SMB tools) to $500,000+/year (enterprise platforms)
 - Gross margins: 70-85%
 
-The SaaS sales motion typically relies on product demonstrations, free trials, and proof-of-concept deployments. According to [HubSpot's State of Sales](https://www.hubspot.com/state-of-sales) research, technology buyers rank vendor product knowledge and demonstrated ROI as the top two criteria for choosing a vendor.
+The SaaS sales motion typically relies on product demonstrations, free trials, and proof-of-concept deployments. According to HubSpot's State of Sales research, technology buyers rank vendor product knowledge and demonstrated ROI as the top two criteria for choosing a vendor.
 
 AI-powered tools represent the fastest-growing subsegment within tech B2B in 2026. Sales teams targeting this category need to understand integration requirements and security review processes, as IT security teams frequently hold veto power over new software purchasing decisions. Sales teams can accelerate account research and qualification by using [AI tools for data analysis](https://ai.growthgear.com.au/ai-tools/best-ai-tools-for-data-analysis) to identify accounts showing active buying signals.
 
@@ -263,6 +263,6 @@ Whether you're entering a new B2B sector for the first time or optimizing an exi
 
 1. [Gartner B2B Buying Journey Research](https://www.gartner.com/en/sales/insights/b2b-buying-journey) — "77% of B2B buyers describe their most recent purchase as very complex or difficult; the average enterprise buying group includes 6-10 decision-makers." (2023)
 2. [Salesforce State of Sales](https://www.salesforce.com/resources/research-reports/state-of-sales/) — "89% of buyers say the experience a company provides is as important as its product; top-performing teams focus on 2-3 core verticals." (2024)
-3. [HubSpot State of Sales](https://www.hubspot.com/state-of-sales) — "Technology buyers rank vendor product knowledge and demonstrated ROI as the top two criteria for vendor selection." (2024)
+3. HubSpot State of Sales — "Technology buyers rank vendor product knowledge and demonstrated ROI as the top two criteria for vendor selection." (2024)
 4. [LinkedIn Sales Solutions — B2B Buyer Research](https://business.linkedin.com/sales-solutions) — "84% of B2B buyers begin the purchasing process with a referral from a trusted source." (2023)
 5. [McKinsey & Company — B2B Go-to-Market Performance](https://www.mckinsey.com/capabilities/growth-marketing-and-sales/our-insights) — "Companies that build superior, vertically-focused sales capabilities consistently achieve 2-3x higher revenue growth than peers in the same sector." (2023)

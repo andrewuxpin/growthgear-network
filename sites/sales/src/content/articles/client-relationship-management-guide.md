@@ -265,4 +265,4 @@ Strong client relationship management does not just retain clients — it create
 1. [Harvard Business Review](https://hbr.org/2014/10/the-value-of-keeping-the-right-customers) — "Acquiring a new customer is anywhere from five to 25 times more expensive than retaining an existing one." (2014)
 2. [Harvard Business Review — Bain & Company Research](https://hbr.org/2014/10/the-value-of-keeping-the-right-customers) — "A 5% increase in customer retention produces more than a 25% increase in profit." (Bain & Company, cited 2014)
 3. [Salesforce State of Sales](https://www.salesforce.com/resources/research-reports/state-of-sales/) — "Sales reps spend only 28% of their working time actually selling, with the rest consumed by data entry and admin tasks." (2024)
-4. [HubSpot Sales Trends Report](https://www.hubspot.com/resources/reports/sales-trends-report) — Research on proactive communication cadences and their correlation with client retention rates. (2024)
+4. HubSpot Sales Trends Report — Research on proactive communication cadences and their correlation with client retention rates. (2024)

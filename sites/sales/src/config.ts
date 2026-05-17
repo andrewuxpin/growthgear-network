@@ -29,7 +29,7 @@ export const siteConfig: SiteConfig = {
   },
   seo: {
     titleTemplate: "%s | Sales Mastery",
-    defaultDescription: "Master the art of sales with proven strategies, techniques, and insights for B2B and B2C success.",
+    defaultDescription: "Master the art of sales with proven strategies, techniques, and tools. Expert guides on B2B sales, CRM, pipeline management, and closing deals to grow your revenue.",
     siteUrl: "https://sales.growthgear.com.au",
   },
 };
@@ -38,16 +38,16 @@ export const categories = [
   {
     slug: "b2b-sales",
     name: "B2B Sales",
-    description: "Enterprise sales strategies, account-based selling, and complex deal management.",
+    description: "Enterprise B2B sales strategies, account-based selling techniques, and expert guides to win complex deals, build relationships, and scale revenue.",
   },
   {
     slug: "sales-techniques",
     name: "Sales Techniques",
-    description: "Proven methodologies, closing techniques, and negotiation tactics that work.",
+    description: "Proven sales methodologies, closing techniques, and negotiation tactics to help sales professionals convert prospects, handle objections, and exceed targets.",
   },
   {
     slug: "crm-tools",
     name: "CRM & Tools",
-    description: "Reviews and guides for sales tools, CRMs, and automation platforms.",
+    description: "Expert reviews and guides for the best sales tools, CRMs, and automation platforms to streamline your sales process and close more deals efficiently.",
   },
 ];

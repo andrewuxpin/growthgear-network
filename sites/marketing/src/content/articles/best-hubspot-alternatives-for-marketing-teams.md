@@ -110,7 +110,7 @@ The ceiling is real: Mailchimp's CRM is minimal, its reporting doesn't support p
 
 Klaviyo is purpose-built for ecommerce brands on Shopify, WooCommerce, and BigCommerce. Its native integration pulls purchase history, product views, cart abandonment events, and customer lifetime value data to trigger automations that no general-purpose platform matches without custom configuration.
 
-Pricing starts at $45/month for up to 1,500 contacts, with a free tier at 250 contacts. Klaviyo's standout capability is revenue attribution: every email and automation can be traced to direct purchase revenue at the SKU level. According to [Klaviyo's 2024 Ecommerce Benchmark Report](https://www.klaviyo.com/reports/benchmarks), brands using Klaviyo's abandoned cart flows average a 69x ROI compared to standard promotional email — a data advantage unique to its ecommerce-native data model.
+Pricing starts at $45/month for up to 1,500 contacts, with a free tier at 250 contacts. Klaviyo's standout capability is revenue attribution: every email and automation can be traced to direct purchase revenue at the SKU level. According to Klaviyo's 2024 Ecommerce Benchmark Report, brands using Klaviyo's abandoned cart flows average a 69x ROI compared to standard promotional email — a data advantage unique to its ecommerce-native data model.
 
 The constraint: Klaviyo is optimized for transactional data that service and SaaS businesses don't generate. For B2B teams, professional services, or subscription software companies, the data model doesn't fit the use case.
 
@@ -200,5 +200,5 @@ Switching from HubSpot doesn't mean settling for less capability — it means ma
 1. [HubSpot Marketing Hub Pricing](https://www.hubspot.com/pricing/marketing) — Marketing Hub Professional starts at approximately $800/month; contact add-ons apply above base tier; feature gating extends total costs for mid-market teams (2026)
 2. [G2 Marketing Automation Category](https://www.g2.com/categories/marketing-automation) — Aggregate user reviews and platform switching data across HubSpot, ActiveCampaign, Brevo, Zoho, Mailchimp, and Klaviyo (2025-2026)
 3. [ActiveCampaign Pricing](https://www.activecampaign.com/pricing) — Plus plan from $49/month for 1,000 contacts (annual billing); CRM included at all tiers (2026)
-4. [Klaviyo 2024 Ecommerce Benchmark Report](https://www.klaviyo.com/reports/benchmarks) — Ecommerce brands using abandoned cart automation average 69x ROI compared to standard promotional campaigns (2024)
+4. Klaviyo 2024 Ecommerce Benchmark Report — Ecommerce brands using abandoned cart automation average 69x ROI compared to standard promotional campaigns (2024)
 5. [Content Marketing Institute](https://contentmarketinginstitute.com) — Email-first marketing stacks remain the dominant model for SMBs under 50 employees in B2B (2025)

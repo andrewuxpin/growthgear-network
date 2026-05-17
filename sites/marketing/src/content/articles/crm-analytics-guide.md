@@ -263,4 +263,4 @@ A CRM analytics system that works doesn't just tell you what happened — it tel
 1. [HubSpot Marketing Statistics](https://www.hubspot.com/marketing-statistics) — Only 24% of marketing teams can calculate ROI from campaigns (2025 State of Marketing report)
 2. [Salesforce State of Marketing](https://www.salesforce.com/resources/research-reports/state-of-marketing/) — High-performing B2B marketing teams attribute 38%+ of total pipeline to marketing-sourced leads (2025)
 3. [McKinsey & Company: Using marketing analytics to drive superior growth](https://www.mckinsey.com/capabilities/growth-marketing-and-sales/our-insights/using-marketing-analytics-to-drive-superior-growth) — Data-driven marketing organizations are 5-8x more likely to achieve positive ROI (2024)
-4. [Forrester Research: B2B Marketing Analytics](https://www.forrester.com/research/marketing-analytics/) — Quarterly channel audits using CRM data reduce CAC by 15-25% (2024)
+4. Forrester Research: B2B Marketing Analytics — Quarterly channel audits using CRM data reduce CAC by 15-25% (2024)

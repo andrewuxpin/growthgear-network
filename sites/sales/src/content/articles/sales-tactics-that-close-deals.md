@@ -67,7 +67,7 @@ A tactic without skill produces clunky execution. A skill without tactics produc
 
 ### The Tactic Layering Principle
 
-Top-performing sales teams layer tactics in sequence rather than using them in isolation. According to [HubSpot's Sales Statistics research](https://www.hubspot.com/sales-statistics), salespeople who close the most deals spend 37% more time selling — meaning they execute tactics faster and abandon dead-end approaches sooner.
+Top-performing sales teams layer tactics in sequence rather than using them in isolation. According to HubSpot's Sales Statistics research, salespeople who close the most deals spend 37% more time selling — meaning they execute tactics faster and abandon dead-end approaches sooner.
 
 The layering principle: apply one tactic to open, one to diagnose, one to advance, one to close. Four deliberate touchpoints with clear intent beat twelve inconsistent ones.
 
@@ -258,6 +258,6 @@ Building a high-performing sales engine takes the right tactics matched to your 
 ## Sources & References
 
 1. [Salesforce State of Sales](https://www.salesforce.com/resources/research-reports/state-of-sales/) — "87% of B2B buyers are more likely to purchase from a rep who demonstrates understanding of their goals." (2024)
-2. [HubSpot Sales Statistics](https://www.hubspot.com/sales-statistics) — "Top-performing salespeople spend 37% more time actively selling than average performers." (2024)
+2. HubSpot Sales Statistics — "Top-performing salespeople spend 37% more time actively selling than average performers." (2024)
 3. [Gartner B2B Buying Research](https://www.gartner.com/en/sales) — "77% of B2B buyers describe their most recent purchase as complex, and the average buying group involves 6 or more decision-makers." (2023)
 4. [LinkedIn Sales Solutions](https://business.linkedin.com/sales-solutions) — "Social selling leaders create 45% more opportunities than peers with low Social Selling Index scores." (2023)

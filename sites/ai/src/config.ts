@@ -38,16 +38,16 @@ export const categories = [
   {
     slug: "machine-learning",
     name: "Machine Learning",
-    description: "Practical guides and tutorials on machine learning algorithms, frameworks, and best practices.",
+    description: "Practical machine learning guides and tutorials covering algorithms, model training, deployment, and production ML systems for business applications.",
   },
   {
     slug: "ai-tools",
     name: "AI Tools",
-    description: "Reviews and guides for the best AI tools and platforms to boost your productivity.",
+    description: "In-depth reviews and guides for the best AI tools, platforms, and software to boost productivity, automate workflows, and drive business growth.",
   },
   {
     slug: "deep-learning",
     name: "Deep Learning",
-    description: "Deep dives into neural networks, transformers, and advanced AI architectures.",
+    description: "Comprehensive deep learning guides covering neural networks, transformers, and advanced architectures to help you build and deploy AI systems.",
   },
 ];

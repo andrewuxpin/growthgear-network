@@ -47,7 +47,7 @@ This guide covers everything marketing managers and growth leaders need to build
 
 ## What Is Content Marketing (and Why It Outperforms Ads)
 
-Content marketing is the practice of creating and distributing valuable content to attract a defined audience and drive profitable action. Unlike paid advertising, it builds compounding organic authority that grows in value over time. According to [Demand Metric](https://www.demandmetric.com/content/content-marketing-infographic), content marketing generates **3x more leads than outbound marketing at 62% lower cost**.
+Content marketing is the practice of creating and distributing valuable content to attract a defined audience and drive profitable action. Unlike paid advertising, it builds compounding organic authority that grows in value over time. According to Demand Metric, content marketing generates **3x more leads than outbound marketing at 62% lower cost**.
 
 ### The Business Case for Content Marketing
 
@@ -229,7 +229,7 @@ GrowthGear has helped 50+ startups and growing businesses build content programs
 
 ## Sources & References
 
-1. [Demand Metric](https://www.demandmetric.com/content/content-marketing-infographic) — "Content marketing generates 3x more leads than outbound marketing at 62% lower cost" (2023)
+1. Demand Metric — "Content marketing generates 3x more leads than outbound marketing at 62% lower cost" (2023)
 2. [Content Marketing Institute B2B Research](https://contentmarketinginstitute.com/research/) — "73% of B2B marketers use content marketing; those with documented strategies are 4x more likely to report success" (2024)
 3. [HubSpot Blogging Frequency Benchmarks](https://blog.hubspot.com/marketing/blogging-frequency-benchmarks) — "Companies that publish 4-8 posts/month generate significantly more traffic; active blogs produce 67% more monthly leads" (2024)
 4. [Litmus Email Marketing ROI](https://www.litmus.com/resources/email-marketing-roi/) — "Email marketing delivers an average ROI of $36 for every $1 spent" (2023)

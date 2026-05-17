@@ -226,6 +226,6 @@ Increasing sales revenue is not a single-lever problem. The teams that grow sust
 
 1. [Salesforce State of Sales](https://www.salesforce.com/resources/research-reports/state-of-sales/) — "Nearly 60% of sales reps miss their annual quota; top-performing teams are 1.5x more likely to use sales technology consistently" (2024)
 2. [Gartner Sales Research](https://www.gartner.com/en/sales) — "Sales reps spend less than 36% of their work week actively selling; reps receiving immediate post-call feedback are 41% more likely to apply it" (2022)
-3. [HubSpot State of Sales](https://www.hubspot.com/state-of-sales) — "Companies with aligned sales and marketing teams achieve 38% higher win rates and 36% better customer retention" (2024)
+3. HubSpot State of Sales — "Companies with aligned sales and marketing teams achieve 38% higher win rates and 36% better customer retention" (2024)
 4. [Sales Management Association](https://salesmanagement.org) — "Companies with weekly coaching cadences achieve significantly better quota attainment compared to monthly or ad-hoc coaching" (2023)
 5. [McKinsey B2B Sales Insights](https://www.mckinsey.com/capabilities/growth-marketing-and-sales/our-insights) — "Data-driven B2B sales teams close 20-30% more revenue from equivalent pipeline compared to non-data-driven peers" (2023)

@@ -90,7 +90,7 @@ The right platform depends on three factors: where your target audience is activ
 
 ### Matching Your Business Model to a Platform
 
-**B2B service businesses** — consultants, agencies, software companies, professional services — belong on LinkedIn first. According to [HubSpot research](https://blog.hubspot.com/marketing/social-media-marketing), LinkedIn generates 277% more leads per visitor than Facebook for B2B companies. That's not a marginal difference; it's a structural advantage built into the platform's professional demographic and intent.
+**B2B service businesses** — consultants, agencies, software companies, professional services — belong on LinkedIn first. According to HubSpot research, LinkedIn generates 277% more leads per visitor than Facebook for B2B companies. That's not a marginal difference; it's a structural advantage built into the platform's professional demographic and intent.
 
 **Local service businesses** — restaurants, retail, tradespeople, fitness studios — typically see the strongest results from Instagram combined with Facebook. Instagram's visual format suits physical products and experiences. Facebook's local business features and demographic skew toward the 35–54 age group that holds most consumer spending power in local markets.
 
@@ -265,6 +265,6 @@ GrowthGear has helped 50+ startups build social media and marketing systems that
 ## Sources & References
 
 1. [Sprout Social 2024 Social Media Index](https://sproutsocial.com/insights/social-media-statistics/) — "55% of consumers discover new brands through social media" and "small businesses running monthly strategy reviews see 40% higher engagement growth" (2024)
-2. [HubSpot Marketing Statistics](https://blog.hubspot.com/marketing/social-media-marketing) — "LinkedIn generates 277% more leads per visitor than Facebook for B2B companies" (2024)
+2. HubSpot Marketing Statistics — "LinkedIn generates 277% more leads per visitor than Facebook for B2B companies" (2024)
 3. [Content Marketing Institute](https://contentmarketinginstitute.com/) — Educational and entertaining content outperforms promotional content 3-to-1 in organic reach (2024)
 4. Buffer State of Social Media Report — "Businesses that consistently repurpose content across formats generate 60% more impressions from the same creative budget" (2024)
