@@ -229,7 +229,7 @@ An underfitted model produces low accuracy on both training and validation data.
 - Over-regularization — penalty terms so large the model can't fit real patterns
 - Poorly selected features that don't capture the relevant information
 
-The fix for underfitting is the opposite of overfitting remedies: add model complexity, reduce regularization strength, train for more epochs, or engineer better features.
+The fix for underfitting is the opposite of overfitting remedies: add model complexity, reduce regularization strength, train for more epochs, or [engineer better features](/machine-learning/what-is-feature-engineering-in-machine-learning).
 
 ### Recognizing Each Failure Mode in Practice
 

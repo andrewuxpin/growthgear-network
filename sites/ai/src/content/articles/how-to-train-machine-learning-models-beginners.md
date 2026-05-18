@@ -114,7 +114,7 @@ Data quality directly impacts model performance. According to IBM, data scientis
 2. **Data Transformation**
    - Normalize numerical features
    - Encode categorical variables
-   - Create new features (feature engineering)
+   - Create new features ([feature engineering](/machine-learning/what-is-feature-engineering-in-machine-learning))
    - Scale data appropriately
 
 3. **Data Splitting**

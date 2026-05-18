@@ -96,7 +96,7 @@ Business applications:
 - **Customer churn prediction**: Random forest on usage patterns, support tickets, and billing history — identifying at-risk customers 30-60 days before cancellation
 - **Supply chain forecasting**: LightGBM on inventory, lead time, and demand signals outperforms traditional time-series methods for irregular demand patterns
 
-> **Pro tip:** Run a random forest first on any new business ML problem. Its feature importance output tells you which variables actually matter — saving weeks of feature engineering guesswork on gradient boosting.
+> **Pro tip:** Run a random forest first on any new business ML problem. Its feature importance output tells you which variables actually matter — saving weeks of [feature engineering](/machine-learning/what-is-feature-engineering-in-machine-learning) guesswork on gradient boosting.
 
 ### Support Vector Machines and Naive Bayes
 
