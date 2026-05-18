@@ -191,7 +191,7 @@ Tracking metrics only matters if you use them to change behavior. Each week, ask
 
 [AI-powered data analysis tools](https://ai.growthgear.com.au/ai-tools/best-ai-tools-for-data-analysis) can surface these patterns automatically from CRM data — many sales teams are now using predictive analytics to flag at-risk deals 30 days before they're likely to stall.
 
-For forecasting accuracy and linking activity data to revenue outcomes, [sales forecasting software](/crm-tools/best-sales-forecasting-software-tools) reviews the top tools that help individual reps and managers stay ahead of quota attainment gaps.
+For forecasting accuracy and linking activity data to revenue outcomes, [sales forecasting software](/crm-tools/best-sales-forecasting-software-tools) reviews the top tools that help individual reps and managers stay ahead of quota attainment gaps. Teams that combine strong data habits with a structured [sales enablement strategy](/b2b-sales/sales-enablement-strategy-guide) see the most consistent quota attainment improvements over time.
 
 ### Build a Personal Improvement Loop
 

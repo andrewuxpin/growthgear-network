@@ -114,7 +114,7 @@ Cold calling delivers the highest immediate conversion rate of any prospecting c
 
 Open with: *"I noticed [specific observation]. We've helped [similar company type] solve [specific problem]. Worth 15 minutes this week?"*
 
-This approach converts at 2-4x the rate of unresearched cold calls, according to Gartner's sales enablement benchmarks. Pair it with your [B2B cold outreach strategy](/sales-techniques/b2b-cold-outreach-strategy-guide) for a complete multi-channel system.
+This approach converts at 2-4x the rate of unresearched cold calls, according to Gartner's sales enablement benchmarks. Pair it with your [B2B cold outreach strategy](/sales-techniques/b2b-cold-outreach-strategy-guide) for a complete multi-channel system, and build a formal [sales enablement strategy](/b2b-sales/sales-enablement-strategy-guide) to ensure reps have consistent access to research tools and proven messaging frameworks.
 
 > **Common mistake:** Don't apply the same script to every prospect. Even one personalized detail in the opener dramatically improves connect-to-meeting conversion rates.
 
