@@ -50,6 +50,8 @@ A content marketing specialist plans, creates, and distributes content that attr
 
 For organizations building content as a sustainable channel, the specialist role is the engine. The full context of what that engine powers is covered in the [complete content marketing guide](/content-marketing/complete-content-marketing-guide), which maps how content strategy, creation, and distribution work together as a system.
 
+If your organization doesn't yet have a strategic foundation, partnering with a [content marketing consultant](/content-marketing/what-is-a-content-marketing-consultant) first — before hiring a specialist — is often the faster path to results. Consultants build the architecture that specialists execute against.
+
 ### Core Responsibilities
 
 A typical content marketing specialist's week includes:
