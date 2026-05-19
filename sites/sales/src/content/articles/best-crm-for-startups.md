@@ -91,7 +91,7 @@ Pipedrive is built by salespeople for salespeople. Its visual, drag-and-drop pip
 
 **Limitations**: Weaker marketing automation and lead management compared to HubSpot. Not ideal if marketing generates most of your leads.
 
-For a deeper comparison of available CRM tools, see our [CRM software examples guide](/crm-tools/crm-software-examples-sales-teams) covering 12 platforms across use cases.
+For a deeper comparison of available CRM tools, see our [CRM software examples guide](/crm-tools/crm-software-examples-sales-teams) covering 12 platforms across use cases. To understand how these platforms are applied in practice across pipeline management, lead scoring, and account management, our [CRM examples for B2B sales guide](/crm-tools/crm-examples-b2b-sales-use-cases) covers seven real-world configurations with measured outcomes.
 
 ### Zoho CRM — Best Value for Customisation
 

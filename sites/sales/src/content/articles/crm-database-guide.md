@@ -223,7 +223,7 @@ If your target is $500,000 and your qualified pipeline is $1.5 million, your cov
 
 Days in stage measures how long deals spend in each pipeline stage on average. This reveals process bottlenecks: if the average deal spends 45 days in "Proposal Sent," your proposal-to-close conversion has a structural problem. Compare this metric against your target deal cycle to identify which stages create the most friction.
 
-Most CRMs calculate this automatically once stage-change timestamps are captured. The [how to use CRM software guide](/crm-tools/how-to-use-crm-software-for-sales-teams) covers how to set up pipeline stage tracking and extract these stage-level reports in HubSpot and Pipedrive.
+Most CRMs calculate this automatically once stage-change timestamps are captured. The [how to use CRM software guide](/crm-tools/how-to-use-crm-software-for-sales-teams) covers how to set up pipeline stage tracking and extract these stage-level reports in HubSpot and Pipedrive. For real-world examples of how sales teams use CRM data to drive specific outcomes — from automated follow-up to forecasting accuracy — see our [CRM examples for B2B sales guide](/crm-tools/crm-examples-b2b-sales-use-cases).
 
 ### Data Completeness Score
 
