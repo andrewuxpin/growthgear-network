@@ -147,6 +147,8 @@ For a platform-by-platform breakdown of AI tools covering each of these customer
 - Automate routine HR tasks
 - Enhance learning and development programs
 
+For a platform-by-platform comparison of AI tools covering recruiting, onboarding, and performance management specifically, see our [best AI tools for HR](/ai-tools/best-ai-tools-for-hr) guide.
+
 **5. Finance and Accounting**
 - Automate expense processing
 - Detect fraud and anomalies

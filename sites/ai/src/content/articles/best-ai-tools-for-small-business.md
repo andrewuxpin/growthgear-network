@@ -104,6 +104,8 @@ For small businesses handling more than 5 automated workflows per day, Make.com'
 
 Teams that need a custom ML classifier—for visual quality checks, document sorting, or gesture-based interfaces—can prototype with [Google Teachable Machine](/ai-tools/google-teachable-machine-guide), a free browser-based tool that trains image, sound, and pose models without any coding in under 20 minutes.
 
+For small businesses in a hiring or scaling phase, the [best AI tools for HR](/ai-tools/best-ai-tools-for-hr) guide covers ATS, onboarding automation, and performance management platforms sized for teams of 10–500 employees.
+
 > **Ready to implement AI in your business?** GrowthGear's team has helped 50+ startups integrate AI solutions that drive real results. [Book a Free Strategy Session](https://growthgear.com.au) to discuss which AI tools will have the highest ROI for your specific business model.
 
 ## Best AI Tools for Sales and Customer Service

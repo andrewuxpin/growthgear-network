@@ -199,7 +199,7 @@ Choose based on three factors in priority order: primary use case first (task ma
 | 25-100 people | Asana Intelligence | Proactive risk detection, workflow automation, OKR tracking |
 | 100+ people | Asana or Monday.com Enterprise | SAML SSO, custom permissions, dedicated support |
 
-Startups in the 5-25 person range get the most from ClickUp AI because it scales without a platform switch — the same tool handles personal task management at 5 people and structured sprint management at 25. For the broader toolkit supporting this growth stage, the [best AI tools for small business](/ai-tools/best-ai-tools-for-small-business) guide covers the full stack including content, operations, and sales tools.
+Startups in the 5-25 person range get the most from ClickUp AI because it scales without a platform switch — the same tool handles personal task management at 5 people and structured sprint management at 25. For the broader toolkit supporting this growth stage, the [best AI tools for small business](/ai-tools/best-ai-tools-for-small-business) guide covers the full stack including content, operations, and sales tools. For HR and people operations tools at the same growth stage — covering ATS, onboarding, and performance management — see the [best AI tools for HR](/ai-tools/best-ai-tools-for-hr) guide.
 
 ### By Integration Requirements
 
