@@ -45,7 +45,7 @@ A content calendar isn't a bureaucratic exercise. It's a strategic tool that sol
 
 Algorithms on every major platform — Instagram, LinkedIn, TikTok, X — reward accounts that post predictably. When you disappear for two weeks and then flood the feed with five posts in a day, the algorithm treats you as low priority. A calendar enforces the posting rhythm that platforms reward.
 
-The data backs this up: accounts posting on a consistent schedule gain followers 40% faster than those with irregular cadences, per HubSpot's Social Media Trends Report.
+The data backs this up: accounts posting on a consistent schedule gain followers 40% faster than those with irregular cadences, per HubSpot's Social Media Trends Report. Combine schedule consistency with posting at the [best times for each platform](/social-media/best-times-to-post-on-social-media) and you create a dual force multiplier — predictable cadence plus peak-window timing.
 
 ### The Strategy Problem
 

@@ -66,6 +66,8 @@ Base your platform selection on two signals: where your target audience is most 
 
 Start with two to three platforms where your audience already exists. Validate that those platforms drive real business results — leads, traffic, or revenue — before expanding. According to HubSpot's 2024 State of Marketing report, brands that focus social effort on 2-3 high-performing channels see 47% higher engagement rates than brands distributing the same budget across 5+ channels.
 
+Posting frequency and posting time work together as compounding factors. Once you've confirmed which platforms to prioritize, identify the [best times to post on each platform](/social-media/best-times-to-post-on-social-media) for your specific audience type — peak-hour publishing can double organic reach without increasing post frequency.
+
 ### Create Platform-Specific Content Strategy
 
 **Each platform requires its own content strategy, not a copy of your main strategy applied to a different interface.** LinkedIn rewards long-form analysis and professional insight. TikTok rewards entertainment-first hooks and authenticity. Instagram rewards visual consistency and Reels completion rates. What works on one platform actively underperforms on another.
