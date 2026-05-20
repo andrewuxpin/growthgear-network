@@ -168,7 +168,7 @@ Regularization doesn't prevent learning; it penalizes overly complex representat
 
 ## How to Prevent Overfitting: Proven Techniques
 
-The most effective overfitting prevention techniques — ordered from lowest to highest cost — are early stopping, L2 regularization, dropout, data augmentation, and ensembling. Apply lower-cost techniques first; add complexity only when simpler approaches have proven insufficient.
+The most effective overfitting prevention techniques — ordered from lowest to highest cost — are early stopping, L2 regularization, dropout, [batch normalization](/deep-learning/what-is-batch-normalization-in-deep-learning), data augmentation, and ensembling. Apply lower-cost techniques first; add complexity only when simpler approaches have proven insufficient.
 
 ### Early Stopping
 

@@ -204,7 +204,7 @@ Dropout is one tool in the regularization toolkit. Understanding how it compares
 | **Early Stopping** | All models | Stops at validation loss minimum | None | Combine for best results |
 | **Data Augmentation** | Vision, NLP, audio | Increases effective dataset size | Medium | Combine for strongest effect |
 
-According to the Google Developers ML Crash Course, the most effective regularization strategy for most deep learning projects combines dropout for dense layers, batch normalization for intermediate layers, and early stopping as a backstop. L2 regularization is added when weight magnitude is a specific concern.
+According to the Google Developers ML Crash Course, the most effective regularization strategy for most deep learning projects combines dropout for dense layers, [batch normalization](/deep-learning/what-is-batch-normalization-in-deep-learning) for intermediate layers, and early stopping as a backstop. L2 regularization is added when weight magnitude is a specific concern.
 
 McKinsey's [State of AI 2024](https://www.mckinsey.com/capabilities/quantumblack/our-insights/the-state-of-ai) found that while 65% of organizations have adopted AI in at least one business function, fewer than 50% have mature MLOps practices that include systematic validation of model generalization before deployment. Teams that implement standard regularization workflows — including dropout, early stopping, and held-out test sets — reduce costly production failures by catching generalization issues before they reach users.
 

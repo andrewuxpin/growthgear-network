@@ -242,7 +242,7 @@ Every deep learning practitioner encounters training failures that look catastro
 
 **Fix**:
 - Switch to ReLU or its variants (Leaky ReLU, GELU) in hidden layers
-- Add batch normalization between layers
+- Add [batch normalization](/deep-learning/what-is-batch-normalization-in-deep-learning) between layers
 - Use residual connections (skip connections) if depth exceeds 10-15 layers
 - Review [types of neural networks](/deep-learning/types-of-neural-networks-complete-guide) to choose an architecture with built-in residual connections
 
