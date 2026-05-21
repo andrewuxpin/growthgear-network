@@ -59,7 +59,7 @@ A 28×28 image flattened to an MLP input creates 784 input neurons. A 1920×1080
 
 ### Convolutional Neural Networks (CNNs)
 
-**Convolutional Neural Networks** exploit spatial structure through learned filters. Instead of connecting every input pixel to every hidden neuron, a convolutional layer slides a small filter (typically 3×3 or 5×5) across the input, detecting local patterns regardless of position.
+**Convolutional Neural Networks** exploit spatial structure through learned filters. Instead of connecting every input pixel to every hidden neuron, a convolutional layer slides a small filter (typically 3×3 or 5×5) across the input, detecting local patterns regardless of position. For a deeper definitional walkthrough of [what a convolutional neural network is](/deep-learning/what-is-a-convolutional-neural-network) — including kernel mechanics, pooling, and tasks beyond classification — see the dedicated CNN explainer.
 
 Three properties make CNNs effective for visual data:
 

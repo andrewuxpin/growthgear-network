@@ -49,7 +49,7 @@ Understanding how CNNs work — and when to use which architecture — saves mon
 
 A convolutional neural network for image classification is a deep learning architecture that learns to recognize visual patterns through stacked layers of filters, pooling operations, and fully connected classifiers. CNNs automatically learn hierarchical features from raw pixels — edges and textures in early layers, shapes and object parts in middle layers, and complete categories in later layers — without requiring manual feature engineering from your team.
 
-This is the fundamental advantage over earlier machine learning approaches, which required human experts to define which image features mattered. A CNN trained on enough data discovers those features itself.
+This is the fundamental advantage over earlier machine learning approaches, which required human experts to define which image features mattered. A CNN trained on enough data discovers those features itself. For a broader definitional overview of [what a convolutional neural network is](/deep-learning/what-is-a-convolutional-neural-network), including the full range of CNN tasks beyond classification (detection, segmentation, generation), start with the CNN explainer.
 
 ### How the Convolution Operation Works
 
