@@ -58,7 +58,7 @@ The core distinction between outbound and inbound comes down to who initiates co
 | Cost at scale | Increases with headcount and volume | Lower cost per lead at scale |
 | Best for | Enterprise accounts, ABM, new market entry | SMB, high-volume, recurring buyers |
 
-Neither approach dominates in isolation. The most effective B2B programs combine both: outbound generates immediate pipeline while inbound builds long-term brand authority that makes outbound conversations warmer.
+Neither approach dominates in isolation. The most effective B2B programs combine both: outbound generates immediate pipeline while [inbound lead generation](/sales-techniques/inbound-lead-generation-strategies-guide) builds long-term brand authority that makes outbound conversations warmer.
 
 ### Why Outbound Remains Essential for B2B
 

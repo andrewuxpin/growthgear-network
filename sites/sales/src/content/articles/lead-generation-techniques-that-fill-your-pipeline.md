@@ -100,7 +100,7 @@ The rule: call within 5 minutes of an email open. That's when the prospect is th
 
 ## Inbound Lead Generation Techniques for Sustainable Growth
 
-Outbound builds pipeline fast. Inbound builds it permanently. The best B2B lead generation programs use both, with inbound compounding over 6-24 months to reduce outbound dependency.
+Outbound builds pipeline fast. Inbound builds it permanently. The best B2B lead generation programs use both, with inbound compounding over 6-24 months to reduce outbound dependency. For a deeper look at how the attract-engage-convert framework operates end-to-end, see our [inbound lead generation strategies guide](/sales-techniques/inbound-lead-generation-strategies-guide).
 
 ### Content-Driven SEO
 

@@ -70,7 +70,7 @@ Both channels have a role in a healthy pipeline, but their cost and lead quality
 | Paid ads (LinkedIn/Google) | High ($50-300+) | Medium (intent-based) | 1-2 weeks | No (stops with budget) |
 | Content + paid distribution | Medium ($15-80) | High | 2-6 weeks | Partial |
 
-Content generates lower cost-per-lead over time because existing content continues attracting traffic and leads without additional spend. A blog post published today can generate leads three years from now. Paid ads stop generating leads the moment you stop paying.
+Content generates lower cost-per-lead over time because existing content continues attracting traffic and leads without additional spend. A blog post published today can generate leads three years from now. Paid ads stop generating leads the moment you stop paying. For a complete view of how content fits inside the broader [inbound lead generation framework](/sales-techniques/inbound-lead-generation-strategies-guide), see how attract, engage, and convert stages work together.
 
 The implication for sales teams: content marketing is a long-term investment with compounding returns. The teams that start it early build a durable lead generation moat that paid channels cannot replicate.
 
