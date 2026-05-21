@@ -74,7 +74,7 @@ Account-based marketing has revolutionized B2B content strategy by focusing reso
 **Implementation tactics:**
 - Create custom case studies featuring similar companies
 - Develop industry-specific landing pages and resources
-- Personalize email sequences with account-relevant content
+- Personalize email sequences with account-relevant content (our [B2B email marketing strategy guide](/content-marketing/b2b-email-marketing-strategy-guide) covers the segmentation and nurture patterns that make ABM emails convert)
 - Produce executive briefings tailored to specific prospects
 
 Maintaining visual consistency across all account-specific materials becomes critical at scale — [automated branding systems](/content-marketing/automated-branding-strategy-guide) enforce your brand guidelines across every asset your team produces, so personalized content is never off-brand.

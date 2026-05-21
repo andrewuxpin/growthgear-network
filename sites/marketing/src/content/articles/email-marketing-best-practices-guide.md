@@ -67,7 +67,7 @@ Move beyond demographic segmentation. The most impactful segments are behavioral
 - **Lifecycle segments**: Prospects, new customers, repeat buyers, churned customers
 - **Interest segments**: Product category interest, content topic engagement, purchase intent signals
 
-Each segment gets different messaging, cadence, and CTAs. A new subscriber should never receive the same email as a six-month customer. Our guide to [effective email marketing campaigns](/content-marketing/how-to-create-effective-email-marketing-campaigns) covers campaign structure for each segment type.
+Each segment gets different messaging, cadence, and CTAs. A new subscriber should never receive the same email as a six-month customer. Our guide to [effective email marketing campaigns](/content-marketing/how-to-create-effective-email-marketing-campaigns) covers campaign structure for each segment type, and our [B2B email marketing strategy guide](/content-marketing/b2b-email-marketing-strategy-guide) goes deeper on the multi-stakeholder segmentation patterns that drive enterprise pipeline.
 
 ### Practice 3: Maintain List Hygiene Every 90 Days
 
