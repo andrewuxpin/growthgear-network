@@ -61,7 +61,7 @@ Not all "CRM" software is equal on pipeline management. The core features that d
 - **Pipeline reporting**: Win rate, average deal size, deal velocity, and forecast accuracy by rep, stage, and time period
 - **Mobile access**: Full pipeline visibility and deal updates from a smartphone for field sales teams
 
-According to [Salesforce's State of Sales report](https://www.salesforce.com/resources/research-reports/state-of-sales/), high-performing sales teams are 2.8x more likely to use sales analytics platforms than underperforming teams. The delta is not about talent — it is about visibility. Pipeline software creates the visibility that makes coaching and forecasting possible.
+According to [Salesforce's State of Sales report](https://www.salesforce.com/resources/research-reports/state-of-sales/), high-performing sales teams are 2.8x more likely to use sales analytics platforms than underperforming teams. The delta is not about talent — it is about visibility. Pipeline software creates the visibility that makes coaching and forecasting possible. For a deep dive on the views and metrics worth surfacing, see our [sales pipeline dashboard guide](/crm-tools/sales-pipeline-dashboard-guide).
 
 ### Pipeline Software vs. Basic CRM
 

@@ -242,7 +242,7 @@ The caveat practitioners raise: metrics-based coaching only works if the underly
 
 ## Close More Deals with Better Pipeline Visibility
 
-Knowing your pipeline metrics is the first step. Acting on them — adjusting coverage, coaching reps on their individual conversion gaps, and using velocity as a forecasting anchor — is what turns data into closed revenue. Whether you're building your first metrics dashboard or optimizing an existing process, GrowthGear works with sales teams to implement data-driven pipeline practices that compound over time.
+Knowing your pipeline metrics is the first step. Acting on them — adjusting coverage, coaching reps on their individual conversion gaps, and using velocity as a forecasting anchor — is what turns data into closed revenue. Once the metrics are defined, our [sales pipeline dashboard guide](/crm-tools/sales-pipeline-dashboard-guide) covers how to lay them out for daily and weekly use. Whether you're building your first metrics dashboard or optimizing an existing process, GrowthGear works with sales teams to implement data-driven pipeline practices that compound over time.
 
 [Book a Free Strategy Session →](https://growthgear.com.au)
 

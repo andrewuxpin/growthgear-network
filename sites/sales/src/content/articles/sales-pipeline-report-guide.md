@@ -45,7 +45,7 @@ Your sales pipeline is only as useful as your ability to read it clearly. Most s
 
 A sales pipeline report changes that. It turns raw CRM data into a decision-making tool for managers, directors, and VPs who need to know — right now — whether the team is on track to hit quota. According to Salesforce's State of Sales research, high-performing sales teams are **2.8x more likely to use sales analytics** than underperforming teams. The difference is not the CRM they use. It is whether they actually review the data.
 
-This guide covers what a pipeline report is, which metrics belong in it, how to build one from scratch, and how to use it to coach your team and forecast revenue with precision.
+This guide covers what a pipeline report is, which metrics belong in it, how to build one from scratch, and how to use it to coach your team and forecast revenue with precision. If you want the visual companion to this report, our [sales pipeline dashboard guide](/crm-tools/sales-pipeline-dashboard-guide) walks through the live-view layout that pairs with weekly reporting.
 
 ## What Is a Sales Pipeline Report and Why It Matters
 
