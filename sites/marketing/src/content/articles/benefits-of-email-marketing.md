@@ -89,7 +89,7 @@ Effective segmentation approaches include:
 - **Lead funnel stage**: Awareness content for new subscribers, decision-stage content for prospects who've requested pricing
 - **Demographics**: Industry, company size, role — particularly relevant for B2B
 
-The [email marketing best practices guide](/content-marketing/email-marketing-best-practices-guide) covers segmentation implementation in detail, including list hygiene protocols that keep your segments accurate.
+The [email marketing best practices guide](/content-marketing/email-marketing-best-practices-guide) covers segmentation implementation in detail, including list hygiene protocols that keep your segments accurate. For a deeper dive into layering segments, behavioral triggers, and personalization into a single program, see our [targeted email marketing strategy guide](/content-marketing/targeted-email-marketing-strategy-guide).
 
 ### Measurable Performance at Every Stage
 
