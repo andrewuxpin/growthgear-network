@@ -99,7 +99,7 @@ Both tools occupy the experimental tier of the category — they offer free acce
 
 **Luma Dream Machine** (by Luma AI) starts at $30/month Standard after a free tier. It excels at photorealistic environmental and product scenes — architecture, product photography equivalents, and natural settings — with notably strong lighting simulation.
 
-**Practical guidance**: Start with Pika's free tier or Kling's free plan to test whether text-to-video fits your workflow. Neither requires a credit card for initial evaluation. Upgrade to Runway Gen-3 once you have a repeatable production process and clear creative briefs to work from.
+**Practical guidance**: Start with Pika's free tier or Kling's free plan to test whether text-to-video fits your workflow. Neither requires a credit card for initial evaluation. Upgrade to Runway Gen-3 once you have a repeatable production process and clear creative briefs to work from. For a wider showcase of how Runway and Sora compare against text, image, audio, and code tools in a single business stack, see our [12 generative AI websites examples](/ai-tools/generative-ai-websites-examples) listicle.
 
 > **Ready to implement AI video in your business?** GrowthGear has helped 50+ startups build AI content workflows that scale without bloating headcount. [Book a Free Strategy Session](https://growthgear.com.au) to map your AI video roadmap.
 

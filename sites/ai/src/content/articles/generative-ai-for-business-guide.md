@@ -160,7 +160,7 @@ For most Australian SMBs without strict data residency requirements, **Claude 3.
 | Internal knowledge base | Notion AI, Guru | $20-50/user | Documentation search, onboarding |
 | Workflow automation | Make + AI modules | $20-100 | Connecting GenAI to existing tools |
 
-The [AI business automation guide](/ai-tools/ai-business-automation-guide) covers how to connect these point-solution tools into automated workflows — which is where productivity gains compound rather than remain isolated to individual tasks. For teams comparing the full landscape of tools across categories, the [AI tools for small business guide](/ai-tools/best-ai-tools-for-small-business) provides a broader category-by-category comparison with pricing tiers and integration requirements.
+The [AI business automation guide](/ai-tools/ai-business-automation-guide) covers how to connect these point-solution tools into automated workflows — which is where productivity gains compound rather than remain isolated to individual tasks. For teams comparing the full landscape of tools across categories, the [AI tools for small business guide](/ai-tools/best-ai-tools-for-small-business) provides a broader category-by-category comparison with pricing tiers and integration requirements. For a detailed showcase of platforms in each category, see our [12 generative AI websites examples](/ai-tools/generative-ai-websites-examples) listicle with current 2026 pricing.
 
 ---
 
