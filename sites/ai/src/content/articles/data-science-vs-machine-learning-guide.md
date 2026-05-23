@@ -45,7 +45,7 @@ The two terms appear in the same job postings, the same vendor pitches, and ofte
 
 Confusing them costs companies real money — either by hiring the wrong role at the wrong time, or by pursuing ML projects before the data foundation exists to support them. According to McKinsey's 2024 State of AI report, 65% of organizations now use generative AI in at least one function, yet many of those same organizations report struggling to realize value because they underinvested in data science before scaling ML.
 
-This guide breaks down what each discipline actually does, where they overlap, and how to decide which capability your business needs right now. For a related comparison on adjacent roles within the data function, see our guide on [data science vs data analytics](/machine-learning/data-science-vs-data-analytics-guide).
+This guide breaks down what each discipline actually does, where they overlap, and how to decide which capability your business needs right now. For a related comparison on adjacent roles within the data function, see our guide on [data science vs data analytics](/machine-learning/data-science-vs-data-analytics-guide). And for the broader question of how data science relates to the AI field as a whole — including when to hire data scientists vs AI engineers — see our [data science vs AI guide](/machine-learning/data-science-vs-ai-key-differences-guide).
 
 ## What Is the Difference Between Data Science and Machine Learning?
 

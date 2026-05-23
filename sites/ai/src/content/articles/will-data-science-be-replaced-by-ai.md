@@ -41,7 +41,7 @@ callout:
 
 The question comes up in every data team meeting and every hiring conversation: if AI can write code, clean data, and build models, what exactly does a data scientist still do? The honest answer is more nuanced than the headlines suggest — and understanding the distinction matters whether you're a business leader planning your analytics team or a practitioner thinking about your next five years.
 
-AI is not replacing data science. It is changing what data science looks like day to day, where the value gets created, and which skills command the highest premium. The professionals who understand this shift — and position themselves accordingly — will find more opportunity, not less.
+AI is not replacing data science. It is changing what data science looks like day to day, where the value gets created, and which skills command the highest premium. The professionals who understand this shift — and position themselves accordingly — will find more opportunity, not less. (For a deeper look at how the two fields differ and overlap as disciplines — and how to sequence hiring across both — see our [data science vs AI guide](/machine-learning/data-science-vs-ai-key-differences-guide).)
 
 ## What AI Can (and Cannot) Do in Data Science
 
