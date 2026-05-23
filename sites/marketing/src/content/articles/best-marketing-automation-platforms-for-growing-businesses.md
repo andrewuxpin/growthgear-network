@@ -105,7 +105,7 @@ Its Shopify and WooCommerce integrations are native and deep — including aband
 
 Marketo is the dominant platform for enterprise demand generation. Its lead scoring engine is the most granular available — combining demographic scoring with behavioral scoring across web, email, events, and offline sources. Revenue attribution modeling connects marketing spend to closed-won revenue directly in the platform.
 
-The tradeoff: Marketo requires dedicated marketing operations expertise. Organizations without an MOps specialist typically find adoption frustrating and underutilize core features.
+The tradeoff: Marketo requires dedicated marketing operations expertise. Organizations without an MOps specialist — see our guide on [what a marketing automation specialist does](/content-marketing/what-is-a-marketing-automation-specialist) — typically find adoption frustrating and underutilize core features.
 
 - **Pricing:** Starting at approximately $1,000/month; scales by database size and feature tier
 - **Best integration:** Native Salesforce CRM sync with bi-directional field mapping
