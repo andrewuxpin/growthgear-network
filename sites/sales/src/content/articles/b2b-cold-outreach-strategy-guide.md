@@ -59,7 +59,7 @@ The most common excuse for generic outreach is "we don't have time to personaliz
 
 The custom 30% is the first 1-2 sentences: a specific observation about the prospect's business. Everything else — the value proposition, the social proof, the CTA — can be templated by segment.
 
-A rep who spends 3 minutes researching each prospect before sending a 120-word email will outperform one who blasts 500 generic messages per day. The research isn't optional. It's the mechanism.
+A rep who spends 3 minutes researching each prospect before sending a 120-word email will outperform one who blasts 500 generic messages per day. The research isn't optional. It's the mechanism. For a step-by-step breakdown of the four-layer research method, list-capping rules, and how to time triggers correctly, see our [cold prospecting guide](/sales-techniques/cold-prospecting-guide).
 
 ### The Targeting Multiplier
 

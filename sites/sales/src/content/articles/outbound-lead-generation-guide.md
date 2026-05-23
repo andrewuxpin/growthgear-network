@@ -66,7 +66,7 @@ According to [Gartner's B2B buying journey research](https://www.gartner.com/en/
 
 The [sales prospecting techniques](/sales-techniques/sales-prospecting-techniques) that consistently produce results share one trait: they target the right person at the right company with a message relevant to their specific situation. That targeting precision is only possible through deliberate outbound strategy.
 
-When building your outbound program, keep in mind that the goal is not just generating leads. It is generating leads that match your ICP so closely that your sales team can convert them efficiently. A smaller volume of high-fit leads outperforms a large volume of mismatched ones every time.
+When building your outbound program, keep in mind that the goal is not just generating leads. It is generating leads that match your ICP so closely that your sales team can convert them efficiently. A smaller volume of high-fit leads outperforms a large volume of mismatched ones every time. For the upstream work that makes outbound outreach actually convert — defining ICP, capping active lists, and the four-layer research method — see our [cold prospecting guide](/sales-techniques/cold-prospecting-guide).
 
 ## How to Build Your Outbound Lead Generation System
 
