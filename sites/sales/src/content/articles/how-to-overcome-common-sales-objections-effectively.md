@@ -1,5 +1,5 @@
 ---
-title: "How to Overcome Common Sales Objections Effectively: A Complete Guide"
+title: "How to Overcome Common Sales Objections"
 description: "Learn proven strategies to handle price, timing, and authority objections. Master the art of turning sales objections into opportunities with expert techniques."
 category: "sales-techniques"
 author:

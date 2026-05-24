@@ -1,5 +1,5 @@
 ---
-title: "Sales Pipeline Dashboard: Build One That Drives Revenue"
+title: "Sales Pipeline Dashboard: Build One That"
 description: "Build a sales pipeline dashboard that drives revenue. Learn the metrics, tools, setup steps, and mistakes to avoid for accurate forecasts and coaching."
 category: "crm-tools"
 author:

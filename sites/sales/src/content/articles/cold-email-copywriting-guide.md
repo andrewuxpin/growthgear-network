@@ -1,5 +1,5 @@
 ---
-title: "Cold Email Copywriting: Write Emails That Get Replies"
+title: "Cold Email Copywriting: Write Emails That"
 description: "Master cold email copywriting with proven frameworks, personalization techniques, and formulas that lift reply rates. Practical guide for B2B sales teams."
 category: "sales-techniques"
 author:

@@ -1,5 +1,5 @@
 ---
-title: "How to Create Effective Email Marketing Campaigns That Drive Results in 2024"
+title: "How to Create Effective Email Marketing"
 description: "Learn how to create effective email marketing campaigns with proven strategies, templates, and metrics. Boost your ROI with our step-by-step guide for 2024."
 category: "content-marketing"
 author:

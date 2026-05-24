@@ -1,5 +1,5 @@
 ---
-title: "Best CRM Software for Small Business Teams: Complete Guide 2024"
+title: "Best CRM Software for Small Business Teams"
 description: "Discover the best CRM software for small business teams with our comprehensive guide. Compare features, pricing, and find the perfect solution for your..."
 category: "crm-tools"
 author:

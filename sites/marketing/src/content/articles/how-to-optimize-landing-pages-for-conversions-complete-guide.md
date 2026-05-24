@@ -1,5 +1,5 @@
 ---
-title: "How to Optimize Landing Pages for Conversions: The Complete 2024 Guide"
+title: "How to Optimize Landing Pages for"
 description: "Learn how to optimize landing pages for conversions with proven strategies, best practices, and actionable tips. Boost your conversion rates today with our."
 category: "seo"
 author:

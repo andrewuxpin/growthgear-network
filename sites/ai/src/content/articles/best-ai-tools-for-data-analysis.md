@@ -1,5 +1,5 @@
 ---
-title: "Best AI Tools for Data Analysis: 15 Top Platforms for Advanced Analytics in 2024"
+title: "Best AI Tools for Data Analysis: 15 Top"
 description: "Discover the best AI tools for data analysis in 2024. Compare features, pricing, and capabilities of 15 leading platforms to transform your analytics workflow."
 category: "ai-tools"
 author:

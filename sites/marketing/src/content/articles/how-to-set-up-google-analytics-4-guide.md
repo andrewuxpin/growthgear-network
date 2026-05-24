@@ -1,5 +1,5 @@
 ---
-title: "How to Set Up Google Analytics 4: Complete Step-by-Step Guide for 2024"
+title: "How to Set Up Google Analytics 4: Complete"
 description: "Learn how to set up Google Analytics 4 with our comprehensive step-by-step guide. Master GA4 configuration, tracking, and optimization for better insights."
 category: "seo"
 author:

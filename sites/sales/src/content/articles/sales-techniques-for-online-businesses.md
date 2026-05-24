@@ -1,5 +1,5 @@
 ---
-title: "Sales Techniques for Online Businesses That Win Deals"
+title: "Sales Techniques for Online Businesses That"
 description: "Master sales techniques for online businesses that close deals in digital-first B2B environments. Learn virtual prospecting, demos, and follow-up strategies."
 category: "sales-techniques"
 author:

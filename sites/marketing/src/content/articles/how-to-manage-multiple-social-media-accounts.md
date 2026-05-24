@@ -1,5 +1,5 @@
 ---
-title: "How to Manage Multiple Social Media Accounts Efficiently"
+title: "How to Manage Multiple Social Media"
 description: "Learn how to manage multiple social media accounts without burnout. Practical tools, workflows, and proven frameworks for marketing teams running 4+ platforms."
 category: "social-media"
 author:

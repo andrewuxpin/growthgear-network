@@ -1,5 +1,5 @@
 ---
-title: "B2B Cold Outreach: A Strategy Guide That Gets Replies"
+title: "B2B Cold Outreach: A Strategy Guide That"
 description: "The complete B2B cold outreach strategy guide: build targeted lists, write messages that get replies, and run sequences that book meetings consistently."
 category: "sales-techniques"
 author:

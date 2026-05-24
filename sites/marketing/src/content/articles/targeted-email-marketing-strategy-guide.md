@@ -1,5 +1,5 @@
 ---
-title: "Targeted Email Marketing: A Strategy Guide That Converts"
+title: "Targeted Email Marketing: A Strategy Guide"
 description: "Targeted email marketing turns your list into revenue. Learn segmentation, behavioral triggers, personalization tactics, and benchmarks that drive results."
 category: "content-marketing"
 author:

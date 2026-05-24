@@ -1,5 +1,5 @@
 ---
-title: "What Is SMMA? Guide to Social Media Marketing Agencies"
+title: "What Is SMMA? Guide to Social Media"
 description: "SMMA stands for Social Media Marketing Agency. Learn what these agencies do, what to expect, and how to choose the right partner for your brand growth."
 category: "social-media"
 author:

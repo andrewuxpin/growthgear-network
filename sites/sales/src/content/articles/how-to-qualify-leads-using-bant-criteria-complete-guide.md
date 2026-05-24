@@ -1,5 +1,5 @@
 ---
-title: "How to Qualify Leads Using BANT Criteria: Complete Guide for Sales Teams"
+title: "How to Qualify Leads Using BANT Criteria"
 description: "Master lead qualification with BANT criteria. Learn Budget, Authority, Need, Timeline framework to boost sales efficiency and close more deals in 2024."
 category: "sales-techniques"
 author:

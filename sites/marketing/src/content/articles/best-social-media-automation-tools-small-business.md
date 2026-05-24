@@ -1,5 +1,5 @@
 ---
-title: "Best Social Media Automation Tools for Small Business: Complete Guide 2024"
+title: "Best Social Media Automation Tools for"
 description: "Discover the top social media automation tools for small businesses. Save time, boost engagement, and grow your brand with these proven platforms. Start today!"
 category: "social-media"
 author:

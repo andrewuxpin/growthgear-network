@@ -1,5 +1,5 @@
 ---
-title: "B2B Enterprise Target Profile Criteria That Close Deals"
+title: "B2B Enterprise Target Profile Criteria That"
 description: "Learn the 6 core B2B enterprise target profile criteria that top sales teams use to identify high-value accounts and close more enterprise deals faster."
 category: "b2b-sales"
 author:

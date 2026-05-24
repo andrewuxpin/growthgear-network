@@ -1,5 +1,5 @@
 ---
-title: "Do LLMs Use Neural Networks? The Architecture Explained"
+title: "Do LLMs Use Neural Networks? The Architecture"
 description: "Yes — every LLM is a transformer-based neural network. Discover how LLM architecture differs from traditional nets and which model type fits your use case."
 category: "deep-learning"
 author:

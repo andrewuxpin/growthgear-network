@@ -1,5 +1,5 @@
 ---
-title: "What Is Social Selling and Why Is It Important for Modern Sales Success"
+title: "What Is Social Selling and Why Is It"
 description: "Discover what social selling is and why it's crucial for sales success. Learn proven strategies, statistics, and best practices to boost your revenue today."
 category: "sales-techniques"
 author:

@@ -1,6 +1,6 @@
 ---
-title: "What Is a Convolutional Neural Network? CNN Guide"
-description: "What is a convolutional neural network? A clear guide to CNN architecture, convolutional layers, business use cases, and how CNNs differ from MLPs and transformers."
+title: "What Is a Convolutional Neural Network? CNN"
+description: "What is a convolutional neural network? A clear guide to CNN architecture, convolutional layers, business use cases, and how CNNs differ from MLPs and"
 category: "deep-learning"
 author:
   name: "GrowthGear Team"

@@ -1,5 +1,5 @@
 ---
-title: "How to Improve Sales Conversion Rates Quickly: 15 Proven Strategies That Work in 2024"
+title: "How to Improve Sales Conversion Rates"
 description: "Discover 15 proven strategies to improve sales conversion rates quickly. Boost your revenue with actionable tactics that drive results. Start converting more."
 category: "sales-techniques"
 author:

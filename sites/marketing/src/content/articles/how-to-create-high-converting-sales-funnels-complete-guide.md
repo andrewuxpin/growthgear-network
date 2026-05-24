@@ -1,5 +1,5 @@
 ---
-title: "How to Create High Converting Sales Funnels: The Complete 2024 Guide"
+title: "How to Create High Converting Sales"
 description: "Learn how to create high converting sales funnels that drive revenue. Step-by-step guide with proven strategies, examples, and optimization tips for 2024."
 category: "content-marketing"
 author:

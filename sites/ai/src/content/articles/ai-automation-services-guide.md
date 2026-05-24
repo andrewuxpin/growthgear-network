@@ -1,5 +1,5 @@
 ---
-title: "AI Automation Services: What They Are and How to Choose"
+title: "AI Automation Services: What They Are and How"
 description: "AI automation services help businesses reduce manual work using RPA, workflow automation, and agentic AI. Compare top providers and choose the right fit."
 category: "ai-tools"
 author:

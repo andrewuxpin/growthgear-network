@@ -1,5 +1,5 @@
 ---
-title: "How to Train Machine Learning Models for Beginners: Complete Guide"
+title: "How to Train Machine Learning Models for"
 description: "Learn how to train machine learning models from scratch with our step-by-step guide. Includes tools, techniques, and practical examples. Start your AI..."
 category: "machine-learning"
 author:

@@ -1,5 +1,5 @@
 ---
-title: "What Is a Marketing Automation Specialist? Role Guide"
+title: "What Is a Marketing Automation Specialist?"
 description: "A marketing automation specialist designs and runs automated campaigns. Learn what they do, required skills, salary ranges, and how to hire one in 2026."
 category: "content-marketing"
 author:

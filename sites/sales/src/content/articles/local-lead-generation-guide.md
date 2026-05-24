@@ -1,5 +1,5 @@
 ---
-title: "Local Lead Generation: Fill Your B2B Pipeline Locally"
+title: "Local Lead Generation: Fill Your B2B"
 description: "Master local lead generation for B2B sales. Build a regional prospect database, use local outreach channels, and grow your pipeline with nearby buyers."
 category: "sales-techniques"
 author:

@@ -1,5 +1,5 @@
 ---
-title: "Content Marketing Ideas: 25 Proven Tactics for Growth"
+title: "Content Marketing Ideas: 25 Proven Tactics"
 description: "Discover 25 proven content marketing ideas that drive real traffic and leads. From blog tactics to video formats, build a strategy that grows your business."
 category: "content-marketing"
 author:

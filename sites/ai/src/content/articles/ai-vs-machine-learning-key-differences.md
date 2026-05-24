@@ -1,5 +1,5 @@
 ---
-title: "AI vs Machine Learning: Key Differences Explained (2024 Guide)"
+title: "AI vs Machine Learning: Key Differences"
 description: "Discover the key differences between AI and machine learning. Learn definitions, applications, and real-world examples in this comprehensive guide. Start here!"
 category: "machine-learning"
 author:

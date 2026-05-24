@@ -1,5 +1,5 @@
 ---
-title: "How to Implement AI in Business: A Complete Step-by-Step Guide for 2024"
+title: "How to Implement AI in Business: A Complete"
 description: "Learn how to implement AI in business with our comprehensive guide. Discover strategies, tools, and best practices to transform your operations today."
 category: "machine-learning"
 author:
