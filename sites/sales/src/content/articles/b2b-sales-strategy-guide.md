@@ -46,7 +46,7 @@ This guide covers every element of a B2B sales strategy: from defining your idea
 
 ## What Makes B2B Sales Strategy Different
 
-A B2B sales strategy is a plan for winning business customers through structured prospecting, qualification, and deal management. Unlike B2C, B2B deals involve multiple decision-makers, longer cycles of 3-9 months, and larger contract values that require tailored, multi-stakeholder approaches. For a deep dive on managing and compressing cycle length at each stage, see the [B2B sales cycle guide](/b2b-sales/b2b-sales-cycle-guide). Success depends on aligning your outreach, discovery, and closing methods to the reality of committee buying.
+A B2B sales strategy is a plan for winning business customers through structured prospecting, qualification, and deal management. Unlike B2C, B2B deals involve multiple decision-makers, longer cycles of 3-9 months, and larger contract values that require tailored, multi-stakeholder approaches. For a deep dive on managing and compressing cycle length at each stage, see the [B2B sales cycle guide](/b2b-sales/b2b-sales-cycle-guide). Success depends on aligning your outreach, discovery, and closing methods to the reality of committee buying. Most modern teams execute the strategy through a remote-first model, so pair this guide with our [B2B inside sales guide](/b2b-sales/b2b-inside-sales-guide) when designing roles and tooling.
 
 ### The B2B Buying Committee
 

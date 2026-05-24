@@ -66,7 +66,7 @@ The fundamental difference between B2B and consumer sales is the buying process.
 
 Not all B2B selling looks the same. The three dominant models are:
 
-- **Inside sales**: Remote selling via phone, email, and video. Typical for mid-market SaaS, where deal sizes range from $5K to $100K annually.
+- **Inside sales**: Remote selling via phone, email, and video. Typical for mid-market SaaS, where deal sizes range from $5K to $100K annually. See our [B2B inside sales guide](/b2b-sales/b2b-inside-sales-guide) for team structure, tooling, and KPI benchmarks.
 - **Field sales / enterprise sales**: In-person or hybrid selling for large enterprise contracts. Longer cycles, larger teams, and higher commission structures.
 - **Channel sales**: Selling through resellers, distributors, or partners rather than directly. Common in manufacturing, hardware, and some software verticals.
 
