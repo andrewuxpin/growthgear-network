@@ -116,7 +116,7 @@ For a systematic approach to building this compounding effect, see our guide on 
 
 ### Measuring True Content ROI
 
-Most companies measure content marketing effectiveness with pageviews — a vanity metric that doesn't connect to revenue. A more rigorous approach uses three metrics:
+Most companies measure content marketing effectiveness with pageviews — a vanity metric that doesn't connect to revenue. A more rigorous approach uses three metrics (our full breakdown on [how to measure content marketing ROI](/content-marketing/how-to-measure-content-marketing-roi) covers the formula, attribution models, and benchmarks):
 
 **Organic sessions from content**: Traffic arriving via organic search specifically to content pages, isolating the direct content program effect from branded or direct traffic.
 

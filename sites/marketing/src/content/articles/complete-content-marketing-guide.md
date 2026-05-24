@@ -176,7 +176,7 @@ Effective social distribution also indirectly increases backlink acquisition —
 
 ## Measuring Content Marketing ROI
 
-Content marketing ROI is measured through four core metrics: organic traffic growth, lead conversion rate, content-influenced pipeline, and engagement quality (time-on-page, scroll depth). Most brands see meaningful traffic results within 6 months and full pipeline impact within 12-18 months. Attribution models that track multi-touch buyer journeys — where a prospect consumed multiple pieces of content across different sessions before converting — give the most accurate revenue picture.
+Content marketing ROI is measured through four core metrics: organic traffic growth, lead conversion rate, content-influenced pipeline, and engagement quality (time-on-page, scroll depth). Most brands see meaningful traffic results within 6 months and full pipeline impact within 12-18 months. Attribution models that track multi-touch buyer journeys — where a prospect consumed multiple pieces of content across different sessions before converting — give the most accurate revenue picture. Our dedicated guide on [how to measure content marketing ROI](/content-marketing/how-to-measure-content-marketing-roi) walks through the formula, attribution models, and stage-by-stage benchmarks in detail.
 
 ### Traffic and Visibility Metrics
 

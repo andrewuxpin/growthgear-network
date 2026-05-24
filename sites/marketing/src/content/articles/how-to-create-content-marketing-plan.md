@@ -209,7 +209,7 @@ If all your content sits at the top of the funnel, you'll generate traffic witho
 
 ## How to Measure Your Content Marketing Plan ROI
 
-Measure your content marketing plan using a combination of traffic metrics, engagement signals, lead volume, and revenue attribution. Track these monthly, but expect meaningful organic results in three to six months — content compounds over time. Evaluating content performance at 30 days consistently undervalues long-term assets.
+Measure your content marketing plan using a combination of traffic metrics, engagement signals, lead volume, and revenue attribution. Track these monthly, but expect meaningful organic results in three to six months — content compounds over time. Evaluating content performance at 30 days consistently undervalues long-term assets. For a step-by-step framework, see our guide to [how to measure content marketing ROI](/content-marketing/how-to-measure-content-marketing-roi) — including the ROI formula and stage-by-stage benchmarks.
 
 ### Core Content Marketing KPIs
 
