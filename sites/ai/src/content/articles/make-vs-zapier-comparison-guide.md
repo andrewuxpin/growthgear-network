@@ -215,7 +215,7 @@ According to McKinsey Global Institute research on automation and productivity, 
 
 Some teams run Make and Zapier in parallel — using Zapier for simple, high-frequency automations where its integrations are unmatched, and Make for data-heavy multi-branch workflows where its canvas and cheaper operations pricing win. The overlap is manageable if workflows are clearly segmented by type.
 
-The automation landscape also includes [n8n](/ai-tools/n8n-pricing-cloud-vs-self-hosted-guide) as a third option: self-hosted, developer-oriented, and free at the self-hosted tier. For teams with server capacity and developer resources, n8n's unlimited executions at zero marginal cost become compelling at scale. For a comprehensive look at [automating business tasks with AI across all major platforms](/ai-tools/how-to-use-ai-to-automate-tasks-complete-guide), our dedicated guide covers the full tool landscape.
+The automation landscape also includes [n8n](/ai-tools/n8n-pricing-cloud-vs-self-hosted-guide) as a third option: self-hosted, developer-oriented, and free at the self-hosted tier. For teams with server capacity and developer resources, n8n's unlimited executions at zero marginal cost become compelling at scale. Our dedicated [n8n vs Zapier comparison guide](/ai-tools/n8n-vs-zapier-comparison-guide) walks through the open-source-vs-cloud decision in detail. For a comprehensive look at [automating business tasks with AI across all major platforms](/ai-tools/how-to-use-ai-to-automate-tasks-complete-guide), our dedicated guide covers the full tool landscape.
 
 ## Make vs Zapier: Full Comparison Summary
 
