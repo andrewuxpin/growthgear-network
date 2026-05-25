@@ -112,7 +112,7 @@ An F1-score above 0.85 is generally strong for binary classification. For multi-
 
 **Support is the count of actual test instances for each class. It is not a performance metric — it is a reliability indicator. Classes with support under 50 samples produce statistically unreliable precision, recall, and F1 estimates regardless of how promising the numbers appear.**
 
-Always check the support column before drawing conclusions from your report. If your minority class has only 12 test instances, an F1 of 0.75 means the model correctly handled approximately 9 of them — not a stable estimate for production deployment. Per-class evaluation with small support requires k-fold cross-validation across multiple folds to produce reliable estimates.
+Always check the support column before drawing conclusions from your report. If your minority class has only 12 test instances, an F1 of 0.75 means the model correctly handled approximately 9 of them — not a stable estimate for production deployment. Per-class evaluation with small support requires [k-fold cross-validation](/machine-learning/what-is-cross-validation-in-machine-learning) across multiple folds to produce reliable estimates.
 
 Support also diagnoses data distribution problems. Extremely low minority class support in your test set often signals the same underrepresentation in your training data, which directly causes poor recall for that class.
 

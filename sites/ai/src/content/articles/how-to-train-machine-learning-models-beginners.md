@@ -219,7 +219,7 @@ Hyperparameters are settings that control the learning process:
 
 #### Cross-Validation
 
-Use cross-validation to get more reliable performance estimates:
+Use [cross-validation](/machine-learning/what-is-cross-validation-in-machine-learning) to get more reliable performance estimates:
 
 ```python
 from sklearn.model_selection import cross_val_score

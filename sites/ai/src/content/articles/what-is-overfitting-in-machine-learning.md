@@ -118,7 +118,7 @@ The [Google Developers ML Crash Course](https://developers.google.com/machine-le
 
 ### K-Fold Cross-Validation
 
-A single train-validation split can produce misleading results if that particular split happens to be advantageous or disadvantageous. K-fold cross-validation (k=5 or k=10) partitions the dataset into k equal subsets, trains k separate models each using a different subset as the validation fold, and averages the results.
+A single train-validation split can produce misleading results if that particular split happens to be advantageous or disadvantageous. [K-fold cross-validation](/machine-learning/what-is-cross-validation-in-machine-learning) (k=5 or k=10) partitions the dataset into k equal subsets, trains k separate models each using a different subset as the validation fold, and averages the results.
 
 A well-generalized model produces consistent performance across all folds — for example, validation accuracy ranging from 84-87% across five folds. High variance across folds (71% to 91%) signals instability and likely overfitting on some training configurations.
 
