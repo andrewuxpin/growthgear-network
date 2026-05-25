@@ -43,7 +43,7 @@ callout:
 
 A sales strategy template gives you a structured, repeatable framework for defining targets, assigning tactics, and tracking results — without reinventing the wheel each quarter. The best templates are specific enough to guide daily decisions but flexible enough to adapt as your market and competitive landscape shifts.
 
-This guide walks you through every section of a complete sales strategy template, with worked examples and a comparison matrix you can adapt for your team today.
+This guide walks you through every section of a complete sales strategy template, with worked examples and a comparison matrix you can adapt for your team today. If you are still working out what a sales strategy is in the first place, read our primer on [what a sales strategy is, the core components, and the main types](/sales-techniques/what-is-a-sales-strategy) before filling in the template below.
 
 ## What a Sales Strategy Template Must Include
 
