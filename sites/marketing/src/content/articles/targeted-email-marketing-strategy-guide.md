@@ -226,7 +226,7 @@ According to **Mailchimp's** all-industries benchmark report and **HubSpot's** 2
 | **Unsubscribe rate** | 0.5%+ | 0.2-0.4% | <0.2% |
 | **Conversion rate** (to MQL) | 0.5-1.0% | 1.5-2.5% | 4.0-7.0% |
 
-These numbers vary by industry. SaaS and professional services typically run higher; ecommerce runs lower on opens but higher on conversion. Benchmark against your category, not against an average.
+These numbers vary by industry. SaaS and professional services typically run higher; ecommerce runs lower on opens but higher on conversion. Benchmark against your category, not against an average. For a fuller breakdown of [email marketing metrics](/content-marketing/email-marketing-metrics-guide) across deliverability, engagement, and revenue tiers, see our dedicated guide.
 
 ### Choosing the Right ESP
 

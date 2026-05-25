@@ -181,7 +181,7 @@ Use these as orienting numbers, not absolute targets. Performance varies widely 
 | Reply rate (1:1 sales emails) | 3-7% | 12-18% |
 | Bounce rate | <2% | <0.5% |
 
-The most reliable health metric is **click-through rate**, since clicks require an intentional action that Apple's privacy proxy doesn't fake. The most reliable program-quality metric is **engaged-contact percentage** — what share of your list opened or clicked in the last 90 days. Healthy B2B lists run 35-50% engaged; below 25% and you have a list hygiene problem to fix before anything else.
+The most reliable health metric is **click-through rate**, since clicks require an intentional action that Apple's privacy proxy doesn't fake. The most reliable program-quality metric is **engaged-contact percentage** — what share of your list opened or clicked in the last 90 days. Healthy B2B lists run 35-50% engaged; below 25% and you have a list hygiene problem to fix before anything else. For the full set of [email marketing metrics](/content-marketing/email-marketing-metrics-guide) across deliverability, engagement, and revenue tiers — plus diagnostic playbooks — see our dedicated guide.
 
 ### Beyond Open Rates: Pipeline Metrics That Matter
 
