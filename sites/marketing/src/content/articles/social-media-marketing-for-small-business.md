@@ -57,7 +57,7 @@ Social media marketing gives small businesses a direct channel to reach, educate
 
 Large brands have bigger budgets, but they lack the authenticity that makes small business social media effective. Consumers increasingly prefer buying from businesses they feel a genuine connection to. Edelman's Trust Barometer research consistently shows that people trust company founders and frontline employees far more than polished corporate messaging — and small businesses naturally produce more personal, credible content.
 
-The economics work in your favor too. A well-targeted paid social campaign can deliver qualified leads at $5–$20 per click, compared to $30–$100+ per click in competitive search advertising verticals. For service businesses in particular, a strong social presence can reduce customer acquisition cost by 30–50% compared to purely paid search strategies.
+The economics work in your favor too. A well-targeted paid social campaign can deliver qualified leads at $5–$20 per click, compared to $30–$100+ per click in competitive search advertising verticals. For service businesses in particular, a strong social presence can reduce customer acquisition cost by 30–50% compared to purely paid search strategies. When you're ready to run your first concentrated push, our guide on [how to run a social media campaign](/social-media/how-to-run-a-social-media-campaign) walks through the 7-step framework from goal-setting to ROI measurement.
 
 ### Social Media as an Audience Equity Asset
 

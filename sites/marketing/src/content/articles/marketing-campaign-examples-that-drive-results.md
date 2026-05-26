@@ -135,7 +135,7 @@ B2B marketers in particular report that their most effective campaigns start wit
 
 ## Social Media Campaign Examples
 
-Social media campaigns operate in a fundamentally different environment from email: you're competing for attention in a feed alongside friends, entertainment, and every other brand targeting the same audience. The campaigns that generate the best ROI consistently create content that earns engagement rather than buying it.
+Social media campaigns operate in a fundamentally different environment from email: you're competing for attention in a feed alongside friends, entertainment, and every other brand targeting the same audience. The campaigns that generate the best ROI consistently create content that earns engagement rather than buying it. For the underlying framework these examples follow, see our step-by-step guide to [how to run a social media campaign](/social-media/how-to-run-a-social-media-campaign).
 
 > **Want to scale your marketing impact?** GrowthGear has helped 50+ startups build marketing engines that deliver 156% average growth. [Book a Free Strategy Session](https://growthgear.com.au) to craft your marketing roadmap.
 
