@@ -143,6 +143,7 @@ The fastest way to keep CRM data fresh is to avoid requiring humans to enter it 
 - **Calendar integration**: Logs meetings and creates follow-up task reminders without manual input
 - **Web form capture**: Adds inbound leads directly to the CRM with source attribution already applied
 - **Call recording integration**: Tools like Gong and Chorus log call summaries and transcripts to deal records automatically
+- **Cash collection sync**: A [CRM and cash collection software integration](/crm-tools/crm-cash-collection-software-integration) pulls invoice status, payment dates, and dispute notes into the CRM so reps see real-time AR context
 
 Automation handles the routine data entry that reps resent. Reserve manual input for high-value contextual fields: deal notes, competitive intelligence, and stakeholder maps that only a human can observe. For teams building out their full marketing-to-sales data flow, [marketing attribution modeling](https://marketing.growthgear.com.au/seo/what-is-marketing-attribution-modeling-explained) explains how to connect CRM contacts to the marketing sources that generated them.
 

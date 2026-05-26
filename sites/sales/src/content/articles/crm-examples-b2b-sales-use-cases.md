@@ -137,7 +137,7 @@ Field sales teams in manufacturing benefit most from mobile CRM — reps log vis
 
 ### Financial Services
 
-Regulated industries require CRM configurations with audit trails, communication logging, and compliance flags. Financial services CRM examples often include mandatory activity logging for regulatory purposes, with automated alerts when contact frequency or documentation falls outside policy.
+Regulated industries require CRM configurations with audit trails, communication logging, and compliance flags. Financial services CRM examples often include mandatory activity logging for regulatory purposes, with automated alerts when contact frequency or documentation falls outside policy. Many financial services teams also operate a [CRM and cash collection software integration](/crm-tools/crm-cash-collection-software-integration) so reps see payment status alongside the regulatory activity record.
 
 AI-powered CRM tools are increasingly common in financial services — for context on how AI integrates with sales software, see how to [implement AI in your business](https://ai.growthgear.com.au/machine-learning/how-to-implement-ai-in-business-complete-guide) for a comprehensive overview.
 

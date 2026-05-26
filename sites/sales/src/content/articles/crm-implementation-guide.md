@@ -158,7 +158,7 @@ A CRM that doesn't connect to the rest of your tools is an island. Minimum viabl
 - **LinkedIn Sales Navigator** — if your reps prospect on LinkedIn as a primary channel
 - **Sales forecasting platform** — if you use dedicated [sales forecasting software](/crm-tools/best-sales-forecasting-software-tools) alongside your CRM
 
-Advanced integrations — marketing automation, billing systems, customer success platforms — can wait until the team is using the core system reliably. Complexity at launch kills adoption.
+Advanced integrations — marketing automation, billing systems, customer success platforms — can wait until the team is using the core system reliably. Complexity at launch kills adoption. Teams that handle high-value B2B accounts often add a [CRM and cash collection software integration](/crm-tools/crm-cash-collection-software-integration) in phase two, giving reps real-time payment context during renewal and expansion conversations.
 
 ## Phase 3 — Train Your Team and Drive Adoption
 
