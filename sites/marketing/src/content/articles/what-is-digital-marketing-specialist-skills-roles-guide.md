@@ -71,7 +71,7 @@ That outcome-to-insight loop is the difference between a tactical resource and a
 | 51–200 employees | Specialists by channel (SEO, paid, email), reporting to a marketing manager |
 | 200+ employees | Teams of specialists within sub-departments, overseen by channel leads |
 
-For early-stage companies, one strong generalist specialist usually outperforms hiring two narrow experts — the coordination cost alone cancels the benefit. The calculus shifts around 50 employees when channel volume justifies specialization.
+For early-stage companies, one strong generalist specialist usually outperforms hiring two narrow experts — the coordination cost alone cancels the benefit. The calculus shifts around 50 employees when channel volume justifies specialization. Once you're running multiple channels with serious budget, the next hire is usually a [digital marketing strategist](/content-marketing/what-is-a-digital-marketing-strategist) to own the cross-channel plan that specialists execute against.
 
 ## Core Skills Every Digital Marketing Specialist Needs
 

@@ -76,7 +76,7 @@ A functional plan answers six questions before any execution begins:
 - **How much** will it cost? (budget allocation by channel with a buffer for testing)
 - **How will you know it's working?** (KPIs with baselines, targets, and review cadence)
 
-Plans that skip any of these questions create predictable execution gaps. The most common missing element is measurement — teams document channels and budgets but set no baselines, which means they have no way to evaluate whether the plan is working or which channels are driving impact.
+Plans that skip any of these questions create predictable execution gaps. The most common missing element is measurement — teams document channels and budgets but set no baselines, which means they have no way to evaluate whether the plan is working or which channels are driving impact. This planning work is exactly what a dedicated [digital marketing strategist](/content-marketing/what-is-a-digital-marketing-strategist) owns once your spend and channel count cross the threshold where the cross-channel plan becomes a full-time responsibility.
 
 ### Why Formal Plans Outperform Intuition
 

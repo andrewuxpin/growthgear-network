@@ -60,7 +60,7 @@ The role has expanded significantly as businesses have moved more budget online 
 
 Many growing businesses confuse managers with specialists, but the distinction matters when hiring. A [digital marketing specialist](/content-marketing/what-is-digital-marketing-specialist-skills-roles-guide) focuses on deep execution expertise in one or two channels. They are the person who lives inside Google Ads or builds your [organic SEO strategy](/seo/organic-seo-strategy-guide) — expert operators who drive performance at the channel level.
 
-A digital marketing manager, by contrast, operates across all channels simultaneously. They make strategic decisions about which channels to prioritize, how much budget to allocate to each, and how to coordinate messaging and timing across the full customer journey. They typically manage specialists — or the agencies that fill specialist roles — rather than executing campaigns day to day.
+A digital marketing manager, by contrast, operates across all channels simultaneously. They make strategic decisions about which channels to prioritize, how much budget to allocate to each, and how to coordinate messaging and timing across the full customer journey. They typically manage specialists — or the agencies that fill specialist roles — rather than executing campaigns day to day. In larger organizations, the planning work itself is sometimes split off into a separate [digital marketing strategist](/content-marketing/what-is-a-digital-marketing-strategist) role that focuses purely on cross-channel planning and measurement.
 
 | | Digital Marketing Specialist | Digital Marketing Manager |
 |---|---|---|
