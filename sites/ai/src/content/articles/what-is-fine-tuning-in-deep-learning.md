@@ -51,7 +51,7 @@ Fine-tuning takes a model that already understands language, images, or sequence
 
 ### The Pre-Training Baseline
 
-Modern deep learning models start as general-purpose systems trained on enormous datasets. GPT-3 was trained on roughly 570GB of internet text. BERT pre-trained on the Books Corpus and English Wikipedia. Vision models like ResNet-50 pre-trained on ImageNet's 1.2 million labeled images.
+Modern deep learning models start as general-purpose systems trained on enormous datasets. GPT-3 was trained on roughly 570GB of internet text. BERT pre-trained on the Books Corpus and English Wikipedia. The [T5 encoder-decoder model](/deep-learning/what-is-t5-model-in-nlp) pre-trained on Google's 750GB C4 corpus using a span-corruption objective. Vision models like ResNet-50 pre-trained on ImageNet's 1.2 million labeled images.
 
 This pre-training phase takes weeks or months across hundreds of GPUs and costs millions of dollars. According to the [Stanford HAI AI Index 2024](https://aiindex.stanford.edu/report/), training costs for frontier models have exceeded $100 million in recent cycles. For almost every business, re-running this phase is neither necessary nor feasible.
 

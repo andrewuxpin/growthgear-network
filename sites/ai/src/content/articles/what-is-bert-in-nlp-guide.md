@@ -71,7 +71,7 @@ Understanding where BERT fits in the NLP model family clarifies when to use it v
 | **GPT-2/3/4** (OpenAI) | Decoder-only Transformer | Left-to-right | Causal language modeling | Text generation, summarization, chat |
 | **T5** (Google, 2020) | Encoder-Decoder Transformer | Both | Text-to-Text | Translation, summarization, QA |
 
-The core distinction: BERT **understands** text exceptionally well but cannot generate it. GPT **generates** text fluently but is not optimized for classification tasks. For business use cases requiring understanding — sentiment analysis, document routing, entity extraction — BERT-class models are still the default choice in production systems.
+The core distinction: BERT **understands** text exceptionally well but cannot generate it. GPT **generates** text fluently but is not optimized for classification tasks. The [T5 encoder-decoder model](/deep-learning/what-is-t5-model-in-nlp) sits between the two — using both an encoder (for input understanding) and a decoder (for text generation). For business use cases requiring understanding — sentiment analysis, document routing, entity extraction — BERT-class models are still the default choice in production systems.
 
 For a comprehensive breakdown of decoder-only, encoder-only, and encoder-decoder architectures, see [do LLMs use neural networks: the architecture explained](/deep-learning/do-llms-use-neural-networks).
 
