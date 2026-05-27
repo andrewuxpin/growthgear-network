@@ -224,7 +224,7 @@ Track which techniques move deals forward by measuring stage-to-stage conversion
 
 ### What Sales Leaders Are Saying
 
-Sales leaders consistently note that technique adoption only sticks when it's tied to a coaching cadence. Managers who listen to recorded calls, score technique usage, and debrief weekly see ramp times improve by 30-40% compared to teams without structured coaching. The techniques above are only as effective as the practice and feedback loop surrounding them.
+Sales leaders consistently note that technique adoption only sticks when it's tied to a coaching cadence. Managers who listen to recorded calls, score technique usage, and debrief weekly see ramp times improve by 30-40% compared to teams without structured coaching. The techniques above are only as effective as the practice and feedback loop surrounding them — see our companion guide on [how to improve sales skills](/sales-techniques/how-to-improve-sales-skills) for the deliberate-practice framework that locks them in.
 
 Teams that align content and [conversion rate optimization strategy](https://marketing.growthgear.com.au/seo/conversion-rate-optimization-strategy-guide) with their sales process tend to see faster mid-funnel velocity, as marketing materials reinforce the same messaging salespeople deliver in discovery and presentation.
 

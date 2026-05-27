@@ -171,7 +171,7 @@ Review these in your CRM each Monday morning and compare against the previous fo
 
 According to [Gong.io research](https://www.gong.io/resources/labs/discovery-questions/), sales reps who regularly review their own call recordings improve their talk-to-listen ratio significantly within the first 30 days of the habit. A better talk-to-listen ratio correlates directly with higher win rates because listening more means learning more about what the buyer actually cares about, which leads to more relevant proposals and fewer late-stage surprises.
 
-Use your CRM's built-in call recording feature or a dedicated conversation intelligence tool. Block 30 minutes each week to review 1 to 2 calls and identify one specific behaviour to change in the following week. Small, targeted improvements compound quickly.
+Use your CRM's built-in call recording feature or a dedicated conversation intelligence tool. Block 30 minutes each week to review 1 to 2 calls and identify one specific behaviour to change in the following week. Small, targeted improvements compound quickly — our step-by-step guide on [how to improve sales skills](/sales-techniques/how-to-improve-sales-skills) shows how to structure the review rubric and 90-day plan.
 
 ### Tip 12: Invest in Continuous Sales Training
 

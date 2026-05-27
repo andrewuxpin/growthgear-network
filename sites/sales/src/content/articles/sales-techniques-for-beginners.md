@@ -192,7 +192,7 @@ This sequence closes a meaningful percentage of deals where the prospect went qu
 
 ## How to Practice and Track Your Progress
 
-The fastest path to sales skill improvement is deliberate practice with specific feedback, not just doing more calls. Role-play sessions, call recording reviews, and weekly metric tracking accelerate development far beyond unstructured experience. Set specific weekly targets for skill practice in addition to your activity targets.
+The fastest path to sales skill improvement is deliberate practice with specific feedback, not just doing more calls. Role-play sessions, call recording reviews, and weekly metric tracking accelerate development far beyond unstructured experience. Set specific weekly targets for skill practice in addition to your activity targets — our deeper playbook on [how to improve sales skills](/sales-techniques/how-to-improve-sales-skills) lays out the 90-day cadence behind this.
 
 ### Role-Playing Objections Weekly
 
