@@ -88,7 +88,7 @@ T5 made three engineering choices that improved over the original transformer:
 
 - **Relative positional encoding** (T5's variant of relative bias) replaces sinusoidal absolute positions, helping the model generalise to sequences longer than those seen during training. See our deeper coverage of [positional encoding in transformers](/deep-learning/what-is-positional-encoding-in-transformers) for context.
 - **Pre-norm layer normalisation** (LayerNorm applied before each sublayer, not after) makes training more stable at scale. The bias term is removed for efficiency.
-- **SentencePiece tokenisation** with a 32K-token vocabulary unifies handling of English, code, and (in mT5) 101 other languages without language-specific preprocessing.
+- **[SentencePiece tokenisation](/machine-learning/what-is-tokenization-in-nlp)** with a 32K-token vocabulary unifies handling of English, code, and (in mT5) 101 other languages without language-specific preprocessing.
 
 ### How the attention mechanisms compose
 

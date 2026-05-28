@@ -116,7 +116,7 @@ The shift from static to contextual embeddings is the most important development
 
 The key distinction from an engineering standpoint: BERT doesn't produce standalone word embeddings in the traditional sense. It produces **contextual token representations** — the output of its final (or second-to-last) hidden layer for each token position, incorporating information from the entire input sequence. These representations can be pooled (averaged or CLS-token extracted) to produce fixed-length embeddings for downstream tasks.
 
-> **Common mistake:** Don't use BERT's default tokenizer output (the tokenization step before embedding) as embeddings — those are still token IDs. The actual embedding vectors come from passing those IDs through the model's encoder layers.
+> **Common mistake:** Don't use BERT's default [tokeniser output](/machine-learning/what-is-tokenization-in-nlp) (the tokenization step before embedding) as embeddings — those are still token IDs. The actual embedding vectors come from passing those IDs through the model's encoder layers.
 
 ### The Tradeoff: Speed vs. Accuracy
 

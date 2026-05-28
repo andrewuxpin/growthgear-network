@@ -83,7 +83,7 @@ BERT pre-training uses two simultaneous objectives on the same unlabeled text co
 
 ### Masked Language Modeling (MLM)
 
-MLM is BERT's primary pre-training objective. During each training step:
+MLM is BERT's primary pre-training objective. After the input text is first split into WordPiece subwords by the [tokeniser](/machine-learning/what-is-tokenization-in-nlp), each training step proceeds as follows:
 
 1. 15% of tokens in the input are selected at random
 2. Of those, 80% are replaced with a `[MASK]` token, 10% with a random token, and 10% are left unchanged
