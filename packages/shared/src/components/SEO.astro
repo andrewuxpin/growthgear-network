@@ -13,46 +13,77 @@ interface Props {
 const { type, siteUrl, siteName, article, breadcrumbs, faq } = Astro.props;
 const currentUrl = new URL(Astro.url.pathname, siteUrl).href;
 
-// Website schema
-const websiteSchema = {
-  "@context": "https://schema.org",
-  "@type": "WebSite",
-  name: siteName,
-  url: siteUrl,
+type JsonLdNode = Record<string, unknown>;
+
+// --- Stable @id anchors (one entity graph per page) ---
+// GrowthGear is the parent agency that publishes every network subdomain.
+const ROOT_URL = "https://growthgear.com.au";
+const ORG_ID = `${ROOT_URL}/#organization`;
+const WEBSITE_ID = `${siteUrl}/#website`;
+
+// Publisher entity: the agency, dual-typed as ProfessionalService (per-brand main entity).
+const organization: JsonLdNode = {
+  "@type": ["Organization", "ProfessionalService"],
+  "@id": ORG_ID,
+  name: "GrowthGear",
+  url: ROOT_URL,
+  sameAs: ["https://linkedin.com/company/growthgear"],
 };
 
-// Article schema
-const articleSchema = article
-  ? {
-      "@context": "https://schema.org",
-      "@type": "Article",
-      headline: article.title,
-      description: article.description,
-      image: article.image ? new URL(article.image.src, siteUrl).href : undefined,
-      datePublished: article.publishedAt.toISOString(),
-      dateModified: (article.updatedAt || article.publishedAt).toISOString(),
-      author: {
-        "@type": "Person",
-        name: article.author.name,
-      },
-      publisher: {
-        "@type": "Organization",
-        name: siteName,
-        url: siteUrl,
-      },
-      mainEntityOfPage: {
-        "@type": "WebPage",
-        "@id": currentUrl,
-      },
-      wordCount: article.wordCount,
-    }
-  : null;
+// The site property (subdomain), linked to its publisher.
+const website: JsonLdNode = {
+  "@type": "WebSite",
+  "@id": WEBSITE_ID,
+  name: siteName,
+  url: siteUrl,
+  publisher: { "@id": ORG_ID },
+};
 
-// Breadcrumb schema
-const breadcrumbSchema = breadcrumbs?.length
+// --- Article-only nodes ---
+let person: JsonLdNode | null = null;
+let articleNode: JsonLdNode | null = null;
+
+if (type === "article" && article) {
+  const authorSlug = article.author.name
+    .toLowerCase()
+    .replace(/[^a-z0-9]+/g, "-")
+    .replace(/(^-|-$)/g, "");
+  const personId = `${siteUrl}/#person-${authorSlug}`;
+  const personSameAs = [article.author.social?.linkedin, article.author.social?.twitter].filter(
+    (x): x is string => Boolean(x),
+  );
+
+  person = {
+    "@type": "Person",
+    "@id": personId,
+    name: article.author.name,
+    ...(article.author.bio ? { description: article.author.bio } : {}),
+    ...(personSameAs.length ? { sameAs: personSameAs } : {}),
+    ...(article.tags?.length ? { knowsAbout: article.tags } : {}),
+  };
+
+  articleNode = {
+    "@type": "BlogPosting",
+    "@id": `${currentUrl}#article`,
+    headline: article.title,
+    description: article.description,
+    ...(article.image ? { image: new URL(article.image.src, siteUrl).href } : {}),
+    datePublished: article.publishedAt.toISOString(),
+    dateModified: (article.updatedAt || article.publishedAt).toISOString(),
+    author: { "@id": personId },
+    publisher: { "@id": ORG_ID },
+    isPartOf: { "@id": WEBSITE_ID },
+    mainEntityOfPage: { "@type": "WebPage", "@id": currentUrl },
+    wordCount: article.wordCount,
+    ...(article.tags?.length ? { keywords: article.tags } : {}),
+  };
+}
+
+// --- Breadcrumb + FAQ (linked into the same graph) ---
+const breadcrumbNode: JsonLdNode | null = breadcrumbs?.length
   ? {
-      "@context": "https://schema.org",
       "@type": "BreadcrumbList",
+      "@id": `${currentUrl}#breadcrumb`,
       itemListElement: breadcrumbs.map((item, index) => ({
         "@type": "ListItem",
         position: index + 1,
@@ -62,11 +93,10 @@ const breadcrumbSchema = breadcrumbs?.length
     }
   : null;
 
-// FAQ schema
-const faqSchema = faq?.length
+const faqNode: JsonLdNode | null = faq?.length
   ? {
-      "@context": "https://schema.org",
       "@type": "FAQPage",
+      "@id": `${currentUrl}#faq`,
       mainEntity: faq.map((item) => ({
         "@type": "Question",
         name: item.question,
@@ -77,20 +107,15 @@ const faqSchema = faq?.length
       })),
     }
   : null;
+
+// Assemble one @graph: Organization + WebSite are present on every page;
+// Person + BlogPosting only on articles; Breadcrumb/FAQ whenever supplied.
+const graph: JsonLdNode[] = [organization, website];
+if (person && articleNode) graph.push(person, articleNode);
+if (breadcrumbNode) graph.push(breadcrumbNode);
+if (faqNode) graph.push(faqNode);
+
+const jsonLd = { "@context": "https://schema.org", "@graph": graph };
 ---
 
-{type === "website" && (
-  <script type="application/ld+json" set:html={JSON.stringify(websiteSchema)} />
-)}
-
-{type === "article" && articleSchema && (
-  <script type="application/ld+json" set:html={JSON.stringify(articleSchema)} />
-)}
-
-{breadcrumbSchema && (
-  <script type="application/ld+json" set:html={JSON.stringify(breadcrumbSchema)} />
-)}
-
-{(type === "faq" || faq?.length) && faqSchema && (
-  <script type="application/ld+json" set:html={JSON.stringify(faqSchema)} />
-)}
+<script type="application/ld+json" set:html={JSON.stringify(jsonLd)} />
