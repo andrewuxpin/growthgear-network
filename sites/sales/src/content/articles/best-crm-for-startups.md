@@ -3,7 +3,7 @@ title: "Best CRM for Startups: Top Tools to Scale"
 description: "Discover the best CRM for startups in 2026. Compare HubSpot, Pipedrive, Zoho and more by features, pricing, and ease of use to scale your sales team."
 category: "crm-tools"
 author:
-  name: "GrowthGear Team"
+  name: "Andrew Martin"
 publishedAt: 2026-04-08
 image:
   src: "/images/best-crm-for-startups.webp"

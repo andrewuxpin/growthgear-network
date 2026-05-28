@@ -3,7 +3,7 @@ title: "CRM Analytics for Marketers: Complete Guide"
 description: "Master CRM analytics for marketing. Track the metrics that connect campaigns to revenue, from lead source to closed deals, in this complete 2026 guide."
 category: "seo"
 author:
-  name: "GrowthGear Team"
+  name: "Abe Dearmer"
 publishedAt: 2026-05-14
 image:
   src: "/images/crm-analytics-guide.webp"

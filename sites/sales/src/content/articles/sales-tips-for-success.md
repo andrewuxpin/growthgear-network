@@ -3,7 +3,7 @@ title: "Sales Tips for Success: 12 Proven Strategies"
 description: "Master 12 proven sales tips for success used by top performers. Actionable strategies to improve prospecting, closing rates, and long-term revenue growth."
 category: "sales-techniques"
 author:
-  name: "GrowthGear Team"
+  name: "Abe Dearmer"
 publishedAt: 2026-05-14
 image:
   src: "/images/sales-tips-for-success.webp"

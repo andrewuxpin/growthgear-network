@@ -3,7 +3,7 @@ title: "Data Science vs AI: Key Differences for Business"
 description: "Data science is a discipline; AI is a goal. Learn the key differences, where they overlap, when to hire data scientists vs AI engineers, and how to choose."
 category: "machine-learning"
 author:
-  name: "GrowthGear Team"
+  name: "Andrew Martin"
 publishedAt: 2026-05-24
 image:
   src: "/images/data-science-vs-ai-key-differences-guide.webp"

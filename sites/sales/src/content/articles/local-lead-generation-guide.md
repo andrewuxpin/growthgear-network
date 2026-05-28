@@ -3,7 +3,7 @@ title: "Local Lead Generation: Fill Your B2B"
 description: "Master local lead generation for B2B sales. Build a regional prospect database, use local outreach channels, and grow your pipeline with nearby buyers."
 category: "sales-techniques"
 author:
-  name: "GrowthGear Team"
+  name: "Abe Dearmer"
 publishedAt: 2026-04-24
 image:
   src: "/images/local-lead-generation-guide.webp"

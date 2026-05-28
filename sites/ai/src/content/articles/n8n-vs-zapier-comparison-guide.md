@@ -3,7 +3,7 @@ title: "n8n vs Zapier: Pricing, Features, and Use Cases Compared"
 description: "n8n vs Zapier: open-source self-hosted automation vs no-code cloud workflows. Compare pricing, AI features, integrations, and the right tool for your team."
 category: "ai-tools"
 author:
-  name: "GrowthGear Team"
+  name: "Abe Dearmer"
 publishedAt: 2026-05-25
 image:
   src: "/images/n8n-vs-zapier-comparison-guide.webp"

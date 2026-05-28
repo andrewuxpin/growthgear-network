@@ -3,7 +3,7 @@ title: "What Is a Digital Marketing Specialist?"
 description: "Learn what a digital marketing specialist does, the core skills they need, key specializations, and how to hire the right one for your team."
 category: "content-marketing"
 author:
-  name: "GrowthGear Team"
+  name: "Andrew Martin"
 publishedAt: 2026-03-05
 image:
   src: "/images/what-is-digital-marketing-specialist-skills-roles-guide.webp"

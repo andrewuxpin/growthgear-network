@@ -3,7 +3,7 @@ title: "CRM Examples: 7 Real-World Use Cases for Sales"
 description: "Discover 7 real-world CRM examples for B2B sales teams. See how leading companies use CRM to close more deals, improve pipeline visibility, and boost revenue."
 category: "crm-tools"
 author:
-  name: "GrowthGear Team"
+  name: "Andrew Martin"
 publishedAt: 2026-05-20
 image:
   src: "/images/crm-examples-b2b-sales-use-cases.webp"

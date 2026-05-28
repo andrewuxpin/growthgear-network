@@ -3,7 +3,7 @@ title: "Sales Follow-Up Email Guide: Templates That Convert"
 description: "Master sales follow-up emails with proven templates and sequences. Learn timing, messaging, and automation strategies that turn cold leads into closed deals."
 category: "sales-techniques"
 author:
-  name: "GrowthGear Team"
+  name: "Andrew Martin"
 publishedAt: 2026-03-22
 image:
   src: "/images/sales-follow-up-email-guide.webp"

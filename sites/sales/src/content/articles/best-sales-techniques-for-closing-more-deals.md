@@ -3,7 +3,7 @@ title: "Best Sales Techniques for Closing More Deals"
 description: "Discover the best sales techniques used by top performers to close more deals, handle objections, and hit quota consistently. Actionable strategies inside."
 category: "sales-techniques"
 author:
-  name: "GrowthGear Team"
+  name: "Andrew Martin"
 publishedAt: 2026-04-02
 image:
   src: "/images/best-sales-techniques-for-closing-more-deals.webp"

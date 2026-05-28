@@ -3,7 +3,7 @@ title: "Make vs Zapier: Which Automation Tool Wins?"
 description: "Make vs Zapier: A complete comparison of pricing, AI automation features, app integrations, and ease of use. Find the right platform for your business in 2026."
 category: "ai-tools"
 author:
-  name: "GrowthGear Team"
+  name: "Abe Dearmer"
 publishedAt: 2026-04-20
 image:
   src: "/images/make-vs-zapier-comparison-guide.webp"

@@ -3,7 +3,7 @@ title: "Conversion Rate Optimization Strategy Guide"
 description: "Learn what conversion rate optimization strategy is and how to implement proven tactics to boost your website conversions by up to 300%. Start optimizing today!"
 category: "seo"
 author:
-  name: "GrowthGear Team"
+  name: "Andrew Martin"
 publishedAt: 2026-01-29
 image:
   src: "/images/conversion-rate-optimization-strategy-guide.webp"

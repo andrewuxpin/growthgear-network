@@ -3,7 +3,7 @@ title: "How to Start a Digital Marketing Agency"
 description: "Learn how to start a digital marketing agency step by step — choosing services, pricing models, client acquisition, and team-building strategies that work."
 category: "content-marketing"
 author:
-  name: "GrowthGear Team"
+  name: "Andrew Martin"
 publishedAt: 2026-04-30
 image:
   src: "/images/how-to-start-a-digital-marketing-agency.webp"

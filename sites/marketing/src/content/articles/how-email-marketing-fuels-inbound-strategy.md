@@ -3,7 +3,7 @@ title: "How Email Marketing Fuels Your Inbound Strategy"
 description: "Learn how email marketing fuels your inbound strategy with proven tactics for segmentation, lead nurturing, automation, and measuring email-attributed revenue."
 category: "content-marketing"
 author:
-  name: "GrowthGear Team"
+  name: "Abe Dearmer"
 publishedAt: 2026-04-03
 image:
   src: "/images/how-email-marketing-fuels-inbound-strategy.webp"

@@ -3,7 +3,7 @@ title: "What Is Consultative Selling? Complete Guide"
 description: "Discover what is consultative selling approach benefits and how it transforms sales results. Learn proven strategies, techniques, and real examples...."
 category: "sales-techniques"
 author:
-  name: "GrowthGear Team"
+  name: "Andrew Martin"
 publishedAt: 2026-02-01
 image:
   src: "/images/what-is-consultative-selling-approach-benefits.webp"

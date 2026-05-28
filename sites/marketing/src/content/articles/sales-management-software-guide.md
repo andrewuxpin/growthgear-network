@@ -3,7 +3,7 @@ title: "Best Sales Management Software for Growing Teams"
 description: "Compare the best sales management software for growing teams. Discover features, pricing, and how to integrate these tools with your marketing stack in 2026."
 category: "content-marketing"
 author:
-  name: "GrowthGear Team"
+  name: "Andrew Martin"
 publishedAt: 2026-05-16
 image:
   src: "/images/sales-management-software-guide.webp"

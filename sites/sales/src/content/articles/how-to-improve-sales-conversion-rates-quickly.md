@@ -3,7 +3,7 @@ title: "How to Improve Sales Conversion Rates"
 description: "Discover 15 proven strategies to improve sales conversion rates quickly. Boost your revenue with actionable tactics that drive results. Start converting more."
 category: "sales-techniques"
 author:
-  name: "GrowthGear Team"
+  name: "Abe Dearmer"
 publishedAt: 2026-01-31
 image:
   src: "/images/how-to-improve-sales-conversion-rates-quickly.webp"

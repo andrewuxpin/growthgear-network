@@ -3,7 +3,7 @@ title: "B2B Sales Funnel: Build One That Converts"
 description: "Discover how to build a B2B sales funnel that converts. Covers the 5 funnel stages, how to build from scratch, key mistakes to avoid, and metrics to optimize."
 category: "b2b-sales"
 author:
-  name: "GrowthGear Team"
+  name: "Abe Dearmer"
 publishedAt: 2026-04-06
 image:
   src: "/images/b2b-sales-funnel-guide.webp"

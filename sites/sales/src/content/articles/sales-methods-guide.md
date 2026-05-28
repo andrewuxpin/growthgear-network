@@ -3,7 +3,7 @@ title: "Sales Methods: Complete Guide for B2B Teams"
 description: "Discover the 6 proven sales methods top B2B teams use to close more deals. Learn when to apply SPIN, Challenger, Solution Selling, and more to hit quota."
 category: "sales-techniques"
 author:
-  name: "GrowthGear Team"
+  name: "Abe Dearmer"
 publishedAt: 2026-05-21
 image:
   src: "/images/sales-methods-guide.webp"

@@ -3,7 +3,7 @@ title: "AI vs Machine Learning: Key Differences"
 description: "Discover the key differences between AI and machine learning. Learn definitions, applications, and real-world examples in this comprehensive guide. Start here!"
 category: "machine-learning"
 author:
-  name: "GrowthGear Team"
+  name: "Andrew Martin"
 publishedAt: 2026-01-30
 image:
   src: "/images/ai-vs-machine-learning-key-differences.webp"

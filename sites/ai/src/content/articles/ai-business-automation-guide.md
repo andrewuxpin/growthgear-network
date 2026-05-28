@@ -3,7 +3,7 @@ title: "AI Business Automation: A Practical Guide"
 description: "Learn how to implement AI business automation to reduce costs, boost productivity, and scale operations. A practical step-by-step guide for business leaders."
 category: "ai-tools"
 author:
-  name: "GrowthGear Team"
+  name: "Andrew Martin"
 publishedAt: 2026-05-04
 image:
   src: "/images/ai-business-automation-guide.webp"

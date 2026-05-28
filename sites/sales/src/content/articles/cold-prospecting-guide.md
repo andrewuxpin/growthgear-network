@@ -3,7 +3,7 @@ title: "Cold Prospecting Guide for B2B Sales Teams in 2026"
 description: "Master cold prospecting for B2B sales teams: build target lists, research accounts, choose channels, and consistently book meetings with cold prospects."
 category: "sales-techniques"
 author:
-  name: "GrowthGear Team"
+  name: "Abe Dearmer"
 publishedAt: 2026-05-24
 image:
   src: "/images/cold-prospecting-guide.webp"

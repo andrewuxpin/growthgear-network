@@ -3,7 +3,7 @@ title: "What Is a Feedforward Neural Network?"
 description: "Learn how feedforward neural networks work, from single-layer perceptrons to deep MLPs. Covers architecture, backpropagation, and key business applications."
 category: "deep-learning"
 author:
-  name: "GrowthGear Team"
+  name: "Andrew Martin"
 publishedAt: 2026-05-08
 image:
   src: "/images/feedforward-neural-network-guide.webp"

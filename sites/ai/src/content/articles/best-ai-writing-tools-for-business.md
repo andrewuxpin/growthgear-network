@@ -3,7 +3,7 @@ title: "Best AI Writing Tools for Business in 2026"
 description: "The 7 best AI writing tools for business in 2026, reviewed and ranked. Compare ChatGPT, Claude, Jasper, Copy.ai, and Writesonic for your content team."
 category: "ai-tools"
 author:
-  name: "GrowthGear Team"
+  name: "Andrew Martin"
 publishedAt: 2026-04-01
 image:
   src: "/images/best-ai-writing-tools-for-business.webp"

@@ -3,7 +3,7 @@ title: "How to Build a Neural Network: A Complete Guide"
 description: "A step-by-step guide to building neural networks — architecture design, training techniques, evaluation metrics, and deployment strategies for your team."
 category: "deep-learning"
 author:
-  name: "GrowthGear Team"
+  name: "Andrew Martin"
 publishedAt: 2026-03-13
 image:
   src: "/images/how-to-build-a-neural-network-complete-guide.webp"

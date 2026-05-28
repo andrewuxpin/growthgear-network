@@ -3,7 +3,7 @@ title: "Best HubSpot Alternatives for Marketing Teams"
 description: "HubSpot's full suite costs $800+/month. Compare the best HubSpot alternatives — ActiveCampaign, Brevo, Zoho — to find the right fit for your team."
 category: "content-marketing"
 author:
-  name: "GrowthGear Team"
+  name: "Abe Dearmer"
 publishedAt: 2026-05-17
 image:
   src: "/images/best-hubspot-alternatives-for-marketing-teams.webp"

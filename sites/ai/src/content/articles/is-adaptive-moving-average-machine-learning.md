@@ -3,7 +3,7 @@ title: "Adaptive Moving Average: Is It Machine Learning?"
 description: "Is an adaptive moving average machine learning? Learn what AMA is, how it relates to ML, and when to use each for time series forecasting and analysis."
 category: "machine-learning"
 author:
-  name: "GrowthGear Team"
+  name: "Abe Dearmer"
 publishedAt: 2026-05-05
 image:
   src: "/images/is-adaptive-moving-average-machine-learning.webp"

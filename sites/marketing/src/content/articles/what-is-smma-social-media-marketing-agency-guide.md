@@ -3,7 +3,7 @@ title: "What Is SMMA? Guide to Social Media"
 description: "SMMA stands for Social Media Marketing Agency. Learn what these agencies do, what to expect, and how to choose the right partner for your brand growth."
 category: "social-media"
 author:
-  name: "GrowthGear Team"
+  name: "Andrew Martin"
 publishedAt: 2026-03-11
 image:
   src: "/images/what-is-smma-social-media-marketing-agency-guide.webp"

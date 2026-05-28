@@ -3,7 +3,7 @@ title: "How to Integrate CRM With Cash Collection Software"
 description: "Yes, you can integrate cash collection software with a CRM tool. Compare native, API, and iPaaS approaches, top platforms, and a six-phase rollout plan."
 category: "crm-tools"
 author:
-  name: "GrowthGear Team"
+  name: "Andrew Martin"
 publishedAt: 2026-05-27
 image:
   src: "/images/crm-cash-collection-software-integration.webp"

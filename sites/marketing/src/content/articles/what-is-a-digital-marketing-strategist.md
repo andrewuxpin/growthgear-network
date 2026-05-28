@@ -3,7 +3,7 @@ title: "What Is a Digital Marketing Strategist? Role Guide"
 description: "A digital marketing strategist plans cross-channel campaigns, sets KPIs, and aligns marketing to business goals. Learn the role, skills, and hiring path."
 category: "content-marketing"
 author:
-  name: "GrowthGear Team"
+  name: "Andrew Martin"
 publishedAt: 2026-05-28
 image:
   src: "/images/what-is-a-digital-marketing-strategist.webp"

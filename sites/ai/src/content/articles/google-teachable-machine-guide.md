@@ -3,7 +3,7 @@ title: "Google Teachable Machine: No-Code ML Guide"
 description: "Learn how Google Teachable Machine lets teams build custom ML models in minutes—no coding required. Covers use cases, limitations, and when to scale up."
 category: "ai-tools"
 author:
-  name: "GrowthGear Team"
+  name: "Andrew Martin"
 publishedAt: 2026-04-28
 image:
   src: "/images/google-teachable-machine-guide.webp"

@@ -3,7 +3,7 @@ title: "Best Lead Generation Strategies for B2B Sales"
 description: "Discover 12 proven lead generation strategies for B2B companies that drive real results. Expert tips, examples & actionable advice to boost your sales pipeline."
 category: "b2b-sales"
 author:
-  name: "GrowthGear Team"
+  name: "Andrew Martin"
 publishedAt: 2026-01-30
 image:
   src: "/images/best-lead-generation-strategies-b2b-companies.webp"

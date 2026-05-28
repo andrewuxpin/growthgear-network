@@ -3,7 +3,7 @@ title: "Best AI Productivity Tools for Business (2026)"
 description: "The 14 best AI productivity tools for business in 2026. Cut costs, automate workflows, and scale output. Ranked by use case with real pricing data."
 category: "ai-tools"
 author:
-  name: "GrowthGear Team"
+  name: "Abe Dearmer"
 publishedAt: 2026-03-04
 image:
   src: "/images/best-ai-productivity-tools-for-business.webp"

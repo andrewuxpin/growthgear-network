@@ -3,7 +3,7 @@ title: "Best Email Marketing Platforms for Ecommerce"
 description: "Discover the best email marketing platforms for ecommerce businesses. Compare features, pricing, and capabilities to boost your online sales. Get started today!"
 category: "content-marketing"
 author:
-  name: "GrowthGear Team"
+  name: "Abe Dearmer"
 publishedAt: 2026-02-01
 image:
   src: "/images/best-email-marketing-platforms-for-ecommerce.webp"

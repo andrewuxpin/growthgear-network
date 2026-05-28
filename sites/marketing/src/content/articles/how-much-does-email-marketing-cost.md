@@ -3,7 +3,7 @@ title: "How Much Does Email Marketing Cost? 2026"
 description: "Discover how much email marketing costs in 2026, from free tools to agency retainers. Get a full cost breakdown with ROI benchmarks for your budget."
 category: "content-marketing"
 author:
-  name: "GrowthGear Team"
+  name: "Andrew Martin"
 publishedAt: 2026-04-10
 image:
   src: "/images/how-much-does-email-marketing-cost.webp"

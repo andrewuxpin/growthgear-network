@@ -3,7 +3,7 @@ title: "Email Deployment: Strategy Guide for Marketers"
 description: "Master email deployment with proven strategies for infrastructure, segmentation, deliverability, and performance tracking. Drive real ROI from every send."
 category: "content-marketing"
 author:
-  name: "GrowthGear Team"
+  name: "Andrew Martin"
 publishedAt: 2026-03-06
 image:
   src: "/images/email-deployment-strategy-guide.webp"

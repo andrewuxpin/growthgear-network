@@ -3,7 +3,7 @@ title: "What Is the Delta Rule in Neural Networks?"
 description: "Learn what the delta rule is in neural networks: the error-driven weight update formula first published by Widrow & Hoff in 1960, with worked examples."
 category: "deep-learning"
 author:
-  name: "GrowthGear Team"
+  name: "Abe Dearmer"
 publishedAt: 2026-05-15
 image:
   src: "/images/what-is-the-delta-rule-in-neural-networks.webp"

@@ -3,7 +3,7 @@ title: "n8n Pricing: Cloud vs Self-Hosted Cost Guide"
 description: "Compare n8n cloud pricing plans vs self-hosting costs in 2026. Starter, Pro, and Enterprise tiers explained with real total cost of ownership analysis."
 category: "ai-tools"
 author:
-  name: "GrowthGear Team"
+  name: "Andrew Martin"
 publishedAt: 2026-03-30
 image:
   src: "/images/n8n-pricing-cloud-vs-self-hosted-guide.webp"

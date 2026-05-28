@@ -3,7 +3,7 @@ title: "Marketing Automation Agency: A Complete Guide"
 description: "Learn what a marketing automation agency does, how much they cost, and how to find the right partner to grow your pipeline and scale your revenue fast."
 category: "content-marketing"
 author:
-  name: "GrowthGear Team"
+  name: "Abe Dearmer"
 publishedAt: 2026-04-26
 image:
   src: "/images/marketing-automation-agency-guide.webp"

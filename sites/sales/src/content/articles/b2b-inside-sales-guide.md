@@ -3,7 +3,7 @@ title: "B2B Inside Sales: Complete Guide for Modern Teams"
 description: "B2B inside sales guide covering team structure, tools, tactics, and KPIs to scale revenue without travel. Build a remote-first sales engine that closes."
 category: "b2b-sales"
 author:
-  name: "GrowthGear Team"
+  name: "Andrew Martin"
 publishedAt: 2026-05-25
 image:
   src: "/images/b2b-inside-sales-guide.webp"

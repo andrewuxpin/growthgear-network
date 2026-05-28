@@ -3,7 +3,7 @@ title: "Sales Prospecting Techniques That Fill Your"
 description: "Master sales prospecting techniques to build a full pipeline. Learn 6 proven outreach strategies, cadence frameworks, and key metrics for SDRs and AEs."
 category: "sales-techniques"
 author:
-  name: "GrowthGear Team"
+  name: "Andrew Martin"
 publishedAt: 2026-04-16
 image:
   src: "/images/sales-prospecting-techniques.webp"

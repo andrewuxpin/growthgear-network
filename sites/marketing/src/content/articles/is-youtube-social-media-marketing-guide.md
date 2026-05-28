@@ -3,7 +3,7 @@ title: "Is YouTube Social Media? A Marketer's Guide"
 description: "Is YouTube social media? Yes — and it's one of the most powerful platforms for marketing. Learn how to use YouTube's social features to grow your brand."
 category: "social-media"
 author:
-  name: "GrowthGear Team"
+  name: "Andrew Martin"
 publishedAt: 2026-03-25
 image:
   src: "/images/is-youtube-social-media-marketing-guide.webp"

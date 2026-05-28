@@ -3,7 +3,7 @@ title: "What Does a Social Media Manager Do?"
 description: "Learn exactly what a social media manager does in 2026: daily tasks, content creation, analytics, community management, required skills, and salary ranges."
 category: "social-media"
 author:
-  name: "GrowthGear Team"
+  name: "Abe Dearmer"
 publishedAt: 2026-05-09
 image:
   src: "/images/what-does-a-social-media-manager-do.webp"

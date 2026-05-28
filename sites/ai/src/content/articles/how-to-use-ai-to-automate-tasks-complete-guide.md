@@ -3,7 +3,7 @@ title: "How to Use AI to Automate Tasks: Complete Guide"
 description: "Learn how to use AI to automate tasks in your business. A step-by-step guide covering task selection, tool setup, and measuring ROI from AI automation."
 category: "ai-tools"
 author:
-  name: "GrowthGear Team"
+  name: "Andrew Martin"
 publishedAt: 2026-03-09
 image:
   src: "/images/how-to-use-ai-to-automate-tasks-complete-guide.webp"

@@ -3,7 +3,7 @@ title: "Best AI Tools for Project Management in 2026"
 description: "The best AI tools for project management in 2026. ClickUp AI, Asana Intelligence, Monday.com AI, and Notion AI compared by use case, pricing, and team size."
 category: "ai-tools"
 author:
-  name: "GrowthGear Team"
+  name: "Abe Dearmer"
 publishedAt: 2026-04-15
 image:
   src: "/images/best-ai-tools-for-project-management.webp"

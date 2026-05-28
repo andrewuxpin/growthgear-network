@@ -3,7 +3,7 @@ title: "Cold Email Copywriting: Write Emails That"
 description: "Master cold email copywriting with proven frameworks, personalization techniques, and formulas that lift reply rates. Practical guide for B2B sales teams."
 category: "sales-techniques"
 author:
-  name: "GrowthGear Team"
+  name: "Andrew Martin"
 publishedAt: 2026-05-10
 image:
   src: "/images/cold-email-copywriting-guide.webp"

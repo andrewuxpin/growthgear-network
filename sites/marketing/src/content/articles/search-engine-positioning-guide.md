@@ -3,7 +3,7 @@ title: "Search Engine Positioning: How to Rank"
 description: "Master search engine positioning with proven on-page SEO tactics, authority building, and rank tracking systems. Move from page 2 to position 1 in 2026."
 category: "seo"
 author:
-  name: "GrowthGear Team"
+  name: "Abe Dearmer"
 publishedAt: 2026-03-10
 image:
   src: "/images/search-engine-positioning-guide.webp"

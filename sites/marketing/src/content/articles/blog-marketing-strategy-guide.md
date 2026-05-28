@@ -3,7 +3,7 @@ title: "Blog Marketing Strategy: Drive Traffic and Leads"
 description: "Learn how to build a blog marketing strategy that drives organic traffic, generates leads, and grows your brand authority. Practical guide for marketing teams."
 category: "content-marketing"
 author:
-  name: "GrowthGear Team"
+  name: "Andrew Martin"
 publishedAt: 2026-05-04
 image:
   src: "/images/blog-marketing-strategy-guide.webp"

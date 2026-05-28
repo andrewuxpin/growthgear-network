@@ -3,7 +3,7 @@ title: "How to Create a Sales Strategy That Works"
 description: "Learn how to create a sales strategy that drives consistent revenue. Step-by-step framework covering ICP, goals, sales process, and execution for B2B teams."
 category: "sales-techniques"
 author:
-  name: "GrowthGear Team"
+  name: "Abe Dearmer"
 publishedAt: 2026-03-03
 image:
   src: "/images/how-to-create-sales-strategy-that-works.webp"

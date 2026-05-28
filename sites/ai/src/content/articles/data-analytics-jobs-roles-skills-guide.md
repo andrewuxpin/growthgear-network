@@ -3,7 +3,7 @@ title: "Data Analytics Jobs: Roles, Skills & AI Tools"
 description: "Explore the full landscape of data analytics jobs: core roles, essential skills, top AI tools, and how to build an analytics function in your business."
 category: "machine-learning"
 author:
-  name: "GrowthGear Team"
+  name: "Abe Dearmer"
 publishedAt: 2026-03-15
 image:
   src: "/images/data-analytics-jobs-roles-skills-guide.webp"

@@ -3,7 +3,7 @@ title: "Convolutional Neural Networks for Image Classification"
 description: "Learn how convolutional neural networks classify images, compare top CNN architectures, and choose the right implementation approach for your business."
 category: "deep-learning"
 author:
-  name: "GrowthGear Team"
+  name: "Abe Dearmer"
 publishedAt: 2026-04-30
 image:
   src: "/images/convolutional-neural-network-image-classification-guide.webp"

@@ -3,7 +3,7 @@ title: "How AI Search Monitoring Improves SEO Strategy"
 description: "Discover how AI search monitoring platforms improve SEO strategy with real-time data, automated insights, and smarter keyword targeting for organic growth."
 category: "seo"
 author:
-  name: "GrowthGear Team"
+  name: "Andrew Martin"
 publishedAt: 2026-03-17
 image:
   src: "/images/how-ai-search-monitoring-improves-seo-strategy.webp"

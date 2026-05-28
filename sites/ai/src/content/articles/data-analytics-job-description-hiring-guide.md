@@ -3,7 +3,7 @@ title: "Data Analytics Job Description: 2026 Hiring Guide"
 description: "Hire better analytics talent in 2026. This guide covers writing data analytics job descriptions, salary benchmarks, required skills, and interview questions."
 category: "machine-learning"
 author:
-  name: "GrowthGear Team"
+  name: "Andrew Martin"
 publishedAt: 2026-03-22
 image:
   src: "/images/data-analytics-job-description-hiring-guide.webp"

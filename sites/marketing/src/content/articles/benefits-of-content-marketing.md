@@ -3,7 +3,7 @@ title: "Benefits of Content Marketing: The Data-Backed Guide"
 description: "Discover the top benefits of content marketing and how leading brands use content to drive traffic, generate leads, and build lasting brand authority."
 category: "content-marketing"
 author:
-  name: "GrowthGear Team"
+  name: "Abe Dearmer"
 publishedAt: 2026-04-27
 image:
   src: "/images/benefits-of-content-marketing.webp"

@@ -3,7 +3,7 @@ title: "How SEO and Content Marketing Work Together"
 description: "Learn how SEO and content marketing work together to drive organic growth. A practical guide to aligning keyword strategy, content creation, and link building."
 category: "seo"
 author:
-  name: "GrowthGear Team"
+  name: "Abe Dearmer"
 publishedAt: 2026-03-09
 image:
   src: "/images/how-seo-and-content-marketing-work-together.webp"

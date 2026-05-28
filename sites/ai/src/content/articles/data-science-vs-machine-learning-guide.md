@@ -3,7 +3,7 @@ title: "Data Science vs Machine Learning: Key Differences"
 description: "Data science and machine learning aren't the same. Learn the core differences in skills, tools, and roles so you hire the right talent for your business."
 category: "machine-learning"
 author:
-  name: "GrowthGear Team"
+  name: "Andrew Martin"
 publishedAt: 2026-04-26
 image:
   src: "/images/data-science-vs-machine-learning-guide.webp"

@@ -3,7 +3,7 @@ title: "Sales Pipeline Management: The Complete Guide"
 description: "Master sales pipeline management with proven metrics, systems, and tools. Learn how top B2B teams maintain pipeline health and close more deals predictably."
 category: "b2b-sales"
 author:
-  name: "GrowthGear Team"
+  name: "Andrew Martin"
 publishedAt: 2026-03-07
 image:
   src: "/images/sales-pipeline-management-guide.webp"

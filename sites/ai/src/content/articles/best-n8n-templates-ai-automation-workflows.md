@@ -3,7 +3,7 @@ title: "Best n8n Templates for AI Automation Workflows"
 description: "Find the best n8n templates for AI workflow automation in 2026. Ready-made workflows automate lead gen, content, and support — most deploy in under 30 minutes."
 category: "ai-tools"
 author:
-  name: "GrowthGear Team"
+  name: "Abe Dearmer"
 publishedAt: 2026-03-16
 image:
   src: "/images/best-n8n-templates-ai-automation-workflows.webp"

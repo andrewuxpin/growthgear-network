@@ -3,7 +3,7 @@ title: "Will Data Science Be Replaced by AI? The Truth"
 description: "AI automates many data science tasks, but it won't replace data scientists. Learn which roles are changing, which skills remain essential, and how to adapt."
 category: "machine-learning"
 author:
-  name: "GrowthGear Team"
+  name: "Abe Dearmer"
 publishedAt: 2026-03-08
 image:
   src: "/images/will-data-science-be-replaced-by-ai.webp"

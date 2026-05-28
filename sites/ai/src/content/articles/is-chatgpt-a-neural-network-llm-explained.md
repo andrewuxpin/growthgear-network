@@ -3,7 +3,7 @@ title: "Is ChatGPT a Neural Network? LLMs Explained"
 description: "ChatGPT is a decoder-only transformer neural network. Learn how LLMs are trained, what sets them apart from earlier AI, and what this means for your strategy."
 category: "deep-learning"
 author:
-  name: "GrowthGear Team"
+  name: "Andrew Martin"
 publishedAt: 2026-04-03
 image:
   src: "/images/is-chatgpt-a-neural-network-llm-explained.webp"

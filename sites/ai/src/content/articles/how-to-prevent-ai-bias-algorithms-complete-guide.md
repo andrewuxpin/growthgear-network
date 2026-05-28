@@ -3,7 +3,7 @@ title: "How to Prevent AI Bias in Algorithms: A Guide"
 description: "Learn proven strategies to prevent AI bias in algorithms. Discover testing methods, data preprocessing techniques, and fairness frameworks for ethical..."
 category: "machine-learning"
 author:
-  name: "GrowthGear Team"
+  name: "Abe Dearmer"
 publishedAt: 2026-02-03
 image:
   src: "/images/how-to-prevent-ai-bias-algorithms-complete-guide.webp"

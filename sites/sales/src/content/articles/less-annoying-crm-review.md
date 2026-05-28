@@ -3,7 +3,7 @@ title: "Less Annoying CRM Review: Best for Small Businesses?"
 description: "Our honest Less Annoying CRM review covers features, pricing, pros, cons, and top alternatives. Find out if it's right for your small business sales team."
 category: "crm-tools"
 author:
-  name: "GrowthGear Team"
+  name: "Andrew Martin"
 publishedAt: 2026-05-06
 image:
   src: "/images/less-annoying-crm-review.webp"

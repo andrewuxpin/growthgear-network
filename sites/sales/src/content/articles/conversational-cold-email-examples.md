@@ -3,7 +3,7 @@ title: "Conversational Cold Email Examples That Get Replies"
 description: "Learn how to write conversational cold emails that get responses. 8 proven examples by use case, with personalization tips and response rate benchmarks."
 category: "sales-techniques"
 author:
-  name: "GrowthGear Team"
+  name: "Abe Dearmer"
 publishedAt: 2026-04-26
 image:
   src: "/images/conversational-cold-email-examples.webp"

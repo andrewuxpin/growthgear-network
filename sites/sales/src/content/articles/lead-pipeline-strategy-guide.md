@@ -3,7 +3,7 @@ title: "Lead Pipeline: Build and Scale Your Sales Machine"
 description: "Learn how to build a lead pipeline that fills with qualified prospects, converts faster, and drives predictable B2B revenue growth for your sales team."
 category: "b2b-sales"
 author:
-  name: "GrowthGear Team"
+  name: "Abe Dearmer"
 publishedAt: 2026-03-21
 image:
   src: "/images/lead-pipeline-strategy-guide.webp"

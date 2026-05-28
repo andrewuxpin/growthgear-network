@@ -3,7 +3,7 @@ title: "Best Content Marketing Strategies for B2B"
 description: "Discover proven B2B content marketing strategies that drive leads and growth. Learn from expert insights, real examples, and actionable tactics. Start today!"
 category: "content-marketing"
 author:
-  name: "GrowthGear Team"
+  name: "Abe Dearmer"
 publishedAt: 2026-01-30
 image:
   src: "/images/best-content-marketing-strategies-b2b-companies.webp"

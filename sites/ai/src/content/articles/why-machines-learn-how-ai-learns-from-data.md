@@ -3,7 +3,7 @@ title: "Why Machines Learn: How AI Learns from Data"
 description: "Discover why machines learn — how AI models identify patterns, use gradient descent to minimize errors, and generalize from data to make accurate predictions."
 category: "machine-learning"
 author:
-  name: "GrowthGear Team"
+  name: "Andrew Martin"
 publishedAt: 2026-03-31
 image:
   src: "/images/why-machines-learn-how-ai-learns-from-data.webp"

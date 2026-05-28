@@ -3,7 +3,7 @@ title: "B2B Sales Process: 7 Steps to Close More"
 description: "Master the B2B sales process with a proven 7-step framework. Discover how top-performing B2B sales teams prospect, qualify, and close complex deals at scale."
 category: "b2b-sales"
 author:
-  name: "GrowthGear Team"
+  name: "Andrew Martin"
 publishedAt: 2026-03-30
 image:
   src: "/images/b2b-sales-process-guide.webp"

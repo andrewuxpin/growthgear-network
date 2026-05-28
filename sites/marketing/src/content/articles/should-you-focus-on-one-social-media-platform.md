@@ -3,7 +3,7 @@ title: "Should You Focus on One Social Media Platform?"
 description: "Should you master one social media platform or spread across all of them? This guide shows how to choose, focus, and scale your presence strategically."
 category: "social-media"
 author:
-  name: "GrowthGear Team"
+  name: "Andrew Martin"
 publishedAt: 2026-03-18
 image:
   src: "/images/should-you-focus-on-one-social-media-platform.webp"

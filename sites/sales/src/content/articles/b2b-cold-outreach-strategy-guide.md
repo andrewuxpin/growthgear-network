@@ -3,7 +3,7 @@ title: "B2B Cold Outreach: A Strategy Guide That"
 description: "The complete B2B cold outreach strategy guide: build targeted lists, write messages that get replies, and run sequences that book meetings consistently."
 category: "sales-techniques"
 author:
-  name: "GrowthGear Team"
+  name: "Abe Dearmer"
 publishedAt: 2026-03-08
 image:
   src: "/images/b2b-cold-outreach-strategy-guide.webp"

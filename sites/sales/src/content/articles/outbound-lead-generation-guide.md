@@ -3,7 +3,7 @@ title: "Outbound Lead Generation: A Complete B2B Guide"
 description: "Master outbound lead generation with proven B2B strategies. Learn how to build targeted lists, run multi-channel campaigns, and book more qualified meetings."
 category: "sales-techniques"
 author:
-  name: "GrowthGear Team"
+  name: "Abe Dearmer"
 publishedAt: 2026-05-15
 image:
   src: "/images/outbound-lead-generation-guide.webp"

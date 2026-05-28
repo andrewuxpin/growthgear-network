@@ -3,7 +3,7 @@ title: "How to Use CRM Software to Drive Sales Results"
 description: "Learn how to use CRM software effectively: set up pipelines, manage contacts, track deals, and use reports to close more deals faster as a sales team."
 category: "crm-tools"
 author:
-  name: "GrowthGear Team"
+  name: "Andrew Martin"
 publishedAt: 2026-03-11
 image:
   src: "/images/how-to-use-crm-software-for-sales-teams.webp"

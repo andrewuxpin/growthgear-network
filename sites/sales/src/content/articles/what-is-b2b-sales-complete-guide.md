@@ -3,7 +3,7 @@ title: "What Is B2B Sales? A Complete Guide for 2026"
 description: "B2B sales meaning explained: what business-to-business selling is, how the process works, and the strategies top teams use to close complex deals consistently."
 category: "b2b-sales"
 author:
-  name: "GrowthGear Team"
+  name: "Abe Dearmer"
 publishedAt: 2026-03-16
 image:
   src: "/images/what-is-b2b-sales-complete-guide.webp"

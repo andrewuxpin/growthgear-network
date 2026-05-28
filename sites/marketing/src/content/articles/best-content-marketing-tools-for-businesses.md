@@ -3,7 +3,7 @@ title: "Best Content Marketing Tools for Growing Businesses"
 description: "Discover the best content marketing tools for creating, publishing, and measuring content that ranks. Curated picks for marketing teams ready to scale."
 category: "content-marketing"
 author:
-  name: "GrowthGear Team"
+  name: "Andrew Martin"
 publishedAt: 2026-03-29
 image:
   src: "/images/best-content-marketing-tools-for-businesses.webp"

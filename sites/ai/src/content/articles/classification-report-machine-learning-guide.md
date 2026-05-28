@@ -3,7 +3,7 @@ title: "Classification Report in ML: A Complete Guide"
 description: "A classification report reveals ML model performance by class: precision, recall, F1-score, and support. Learn to read, interpret, and act on your results."
 category: "machine-learning"
 author:
-  name: "GrowthGear Team"
+  name: "Andrew Martin"
 publishedAt: 2026-05-14
 image:
   src: "/images/classification-report-machine-learning-guide.webp"

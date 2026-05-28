@@ -3,7 +3,7 @@ title: "B2B Sales Tips: 12 Strategies That Win More Deals"
 description: "Master B2B sales with 12 proven strategies covering prospecting, discovery, multi-stakeholder engagement, and closing techniques that win enterprise accounts."
 category: "b2b-sales"
 author:
-  name: "GrowthGear Team"
+  name: "Abe Dearmer"
 publishedAt: 2026-04-27
 image:
   src: "/images/b2b-sales-tips-guide.webp"

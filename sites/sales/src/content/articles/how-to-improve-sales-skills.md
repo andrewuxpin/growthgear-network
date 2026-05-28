@@ -3,7 +3,7 @@ title: "How to Improve Sales Skills: 12 Steps to Level Up Fast"
 description: "Learn how to improve sales skills with a deliberate-practice plan, the five skill domains, a measurable 90-day roadmap, and weekly habits that compound."
 category: "sales-techniques"
 author:
-  name: "GrowthGear Team"
+  name: "Andrew Martin"
 publishedAt: 2026-05-28
 image:
   src: "/images/how-to-improve-sales-skills.webp"

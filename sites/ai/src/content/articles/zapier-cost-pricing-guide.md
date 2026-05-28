@@ -3,7 +3,7 @@ title: "Zapier Cost: Pricing Plans & ROI Guide 2026"
 description: "Discover what Zapier costs in 2026 across all pricing plans. Calculate your automation ROI and compare Zapier pricing against n8n and Make before committing."
 category: "ai-tools"
 author:
-  name: "GrowthGear Team"
+  name: "Andrew Martin"
 publishedAt: 2026-03-23
 image:
   src: "/images/zapier-cost-pricing-guide.webp"

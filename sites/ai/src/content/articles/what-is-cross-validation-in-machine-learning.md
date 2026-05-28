@@ -3,7 +3,7 @@ title: "What Is Cross-Validation in Machine Learning?"
 description: "Cross-validation in machine learning estimates how a model generalises. Learn k-fold, stratified, and time-series variants with real production trade-offs."
 category: "machine-learning"
 author:
-  name: "GrowthGear Team"
+  name: "Abe Dearmer"
 publishedAt: 2026-05-26
 image:
   src: "/images/what-is-cross-validation-in-machine-learning.webp"

@@ -3,7 +3,7 @@ title: "Lead Generation SEO: B2B Tactics to Fill Your Pipeline"
 description: "Lead generation SEO turns organic search into qualified B2B pipeline. Master keyword tactics, on-page wins, and link strategies that convert leads to revenue."
 category: "sales-techniques"
 author:
-  name: "GrowthGear Team"
+  name: "Abe Dearmer"
 publishedAt: 2026-05-29
 image:
   src: "/images/lead-generation-seo-strategy-guide.webp"

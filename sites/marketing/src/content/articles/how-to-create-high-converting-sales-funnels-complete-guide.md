@@ -3,7 +3,7 @@ title: "How to Create High Converting Sales"
 description: "Learn how to create high converting sales funnels that drive revenue. Step-by-step guide with proven strategies, examples, and optimization tips for 2024."
 category: "content-marketing"
 author:
-  name: "GrowthGear Team"
+  name: "Andrew Martin"
 publishedAt: 2026-02-01
 image:
   src: "/images/how-to-create-high-converting-sales-funnels-complete-guide.webp"

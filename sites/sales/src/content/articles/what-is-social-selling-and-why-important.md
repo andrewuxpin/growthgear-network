@@ -3,7 +3,7 @@ title: "What Is Social Selling and Why Is It"
 description: "Discover what social selling is and why it's crucial for sales success. Learn proven strategies, statistics, and best practices to boost your revenue today."
 category: "sales-techniques"
 author:
-  name: "GrowthGear Team"
+  name: "Abe Dearmer"
 publishedAt: 2026-01-29
 image:
   src: "/images/what-is-social-selling-and-why-important.webp"

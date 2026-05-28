@@ -3,7 +3,7 @@ title: "10 Examples of Content Marketing That Drive Results"
 description: "Discover 10 real-world examples of content marketing that generated measurable results. Learn which formats work best and how to apply them to your business."
 category: "content-marketing"
 author:
-  name: "GrowthGear Team"
+  name: "Andrew Martin"
 publishedAt: 2026-03-16
 image:
   src: "/images/examples-of-content-marketing-that-drive-results.webp"

@@ -3,7 +3,7 @@ title: "Email Marketing Best Practices: 12 Proven Tactics"
 description: "Master email marketing best practices with 12 proven tactics for list building, segmentation, deliverability, and campaign optimization to drive real ROI."
 category: "content-marketing"
 author:
-  name: "GrowthGear Team"
+  name: "Abe Dearmer"
 publishedAt: 2026-03-13
 image:
   src: "/images/email-marketing-best-practices-guide.webp"

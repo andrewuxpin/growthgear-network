@@ -3,7 +3,7 @@ title: "Automated Branding: Scale Brand Consistency Fast"
 description: "Automated branding keeps your visual identity consistent across every channel. Discover the tools, workflows, and step-by-step framework to scale your brand."
 category: "content-marketing"
 author:
-  name: "GrowthGear Team"
+  name: "Andrew Martin"
 publishedAt: 2026-03-22
 image:
   src: "/images/automated-branding-strategy-guide.webp"

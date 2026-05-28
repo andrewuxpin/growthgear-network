@@ -3,7 +3,7 @@ title: "Channel Marketing Strategy: A Complete Guide"
 description: "Learn how to build a channel marketing strategy that drives growth. Covers channel types, selection criteria, execution tactics, and performance metrics."
 category: "content-marketing"
 author:
-  name: "GrowthGear Team"
+  name: "Abe Dearmer"
 publishedAt: 2026-03-26
 image:
   src: "/images/channel-marketing-strategy-guide.webp"

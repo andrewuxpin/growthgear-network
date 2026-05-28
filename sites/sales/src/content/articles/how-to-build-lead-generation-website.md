@@ -3,7 +3,7 @@ title: "How to Build a Lead Generation Website That"
 description: "Learn how to build a lead generation website that captures B2B leads 24/7. Covers essential pages, conversion tactics, traffic strategies, and key KPIs."
 category: "sales-techniques"
 author:
-  name: "GrowthGear Team"
+  name: "Abe Dearmer"
 publishedAt: 2026-04-10
 image:
   src: "/images/how-to-build-lead-generation-website.webp"

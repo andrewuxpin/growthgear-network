@@ -3,7 +3,7 @@ title: "Best AI Tools for E-Commerce in 2026"
 description: "Best AI tools for e-commerce: top picks for product recommendations, email marketing, customer service, and inventory—with Shopify and WooCommerce pricing."
 category: "ai-tools"
 author:
-  name: "GrowthGear Team"
+  name: "Andrew Martin"
 publishedAt: 2026-04-22
 image:
   src: "/images/best-ai-tools-for-ecommerce.webp"

@@ -3,7 +3,7 @@ title: "How to Build a Digital Marketing Plan"
 description: "Build a digital marketing plan that drives measurable growth. Step-by-step framework for goals, channels, budget, content calendar, and performance measurement."
 category: "content-marketing"
 author:
-  name: "GrowthGear Team"
+  name: "Abe Dearmer"
 publishedAt: 2026-04-16
 image:
   src: "/images/how-to-build-digital-marketing-plan.webp"

@@ -3,7 +3,7 @@ title: "What Is a Growth Hacking Agency? How to Choose One"
 description: "A growth hacking agency runs rapid experiments across marketing and product to find the fastest path to revenue growth. Learn what to look for to choose wisely."
 category: "content-marketing"
 author:
-  name: "GrowthGear Team"
+  name: "Abe Dearmer"
 publishedAt: 2026-03-14
 image:
   src: "/images/what-is-a-growth-hacking-agency.webp"

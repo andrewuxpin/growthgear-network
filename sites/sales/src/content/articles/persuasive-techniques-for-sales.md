@@ -3,7 +3,7 @@ title: "Persuasive Techniques for Sales: Win More Deals"
 description: "Learn the persuasive techniques top B2B sales pros use to handle objections, build trust, and close more deals. Practical tactics grounded in psychology."
 category: "sales-techniques"
 author:
-  name: "GrowthGear Team"
+  name: "Abe Dearmer"
 publishedAt: 2026-04-23
 image:
   src: "/images/persuasive-techniques-for-sales.webp"

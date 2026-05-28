@@ -3,7 +3,7 @@ title: "What Is a Transformer in Machine Learning?"
 description: "Learn what a transformer is in machine learning, how the attention mechanism works, and why transformer models like GPT and BERT power modern AI applications."
 category: "deep-learning"
 author:
-  name: "GrowthGear Team"
+  name: "Abe Dearmer"
 publishedAt: 2026-03-03
 image:
   src: "/images/what-is-a-transformer-in-machine-learning.webp"

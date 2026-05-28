@@ -3,7 +3,7 @@ title: "Best AI Search Optimization Tools for 2026"
 description: "Track and improve your brand's AI search visibility. Compare the 6 best AEO tools for ChatGPT, Perplexity, and Google AI Overviews. Practical 2026 guide."
 category: "ai-tools"
 author:
-  name: "GrowthGear Team"
+  name: "Abe Dearmer"
 publishedAt: 2026-03-11
 image:
   src: "/images/best-ai-search-optimization-tools.webp"

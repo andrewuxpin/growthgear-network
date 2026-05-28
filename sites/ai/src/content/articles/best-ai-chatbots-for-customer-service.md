@@ -3,7 +3,7 @@ title: "Best AI Chatbots for Customer Service: 12 Top"
 description: "Discover the best AI chatbots for customer service in 2024. Compare features, pricing, and capabilities to choose the perfect solution for your business."
 category: "machine-learning"
 author:
-  name: "GrowthGear Team"
+  name: "Abe Dearmer"
 publishedAt: 2026-01-29
 image:
   src: "/images/best-ai-chatbots-for-customer-service.webp"

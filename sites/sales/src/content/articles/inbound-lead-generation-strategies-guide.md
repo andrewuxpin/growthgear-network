@@ -3,7 +3,7 @@ title: "Inbound Lead Generation: Complete B2B Strategy Guide"
 description: "Master inbound lead generation with proven B2B strategies. Learn SEO, content, and conversion tactics that attract qualified leads to grow your pipeline."
 category: "sales-techniques"
 author:
-  name: "GrowthGear Team"
+  name: "Andrew Martin"
 publishedAt: 2026-05-22
 image:
   src: "/images/inbound-lead-generation-strategies-guide.webp"

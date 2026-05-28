@@ -3,7 +3,7 @@ title: "Gradient Descent in Deep Learning: Complete Guide"
 description: "Learn how gradient descent powers deep learning model training. Discover optimizer types, learning rate strategies, and practical tips for your AI projects."
 category: "deep-learning"
 author:
-  name: "GrowthGear Team"
+  name: "Abe Dearmer"
 publishedAt: 2026-03-19
 image:
   src: "/images/gradient-descent-deep-learning-guide.webp"

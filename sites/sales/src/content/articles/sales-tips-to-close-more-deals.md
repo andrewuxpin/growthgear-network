@@ -3,7 +3,7 @@ title: "10 Proven Sales Tips to Close More Deals"
 description: "Master 10 proven sales tips that top-performing reps use daily: techniques for better discovery, objection handling, and closing more deals consistently."
 category: "sales-techniques"
 author:
-  name: "GrowthGear Team"
+  name: "Andrew Martin"
 publishedAt: 2026-03-26
 image:
   src: "/images/sales-tips-to-close-more-deals.webp"

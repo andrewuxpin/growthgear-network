@@ -3,7 +3,7 @@ title: "How to Optimize Landing Pages for"
 description: "Learn how to optimize landing pages for conversions with proven strategies, best practices, and actionable tips. Boost your conversion rates today with our."
 category: "seo"
 author:
-  name: "GrowthGear Team"
+  name: "Andrew Martin"
 publishedAt: 2026-01-31
 image:
   src: "/images/how-to-optimize-landing-pages-for-conversions-complete-guide.webp"

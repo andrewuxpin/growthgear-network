@@ -3,7 +3,7 @@ title: "Best Deal Management Software for Sales"
 description: "Compare the best deal management software for B2B sales teams in 2026. Evaluate top platforms on features, pricing, and CRM integrations to close more deals."
 category: "crm-tools"
 author:
-  name: "GrowthGear Team"
+  name: "Andrew Martin"
 publishedAt: 2026-04-18
 image:
   src: "/images/best-deal-management-software.webp"

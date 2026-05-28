@@ -3,7 +3,7 @@ title: "Sales Territory Planning: The Complete Guide"
 description: "Master sales territory planning with proven frameworks. Learn how to define, assign, and optimize territories to maximize revenue and team performance."
 category: "b2b-sales"
 author:
-  name: "GrowthGear Team"
+  name: "Andrew Martin"
 publishedAt: 2026-05-18
 image:
   src: "/images/sales-territory-planning-guide.webp"

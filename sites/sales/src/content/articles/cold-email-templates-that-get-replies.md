@@ -3,7 +3,7 @@ title: "Cold Email Templates That Get Replies"
 description: "Six proven cold email templates with personalization strategies, sequence tactics, and performance metrics to lift reply rates and book more B2B sales meetings."
 category: "sales-techniques"
 author:
-  name: "GrowthGear Team"
+  name: "Abe Dearmer"
 publishedAt: 2026-03-29
 image:
   src: "/images/cold-email-templates-that-get-replies.webp"

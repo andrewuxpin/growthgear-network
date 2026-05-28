@@ -3,7 +3,7 @@ title: "What Is Overfitting in Machine Learning?"
 description: "Overfitting in machine learning causes models to memorize training data and fail in production. Learn to detect overfitting, diagnose root causes, and fix it."
 category: "machine-learning"
 author:
-  name: "GrowthGear Team"
+  name: "Abe Dearmer"
 publishedAt: 2026-04-21
 image:
   src: "/images/what-is-overfitting-in-machine-learning.webp"

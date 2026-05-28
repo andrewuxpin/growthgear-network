@@ -3,7 +3,7 @@ title: "AI Automation Services: What They Are and How"
 description: "AI automation services help businesses reduce manual work using RPA, workflow automation, and agentic AI. Compare top providers and choose the right fit."
 category: "ai-tools"
 author:
-  name: "GrowthGear Team"
+  name: "Abe Dearmer"
 publishedAt: 2026-04-27
 image:
   src: "/images/ai-automation-services-guide.webp"

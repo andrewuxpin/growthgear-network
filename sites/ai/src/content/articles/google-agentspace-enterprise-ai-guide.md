@@ -3,7 +3,7 @@ title: "Google Agentspace: Enterprise AI for Business Teams"
 description: "Google Agentspace brings AI agents to enterprise workflows. Learn how it works, what it costs, and how to deploy it across your organization in 2026."
 category: "ai-tools"
 author:
-  name: "GrowthGear Team"
+  name: "Abe Dearmer"
 publishedAt: 2026-03-07
 image:
   src: "/images/google-agentspace-enterprise-ai-guide.webp"

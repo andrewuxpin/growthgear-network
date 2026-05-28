@@ -3,7 +3,7 @@ title: "Website Marketing Strategy: Complete Guide"
 description: "The complete website marketing strategy guide: master SEO, content, paid advertising, and email to drive more traffic and convert visitors into revenue."
 category: "seo"
 author:
-  name: "GrowthGear Team"
+  name: "Abe Dearmer"
 publishedAt: 2026-03-12
 image:
   src: "/images/website-marketing-strategy-guide.webp"

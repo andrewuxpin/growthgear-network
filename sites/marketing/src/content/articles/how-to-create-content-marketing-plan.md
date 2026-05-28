@@ -3,7 +3,7 @@ title: "How to Create a Content Marketing Plan That"
 description: "Learn how to create a content marketing plan that drives traffic, leads, and growth. A proven step-by-step framework for marketing managers and growth leaders."
 category: "content-marketing"
 author:
-  name: "GrowthGear Team"
+  name: "Andrew Martin"
 publishedAt: 2026-04-06
 image:
   src: "/images/how-to-create-content-marketing-plan.webp"

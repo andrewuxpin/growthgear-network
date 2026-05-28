@@ -3,7 +3,7 @@ title: "How to Make Money on Social Media in 2026"
 description: "Learn proven strategies to make money on social media in 2026. From sponsored content to affiliate marketing, here's how to monetize your audience effectively."
 category: "social-media"
 author:
-  name: "GrowthGear Team"
+  name: "Abe Dearmer"
 publishedAt: 2026-05-06
 image:
   src: "/images/how-to-make-money-on-social-media.webp"

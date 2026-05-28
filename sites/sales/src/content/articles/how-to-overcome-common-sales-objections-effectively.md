@@ -3,7 +3,7 @@ title: "How to Overcome Common Sales Objections"
 description: "Learn proven strategies to handle price, timing, and authority objections. Master the art of turning sales objections into opportunities with expert techniques."
 category: "sales-techniques"
 author:
-  name: "GrowthGear Team"
+  name: "Andrew Martin"
 publishedAt: 2026-01-30
 image:
   src: "/images/how-to-overcome-common-sales-objections-effectively.webp"

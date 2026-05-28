@@ -3,7 +3,7 @@ title: "Best AI Presentation Tools for Business in 2026"
 description: "Compare the 11 best AI presentation tools for business — from Gamma and Beautiful.ai to Microsoft Copilot. Match the right tool to your team's deck workflow."
 category: "ai-tools"
 author:
-  name: "GrowthGear Team"
+  name: "Andrew Martin"
 publishedAt: 2026-05-27
 image:
   src: "/images/best-ai-presentation-tools.webp"

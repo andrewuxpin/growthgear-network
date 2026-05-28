@@ -3,7 +3,7 @@ title: "Content Marketing Services: What They Are"
 description: "Content marketing services help brands create, distribute, and measure content that drives growth. Learn what they include, what they cost, and how to choose."
 category: "content-marketing"
 author:
-  name: "GrowthGear Team"
+  name: "Abe Dearmer"
 publishedAt: 2026-04-20
 image:
   src: "/images/content-marketing-services-guide.webp"

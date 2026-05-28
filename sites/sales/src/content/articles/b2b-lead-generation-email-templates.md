@@ -3,7 +3,7 @@ title: "B2B Lead Generation Email Templates That Get"
 description: "Proven B2B lead generation email templates for cold outreach, follow-ups, and re-engagement. Copy-paste frameworks that get replies from decision-makers."
 category: "sales-techniques"
 author:
-  name: "GrowthGear Team"
+  name: "Abe Dearmer"
 publishedAt: 2026-04-19
 image:
   src: "/images/b2b-lead-generation-email-templates.webp"

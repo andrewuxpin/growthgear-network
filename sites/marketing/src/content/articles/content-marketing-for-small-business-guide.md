@@ -3,7 +3,7 @@ title: "Content Marketing for Small Business: Complete Guide"
 description: "Build a content marketing strategy for your small business. Proven tactics, formats, and ROI measurement that help lean marketing teams grow fast with..."
 category: "content-marketing"
 author:
-  name: "GrowthGear Team"
+  name: "Abe Dearmer"
 publishedAt: 2026-03-23
 image:
   src: "/images/content-marketing-for-small-business-guide.webp"

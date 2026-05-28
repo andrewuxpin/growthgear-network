@@ -3,7 +3,7 @@ title: "How Deep Learning Works: A Business Guide"
 description: "Learn how deep learning works, from neural network training to business applications in vision, NLP, and automation. A practical guide for decision-makers."
 category: "deep-learning"
 author:
-  name: "GrowthGear Team"
+  name: "Andrew Martin"
 publishedAt: 2026-03-12
 image:
   src: "/images/how-deep-learning-works-complete-guide.webp"

@@ -3,7 +3,7 @@ title: "What Is an AI Automation Agency? How to Hire One"
 description: "An AI automation agency builds intelligent workflows for your business. Discover what services they offer, when to hire one vs DIY, and how to evaluate."
 category: "ai-tools"
 author:
-  name: "GrowthGear Team"
+  name: "Andrew Martin"
 publishedAt: 2026-05-11
 image:
   src: "/images/what-is-an-ai-automation-agency-guide.webp"

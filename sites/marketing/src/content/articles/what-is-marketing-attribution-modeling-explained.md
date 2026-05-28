@@ -3,7 +3,7 @@ title: "What Is Marketing Attribution Modeling?"
 description: "Learn what marketing attribution modeling is and how to implement it effectively. Master data-driven marketing with our comprehensive guide and boost ROI today."
 category: "content-marketing"
 author:
-  name: "GrowthGear Team"
+  name: "Abe Dearmer"
 publishedAt: 2026-01-31
 image:
   src: "/images/what-is-marketing-attribution-modeling-explained.webp"

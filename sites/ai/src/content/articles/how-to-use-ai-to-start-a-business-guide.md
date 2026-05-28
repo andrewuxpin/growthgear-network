@@ -3,7 +3,7 @@ title: "How to Use AI to Start a Business: Complete Guide"
 description: "Learn how to use AI to start a business in 2026. Step-by-step guide covering AI tools for ideation, validation, marketing, and operations for founders."
 category: "ai-tools"
 author:
-  name: "GrowthGear Team"
+  name: "Andrew Martin"
 publishedAt: 2026-04-04
 image:
   src: "/images/how-to-use-ai-to-start-a-business-guide.webp"

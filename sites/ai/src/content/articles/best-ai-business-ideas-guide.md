@@ -3,7 +3,7 @@ title: "Best AI Business Ideas to Start in 2026"
 description: "The best AI business ideas in 2026: automation agencies, SaaS tools, and consulting. Compare startup costs, revenue potential, and skill requirements."
 category: "ai-tools"
 author:
-  name: "GrowthGear Team"
+  name: "Andrew Martin"
 publishedAt: 2026-04-25
 image:
   src: "/images/best-ai-business-ideas-guide.webp"

@@ -3,7 +3,7 @@ title: "What Is Deep Graph Learning? A Business Guide"
 description: "Deep graph learning uses graph neural networks to find patterns in connected data. Learn how GNNs work, their key business applications, and how to get started."
 category: "deep-learning"
 author:
-  name: "GrowthGear Team"
+  name: "Abe Dearmer"
 publishedAt: 2026-03-26
 image:
   src: "/images/what-is-deep-graph-learning-guide.webp"

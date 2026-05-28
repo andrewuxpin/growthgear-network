@@ -3,7 +3,7 @@ title: "Best Sales Pipeline Management Software (2026)"
 description: "Compare the 7 best sales pipeline management software tools for B2B teams. Features, pricing, and expert picks to find the right CRM for your sales team."
 category: "crm-tools"
 author:
-  name: "GrowthGear Team"
+  name: "Abe Dearmer"
 publishedAt: 2026-04-25
 image:
   src: "/images/best-sales-pipeline-management-software.webp"

@@ -3,7 +3,7 @@ title: "What Does ML Mean? A Business Guide to ML"
 description: "What does ML mean in business? Discover how machine learning works, its 3 core types, and how companies use ML to improve efficiency and drive growth."
 category: "machine-learning"
 author:
-  name: "GrowthGear Team"
+  name: "Andrew Martin"
 publishedAt: 2026-03-24
 tags:
   - machine-learning

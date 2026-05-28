@@ -3,7 +3,7 @@ title: "Proven B2B Sales Techniques for Closing Deals"
 description: "Master the B2B sales techniques top performers use to close deals. Covers prospecting, discovery, negotiation, and AI-powered tools — with benchmarks."
 category: "sales-techniques"
 author:
-  name: "GrowthGear Team"
+  name: "Andrew Martin"
 publishedAt: 2026-03-12
 image:
   src: "/images/b2b-sales-techniques-that-close-deals.webp"

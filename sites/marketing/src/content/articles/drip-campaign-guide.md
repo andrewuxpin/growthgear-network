@@ -3,7 +3,7 @@ title: "Drip Campaign Guide: Build, Automate, Convert"
 description: "Learn how to build a drip campaign that nurtures leads and drives conversions. A step-by-step guide with proven strategies and email benchmarks inside."
 category: "content-marketing"
 author:
-  name: "GrowthGear Team"
+  name: "Abe Dearmer"
 publishedAt: 2026-05-03
 image:
   src: "/images/drip-campaign-guide.webp"

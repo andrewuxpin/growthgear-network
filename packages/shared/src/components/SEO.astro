@@ -13,6 +13,13 @@ interface Props {
 const { type, siteUrl, siteName, article, breadcrumbs, faq } = Astro.props;
 const currentUrl = new URL(Astro.url.pathname, siteUrl).href;
 
+// Named-author profiles for E-E-A-T: maps a byline to verified external
+// identities so the Article's Person node carries `sameAs` (DEA-402).
+const AUTHOR_SAME_AS: Record<string, string[]> = {
+  "Abe Dearmer": ["https://www.linkedin.com/in/abe-dearmer/"],
+  "Andrew Martin": ["https://www.linkedin.com/in/andrew-martin-0a4491125/"],
+};
+
 // Website schema
 const websiteSchema = {
   "@context": "https://schema.org",
@@ -34,6 +41,9 @@ const articleSchema = article
       author: {
         "@type": "Person",
         name: article.author.name,
+        ...(AUTHOR_SAME_AS[article.author.name]
+          ? { sameAs: AUTHOR_SAME_AS[article.author.name] }
+          : {}),
       },
       publisher: {
         "@type": "Organization",

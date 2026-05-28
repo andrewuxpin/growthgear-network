@@ -3,7 +3,7 @@ title: "What Is Data Engineering? Roles, Tools & Pipelines"
 description: "What is data engineering? Learn what data engineers do, the tools they use, and when your company needs one. A practical guide for business leaders and CTOs."
 category: "machine-learning"
 author:
-  name: "GrowthGear Team"
+  name: "Andrew Martin"
 publishedAt: 2026-05-17
 image:
   src: "/images/what-is-data-engineering-guide.webp"

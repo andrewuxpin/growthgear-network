@@ -3,7 +3,7 @@ title: "What Is Positional Encoding in Transformers?"
 description: "What is positional encoding in transformers? Learn sinusoidal PE, RoPE, and ALiBi — how each works and why PE determines a model's usable context window."
 category: "deep-learning"
 author:
-  name: "GrowthGear Team"
+  name: "Andrew Martin"
 publishedAt: 2026-04-17
 image:
   src: "/images/what-is-positional-encoding-in-transformers.webp"

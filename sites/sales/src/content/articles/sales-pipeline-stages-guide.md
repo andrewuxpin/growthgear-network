@@ -3,7 +3,7 @@ title: "Sales Pipeline Stages: A Complete Guide"
 description: "Learn the 7 key sales pipeline stages, what happens at each step, and how to move deals forward faster. Complete B2B guide with metrics and benchmarks."
 category: "b2b-sales"
 author:
-  name: "GrowthGear Team"
+  name: "Abe Dearmer"
 publishedAt: 2026-03-14
 image:
   src: "/images/sales-pipeline-stages-guide.webp"

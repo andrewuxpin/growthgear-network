@@ -3,7 +3,7 @@ title: "AI Advantage: How to Win With AI in Business"
 description: "Learn how the AI advantage helps businesses outperform competitors. Covers 5 key advantage areas, a practical implementation framework, and ROI metrics."
 category: "machine-learning"
 author:
-  name: "GrowthGear Team"
+  name: "Andrew Martin"
 publishedAt: 2026-03-28
 image:
   src: "/images/ai-advantage-business-guide.webp"

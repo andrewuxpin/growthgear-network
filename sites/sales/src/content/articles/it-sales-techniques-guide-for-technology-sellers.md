@@ -3,7 +3,7 @@ title: "IT Sales Techniques: Close More Tech Deals"
 description: "Master IT sales techniques that win enterprise technology deals. Proven methods for navigating buying committees, handling objections, and closing complex B2B."
 category: "sales-techniques"
 author:
-  name: "GrowthGear Team"
+  name: "Abe Dearmer"
 publishedAt: 2026-03-03
 image:
   src: "/images/it-sales-techniques-guide-for-technology-sellers.webp"

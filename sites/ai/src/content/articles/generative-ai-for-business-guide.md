@@ -3,7 +3,7 @@ title: "Generative AI for Business: Complete Guide"
 description: "Discover how generative AI transforms businesses in 2026. Real-world use cases, ROI benchmarks, tool recommendations, and a 4-phase implementation roadmap."
 category: "ai-tools"
 author:
-  name: "GrowthGear Team"
+  name: "Abe Dearmer"
 publishedAt: 2026-05-09
 image:
   src: "/images/generative-ai-for-business-guide.webp"

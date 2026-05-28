@@ -3,7 +3,7 @@ title: "Types of Digital Marketing: The Complete Guide"
 description: "Discover all 8 types of digital marketing — from SEO to influencer marketing. Learn which channels work best for your business and how to build the right mix."
 category: "content-marketing"
 author:
-  name: "GrowthGear Team"
+  name: "Andrew Martin"
 publishedAt: 2026-05-07
 image:
   src: "/images/types-of-digital-marketing-explained.webp"

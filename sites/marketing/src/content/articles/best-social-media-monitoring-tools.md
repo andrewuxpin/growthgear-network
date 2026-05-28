@@ -3,7 +3,7 @@ title: "Best Social Media Monitoring Tools in 2026"
 description: "Compare the best social media monitoring tools for 2026. Track brand mentions, sentiment, and competitor activity to protect and grow your online presence."
 category: "social-media"
 author:
-  name: "GrowthGear Team"
+  name: "Andrew Martin"
 publishedAt: 2026-04-01
 image:
   src: "/images/best-social-media-monitoring-tools.webp"

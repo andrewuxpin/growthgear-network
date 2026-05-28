@@ -3,7 +3,7 @@ title: "Complete Content Marketing Guide for 2026"
 description: "A complete content marketing guide: strategy, content types, distribution, and ROI measurement. Discover how brands generate 3x more leads with content."
 category: "content-marketing"
 author:
-  name: "GrowthGear Team"
+  name: "Andrew Martin"
 publishedAt: 2026-05-11
 image:
   src: "/images/complete-content-marketing-guide.webp"

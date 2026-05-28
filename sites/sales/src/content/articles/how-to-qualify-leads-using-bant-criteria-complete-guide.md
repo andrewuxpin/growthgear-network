@@ -3,7 +3,7 @@ title: "How to Qualify Leads Using BANT Criteria"
 description: "Master lead qualification with BANT criteria. Learn Budget, Authority, Need, Timeline framework to boost sales efficiency and close more deals in 2024."
 category: "sales-techniques"
 author:
-  name: "GrowthGear Team"
+  name: "Abe Dearmer"
 publishedAt: 2026-02-01
 image:
   src: "/images/how-to-qualify-leads-using-bant-criteria-complete-guide.webp"

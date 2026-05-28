@@ -3,7 +3,7 @@ title: "Customer Acquisition Cost: Reduce CAC & Boost ROI"
 description: "Master customer acquisition cost calculation and optimization with proven strategies, formulas, and tools. Reduce CAC by up to 40% and boost ROI today."
 category: "content-marketing"
 author:
-  name: "GrowthGear Team"
+  name: "Andrew Martin"
 publishedAt: 2026-02-01
 image:
   src: "/images/customer-acquisition-cost-calculation-optimization-guide.webp"

@@ -3,7 +3,7 @@ title: "Best CRM Software for Small Business Teams"
 description: "Discover the best CRM software for small business teams with our comprehensive guide. Compare features, pricing, and find the perfect solution for your..."
 category: "crm-tools"
 author:
-  name: "GrowthGear Team"
+  name: "Abe Dearmer"
 publishedAt: 2026-01-29
 image:
   src: "/images/best-crm-software-small-business-teams.webp"
