@@ -3,7 +3,7 @@ title: "B2B Sales Interview Questions That Find Top Talent"
 description: "Find top B2B sales talent faster. Discover the interview questions that reveal sales methodology, resilience, and quota-busting potential in candidates."
 category: "b2b-sales"
 author:
-  name: "GrowthGear Team"
+  name: "Andrew Martin"
 publishedAt: 2026-05-04
 image:
   src: "/images/b2b-sales-interview-questions.webp"

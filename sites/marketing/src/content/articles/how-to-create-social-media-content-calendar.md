@@ -3,7 +3,7 @@ title: "How to Create a Social Media Content Calendar"
 description: "Learn how to build a social media content calendar that saves time, boosts consistency, and drives engagement. Step-by-step guide with templates and tools."
 category: "social-media"
 author:
-  name: "GrowthGear Team"
+  name: "Abe Dearmer"
 publishedAt: 2026-03-04
 image:
   src: "/images/how-to-create-social-media-content-calendar.webp"

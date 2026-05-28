@@ -3,7 +3,7 @@ title: "What Is Tokenization in NLP? A Complete Guide"
 description: "What is tokenization in NLP? Practical guide to BPE, WordPiece, and SentencePiece tokenizers, their business impact, costs, and how to choose one."
 category: "machine-learning"
 author:
-  name: "GrowthGear Team"
+  name: "Andrew Martin"
 publishedAt: 2026-05-29
 image:
   src: "/images/what-is-tokenization-in-nlp.webp"

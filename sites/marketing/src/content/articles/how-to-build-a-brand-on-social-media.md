@@ -3,7 +3,7 @@ title: "How to Build a Brand on Social Media"
 description: "Learn how to build a standout brand on social media that drives real growth. A practical guide to brand identity, content strategy, platforms, and key metrics."
 category: "social-media"
 author:
-  name: "GrowthGear Team"
+  name: "Abe Dearmer"
 publishedAt: 2026-05-02
 image:
   src: "/images/how-to-build-a-brand-on-social-media.webp"

@@ -3,7 +3,7 @@ title: "What Is Fine-Tuning in Deep Learning? A Business Guide"
 description: "Fine-tuning adapts a pre-trained deep learning model for your specific task with far less data. Learn how it works, when to use it, and real business ROI."
 category: "deep-learning"
 author:
-  name: "GrowthGear Team"
+  name: "Andrew Martin"
 publishedAt: 2026-04-23
 image:
   src: "/images/what-is-fine-tuning-in-deep-learning.webp"

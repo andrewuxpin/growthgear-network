@@ -3,7 +3,7 @@ title: "Best Social Media Marketing Tools for 2026"
 description: "Discover the best social media marketing tools to grow your brand in 2026. Compare scheduling, analytics, and content tools to build a winning strategy."
 category: "social-media"
 author:
-  name: "GrowthGear Team"
+  name: "Abe Dearmer"
 publishedAt: 2026-04-15
 image:
   src: "/images/best-social-media-marketing-tools.webp"

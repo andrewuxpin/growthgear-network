@@ -3,7 +3,7 @@ title: "What Is Word Embedding in NLP? A Complete Guide"
 description: "Word embedding converts text into numerical vectors that capture semantic meaning. Learn how Word2Vec, GloVe, and BERT embeddings work and where to use each."
 category: "deep-learning"
 author:
-  name: "GrowthGear Team"
+  name: "Abe Dearmer"
 publishedAt: 2026-05-01
 image:
   src: "/images/what-is-word-embedding-in-nlp.webp"

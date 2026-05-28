@@ -3,7 +3,7 @@ title: "Best AI Tools for Business Growth in 2026"
 description: "Discover the best AI tools for business in 2026. From content creation to sales automation, these picks help marketing teams scale faster and smarter."
 category: "content-marketing"
 author:
-  name: "GrowthGear Team"
+  name: "Andrew Martin"
 publishedAt: 2026-03-15
 image:
   src: "/images/best-ai-tools-for-business.webp"

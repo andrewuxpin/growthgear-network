@@ -3,7 +3,7 @@ title: "How Does Backpropagation Work in Neural Networks"
 description: "Backpropagation trains neural networks by computing error gradients layer by layer. Learn how it works and what it means for AI training costs and deployment."
 category: "deep-learning"
 author:
-  name: "GrowthGear Team"
+  name: "Abe Dearmer"
 publishedAt: 2026-04-24
 image:
   src: "/images/how-does-backpropagation-work-neural-networks.webp"

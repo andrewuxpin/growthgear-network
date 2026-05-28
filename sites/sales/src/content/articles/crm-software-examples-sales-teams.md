@@ -3,7 +3,7 @@ title: "Best CRM Software Examples for Sales Teams"
 description: "Explore the best CRM software examples for sales teams. Compare HubSpot, Salesforce, Pipedrive, Zoho, and more to choose the right CRM for your pipeline."
 category: "crm-tools"
 author:
-  name: "GrowthGear Team"
+  name: "Andrew Martin"
 publishedAt: 2026-03-18
 image:
   src: "/images/crm-software-examples-sales-teams.webp"

@@ -3,7 +3,7 @@ title: "Make.com Pricing: Plans, Costs & Best Value"
 description: "Make.com pricing explained: all five plan tiers, how operations are counted, annual savings, and how to calculate your real monthly bill before you commit."
 category: "ai-tools"
 author:
-  name: "GrowthGear Team"
+  name: "Andrew Martin"
 publishedAt: 2026-05-18
 image:
   src: "/images/make-com-pricing-plans-guide.webp"

@@ -3,7 +3,7 @@ title: "AI Marketing Tools: Complete Guide for Growth Teams"
 description: "Discover the best AI marketing tools for content, SEO, email, and social media. Learn how to choose, implement, and get ROI from AI in your marketing stack."
 category: "content-marketing"
 author:
-  name: "GrowthGear Team"
+  name: "Abe Dearmer"
 publishedAt: 2026-04-05
 image:
   src: "/images/ai-marketing-tools-complete-guide.webp"

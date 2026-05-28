@@ -3,7 +3,7 @@ title: "What Is Inference in Machine Learning? Explained"
 description: "Machine learning inference is how trained AI models generate predictions in production. Learn what ML inference means, types, costs, and deployment strategies."
 category: "machine-learning"
 author:
-  name: "GrowthGear Team"
+  name: "Abe Dearmer"
 publishedAt: 2026-04-07
 image:
   src: "/images/what-is-inference-in-machine-learning.webp"

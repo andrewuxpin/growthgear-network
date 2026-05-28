@@ -3,7 +3,7 @@ title: "B2B Sales Pipeline: Build and Optimize for"
 description: "Master your B2B sales pipeline with strategies for multi-stakeholder deals, faster velocity, and higher win rates. Practical guide for sales leaders and SDRs."
 category: "b2b-sales"
 author:
-  name: "GrowthGear Team"
+  name: "Abe Dearmer"
 publishedAt: 2026-04-04
 image:
   src: "/images/b2b-sales-pipeline-guide.webp"

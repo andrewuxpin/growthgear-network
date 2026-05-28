@@ -3,7 +3,7 @@ title: "What Is Sensitivity in Machine Learning?"
 description: "Learn what sensitivity means in machine learning, how it compares to precision and F1 score, and how to choose the right evaluation metric for your AI project."
 category: "machine-learning"
 author:
-  name: "GrowthGear Team"
+  name: "Abe Dearmer"
 publishedAt: 2026-05-12
 image:
   src: "/images/what-is-sensitivity-in-machine-learning.webp"

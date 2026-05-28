@@ -3,7 +3,7 @@ title: "Best AI Tools for Business in 2026"
 description: "Discover the 14 best AI tools for business in 2026. Compare marketing, operations, sales, and support tools with expert frameworks for SMB and enterprise teams."
 category: "ai-tools"
 author:
-  name: "GrowthGear Team"
+  name: "Andrew Martin"
 publishedAt: 2026-05-16
 image:
   src: "/images/best-ai-tools-for-business-guide.webp"

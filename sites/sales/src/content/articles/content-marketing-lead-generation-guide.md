@@ -3,7 +3,7 @@ title: "Content Marketing Lead Generation: B2B Guide"
 description: "Learn how to use content marketing for B2B lead generation. Proven strategies, content types, and metrics to turn site visitors into qualified sales leads."
 category: "sales-techniques"
 author:
-  name: "GrowthGear Team"
+  name: "Andrew Martin"
 publishedAt: 2026-04-17
 image:
   src: "/images/content-marketing-lead-generation-guide.webp"

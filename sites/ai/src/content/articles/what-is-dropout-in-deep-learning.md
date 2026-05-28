@@ -3,7 +3,7 @@ title: "What Is Dropout in Deep Learning? A Practical Guide"
 description: "Dropout randomly deactivates neurons during training to prevent overfitting. Learn how deep learning dropout works, variants, and the right rate for your model."
 category: "deep-learning"
 author:
-  name: "GrowthGear Team"
+  name: "Andrew Martin"
 publishedAt: 2026-05-07
 image:
   src: "/images/what-is-dropout-in-deep-learning.webp"

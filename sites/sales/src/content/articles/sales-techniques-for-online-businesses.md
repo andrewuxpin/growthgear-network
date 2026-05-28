@@ -3,7 +3,7 @@ title: "Sales Techniques for Online Businesses That"
 description: "Master sales techniques for online businesses that close deals in digital-first B2B environments. Learn virtual prospecting, demos, and follow-up strategies."
 category: "sales-techniques"
 author:
-  name: "GrowthGear Team"
+  name: "Abe Dearmer"
 publishedAt: 2026-05-05
 image:
   src: "/images/sales-techniques-for-online-businesses.webp"

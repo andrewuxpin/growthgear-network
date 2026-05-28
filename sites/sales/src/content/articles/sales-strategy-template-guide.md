@@ -3,7 +3,7 @@ title: "Sales Strategy Template: Build Your 2026"
 description: "Use our proven sales strategy template to define targets, tactics, and KPIs. Includes a fillable framework for B2B and SMB teams ready to hit quota in 2026."
 category: "sales-techniques"
 author:
-  name: "GrowthGear Team"
+  name: "Andrew Martin"
 publishedAt: 2026-03-31
 image:
   src: "/images/sales-strategy-template-guide.webp"

@@ -3,7 +3,7 @@ title: "How to Create Effective Email Marketing"
 description: "Learn how to create effective email marketing campaigns with proven strategies, templates, and metrics. Boost your ROI with our step-by-step guide for 2024."
 category: "content-marketing"
 author:
-  name: "GrowthGear Team"
+  name: "Abe Dearmer"
 publishedAt: 2026-01-29
 image:
   src: "/images/how-to-create-effective-email-marketing-campaigns.webp"

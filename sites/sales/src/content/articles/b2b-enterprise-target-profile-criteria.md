@@ -3,7 +3,7 @@ title: "B2B Enterprise Target Profile Criteria That"
 description: "Learn the 6 core B2B enterprise target profile criteria that top sales teams use to identify high-value accounts and close more enterprise deals faster."
 category: "b2b-sales"
 author:
-  name: "GrowthGear Team"
+  name: "Andrew Martin"
 publishedAt: 2026-03-09
 image:
   src: "/images/b2b-enterprise-target-profile-criteria.webp"

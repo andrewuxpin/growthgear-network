@@ -3,7 +3,7 @@ title: "How to Write a Sales Plan That Drives Revenue"
 description: "Learn how to write a sales plan that drives revenue. Discover key components, a step-by-step process, and proven template for sales leaders and teams."
 category: "sales-techniques"
 author:
-  name: "GrowthGear Team"
+  name: "Abe Dearmer"
 publishedAt: 2026-03-17
 image:
   src: "/images/how-to-write-a-sales-plan.webp"

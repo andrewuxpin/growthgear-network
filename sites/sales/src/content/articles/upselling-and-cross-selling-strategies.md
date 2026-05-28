@@ -3,7 +3,7 @@ title: "Upselling and Cross-Selling Strategies for B2B Teams"
 description: "Master upselling and cross-selling strategies to grow B2B accounts. Proven techniques to expand revenue from existing customers without new acquisition costs."
 category: "sales-techniques"
 author:
-  name: "GrowthGear Team"
+  name: "Andrew Martin"
 publishedAt: 2026-04-21
 image:
   src: "/images/upselling-and-cross-selling-strategies.webp"

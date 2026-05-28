@@ -3,7 +3,7 @@ title: "Best Marketing Automation Platforms for Growth"
 description: "Compare the best marketing automation platforms for growing businesses. Features, pricing, and use cases to help you choose the right tool and scale faster."
 category: "content-marketing"
 author:
-  name: "GrowthGear Team"
+  name: "Abe Dearmer"
 publishedAt: 2026-03-08
 image:
   src: "/images/best-marketing-automation-platforms-for-growing-businesses.webp"

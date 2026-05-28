@@ -3,7 +3,7 @@ title: "Best Sales Forecasting Software Tools in 2026"
 description: "Compare the best sales forecasting software tools for 2026. Ranked by accuracy, CRM integration, and value—so your team can predict revenue with confidence."
 category: "crm-tools"
 author:
-  name: "GrowthGear Team"
+  name: "Andrew Martin"
 publishedAt: 2026-03-04
 image:
   src: "/images/best-sales-forecasting-software-tools.webp"

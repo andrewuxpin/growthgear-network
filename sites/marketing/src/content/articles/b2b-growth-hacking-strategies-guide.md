@@ -3,7 +3,7 @@ title: "B2B Growth Hacking: Strategies That Actually Work"
 description: "Discover proven B2B growth hacking strategies that accelerate pipeline and revenue. From viral loops to product-led growth, here's what actually works."
 category: "content-marketing"
 author:
-  name: "GrowthGear Team"
+  name: "Andrew Martin"
 publishedAt: 2026-03-28
 image:
   src: "/images/b2b-growth-hacking-strategies-guide.webp"

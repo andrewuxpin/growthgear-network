@@ -3,7 +3,7 @@ title: "What Is the T5 Model in NLP? Complete Guide"
 description: "What is the T5 model in NLP? A practical guide to Google's text-to-text transformer architecture, key variants, and business applications for AI teams in 2026."
 category: "deep-learning"
 author:
-  name: "GrowthGear Team"
+  name: "Andrew Martin"
 publishedAt: 2026-05-28
 image:
   src: "/images/what-is-t5-model-in-nlp.webp"

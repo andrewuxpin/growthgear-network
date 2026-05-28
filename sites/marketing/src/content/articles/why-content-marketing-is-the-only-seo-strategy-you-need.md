@@ -3,7 +3,7 @@ title: "Why Content Marketing Is Your Only SEO Strategy"
 description: "Content marketing isn't just one part of SEO — it drives every ranking signal that matters. Learn why content-first is the only sustainable SEO strategy."
 category: "seo"
 author:
-  name: "GrowthGear Team"
+  name: "Andrew Martin"
 publishedAt: 2026-04-21
 image:
   src: "/images/why-content-marketing-is-the-only-seo-strategy-you-need.webp"

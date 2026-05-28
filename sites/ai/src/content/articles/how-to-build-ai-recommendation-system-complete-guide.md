@@ -3,7 +3,7 @@ title: "How to Build AI Recommendation System"
 description: "Learn how to build AI recommendation system from scratch. Step-by-step guide with code examples, algorithms, and best practices for developers in 2024."
 category: "machine-learning"
 author:
-  name: "GrowthGear Team"
+  name: "Abe Dearmer"
 publishedAt: 2026-02-01
 image:
   src: "/images/how-to-build-ai-recommendation-system-complete-guide.webp"

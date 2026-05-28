@@ -3,7 +3,7 @@ title: "What Is Feature Engineering in Machine Learning"
 description: "Feature engineering transforms raw data into ML-ready inputs. Learn core techniques, business applications, and how to prevent data leakage in your models."
 category: "machine-learning"
 author:
-  name: "GrowthGear Team"
+  name: "Abe Dearmer"
 publishedAt: 2026-05-19
 image:
   src: "/images/what-is-feature-engineering-in-machine-learning.webp"

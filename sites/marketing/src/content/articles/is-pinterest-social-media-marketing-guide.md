@@ -3,7 +3,7 @@ title: "Is Pinterest Social Media? A Marketer's Guide"
 description: "Is Pinterest social media? Yes — but it functions like a visual search engine. Learn how to build a Pinterest strategy that converts browsers to buyers."
 category: "social-media"
 author:
-  name: "GrowthGear Team"
+  name: "Abe Dearmer"
 publishedAt: 2026-04-28
 image:
   src: "/images/is-pinterest-social-media-marketing-guide.webp"

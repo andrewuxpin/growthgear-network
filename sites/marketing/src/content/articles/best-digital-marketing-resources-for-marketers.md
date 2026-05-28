@@ -3,7 +3,7 @@ title: "Best Digital Marketing Resources for"
 description: "Discover the best digital marketing resources for 2026: top blogs, certifications, books, podcasts, and tools that working marketers rely on to stay sharp."
 category: "content-marketing"
 author:
-  name: "GrowthGear Team"
+  name: "Andrew Martin"
 publishedAt: 2026-04-18
 image:
   src: "/images/best-digital-marketing-resources-for-marketers.webp"

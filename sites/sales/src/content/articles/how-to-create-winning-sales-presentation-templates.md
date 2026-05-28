@@ -3,7 +3,7 @@ title: "How to Create Winning Sales Presentation"
 description: "Learn how to create winning sales presentation templates that close deals. Expert tips, proven frameworks, and actionable strategies to boost your..."
 category: "sales-techniques"
 author:
-  name: "GrowthGear Team"
+  name: "Andrew Martin"
 publishedAt: 2026-01-30
 image:
   src: "/images/how-to-create-winning-sales-presentation-templates.webp"

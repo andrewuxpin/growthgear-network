@@ -3,7 +3,7 @@ title: "How to Create a Lead Generation Campaign"
 description: "Learn how to build a B2B lead generation campaign step by step — from goal-setting and ICP definition to channel selection and performance optimization."
 category: "sales-techniques"
 author:
-  name: "GrowthGear Team"
+  name: "Andrew Martin"
 publishedAt: 2026-03-13
 image:
   src: "/images/how-to-create-lead-generation-campaign.webp"

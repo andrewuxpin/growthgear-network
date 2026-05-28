@@ -3,7 +3,7 @@ title: "How to Generate Leads for B2B Sales: Proven"
 description: "Learn proven strategies to generate B2B sales leads, from cold email to inbound content. Includes qualification frameworks, tools, and key performance metrics."
 category: "sales-techniques"
 author:
-  name: "GrowthGear Team"
+  name: "Andrew Martin"
 publishedAt: 2026-04-03
 image:
   src: "/images/how-to-generate-leads-for-b2b-sales.webp"

@@ -3,7 +3,7 @@ title: "AI Business Solutions: A Complete Guide for"
 description: "Discover the best AI business solutions for SMBs in 2026. Learn which types deliver the best ROI, how to choose the right tool, and how to implement AI."
 category: "ai-tools"
 author:
-  name: "GrowthGear Team"
+  name: "Abe Dearmer"
 publishedAt: 2026-03-14
 image:
   src: "/images/ai-business-solutions-guide.webp"

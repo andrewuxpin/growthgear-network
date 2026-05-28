@@ -3,7 +3,7 @@ title: "What Is Batch Normalization in Deep Learning"
 description: "Batch normalization stabilizes deep network training by normalizing layer inputs. Learn the mechanics, placement rules, variants, and production ML guidance."
 category: "deep-learning"
 author:
-  name: "GrowthGear Team"
+  name: "Andrew Martin"
 publishedAt: 2026-05-21
 image:
   src: "/images/what-is-batch-normalization-in-deep-learning.webp"

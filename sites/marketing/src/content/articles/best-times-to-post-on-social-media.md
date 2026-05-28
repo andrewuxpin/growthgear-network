@@ -3,7 +3,7 @@ title: "Best Times to Post on Social Media in 2026"
 description: "Discover the best times to post on social media for Instagram, LinkedIn, Facebook, and TikTok. Data-driven timing strategies to maximize reach and engagement."
 category: "social-media"
 author:
-  name: "GrowthGear Team"
+  name: "Abe Dearmer"
 publishedAt: 2026-05-20
 image:
   src: "/images/best-times-to-post-on-social-media.webp"

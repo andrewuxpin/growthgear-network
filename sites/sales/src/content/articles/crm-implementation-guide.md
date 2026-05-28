@@ -3,7 +3,7 @@ title: "CRM Implementation Guide for Sales Teams"
 description: "A step-by-step CRM implementation guide for B2B sales teams. Learn to plan your rollout, configure workflows, migrate data, train reps, and track ROI."
 category: "crm-tools"
 author:
-  name: "GrowthGear Team"
+  name: "Abe Dearmer"
 publishedAt: 2026-04-15
 image:
   src: "/images/crm-implementation-guide.webp"

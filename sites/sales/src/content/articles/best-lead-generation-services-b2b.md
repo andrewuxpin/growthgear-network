@@ -3,7 +3,7 @@ title: "Best Lead Generation Services for B2B in 2026"
 description: "Compare the best B2B lead generation services in 2026. Discover which platforms deliver verified leads, ROI benchmarks, and how to choose the right fit."
 category: "sales-techniques"
 author:
-  name: "GrowthGear Team"
+  name: "Abe Dearmer"
 publishedAt: 2026-03-27
 image:
   src: "/images/best-lead-generation-services-b2b.webp"

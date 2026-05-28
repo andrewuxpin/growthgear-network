@@ -3,7 +3,7 @@ title: "How to Increase Organic Website Traffic"
 description: "Learn 15 proven strategies to increase organic website traffic fast. Get actionable tips, real examples, and expert insights to boost your rankings today."
 category: "seo"
 author:
-  name: "GrowthGear Team"
+  name: "Andrew Martin"
 publishedAt: 2026-01-30
 image:
   src: "/images/how-to-increase-organic-website-traffic-fast.webp"

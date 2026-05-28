@@ -3,7 +3,7 @@ title: "Best AI Video Tools for Business in 2026"
 description: "Discover the best AI video tools for business in 2026. Compare text-to-video generators, AI editors, and avatar platforms — with pricing and use cases."
 category: "ai-tools"
 author:
-  name: "GrowthGear Team"
+  name: "Abe Dearmer"
 publishedAt: 2026-04-29
 image:
   src: "/images/best-ai-video-tools-for-business.webp"

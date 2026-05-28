@@ -3,7 +3,7 @@ title: "Machine Learning Algorithms: Types and Business Uses"
 description: "Explore core machine learning algorithms—supervised, unsupervised, reinforcement learning—and their real-world business applications across industries."
 category: "machine-learning"
 author:
-  name: "GrowthGear Team"
+  name: "Andrew Martin"
 publishedAt: 2026-03-10
 image:
   src: "/images/machine-learning-algorithms-and-applications-guide.webp"

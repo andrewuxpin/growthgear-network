@@ -3,7 +3,7 @@ title: "Best AI Search Monitoring Tools for 2026"
 description: "Compare the best AI search monitoring tools to track brand visibility in ChatGPT, Perplexity, and Google AI Overviews. Features, pricing, and setup guide."
 category: "ai-tools"
 author:
-  name: "GrowthGear Team"
+  name: "Andrew Martin"
 publishedAt: 2026-03-25
 image:
   src: "/images/best-ai-search-monitoring-tools.webp"

@@ -3,7 +3,7 @@ title: "Best AI Tools for Digital Marketing"
 description: "Discover the 15 best AI tools for digital marketing automation that boost efficiency, increase conversions, and save time. Complete guide with pricing..."
 category: "content-marketing"
 author:
-  name: "GrowthGear Team"
+  name: "Abe Dearmer"
 publishedAt: 2026-01-31
 image:
   src: "/images/best-ai-tools-digital-marketing-automation.webp"

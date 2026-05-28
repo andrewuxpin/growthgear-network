@@ -3,7 +3,7 @@ title: "How to Analyze Competitor Email Marketing"
 description: "Learn how to research competitor email marketing using free tools, key metrics, and proven frameworks to sharpen your strategy and boost email results."
 category: "content-marketing"
 author:
-  name: "GrowthGear Team"
+  name: "Andrew Martin"
 publishedAt: 2026-04-17
 image:
   src: "/images/how-to-analyze-competitors-email-marketing.webp"

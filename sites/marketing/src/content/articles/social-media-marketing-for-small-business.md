@@ -3,7 +3,7 @@ title: "Social Media Marketing for Small Business"
 description: "Discover proven social media marketing strategies for small businesses. Learn platform selection, content creation, and ROI measurement to drive real growth."
 category: "social-media"
 author:
-  name: "GrowthGear Team"
+  name: "Abe Dearmer"
 publishedAt: 2026-04-08
 image:
   src: "/images/social-media-marketing-for-small-business.webp"

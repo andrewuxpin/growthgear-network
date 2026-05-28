@@ -3,7 +3,7 @@ title: "Email Marketing Templates That Convert (2026)"
 description: "Explore proven email marketing templates for welcome series, promotions, and win-back campaigns. Copy frameworks and subject lines that drive clicks and sales."
 category: "content-marketing"
 author:
-  name: "GrowthGear Team"
+  name: "Andrew Martin"
 publishedAt: 2026-05-08
 image:
   src: "/images/email-marketing-templates-guide.webp"

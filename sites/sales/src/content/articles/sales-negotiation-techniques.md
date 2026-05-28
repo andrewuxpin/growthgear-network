@@ -3,7 +3,7 @@ title: "Sales Negotiation Techniques That Win More"
 description: "Master proven sales negotiation techniques to close more deals at better margins. Learn BATNA, anchoring, value framing, and concession strategies for B2B."
 category: "sales-techniques"
 author:
-  name: "GrowthGear Team"
+  name: "Andrew Martin"
 publishedAt: 2026-04-09
 image:
   src: "/images/sales-negotiation-techniques.webp"

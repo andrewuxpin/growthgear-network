@@ -3,7 +3,7 @@ title: "B2B Sales Strategy: Complete Guide for 2026"
 description: "Master your B2B sales strategy with this complete guide — ICP development, multi-stakeholder selling, outreach cadences, and pipeline performance metrics."
 category: "b2b-sales"
 author:
-  name: "GrowthGear Team"
+  name: "Abe Dearmer"
 publishedAt: 2026-03-23
 image:
   src: "/images/b2b-sales-strategy-guide.webp"

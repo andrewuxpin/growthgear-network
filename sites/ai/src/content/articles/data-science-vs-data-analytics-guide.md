@@ -3,7 +3,7 @@ title: "Data Science vs Data Analytics: Key"
 description: "Data science vs data analytics: understand the key differences in roles, skills, tools, and salaries — and learn which hire your business actually needs first."
 category: "machine-learning"
 author:
-  name: "GrowthGear Team"
+  name: "Abe Dearmer"
 publishedAt: 2026-04-19
 image:
   src: "/images/data-science-vs-data-analytics-guide.webp"

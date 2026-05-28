@@ -3,7 +3,7 @@ title: "Best AI Tools for Small Business in 2026"
 description: "Discover the best AI tools for small business in 2026. Compare top tools for marketing, sales, operations, and customer service with real pricing data."
 category: "ai-tools"
 author:
-  name: "GrowthGear Team"
+  name: "Andrew Martin"
 publishedAt: 2026-04-08
 image:
   src: "/images/best-ai-tools-for-small-business.webp"

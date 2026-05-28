@@ -3,7 +3,7 @@ title: "Email Blast Guide: Best Practices for 2026"
 description: "Learn what an email blast is, when to use it, and the best practices to maximize open rates, avoid spam filters, and drive measurable ROI from bulk sends."
 category: "content-marketing"
 author:
-  name: "GrowthGear Team"
+  name: "Abe Dearmer"
 publishedAt: 2026-03-27
 image:
   src: "/images/email-blast-best-practices-guide.webp"

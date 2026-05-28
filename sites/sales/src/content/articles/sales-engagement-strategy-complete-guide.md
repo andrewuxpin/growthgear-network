@@ -3,7 +3,7 @@ title: "Sales Engagement Strategy: Complete Guide"
 description: "Master sales engagement with proven multichannel strategies, platform guidance, and sequence frameworks. Boost reply rates and close more B2B deals faster."
 category: "crm-tools"
 author:
-  name: "GrowthGear Team"
+  name: "Abe Dearmer"
 publishedAt: 2026-03-15
 image:
   src: "/images/sales-engagement-strategy-complete-guide.webp"

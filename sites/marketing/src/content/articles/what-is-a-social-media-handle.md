@@ -3,7 +3,7 @@ title: "What Is a Social Media Handle? Brand Strategy Guide"
 description: "Learn what a social media handle is, why consistency across platforms matters for your brand, and how to choose the perfect username for any social network."
 category: "social-media"
 author:
-  name: "GrowthGear Team"
+  name: "Abe Dearmer"
 publishedAt: 2026-05-13
 image:
   src: "/images/what-is-a-social-media-handle.webp"

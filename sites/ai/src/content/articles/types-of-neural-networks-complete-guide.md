@@ -3,7 +3,7 @@ title: "Types of Neural Networks: Complete Guide (2026)"
 description: "Discover the main types of neural networks—CNNs, RNNs, LSTMs, transformers, and GANs—with practical use cases to help you choose the right architecture."
 category: "deep-learning"
 author:
-  name: "GrowthGear Team"
+  name: "Abe Dearmer"
 publishedAt: 2026-03-06
 image:
   src: "/images/types-of-neural-networks-complete-guide.webp"

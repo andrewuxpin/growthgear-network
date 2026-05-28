@@ -3,7 +3,7 @@ title: "Types of Sales Every Sales Team Should Know"
 description: "Discover the key types of sales every team must know: inside, outside, B2B, channel, and top methodologies. Match your model to your deal size and growth stage."
 category: "sales-techniques"
 author:
-  name: "GrowthGear Team"
+  name: "Abe Dearmer"
 publishedAt: 2026-04-07
 image:
   src: "/images/types-of-sales-every-sales-team-should-know.webp"

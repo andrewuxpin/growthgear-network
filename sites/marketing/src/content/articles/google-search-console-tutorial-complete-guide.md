@@ -3,7 +3,7 @@ title: "Google Search Console Tutorial: Complete Guide"
 description: "Master Google Search Console with this complete tutorial. Set up GSC, read performance reports, fix index issues, and turn data into SEO wins."
 category: "seo"
 author:
-  name: "GrowthGear Team"
+  name: "Abe Dearmer"
 publishedAt: 2026-03-03
 image:
   src: "/images/google-search-console-tutorial-complete-guide.webp"

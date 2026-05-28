@@ -3,7 +3,7 @@ title: "Best Lead Management Software for Marketing Teams"
 description: "Compare the top 7 lead management software platforms for 2026. Features, pricing, and lead scoring tools matched to your marketing team size and needs."
 category: "content-marketing"
 author:
-  name: "GrowthGear Team"
+  name: "Andrew Martin"
 publishedAt: 2026-05-10
 image:
   src: "/images/best-lead-management-software-for-marketing-teams.webp"

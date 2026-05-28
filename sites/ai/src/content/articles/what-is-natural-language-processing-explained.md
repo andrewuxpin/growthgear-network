@@ -3,7 +3,7 @@ title: "What is Natural Language Processing"
 description: "Discover what is natural language processing explained in simple terms. Learn NLP applications, techniques, and real-world examples. Start your AI..."
 category: "machine-learning"
 author:
-  name: "GrowthGear Team"
+  name: "Andrew Martin"
 publishedAt: 2026-01-29
 image:
   src: "/images/what-is-natural-language-processing-explained.webp"

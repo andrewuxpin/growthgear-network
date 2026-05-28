@@ -3,7 +3,7 @@ title: "Marketing Fundamentals: Core Principles for"
 description: "Master marketing fundamentals with this actionable guide. Learn the 4 Ps, channel strategy, key metrics, and the costly mistakes that stall business growth."
 category: "content-marketing"
 author:
-  name: "GrowthGear Team"
+  name: "Andrew Martin"
 publishedAt: 2026-03-19
 image:
   src: "/images/marketing-fundamentals-complete-guide.webp"

@@ -3,7 +3,7 @@ title: "Deep Learning for Time Series Forecasting"
 description: "Learn how deep learning models like LSTM and Temporal Fusion Transformers outperform ARIMA for demand forecasting, financial prediction, and operations."
 category: "deep-learning"
 author:
-  name: "GrowthGear Team"
+  name: "Abe Dearmer"
 publishedAt: 2026-04-02
 image:
   src: "/images/deep-learning-time-series-forecasting-guide.webp"

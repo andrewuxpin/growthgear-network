@@ -3,7 +3,7 @@ title: "AI Governance for Business: A Practical Guide"
 description: "AI governance for business explained: risk classification, EU AI Act compliance, NIST AI RMF frameworks, and a practical step-by-step implementation guide."
 category: "machine-learning"
 author:
-  name: "GrowthGear Team"
+  name: "Abe Dearmer"
 publishedAt: 2026-05-02
 image:
   src: "/images/ai-governance-for-business-guide.webp"

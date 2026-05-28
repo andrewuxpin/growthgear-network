@@ -3,7 +3,7 @@ title: "Email Marketing Examples That Drive Real Results"
 description: "Discover 20 proven email marketing examples: welcome sequences, promotional emails, nurture campaigns, and re-engagement tactics — all ready to adapt today."
 category: "content-marketing"
 author:
-  name: "GrowthGear Team"
+  name: "Andrew Martin"
 publishedAt: 2026-05-01
 image:
   src: "/images/email-marketing-examples-that-drive-results.webp"

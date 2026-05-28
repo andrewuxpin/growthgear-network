@@ -3,7 +3,7 @@ title: "How to Use AI to Grow Your Business: Practical"
 description: "Learn how to use AI to grow your business with proven strategies for marketing, sales, and operations. Practical AI growth stack guide for founders and CTOs."
 category: "ai-tools"
 author:
-  name: "GrowthGear Team"
+  name: "Abe Dearmer"
 publishedAt: 2026-04-18
 image:
   src: "/images/how-to-use-ai-to-grow-a-business-guide.webp"

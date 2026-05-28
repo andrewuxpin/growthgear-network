@@ -3,7 +3,7 @@ title: "Cold Outreach Strategies: Beyond Email and LinkedIn"
 description: "Master multichannel cold outreach with proven strategies for phone, video, SMS, and direct mail. Discover the sequences that increase response rates by 3x."
 category: "sales-techniques"
 author:
-  name: "GrowthGear Team"
+  name: "Andrew Martin"
 publishedAt: 2026-05-17
 image:
   src: "/images/cold-outreach-strategies-multichannel.webp"

@@ -3,7 +3,7 @@ title: "How to Implement AI in Business: A Complete"
 description: "Learn how to implement AI in business with our comprehensive guide. Discover strategies, tools, and best practices to transform your operations today."
 category: "machine-learning"
 author:
-  name: "GrowthGear Team"
+  name: "Andrew Martin"
 publishedAt: 2026-01-30
 image:
   src: "/images/how-to-implement-ai-in-business-complete-guide.webp"

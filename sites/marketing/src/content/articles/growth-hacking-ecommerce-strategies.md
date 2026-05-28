@@ -3,7 +3,7 @@ title: "Growth Hacking for Ecommerce: 8 Proven"
 description: "Discover 8 proven growth hacking strategies for ecommerce that drive rapid customer acquisition, retention, and revenue expansion without large ad budgets."
 category: "content-marketing"
 author:
-  name: "GrowthGear Team"
+  name: "Andrew Martin"
 publishedAt: 2026-04-04
 image:
   src: "/images/growth-hacking-ecommerce-strategies.webp"

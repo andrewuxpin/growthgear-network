@@ -3,7 +3,7 @@ title: "Make.com Automation: Complete Guide for 2026"
 description: "Learn how Make.com automation works: build your first scenario, compare Zapier and n8n pricing, and find the right workflow automation tool for your business."
 category: "ai-tools"
 author:
-  name: "GrowthGear Team"
+  name: "Abe Dearmer"
 publishedAt: 2026-04-06
 image:
   src: "/images/make-com-automation-guide.webp"

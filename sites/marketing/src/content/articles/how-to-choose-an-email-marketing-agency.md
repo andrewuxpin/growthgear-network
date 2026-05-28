@@ -3,7 +3,7 @@ title: "How to Choose an Email Marketing Agency in 2026"
 description: "Choosing an email marketing agency? Compare pricing, evaluation criteria, hire-vs-build trade-offs, and the mistakes most teams make before signing a retainer."
 category: "content-marketing"
 author:
-  name: "GrowthGear Team"
+  name: "Abe Dearmer"
 publishedAt: 2026-05-29
 image:
   src: "/images/how-to-choose-an-email-marketing-agency.webp"

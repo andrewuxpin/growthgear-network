@@ -3,7 +3,7 @@ title: "What Is Account Based Marketing for Sales"
 description: "Learn what is account based marketing for sales, how it works, and proven strategies to increase conversion rates. Complete ABM implementation guide..."
 category: "b2b-sales"
 author:
-  name: "GrowthGear Team"
+  name: "Andrew Martin"
 publishedAt: 2026-01-31
 image:
   src: "/images/what-is-account-based-marketing-for-sales.webp"

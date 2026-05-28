@@ -3,7 +3,7 @@ title: "Best Growth Hacking Tools for Startups 2026"
 description: "Discover the best growth hacking tools for startups in 2026. From analytics to viral referral loops, build a lean stack that drives rapid, measurable growth."
 category: "content-marketing"
 author:
-  name: "GrowthGear Team"
+  name: "Andrew Martin"
 publishedAt: 2026-03-21
 image:
   src: "/images/best-growth-hacking-tools-for-startups.webp"

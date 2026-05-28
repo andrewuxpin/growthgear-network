@@ -3,7 +3,7 @@ title: "Best Pipeline CRM Software for B2B Sales in 2026"
 description: "Compare the best pipeline CRM software for B2B sales teams. Features, pricing, and how to choose the right platform to manage deals and close revenue."
 category: "crm-tools"
 author:
-  name: "GrowthGear Team"
+  name: "Andrew Martin"
 publishedAt: 2026-05-09
 image:
   src: "/images/pipeline-crm-software-comparison.webp"

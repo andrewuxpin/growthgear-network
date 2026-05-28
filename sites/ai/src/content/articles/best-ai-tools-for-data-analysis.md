@@ -3,7 +3,7 @@ title: "Best AI Tools for Data Analysis: 15 Top"
 description: "Discover the best AI tools for data analysis in 2024. Compare features, pricing, and capabilities of 15 leading platforms to transform your analytics workflow."
 category: "ai-tools"
 author:
-  name: "GrowthGear Team"
+  name: "Abe Dearmer"
 publishedAt: 2026-01-31
 image:
   src: "/images/best-ai-tools-for-data-analysis.webp"

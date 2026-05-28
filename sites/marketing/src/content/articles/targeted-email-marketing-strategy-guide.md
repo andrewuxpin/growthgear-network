@@ -3,7 +3,7 @@ title: "Targeted Email Marketing: A Strategy Guide"
 description: "Targeted email marketing turns your list into revenue. Learn segmentation, behavioral triggers, personalization tactics, and benchmarks that drive results."
 category: "content-marketing"
 author:
-  name: "GrowthGear Team"
+  name: "Andrew Martin"
 publishedAt: 2026-05-23
 image:
   src: "/images/targeted-email-marketing-strategy-guide.webp"

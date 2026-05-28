@@ -3,7 +3,7 @@ title: "Best AI Tools for Customer Service: 9 Top Picks"
 description: "The best AI tools for customer service cover help desk AI, agent assist, and QA analytics. Compare 9 platforms to find the right fit for your support team."
 category: "ai-tools"
 author:
-  name: "GrowthGear Team"
+  name: "Andrew Martin"
 publishedAt: 2026-05-13
 image:
   src: "/images/best-ai-tools-for-customer-service.webp"

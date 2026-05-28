@@ -3,7 +3,7 @@ title: "Sales Pipeline Report: How to Build and Use One"
 description: "Build a sales pipeline report that surfaces bottlenecks, forecasts revenue, and coaches your team. Learn the key metrics, setup steps, and best CRM tools."
 category: "crm-tools"
 author:
-  name: "GrowthGear Team"
+  name: "Andrew Martin"
 publishedAt: 2026-05-16
 image:
   src: "/images/sales-pipeline-report-guide.webp"

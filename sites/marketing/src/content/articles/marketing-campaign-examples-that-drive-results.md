@@ -3,7 +3,7 @@ title: "Marketing Campaign Examples That Drive Results"
 description: "Real-world marketing campaign examples across email, social media, and content marketing — with data on what made each campaign succeed and how to replicate it."
 category: "content-marketing"
 author:
-  name: "GrowthGear Team"
+  name: "Abe Dearmer"
 publishedAt: 2026-04-25
 image:
   src: "/images/marketing-campaign-examples-that-drive-results.webp"

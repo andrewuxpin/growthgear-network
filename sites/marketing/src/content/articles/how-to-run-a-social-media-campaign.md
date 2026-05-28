@@ -3,7 +3,7 @@ title: "How to Run a Social Media Campaign: 2026 Guide"
 description: "Learn how to run a social media campaign that drives results — from goals to ROI. Our 2026 step-by-step playbook with benchmarks, tools, and templates."
 category: "social-media"
 author:
-  name: "GrowthGear Team"
+  name: "Andrew Martin"
 publishedAt: 2026-05-27
 image:
   src: "/images/how-to-run-a-social-media-campaign.webp"

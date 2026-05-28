@@ -3,7 +3,7 @@ title: "How to Manage Multiple Social Media"
 description: "Learn how to manage multiple social media accounts without burnout. Practical tools, workflows, and proven frameworks for marketing teams running 4+ platforms."
 category: "social-media"
 author:
-  name: "GrowthGear Team"
+  name: "Andrew Martin"
 publishedAt: 2026-04-22
 image:
   src: "/images/how-to-manage-multiple-social-media-accounts.webp"

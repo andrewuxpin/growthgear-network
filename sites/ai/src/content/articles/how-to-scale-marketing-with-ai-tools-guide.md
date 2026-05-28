@@ -3,7 +3,7 @@ title: "How to Scale Your Marketing With AI Tools"
 description: "Learn how to scale your marketing with AI tools — from content automation to lead scoring. A practical guide for business leaders who want measurable ROI."
 category: "ai-tools"
 author:
-  name: "GrowthGear Team"
+  name: "Andrew Martin"
 publishedAt: 2026-03-21
 image:
   src: "/images/how-to-scale-marketing-with-ai-tools-guide.webp"

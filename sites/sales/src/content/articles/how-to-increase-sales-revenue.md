@@ -3,7 +3,7 @@ title: "How to Increase Sales Revenue: Proven Strategies"
 description: "Learn how to increase sales revenue with proven B2B strategies. From ICP refinement to CRM adoption, discover what top-performing sales teams do to grow faster."
 category: "sales-techniques"
 author:
-  name: "GrowthGear Team"
+  name: "Abe Dearmer"
 publishedAt: 2026-05-12
 image:
   src: "/images/how-to-increase-sales-revenue.webp"

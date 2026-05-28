@@ -3,7 +3,7 @@ title: "What Does a Digital Marketing Manager Do?"
 description: "Learn what a digital marketing manager does, their core responsibilities, essential skills, salary ranges, and how to hire the right person for your business."
 category: "content-marketing"
 author:
-  name: "GrowthGear Team"
+  name: "Andrew Martin"
 publishedAt: 2026-04-23
 image:
   src: "/images/what-does-a-digital-marketing-manager-do.webp"

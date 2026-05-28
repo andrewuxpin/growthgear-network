@@ -3,7 +3,7 @@ title: "Sales Pipeline Dashboard: Build One That"
 description: "Build a sales pipeline dashboard that drives revenue. Learn the metrics, tools, setup steps, and mistakes to avoid for accurate forecasts and coaching."
 category: "crm-tools"
 author:
-  name: "GrowthGear Team"
+  name: "Abe Dearmer"
 publishedAt: 2026-05-23
 image:
   src: "/images/sales-pipeline-dashboard-guide.webp"

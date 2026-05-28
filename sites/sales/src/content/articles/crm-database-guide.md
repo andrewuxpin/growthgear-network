@@ -3,7 +3,7 @@ title: "CRM Database Guide: Build, Clean & Use Your Data"
 description: "Learn what a CRM database is, how to structure contact and deal records for B2B sales, maintain data quality, and track the metrics that predict revenue."
 category: "crm-tools"
 author:
-  name: "GrowthGear Team"
+  name: "Abe Dearmer"
 publishedAt: 2026-04-22
 image:
   src: "/images/crm-database-guide.webp"

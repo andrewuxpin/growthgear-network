@@ -3,7 +3,7 @@ title: "What Is Attention Mechanism in Deep Learning?"
 description: "The attention mechanism in deep learning is the engine behind ChatGPT, BERT, and every modern transformer. Learn how QKV scoring enables AI to focus on context."
 category: "deep-learning"
 author:
-  name: "GrowthGear Team"
+  name: "Abe Dearmer"
 publishedAt: 2026-04-09
 image:
   src: "/images/attention-mechanism-deep-learning-explained.webp"

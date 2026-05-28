@@ -3,7 +3,7 @@ title: "YouTube SEO Guide: Rank Your Videos in 2026"
 description: "Master YouTube SEO with proven tactics for keyword research, video optimization, and ranking higher. Discover how to get your videos found by more viewers."
 category: "seo"
 author:
-  name: "GrowthGear Team"
+  name: "Abe Dearmer"
 publishedAt: 2026-03-31
 image:
   src: "/images/youtube-seo-guide.webp"

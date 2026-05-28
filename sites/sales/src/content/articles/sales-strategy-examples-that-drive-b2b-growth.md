@@ -3,7 +3,7 @@ title: "7 Sales Strategy Examples That Drive B2B Growth"
 description: "Explore 7 proven B2B sales strategy examples, from inbound content models to ABM and Challenger Sale. Discover how to adapt each approach for your team."
 category: "sales-techniques"
 author:
-  name: "GrowthGear Team"
+  name: "Abe Dearmer"
 publishedAt: 2026-04-28
 image:
   src: "/images/sales-strategy-examples-that-drive-b2b-growth.webp"

@@ -3,7 +3,7 @@ title: "Best AI Tools for HR: Hiring, Onboarding & Analytics"
 description: "Compare the 9 best AI tools for HR teams. From ATS and recruiting to onboarding automation and people analytics — find the right stack for your team size."
 category: "ai-tools"
 author:
-  name: "GrowthGear Team"
+  name: "Andrew Martin"
 publishedAt: 2026-05-20
 image:
   src: "/images/best-ai-tools-for-hr.webp"

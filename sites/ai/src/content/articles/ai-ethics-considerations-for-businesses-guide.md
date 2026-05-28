@@ -3,7 +3,7 @@ title: "AI Ethics for Businesses: Complete Guide"
 description: "Discover essential AI ethics considerations for businesses. Learn how to implement responsible AI practices, avoid bias, ensure transparency & build trust."
 category: "machine-learning"
 author:
-  name: "GrowthGear Team"
+  name: "Andrew Martin"
 publishedAt: 2026-02-01
 image:
   src: "/images/ai-ethics-considerations-for-businesses-guide.webp"

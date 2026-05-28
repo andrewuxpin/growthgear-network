@@ -3,7 +3,7 @@ title: "Best AI Tools for Content Creation in 2026"
 description: "The best AI tools for content creation, ranked by use case. Covers writing, visual, video, and audio AI tools for business teams — with pricing data."
 category: "ai-tools"
 author:
-  name: "GrowthGear Team"
+  name: "Abe Dearmer"
 publishedAt: 2026-03-18
 image:
   src: "/images/best-ai-tools-for-content-creation.webp"

@@ -3,7 +3,7 @@ title: "Client Relationship Management: The Complete Guide"
 description: "Learn how to build a client relationship management strategy that drives retention, repeat revenue, and referrals. Practical process, metrics, and CRM tools."
 category: "crm-tools"
 author:
-  name: "GrowthGear Team"
+  name: "Abe Dearmer"
 publishedAt: 2026-05-13
 image:
   src: "/images/client-relationship-management-guide.webp"

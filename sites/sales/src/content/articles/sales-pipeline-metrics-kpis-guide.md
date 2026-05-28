@@ -3,7 +3,7 @@ title: "Sales Pipeline Metrics: KPIs Every Team Must Track"
 description: "Master sales pipeline metrics with our guide to 8 essential KPIs, industry benchmarks, and how to use pipeline data to forecast revenue and coach your team."
 category: "b2b-sales"
 author:
-  name: "GrowthGear Team"
+  name: "Abe Dearmer"
 publishedAt: 2026-03-28
 image:
   src: "/images/sales-pipeline-metrics-kpis-guide.webp"

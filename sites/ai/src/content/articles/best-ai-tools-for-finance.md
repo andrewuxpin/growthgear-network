@@ -3,7 +3,7 @@ title: "Best AI Tools for Finance Teams in 2026"
 description: "The best AI tools for finance teams automate FP&A, expense management, and reporting. Compare 9 top tools with pricing and features to find the right fit."
 category: "ai-tools"
 author:
-  name: "GrowthGear Team"
+  name: "Abe Dearmer"
 publishedAt: 2026-05-06
 image:
   src: "/images/best-ai-tools-for-finance.webp"

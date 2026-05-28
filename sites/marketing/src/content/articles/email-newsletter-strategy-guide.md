@@ -3,7 +3,7 @@ title: "Email Newsletter Strategy: Build One That Converts"
 description: "Learn how to build an email newsletter strategy that grows your subscriber list, boosts open rates, and drives revenue. Practical tactics for marketing teams."
 category: "content-marketing"
 author:
-  name: "GrowthGear Team"
+  name: "Abe Dearmer"
 publishedAt: 2026-05-15
 image:
   src: "/images/email-newsletter-strategy-guide.webp"

@@ -3,7 +3,7 @@ title: "Ecommerce Email Marketing Strategy Guide"
 description: "Master ecommerce email marketing with proven automated flows, segmentation strategies, and personalization tactics that drive consistent revenue growth."
 category: "content-marketing"
 author:
-  name: "GrowthGear Team"
+  name: "Andrew Martin"
 publishedAt: 2026-03-20
 image:
   src: "/images/ecommerce-email-marketing-strategy-guide.webp"

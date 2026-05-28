@@ -3,7 +3,7 @@ title: "Outreach Email: How to Write Emails That Get"
 description: "Learn how to write outreach emails that get replies. Proven subject lines, body copy frameworks, sequencing cadences, and performance metrics for B2B sales."
 category: "sales-techniques"
 author:
-  name: "GrowthGear Team"
+  name: "Andrew Martin"
 publishedAt: 2026-04-05
 image:
   src: "/images/outreach-email-guide.webp"

@@ -3,7 +3,7 @@ title: "What Is an Epoch in Machine Learning?"
 description: "An epoch in machine learning is one full pass through your training data. Learn how epochs affect model accuracy, overfitting, and training efficiency."
 category: "machine-learning"
 author:
-  name: "GrowthGear Team"
+  name: "Abe Dearmer"
 publishedAt: 2026-03-17
 image:
   src: "/images/what-is-an-epoch-in-machine-learning.webp"

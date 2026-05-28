@@ -3,7 +3,7 @@ title: "Best Client Management Software for 2026"
 description: "Discover the best client management software for 2026. This guide compares HubSpot, Salesforce, Pipedrive, and Zoho CRM by features, pricing, and use cases."
 category: "crm-tools"
 author:
-  name: "GrowthGear Team"
+  name: "Andrew Martin"
 publishedAt: 2026-04-29
 image:
   src: "/images/best-client-management-software.webp"

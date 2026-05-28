@@ -3,7 +3,7 @@ title: "Organic SEO: How to Rank Without Paid Ads"
 description: "Learn organic SEO strategies that drive consistent traffic without paid ads. From keyword research to link building, get actionable tactics used by top brands."
 category: "seo"
 author:
-  name: "GrowthGear Team"
+  name: "Abe Dearmer"
 publishedAt: 2026-04-14
 image:
   src: "/images/organic-seo-strategy-guide.webp"

@@ -3,7 +3,7 @@ title: "Salesperson Strategies to Hit Quota Every Quarter"
 description: "Proven salesperson strategies to hit quota consistently. Master prospecting, deal advancement, time management, and performance tracking for B2B sales success."
 category: "sales-techniques"
 author:
-  name: "GrowthGear Team"
+  name: "Abe Dearmer"
 publishedAt: 2026-03-10
 image:
   src: "/images/salesperson-strategies-hit-quota-consistently.webp"

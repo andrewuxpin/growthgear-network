@@ -3,7 +3,7 @@ title: "Best Digital Marketing Platforms for"
 description: "Compare the best digital marketing platforms for SEO, email, social media, and paid ads. Practical recommendations by channel, budget, and business stage."
 category: "content-marketing"
 author:
-  name: "GrowthGear Team"
+  name: "Abe Dearmer"
 publishedAt: 2026-04-02
 image:
   src: "/images/best-digital-marketing-platforms-for-business.webp"

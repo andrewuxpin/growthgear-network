@@ -3,7 +3,7 @@ title: "Content Marketing Ideas: 25 Proven Tactics"
 description: "Discover 25 proven content marketing ideas that drive real traffic and leads. From blog tactics to video formats, build a strategy that grows your business."
 category: "content-marketing"
 author:
-  name: "GrowthGear Team"
+  name: "Andrew Martin"
 publishedAt: 2026-05-05
 image:
   src: "/images/content-marketing-ideas-proven-tactics.webp"

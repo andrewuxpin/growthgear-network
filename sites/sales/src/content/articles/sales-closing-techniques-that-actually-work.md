@@ -3,7 +3,7 @@ title: "Sales Closing Techniques That Actually Work"
 description: "Master the sales closing techniques that top performers use to seal deals. Proven methods for timing, reading signals, and closing without pressure tactics."
 category: "sales-techniques"
 author:
-  name: "GrowthGear Team"
+  name: "Abe Dearmer"
 publishedAt: 2026-03-05
 image:
   src: "/images/sales-closing-techniques-that-actually-work.webp"

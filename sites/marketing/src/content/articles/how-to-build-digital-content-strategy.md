@@ -3,7 +3,7 @@ title: "How to Build a Digital Content Strategy"
 description: "Learn how to build a digital content strategy that drives organic traffic, qualified leads, and measurable ROI. A complete step-by-step guide for marketers."
 category: "content-marketing"
 author:
-  name: "GrowthGear Team"
+  name: "Andrew Martin"
 publishedAt: 2026-05-18
 image:
   src: "/images/how-to-build-digital-content-strategy.webp"

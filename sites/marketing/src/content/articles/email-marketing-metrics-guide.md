@@ -3,7 +3,7 @@ title: "Email Marketing Metrics That Actually Drive Revenue"
 description: "Learn which email marketing metrics matter most, real 2026 benchmarks, and how to diagnose underperforming campaigns — backed by HubSpot and Mailchimp data."
 category: "content-marketing"
 author:
-  name: "GrowthGear Team"
+  name: "Abe Dearmer"
 publishedAt: 2026-05-26
 image:
   src: "/images/email-marketing-metrics-guide.webp"

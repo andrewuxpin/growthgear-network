@@ -3,7 +3,7 @@ title: "Technical SEO Audit Checklist: 2026 Guide"
 description: "Run a complete technical SEO audit with this step-by-step checklist. Fix crawl errors, improve Core Web Vitals, and boost your rankings in 2026."
 category: "seo"
 author:
-  name: "GrowthGear Team"
+  name: "Abe Dearmer"
 publishedAt: 2026-03-03
 image:
   src: "/images/technical-seo-audit-checklist-complete-guide.webp"

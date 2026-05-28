@@ -3,7 +3,7 @@ title: "What Is a Content Marketing Consultant?"
 description: "A content marketing consultant helps businesses plan, create, and measure content that drives growth. Learn what they do, when to hire one, and what to expect."
 category: "content-marketing"
 author:
-  name: "GrowthGear Team"
+  name: "Andrew Martin"
 publishedAt: 2026-05-19
 image:
   src: "/images/what-is-a-content-marketing-consultant.webp"

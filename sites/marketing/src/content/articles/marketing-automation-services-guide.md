@@ -3,7 +3,7 @@ title: "Marketing Automation Services: Complete"
 description: "Learn what marketing automation services are, the key types available, how to evaluate providers, and what pricing to expect. A practical buyer's guide."
 category: "content-marketing"
 author:
-  name: "GrowthGear Team"
+  name: "Andrew Martin"
 publishedAt: 2026-04-19
 image:
   src: "/images/marketing-automation-services-guide.webp"

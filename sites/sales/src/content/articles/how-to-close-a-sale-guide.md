@@ -3,7 +3,7 @@ title: "How to Close a Sale: A Step-by-Step Guide"
 description: "Learn exactly how to close a sale with a proven step-by-step process. Master buying signals, handle late objections, and seal more deals consistently."
 category: "sales-techniques"
 author:
-  name: "GrowthGear Team"
+  name: "Abe Dearmer"
 publishedAt: 2026-03-19
 image:
   src: "/images/how-to-close-a-sale-guide.webp"

@@ -3,7 +3,7 @@ title: "How to Hire a Data Scientist: Business Guide 2026"
 description: "How to hire a data scientist in 2026: key skills to look for, salary benchmarks by experience, interview questions, and when to hire in-house vs outsource."
 category: "machine-learning"
 author:
-  name: "GrowthGear Team"
+  name: "Abe Dearmer"
 publishedAt: 2026-03-29
 image:
   src: "/images/how-to-hire-a-data-scientist-business-guide.webp"

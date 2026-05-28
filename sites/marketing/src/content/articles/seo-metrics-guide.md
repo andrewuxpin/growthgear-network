@@ -3,7 +3,7 @@ title: "SEO Metrics: The Essential KPIs to Track"
 description: "Learn the essential SEO metrics every marketer should know. From organic CTR and keyword rankings to Core Web Vitals, track the KPIs that drive growth."
 category: "seo"
 author:
-  name: "GrowthGear Team"
+  name: "Abe Dearmer"
 publishedAt: 2026-03-24
 tags:
   - seo

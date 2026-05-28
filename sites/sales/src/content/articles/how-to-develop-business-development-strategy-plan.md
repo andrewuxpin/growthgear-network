@@ -3,7 +3,7 @@ title: "How to Develop a Business Development"
 description: "Learn how to develop a business development strategy plan with our complete guide. Get actionable templates, examples, and proven frameworks to grow..."
 category: "sales-techniques"
 author:
-  name: "GrowthGear Team"
+  name: "Abe Dearmer"
 publishedAt: 2026-02-01
 image:
   src: "/images/how-to-develop-business-development-strategy-plan.webp"

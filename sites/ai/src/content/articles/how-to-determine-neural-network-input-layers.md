@@ -3,7 +3,7 @@ title: "How to Determine Neural Network Input Layers"
 description: "Master how to determine neural network input layers: feature mapping, normalization, and architecture choices for building accurate deep learning models."
 category: "deep-learning"
 author:
-  name: "GrowthGear Team"
+  name: "Andrew Martin"
 publishedAt: 2026-03-27
 image:
   src: "/images/how-to-determine-neural-network-input-layers.webp"

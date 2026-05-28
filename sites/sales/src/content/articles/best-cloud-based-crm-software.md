@@ -3,7 +3,7 @@ title: "Best Cloud-Based CRM Software for Sales"
 description: "Compare the best cloud-based CRM software for sales teams in 2026. Features, pricing, and expert guidance to choose the right platform and close more deals."
 category: "crm-tools"
 author:
-  name: "GrowthGear Team"
+  name: "Abe Dearmer"
 publishedAt: 2026-04-01
 image:
   src: "/images/best-cloud-based-crm-software.webp"

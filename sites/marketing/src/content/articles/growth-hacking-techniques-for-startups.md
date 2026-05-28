@@ -3,7 +3,7 @@ title: "Growth Hacking Techniques for Startups"
 description: "Discover 12 proven growth hacking techniques for startups. Viral loops, product-led growth, and data-driven tactics that deliver 156%+ user growth."
 category: "content-marketing"
 author:
-  name: "GrowthGear Team"
+  name: "Abe Dearmer"
 publishedAt: 2026-03-07
 image:
   src: "/images/growth-hacking-techniques-for-startups.webp"

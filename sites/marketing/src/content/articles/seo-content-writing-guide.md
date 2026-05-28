@@ -3,7 +3,7 @@ title: "SEO Content Writing: A Complete Guide to"
 description: "Master SEO content writing: keyword research, on-page optimization, and structure techniques to rank higher in search and drive consistent organic traffic."
 category: "seo"
 author:
-  name: "GrowthGear Team"
+  name: "Andrew Martin"
 publishedAt: 2026-04-07
 image:
   src: "/images/seo-content-writing-guide.webp"

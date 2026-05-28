@@ -3,7 +3,7 @@ title: "How to Plan a Digital Marketing Campaign"
 description: "Learn how to plan a winning digital marketing campaign — from setting SMART goals and allocating budget to selecting channels and tracking ROI effectively."
 category: "content-marketing"
 author:
-  name: "GrowthGear Team"
+  name: "Abe Dearmer"
 publishedAt: 2026-04-09
 image:
   src: "/images/how-to-plan-digital-marketing-campaign.webp"

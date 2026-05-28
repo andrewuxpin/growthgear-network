@@ -3,7 +3,7 @@ title: "How to Build an SEO Content Strategy"
 description: "Build an SEO content strategy that drives consistent organic growth. A step-by-step framework for keyword research, content architecture, and measuring results."
 category: "seo"
 author:
-  name: "GrowthGear Team"
+  name: "Andrew Martin"
 publishedAt: 2026-03-30
 image:
   src: "/images/how-to-build-seo-content-strategy.webp"

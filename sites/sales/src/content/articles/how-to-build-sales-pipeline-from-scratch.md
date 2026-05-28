@@ -3,7 +3,7 @@ title: "How to Build a Sales Pipeline From Scratch"
 description: "Learn how to build a sales pipeline from scratch with proven strategies, templates, and best practices. Boost conversions and revenue with our..."
 category: "sales-techniques"
 author:
-  name: "GrowthGear Team"
+  name: "Andrew Martin"
 publishedAt: 2026-01-29
 image:
   src: "/images/how-to-build-sales-pipeline-from-scratch.webp"

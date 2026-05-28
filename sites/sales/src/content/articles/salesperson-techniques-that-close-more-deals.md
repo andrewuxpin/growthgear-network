@@ -3,7 +3,7 @@ title: "Top Salesperson Techniques to Close More Deals"
 description: "Master the proven salesperson techniques that top reps use to prospect smarter, run better discovery, handle objections, and close more deals consistently."
 category: "sales-techniques"
 author:
-  name: "GrowthGear Team"
+  name: "Andrew Martin"
 publishedAt: 2026-03-24
 tags:
   - salesperson-techniques

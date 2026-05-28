@@ -3,7 +3,7 @@ title: "How to Measure Content Marketing ROI: 2026 Guide"
 description: "Learn how to measure content marketing ROI with a clear formula, the metrics that matter, attribution models, and benchmarks from CMI and HubSpot research."
 category: "content-marketing"
 author:
-  name: "GrowthGear Team"
+  name: "Abe Dearmer"
 publishedAt: 2026-05-25
 image:
   src: "/images/how-to-measure-content-marketing-roi.webp"

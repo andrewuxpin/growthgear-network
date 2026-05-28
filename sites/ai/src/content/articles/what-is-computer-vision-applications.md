@@ -3,7 +3,7 @@ title: "Computer Vision Applications: Real-World Use Cases"
 description: "Discover what computer vision applications are and how they're transforming healthcare, retail, manufacturing, and more. Complete guide with examples and."
 category: "machine-learning"
 author:
-  name: "GrowthGear Team"
+  name: "Andrew Martin"
 publishedAt: 2026-01-31
 image:
   src: "/images/what-is-computer-vision-applications.webp"

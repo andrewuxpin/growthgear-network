@@ -3,7 +3,7 @@ title: "Benefits of Email Marketing for Business Growth"
 description: "Discover the proven benefits of email marketing — from 36:1 ROI to direct audience ownership — and learn how to maximize every send for business growth."
 category: "content-marketing"
 author:
-  name: "GrowthGear Team"
+  name: "Andrew Martin"
 publishedAt: 2026-04-24
 image:
   src: "/images/benefits-of-email-marketing.webp"

@@ -3,7 +3,7 @@ title: "Transfer Learning in Machine Learning: Complete Guide"
 description: "Master transfer learning in machine learning. Learn how pre-trained models save time, reduce data requirements, and deliver 10x faster results for your..."
 category: "deep-learning"
 author:
-  name: "GrowthGear Team"
+  name: "Andrew Martin"
 publishedAt: 2026-03-05
 image:
   src: "/images/transfer-learning-machine-learning-guide.webp"

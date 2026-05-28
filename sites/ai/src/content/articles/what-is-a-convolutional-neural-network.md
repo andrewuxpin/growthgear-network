@@ -3,7 +3,7 @@ title: "What Is a Convolutional Neural Network? CNN"
 description: "What is a convolutional neural network? A clear guide to CNN architecture, convolutional layers, business use cases, and how CNNs differ from MLPs and"
 category: "deep-learning"
 author:
-  name: "GrowthGear Team"
+  name: "Abe Dearmer"
 publishedAt: 2026-05-22
 image:
   src: "/images/what-is-a-convolutional-neural-network.webp"

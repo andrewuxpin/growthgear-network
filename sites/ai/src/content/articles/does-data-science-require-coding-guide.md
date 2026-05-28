@@ -3,7 +3,7 @@ title: "Does Data Science Require Coding? Complete Guide"
 description: "Discover if data science requires coding. Learn which languages matter, when no-code tools work, and how to hire the right data science talent for your team."
 category: "machine-learning"
 author:
-  name: "GrowthGear Team"
+  name: "Abe Dearmer"
 publishedAt: 2026-05-03
 image:
   src: "/images/does-data-science-require-coding-guide.webp"

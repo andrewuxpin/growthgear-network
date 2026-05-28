@@ -3,7 +3,7 @@ title: "Best Lead Generation Tools for B2B Sales Teams"
 description: "The best lead generation tools for B2B sales teams in 2026: prospecting databases, outbound automation, and inbound capture tools reviewed and ranked."
 category: "sales-techniques"
 author:
-  name: "GrowthGear Team"
+  name: "Abe Dearmer"
 publishedAt: 2026-05-08
 image:
   src: "/images/best-lead-generation-tools.webp"
