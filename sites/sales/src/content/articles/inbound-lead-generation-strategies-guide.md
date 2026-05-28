@@ -101,7 +101,7 @@ The five channels that consistently produce qualified B2B inbound pipeline are o
 
 ### Organic search and SEO content
 
-Organic search is the largest single inbound source for most B2B businesses. Demand Gen Report's 2024 Content Preferences Survey found that 68% of B2B buyers start their research with a search engine. Build a keyword cluster strategy around bottom-of-funnel terms ("best [category] software", "[category] for [industry]"), middle-of-funnel comparisons ("[competitor A] vs [competitor B]"), and top-of-funnel problem queries ("how to [solve buyer problem]"). Pair each piece with [SEO-optimized landing pages](https://marketing.growthgear.com.au/seo/how-to-optimize-landing-pages-for-conversions-complete-guide) and clear conversion paths.
+Organic search is the largest single inbound source for most B2B businesses. Demand Gen Report's 2024 Content Preferences Survey found that 68% of B2B buyers start their research with a search engine. Build a keyword cluster strategy around bottom-of-funnel terms ("best [category] software", "[category] for [industry]"), middle-of-funnel comparisons ("[competitor A] vs [competitor B]"), and top-of-funnel problem queries ("how to [solve buyer problem]"). Pair each piece with [SEO-optimized landing pages](https://marketing.growthgear.com.au/seo/how-to-optimize-landing-pages-for-conversions-complete-guide) and clear conversion paths. Our [lead generation SEO strategy guide](/sales-techniques/lead-generation-seo-strategy-guide) walks through the keyword-to-pipeline mapping that makes organic search a forecastable channel.
 
 ### Gated content and lead magnets
 

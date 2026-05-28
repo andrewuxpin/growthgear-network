@@ -90,7 +90,7 @@ Long-form guides convert through:
 - **Newsletter sign-up CTAs**: Placed mid-article, where engagement is highest
 - **Bottom-of-page consultation offers**: For buyers who've read the full piece and are ready to act
 
-For your [B2B sales funnel](/b2b-sales/b2b-sales-funnel-guide), pillar pages fill the top-of-funnel with organic traffic while internal links nurture visitors into evaluation content. This is the hub-and-spoke structure that turns a blog into a lead generation system.
+For your [B2B sales funnel](/b2b-sales/b2b-sales-funnel-guide), pillar pages fill the top-of-funnel with organic traffic while internal links nurture visitors into evaluation content. This is the hub-and-spoke structure that turns a blog into a lead generation system. For the technical SEO patterns that make pillar pages rank and convert, see our [lead generation SEO strategy guide](/sales-techniques/lead-generation-seo-strategy-guide).
 
 ### Case Studies and ROI Reports
 
