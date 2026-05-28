@@ -41,7 +41,7 @@ callout:
   content: "Sending more emails to the same list rarely lifts pipeline. Sending the same volume to three well-defined segments almost always does. Fix segmentation first, then expand cadence."
 ---
 
-B2B email marketing is the discipline most likely to be both over-spent on and under-measured. Marketing teams pour budget into automation platforms, hire dedicated email specialists, and ship more sends every quarter — yet most B2B email programs still get evaluated on open rates that no longer reliably measure anything.
+B2B email marketing is the discipline most likely to be both over-spent on and under-measured. Marketing teams pour budget into automation platforms, hire dedicated email specialists or [an email marketing agency](/content-marketing/how-to-choose-an-email-marketing-agency), and ship more sends every quarter — yet most B2B email programs still get evaluated on open rates that no longer reliably measure anything.
 
 The fundamentals have changed. Apple Mail Privacy Protection inflates opens. Buying committees now average 6-10 stakeholders according to Gartner, meaning a single email rarely converts on first send. Sales cycles in B2B SaaS have lengthened by roughly 17% since 2023 per Forrester research, and the median deal involves 27 customer interactions before close, per a 2025 Demand Gen Report study.
 
