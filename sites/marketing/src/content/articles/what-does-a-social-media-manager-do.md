@@ -108,6 +108,8 @@ According to [Sprout Social's 2024 Social Media Index](https://sproutsocial.com/
 
 For small businesses managing social in-house without a dedicated person, [social media marketing for small business](/social-media/social-media-marketing-for-small-business) provides a realistic baseline framework: two to three platforms maximum, weekly content batching sessions, and platform-native analytics before investing in third-party tools. Once social media work exceeds 10 hours per week consistently, the ROI case for a dedicated hire becomes straightforward.
 
+Some teams sequence the build differently — engaging [a social media consultant](/social-media/what-is-a-social-media-consultant) to design the platform strategy and content playbook first, then hiring a manager to execute the documented system. This sequence prevents the common mistake of hiring a manager into a strategic vacuum, which usually produces high posting volume with low business impact.
+
 ## Essential Skills Every Social Media Manager Needs
 
 The role requires six distinct competencies: copywriting, visual design, strategic planning, analytics interpretation, paid advertising, and business communication. Employers at mid-level roles expect working proficiency across all six — not depth in one or two. A portfolio demonstrating measurable results across these skill sets is more persuasive to hiring managers than certifications or follower counts alone.

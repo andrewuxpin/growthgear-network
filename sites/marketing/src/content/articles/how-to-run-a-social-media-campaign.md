@@ -71,7 +71,7 @@ The distinction matters because budget allocation, creative production, and meas
 | KPI | Audience growth, share of voice | Single primary KPI |
 | Reporting | Monthly | Pre/during/post campaign |
 
-For a deeper look at how campaigns fit a broader plan, see our guide to [planning a digital marketing campaign](/content-marketing/how-to-plan-digital-marketing-campaign).
+For a deeper look at how campaigns fit a broader plan, see our guide to [planning a digital marketing campaign](/content-marketing/how-to-plan-digital-marketing-campaign). Teams running their first major campaign sometimes bring in [a social media consultant](/social-media/what-is-a-social-media-consultant) for a one-time strategy build covering platform selection, content pillars, and the measurement framework — then execute internally against that documented playbook.
 
 ## The 7-Step Social Media Campaign Framework
 
