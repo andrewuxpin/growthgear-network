@@ -40,7 +40,7 @@ AI systems often process vast amounts of personal data, making privacy protectio
 Clear ownership and accountability structures must be established for AI systems, ensuring that human oversight remains central to automated decision-making processes.
 
 **5. Safety and Security**
-AI systems must be designed with safety measures to prevent harm and security protocols to protect against malicious attacks or misuse.
+AI systems must be designed with safety measures to prevent harm and security protocols to protect against malicious attacks or misuse. Credentialing the people who own these controls matters too — see our [AI security certifications guide](/machine-learning/ai-security-certifications-guide) for the practitioner credentials (AAISM, AIGP, CAISP) and the ISO 42001 audit pathway that operationalize this principle.
 
 ## Key Ethical Challenges in Business AI Implementation
 

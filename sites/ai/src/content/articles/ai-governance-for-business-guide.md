@@ -182,7 +182,7 @@ Published in December 2023, [ISO/IEC 42001](https://www.iso.org/standard/81230.h
 
 ISO 42001 certification provides a credible, third-party verified signal of AI governance maturity — valuable in enterprise sales cycles, regulatory conversations, and investor due diligence. The standard covers: organizational governance and accountability, AI risk management, impact assessment processes, and continual improvement cycles.
 
-For businesses selling AI-adjacent services to enterprise clients, ISO 42001 certification is increasingly appearing as a vendor qualification requirement in procurement RFPs.
+For businesses selling AI-adjacent services to enterprise clients, ISO 42001 certification is increasingly appearing as a vendor qualification requirement in procurement RFPs. Pair the organization-level standard with individual practitioner credentials — our [AI security certifications guide](/machine-learning/ai-security-certifications-guide) covers the role-to-certification matrix for AAISM, AIGP, and CAISP that complements ISO 42001 implementation.
 
 ## How to Implement AI Governance: A 4-Phase Plan
 
