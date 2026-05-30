@@ -122,7 +122,7 @@ Technical skills get you hired; business skills determine your impact.
 
 **Storytelling with data** is the ability to translate analytical findings into decisions. A finding has no value if it doesn't change behavior. This means structuring presentations around a clear recommendation, anticipating stakeholder questions, and knowing when to simplify.
 
-**Stakeholder management** separates senior analytics professionals from junior ones. Data requests multiply faster than analysts can fulfill them. Prioritizing based on business impact, pushing back on poorly defined questions, and setting expectations on timelines are all skills developed through experience, not classroom training.
+**Stakeholder management** separates senior analytics professionals from junior ones. Data requests multiply faster than analysts can fulfill them. Prioritizing based on business impact, pushing back on poorly defined questions, and setting expectations on timelines are all skills developed through experience, not classroom training. For employers building a hiring loop around these signals, our [data analyst skills hiring checklist](/machine-learning/data-analyst-skills-hiring-checklist-guide) breaks down the skill bar by seniority and how to test for each one in interviews.
 
 > **Common mistake:** Analytics teams that optimize for output volume (number of reports, dashboards built) instead of decision quality create noise. Measure the analytics function by decisions improved, not dashboards delivered.
 

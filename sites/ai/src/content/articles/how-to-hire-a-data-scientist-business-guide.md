@@ -103,7 +103,7 @@ Not every role requires deep learning expertise. Be specific about what you need
 
 For context on how [machine learning algorithms work in business applications](/machine-learning/machine-learning-algorithms-and-applications-guide), read our overview of the core methods.
 
-To understand exactly how much Python and SQL depth to require by role tier — and which screening questions reveal real-world data skills — see our complete guide on [does data science require coding](/machine-learning/does-data-science-require-coding-guide).
+To understand exactly how much Python and SQL depth to require by role tier — and which screening questions reveal real-world data skills — see our complete guide on [does data science require coding](/machine-learning/does-data-science-require-coding-guide). For the analyst-specific skill checklist by seniority — including the take-home case study design we use across hiring loops — see our [data analyst skills hiring checklist](/machine-learning/data-analyst-skills-hiring-checklist-guide).
 
 ### What to Evaluate in a Candidate's Past Work
 

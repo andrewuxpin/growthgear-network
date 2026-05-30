@@ -130,7 +130,7 @@ The most common feedback GrowthGear hears from companies who've hired data analy
 
 If your analyst only knows Excel and no SQL, your data access will always be bottlenecked by engineering availability. Start the technical bar at SQL fluency and at least one BI tool.
 
-> **Pro tip:** During the interview process, give candidates a small SQL take-home test on a realistic dataset. Resumes that say "proficient in SQL" vary enormously in what that actually means.
+> **Pro tip:** During the interview process, give candidates a small SQL take-home test on a realistic dataset. Resumes that say "proficient in SQL" vary enormously in what that actually means. For a complete hiring checklist with skills-by-seniority benchmarks and take-home assessment design, see our [data analyst skills hiring checklist](/machine-learning/data-analyst-skills-hiring-checklist-guide).
 
 ## Data Analyst vs. Data Scientist vs. Data Engineer
 
