@@ -125,7 +125,7 @@ According to [LinkedIn's 2025 Jobs on the Rise report](https://www.linkedin.com/
 
 1. **Marketing Operations Manager** — owns the full MOps function, including budget, vendor selection, and team hiring. Typical 4-6 year path from specialist.
 2. **RevOps Leader** — combines marketing, sales, and customer success ops under one role. Strong fit for specialists who enjoy cross-functional work.
-3. **Automation Consultant or Architect** — moves to agency, freelance, or a [marketing automation agency](/content-marketing/marketing-automation-agency-guide), often at 50-80% higher hourly rates than employed peers.
+3. **Automation Consultant or Architect** — moves to agency, freelance, or a [marketing automation agency](/content-marketing/marketing-automation-agency-guide), often at 50-80% higher hourly rates than employed peers. The [marketing automation consultant role](/content-marketing/what-is-a-marketing-automation-consultant) is the most common solo path, with senior consultants billing US$150-300 per hour.
 
 A smaller but growing path is the pivot to **martech product management** at vendors like HubSpot, Klaviyo, or Iterable — specialists who deeply understand customer workflows make strong product hires.
 
