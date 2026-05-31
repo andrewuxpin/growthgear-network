@@ -83,7 +83,7 @@ The best AI writing tools for most businesses are **ChatGPT** and **Claude** for
 
 **Strengths**: Exceptional at following complex, multi-step briefs. Handles nuance well in longer content. GPT-4o's file and web browsing capabilities make it useful for research-backed writing.
 
-**Weaknesses**: Without a structured prompt, output defaults to verbose and generic. Requires more prompt engineering than purpose-built writing tools.
+**Weaknesses**: Without a structured prompt, output defaults to verbose and generic. Requires more prompt engineering than purpose-built writing tools. Default output also reads obviously AI-generated to detectors — if your content goes through GPTZero, Originality.ai, or Copyleaks scans, plan to pair ChatGPT with one of the [online tools to humanize AI text](/ai-tools/online-tools-to-humanize-ai-text-guide) before publication.
 
 **Best for**: Teams that need one tool to handle 80% of their writing tasks — email, reports, briefs, social, and long-form.
 
