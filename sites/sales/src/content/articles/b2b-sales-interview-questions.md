@@ -1,5 +1,5 @@
 ---
-title: "B2B Sales Interview Questions That Find Top Talent"
+title: "B2B Sales Interview Questions That Find Top"
 description: "Find top B2B sales talent faster. Discover the interview questions that reveal sales methodology, resilience, and quota-busting potential in candidates."
 category: "b2b-sales"
 author:

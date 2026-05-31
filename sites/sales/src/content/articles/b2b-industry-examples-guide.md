@@ -1,5 +1,5 @@
 ---
-title: "B2B Industry Examples: Top Sectors to Know in 2026"
+title: "B2B Industry Examples: Top Sectors to Know"
 description: "Discover the top B2B industry examples driving revenue in 2026. Learn how sales strategies differ across sectors and which verticals to prioritize for growth."
 category: "b2b-sales"
 author:

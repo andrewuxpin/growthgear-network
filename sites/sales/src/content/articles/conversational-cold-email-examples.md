@@ -1,5 +1,5 @@
 ---
-title: "Conversational Cold Email Examples That Get Replies"
+title: "Conversational Cold Email Examples That Get"
 description: "Learn how to write conversational cold emails that get responses. 8 proven examples by use case, with personalization tips and response rate benchmarks."
 category: "sales-techniques"
 author:

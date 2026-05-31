@@ -1,5 +1,5 @@
 ---
-title: "Client Relationship Management: The Complete Guide"
+title: "Client Relationship Management: The"
 description: "Learn how to build a client relationship management strategy that drives retention, repeat revenue, and referrals. Practical process, metrics, and CRM tools."
 category: "crm-tools"
 author:

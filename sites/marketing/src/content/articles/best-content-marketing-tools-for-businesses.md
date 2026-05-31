@@ -1,5 +1,5 @@
 ---
-title: "Best Content Marketing Tools for Growing Businesses"
+title: "Best Content Marketing Tools for Growing"
 description: "Discover the best content marketing tools for creating, publishing, and measuring content that ranks. Curated picks for marketing teams ready to scale."
 category: "content-marketing"
 author:

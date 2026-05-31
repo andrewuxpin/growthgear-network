@@ -1,5 +1,5 @@
 ---
-title: "Sales Follow-Up Email Guide: Templates That Convert"
+title: "Sales Follow-Up Email Guide: Templates That"
 description: "Master sales follow-up emails with proven templates and sequences. Learn timing, messaging, and automation strategies that turn cold leads into closed deals."
 category: "sales-techniques"
 author:

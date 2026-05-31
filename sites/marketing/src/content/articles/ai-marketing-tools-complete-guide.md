@@ -1,5 +1,5 @@
 ---
-title: "AI Marketing Tools: Complete Guide for Growth Teams"
+title: "AI Marketing Tools: Complete Guide for"
 description: "Discover the best AI marketing tools for content, SEO, email, and social media. Learn how to choose, implement, and get ROI from AI in your marketing stack."
 category: "content-marketing"
 author:

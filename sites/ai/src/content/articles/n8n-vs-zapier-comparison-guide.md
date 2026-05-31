@@ -1,5 +1,5 @@
 ---
-title: "n8n vs Zapier: Pricing, Features, and Use Cases Compared"
+title: "n8n vs Zapier: Pricing, Features, and Use"
 description: "n8n vs Zapier: open-source self-hosted automation vs no-code cloud workflows. Compare pricing, AI features, integrations, and the right tool for your team."
 category: "ai-tools"
 author:

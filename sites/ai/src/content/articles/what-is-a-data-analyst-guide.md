@@ -1,5 +1,5 @@
 ---
-title: "What Is a Data Analyst? Role, Skills, and Salary Guide"
+title: "What Is a Data Analyst? Role, Skills, and"
 description: "What is a data analyst? Discover their core role, essential technical skills, salary benchmarks by region, and when to hire one for your team in 2026."
 category: "machine-learning"
 author:

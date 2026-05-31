@@ -1,5 +1,5 @@
 ---
-title: "Sales Tactics That Close More Deals (Proven Guide)"
+title: "Sales Tactics That Close More Deals (Proven"
 description: "Master the sales tactics that separate top performers from average reps. Proven prospecting, closing, and B2B account tactics with real performance benchmarks."
 category: "sales-techniques"
 author:

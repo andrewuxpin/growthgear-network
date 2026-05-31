@@ -1,5 +1,5 @@
 ---
-title: "Lead Generation Techniques That Fill Your Pipeline"
+title: "Lead Generation Techniques That Fill Your"
 description: "The lead generation techniques that actually work in B2B sales: cold outreach, content, referrals, and the qualification system to convert them into revenue."
 category: "sales-techniques"
 author:

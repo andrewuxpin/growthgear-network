@@ -1,5 +1,5 @@
 ---
-title: "B2B Sales Cycle: Stages, Length & How to Shorten It"
+title: "B2B Sales Cycle: Stages, Length & How to"
 description: "Learn the B2B sales cycle stages, understand how long each takes, and apply proven strategies to shorten your cycle and close more deals faster in 2026."
 category: "b2b-sales"
 author:

@@ -1,5 +1,5 @@
 ---
-title: "B2B Email Marketing Strategy: A Complete 2026 Guide"
+title: "B2B Email Marketing Strategy: A Complete"
 description: "Build a B2B email marketing strategy that drives real pipeline. Master segmentation, automation, nurture cadence, and metrics for sustainable B2B growth."
 category: "content-marketing"
 author:

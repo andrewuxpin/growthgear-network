@@ -1,5 +1,5 @@
 ---
-title: "Content Marketing for Small Business: Complete Guide"
+title: "Content Marketing for Small Business"
 description: "Build a content marketing strategy for your small business. Proven tactics, formats, and ROI measurement that help lean marketing teams grow fast with..."
 category: "content-marketing"
 author:

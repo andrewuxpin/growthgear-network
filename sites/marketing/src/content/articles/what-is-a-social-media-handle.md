@@ -1,5 +1,5 @@
 ---
-title: "What Is a Social Media Handle? Brand Strategy Guide"
+title: "What Is a Social Media Handle? Brand"
 description: "Learn what a social media handle is, why consistency across platforms matters for your brand, and how to choose the perfect username for any social network."
 category: "social-media"
 author:

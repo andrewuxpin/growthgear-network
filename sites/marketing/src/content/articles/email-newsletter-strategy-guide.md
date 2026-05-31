@@ -1,5 +1,5 @@
 ---
-title: "Email Newsletter Strategy: Build One That Converts"
+title: "Email Newsletter Strategy: Build One That"
 description: "Learn how to build an email newsletter strategy that grows your subscriber list, boosts open rates, and drives revenue. Practical tactics for marketing teams."
 category: "content-marketing"
 author:

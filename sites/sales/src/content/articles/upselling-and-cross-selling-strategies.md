@@ -1,5 +1,5 @@
 ---
-title: "Upselling and Cross-Selling Strategies for B2B Teams"
+title: "Upselling and Cross-Selling Strategies for"
 description: "Master upselling and cross-selling strategies to grow B2B accounts. Proven techniques to expand revenue from existing customers without new acquisition costs."
 category: "sales-techniques"
 author:

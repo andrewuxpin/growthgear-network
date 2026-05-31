@@ -1,5 +1,5 @@
 ---
-title: "Inbound Lead Generation: Complete B2B Strategy Guide"
+title: "Inbound Lead Generation: Complete B2B"
 description: "Master inbound lead generation with proven B2B strategies. Learn SEO, content, and conversion tactics that attract qualified leads to grow your pipeline."
 category: "sales-techniques"
 author:

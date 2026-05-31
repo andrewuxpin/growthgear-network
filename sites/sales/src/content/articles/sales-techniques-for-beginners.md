@@ -1,5 +1,5 @@
 ---
-title: "Sales Techniques for Beginners: 10 Essential Methods"
+title: "Sales Techniques for Beginners: 10"
 description: "The 10 sales techniques every beginner needs: active listening, qualifying questions, objection handling, and proven closing methods to build revenue."
 category: "sales-techniques"
 author:

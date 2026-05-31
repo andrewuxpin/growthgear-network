@@ -1,5 +1,5 @@
 ---
-title: "Sales Outreach Strategy: 2026 Multichannel Framework"
+title: "Sales Outreach Strategy: 2026 Multichannel"
 description: "Sales outreach strategy in 2026 means orchestrating email, phone, LinkedIn, and video into one engine. Learn the framework that books B2B meetings faster."
 category: "sales-techniques"
 author:

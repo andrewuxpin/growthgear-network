@@ -1,5 +1,5 @@
 ---
-title: "Monday CRM Review: Features, Pricing & Sales Setup"
+title: "Monday CRM Review: Features, Pricing &"
 description: "Monday CRM brings visual pipeline management to B2B teams. Compare features, pricing, setup steps, and how it stacks up against HubSpot and Pipedrive."
 category: "crm-tools"
 author:

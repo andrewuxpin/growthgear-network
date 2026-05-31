@@ -1,5 +1,5 @@
 ---
-title: "Sales Enablement Strategy: Complete Guide for 2026"
+title: "Sales Enablement Strategy: Complete Guide"
 description: "Build a high-performing sales enablement strategy that drives 49% higher win rates. Learn proven frameworks, tools, and key metrics B2B sales teams use."
 category: "b2b-sales"
 author:

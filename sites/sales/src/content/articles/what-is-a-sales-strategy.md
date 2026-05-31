@@ -1,5 +1,5 @@
 ---
-title: "What Is a Sales Strategy? Definition, Types, Examples"
+title: "What Is a Sales Strategy? Definition"
 description: "What is a sales strategy? Learn the definition, core components, common types, and a 5-step framework to build one that drives consistent B2B revenue."
 category: "sales-techniques"
 author:

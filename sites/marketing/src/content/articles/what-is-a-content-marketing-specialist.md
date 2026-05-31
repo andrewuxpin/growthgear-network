@@ -1,5 +1,5 @@
 ---
-title: "Content Marketing Specialist: Skills & Career Guide"
+title: "Content Marketing Specialist: Skills &"
 description: "A content marketing specialist plans, creates, and optimizes content that drives traffic and leads. Learn the skills, salary, career path, and hiring tips."
 category: "content-marketing"
 author:

@@ -1,5 +1,5 @@
 ---
-title: "Cold Prospecting Guide for B2B Sales Teams in 2026"
+title: "Cold Prospecting Guide for B2B Sales Teams"
 description: "Master cold prospecting for B2B sales teams: build target lists, research accounts, choose channels, and consistently book meetings with cold prospects."
 category: "sales-techniques"
 author:

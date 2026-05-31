@@ -1,5 +1,5 @@
 ---
-title: "10 Examples of Content Marketing That Drive Results"
+title: "10 Examples of Content Marketing That"
 description: "Discover 10 real-world examples of content marketing that generated measurable results. Learn which formats work best and how to apply them to your business."
 category: "content-marketing"
 author:

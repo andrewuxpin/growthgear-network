@@ -1,5 +1,5 @@
 ---
-title: "Is Data Science Oversaturated? The Real Talent Picture"
+title: "Is Data Science Oversaturated? The Real"
 description: "The data science market is more competitive than ever, but oversaturation is a myth. Here's what the hiring data actually shows for employers and job seekers."
 category: "machine-learning"
 author:

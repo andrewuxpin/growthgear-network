@@ -1,5 +1,5 @@
 ---
-title: "Transfer Learning in Machine Learning: Complete Guide"
+title: "Transfer Learning in Machine Learning"
 description: "Master transfer learning in machine learning. Learn how pre-trained models save time, reduce data requirements, and deliver 10x faster results for your..."
 category: "deep-learning"
 author:

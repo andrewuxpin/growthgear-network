@@ -1,5 +1,5 @@
 ---
-title: "Cold Outreach Strategies: Beyond Email and LinkedIn"
+title: "Cold Outreach Strategies: Beyond Email and"
 description: "Master multichannel cold outreach with proven strategies for phone, video, SMS, and direct mail. Discover the sequences that increase response rates by 3x."
 category: "sales-techniques"
 author:

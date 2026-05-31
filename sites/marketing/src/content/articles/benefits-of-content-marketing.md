@@ -1,5 +1,5 @@
 ---
-title: "Benefits of Content Marketing: The Data-Backed Guide"
+title: "Benefits of Content Marketing: The"
 description: "Discover the top benefits of content marketing and how leading brands use content to drive traffic, generate leads, and build lasting brand authority."
 category: "content-marketing"
 author:

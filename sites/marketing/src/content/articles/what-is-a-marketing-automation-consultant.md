@@ -1,5 +1,5 @@
 ---
-title: "What Is a Marketing Automation Consultant? Hiring Guide"
+title: "What Is a Marketing Automation Consultant?"
 description: "A marketing automation consultant audits martech, fixes broken workflows, and ships revenue-attributed automations. Pricing, ROI and hiring playbook 2026."
 category: "content-marketing"
 author:
