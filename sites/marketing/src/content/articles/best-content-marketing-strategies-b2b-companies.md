@@ -95,7 +95,7 @@ Positioning your company as an industry authority builds trust and attracts qual
 
 ### 3. Educational Content Marketing
 
-B2B buyers crave educational content that helps them make better decisions and solve problems. This strategy builds trust while subtly demonstrating your solution's value.
+B2B buyers crave educational content that helps them make better decisions and solve problems. This strategy builds trust while subtly demonstrating your solution's value. SaaS companies in particular lean on product-led educational content — read our [SaaS content marketing agency](/content-marketing/saas-content-marketing-agency-guide) guide for how specialist firms structure interview-driven tutorials that double as bottom-of-funnel sales assets.
 
 **High-impact educational content:**
 

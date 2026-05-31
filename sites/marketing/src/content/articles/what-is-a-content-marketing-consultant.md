@@ -98,7 +98,7 @@ Hire a content marketing consultant when you have a meaningful business goal tie
 
 A consultant can't fix what won't be implemented. If no one in-house has bandwidth to act on recommendations — write content, implement technical changes, or publish on a schedule — consulting fees produce strategy documents that sit unused.
 
-In that scenario, a full-service [content marketing service](/content-marketing/content-marketing-services-guide) that handles both strategy and production is a better fit. Services cost more per output but eliminate the execution dependency entirely.
+In that scenario, a full-service [content marketing service](/content-marketing/content-marketing-services-guide) that handles both strategy and production is a better fit. Services cost more per output but eliminate the execution dependency entirely. SaaS founders specifically should compare specialist firms in our [SaaS content marketing agency](/content-marketing/saas-content-marketing-agency-guide) guide, where vertical expertise and pipeline reporting often outweigh consultant flexibility.
 
 > **Want to build a content engine that actually drives pipeline?** GrowthGear has helped 50+ startups develop content strategies that deliver 156% average growth. [Book a Free Strategy Session](https://growthgear.com.au) to audit your content marketing approach.
 
