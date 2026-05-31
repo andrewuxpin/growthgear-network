@@ -43,7 +43,7 @@ callout:
 
 The average B2B prospect receives 121 emails per day, according to Radicati Group data. Your cold email competes with 120 others before the prospect even opens it. The teams winning new business in 2026 are not writing better emails than their competitors — they are reaching prospects across multiple channels in coordinated sequences that build familiarity before asking for a meeting.
 
-This guide covers the full multichannel playbook: phone outreach, video messages, LinkedIn direct messages, SMS, and direct mail. More importantly, it shows how to combine them into sequences that produce results.
+This guide covers the full multichannel playbook: phone outreach, video messages, LinkedIn direct messages, SMS, and direct mail. More importantly, it shows how to combine them into sequences that produce results. For leaders building the broader system above these tactics, our [sales outreach strategy framework](/sales-techniques/sales-outreach-strategy-framework) maps channel mix, cadence design, and pipeline attribution into a one-page strategy.
 
 ## Why Single-Channel Outreach Leaves Revenue on the Table
 

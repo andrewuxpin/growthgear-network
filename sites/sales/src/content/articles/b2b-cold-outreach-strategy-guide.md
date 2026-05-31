@@ -45,7 +45,7 @@ B2B cold outreach has a reputation problem. Most sales teams experience low repl
 
 The problem isn't cold outreach. It's cold outreach done without system.
 
-This guide covers the complete mechanics of B2B cold outreach: how to build targeted lists that actually convert, write messages worth replying to, sequence touches across channels, and measure what's working. The teams generating consistent pipeline from cold outreach aren't lucky. They have a system.
+This guide covers the complete mechanics of B2B cold outreach: how to build targeted lists that actually convert, write messages worth replying to, sequence touches across channels, and measure what's working. The teams generating consistent pipeline from cold outreach aren't lucky. They have a system. For sales leaders designing the broader outreach engine across email, phone, LinkedIn, and video, see our [sales outreach strategy framework](/sales-techniques/sales-outreach-strategy-framework).
 
 ## What Makes B2B Cold Outreach Actually Work
 
