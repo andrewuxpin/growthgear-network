@@ -208,7 +208,7 @@ Gather comprehensive intelligence on each target account:
 ### Phase 3: Campaign Development and Launch (Weeks 9-12)
 
 **1. Develop Account-Specific Campaigns**
-Create tailored campaigns for each account tier:
+Tier assignments should refresh on a [B2B sales reset classification criteria](/b2b-sales/b2b-sales-reset-classification-criteria-guide) cadence so campaign investment follows current fit and intent, not last quarter's tier list. Create tailored campaigns for each account tier:
 - Messaging framework and value propositions
 - Content calendar and asset creation
 - Channel selection and sequencing

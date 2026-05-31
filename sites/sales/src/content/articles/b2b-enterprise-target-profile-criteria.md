@@ -57,7 +57,7 @@ The distinction from a standard ICP matters in the enterprise context. Enterpris
 
 Enterprise sales teams don't need more pipeline — they need better pipeline. Pursuing 20 well-qualified enterprise accounts outperforms chasing 200 borderline ones. According to Gartner, sales teams with documented, well-defined ICPs achieve 68% higher win rates than those operating without one.
 
-The math behind this is straightforward. If an enterprise deal takes 9 months from first contact to close, and your rep runs 10 simultaneous enterprise cycles, every misfit account costs roughly 270 working hours before you discover it won't close. A precise target profile eliminates that waste upfront.
+The math behind this is straightforward. If an enterprise deal takes 9 months from first contact to close, and your rep runs 10 simultaneous enterprise cycles, every misfit account costs roughly 270 working hours before you discover it won't close. A precise target profile eliminates that waste upfront, and it gives you the source-of-truth field list you need when running a [B2B sales reset with classification criteria](/b2b-sales/b2b-sales-reset-classification-criteria-guide) each quarter.
 
 ### The Anatomy of an Enterprise Target Profile
 

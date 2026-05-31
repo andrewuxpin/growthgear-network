@@ -161,7 +161,7 @@ Track the [full B2B sales cycle](/b2b-sales/b2b-sales-cycle-guide) length by ter
 
 ## How to Review and Adjust Territories Over Time
 
-Territory reviews should happen on two cadences: quarterly check-ins to catch performance drift early, and an annual redesign aligned to your fiscal year planning. The quarterly review is diagnostic — flag imbalances, investigate root causes, make minor adjustments. The annual redesign is structural — reconsider variable weighting, account scoring, and rep assignments wholesale. Most sales teams do only the annual review and spend the other three quarters watching problems compound.
+Territory reviews should happen on two cadences: quarterly check-ins to catch performance drift early, and an annual redesign aligned to your fiscal year planning. The quarterly review is diagnostic — flag imbalances, investigate root causes, make minor adjustments. The annual redesign is structural — reconsider variable weighting, account scoring, and rep assignments wholesale. Pair the annual redesign with a full [B2B sales reset using classification criteria](/b2b-sales/b2b-sales-reset-classification-criteria-guide) so account tiers and territory boundaries refresh together. Most sales teams do only the annual review and spend the other three quarters watching problems compound.
 
 ### Quarterly Review Framework
 
