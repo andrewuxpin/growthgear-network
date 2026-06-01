@@ -1,6 +1,6 @@
 ---
 title: "B2B Social Media Marketing: 2026 Strategy Guide"
-description: "B2B social media marketing in 2026: which platforms drive pipeline, content formats that convert, and how to measure ROI across long sales cycles."
+description: "B2B social media marketing in 2026: which platforms drive pipeline, the content formats that actually convert, and how to measure ROI across B2B cycles."
 category: "social-media"
 author:
   name: "Andrew Martin"
