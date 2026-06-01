@@ -88,7 +88,7 @@ The four metrics in a classification report — precision, recall, F1-score, and
 
 **Precision measures what fraction of your model's positive predictions are actually correct. Formula: Precision = TP / (TP + FP). High precision means few false alarms. A model flagging 100 transactions as fraud with 80% precision correctly identifies 80, while 20 are legitimate transactions wrongly blocked.**
 
-Precision matters when the cost of false positives is high. Spam filters prioritize precision — incorrectly blocking a legitimate business email costs more than letting spam through. Marketing campaign targeting also favors precision: sending an expensive direct mailer to uninterested prospects wastes budget.
+Precision matters when the cost of false positives is high. Spam filters prioritize precision — incorrectly blocking a legitimate business email costs more than letting spam through. Marketing campaign targeting also favors precision: sending an expensive direct mailer to uninterested prospects wastes budget. Our dedicated guide on [what precision is in machine learning](/machine-learning/what-is-precision-in-machine-learning) walks through worked threshold tuning examples and the cost-matrix framework you should apply before locking in a production threshold.
 
 Low precision in your report indicates your model is over-predicting the positive class. Solutions include raising your classification threshold, applying stronger regularization during training, or engineering features that better separate positive from negative cases.
 

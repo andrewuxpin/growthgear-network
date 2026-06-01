@@ -82,7 +82,7 @@ For k-fold cross-validation with k=5:
 1. **Shuffle** the dataset (unless it has structure that must be preserved, like time order)
 2. **Partition** the data into 5 folds of equal size — Fold 1, Fold 2, Fold 3, Fold 4, Fold 5
 3. **Train and validate** five models: train on Folds 2-5, validate on Fold 1; train on Folds 1, 3-5, validate on Fold 2; and so on
-4. **Score** each model on its held-out fold using your chosen metric (accuracy, F1, ROC-AUC, RMSE)
+4. **Score** each model on its held-out fold using your chosen metric ([precision](/machine-learning/what-is-precision-in-machine-learning), [recall/sensitivity](/machine-learning/what-is-sensitivity-in-machine-learning), F1, ROC-AUC, RMSE)
 5. **Report** the mean and standard deviation of the five scores
 
 A mean of 0.84 with a standard deviation of 0.02 is far stronger evidence than a single split that returned 0.84. A mean of 0.84 with a standard deviation of 0.08 tells you the model is unstable and any single train-test split could mislead.

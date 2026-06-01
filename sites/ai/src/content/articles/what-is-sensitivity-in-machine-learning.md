@@ -91,7 +91,7 @@ Sensitivity and precision measure different failure modes and sit in fundamental
 
 **Precision = TP / (TP + FP)**
 
-A precision of 0.85 means 85% of cases the model flagged as positive were genuinely positive. The remaining 15% were false alarms — the model fired incorrectly. Precision matters when false positives have a real cost: a legitimate email routed to spam, a valid transaction declined, a safe employee flagged for review.
+A precision of 0.85 means 85% of cases the model flagged as positive were genuinely positive. The remaining 15% were false alarms — the model fired incorrectly. Precision matters when false positives have a real cost: a legitimate email routed to spam, a valid transaction declined, a safe employee flagged for review. For a deeper treatment, see our companion guide on [what precision is in machine learning](/machine-learning/what-is-precision-in-machine-learning) covering threshold tuning, multi-class aggregation, and production monitoring.
 
 ### A Worked Example: Fraud Detection
 
