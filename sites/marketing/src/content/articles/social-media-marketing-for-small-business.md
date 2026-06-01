@@ -90,7 +90,7 @@ The right platform depends on three factors: where your target audience is activ
 
 ### Matching Your Business Model to a Platform
 
-**B2B service businesses** — consultants, agencies, software companies, professional services — belong on LinkedIn first. According to HubSpot research, LinkedIn generates 277% more leads per visitor than Facebook for B2B companies. That's not a marginal difference; it's a structural advantage built into the platform's professional demographic and intent.
+**B2B service businesses** — consultants, agencies, software companies, professional services — belong on LinkedIn first. According to HubSpot research, LinkedIn generates 277% more leads per visitor than Facebook for B2B companies. That's not a marginal difference; it's a structural advantage built into the platform's professional demographic and intent. For a deeper look at how to run a multi-platform B2B program, see our [B2B social media marketing strategy guide](/social-media/b2b-social-media-marketing-strategy-guide).
 
 **Local service businesses** — restaurants, retail, tradespeople, fitness studios — typically see the strongest results from Instagram combined with Facebook. Instagram's visual format suits physical products and experiences. Facebook's local business features and demographic skew toward the 35–54 age group that holds most consumer spending power in local markets.
 

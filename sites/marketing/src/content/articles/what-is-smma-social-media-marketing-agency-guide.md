@@ -89,7 +89,7 @@ Paid social is where the technical depth of a specialist SMMA delivers the clear
 A capable SMMA handles:
 
 - **Meta Ads (Facebook + Instagram)**: Prospecting campaigns targeting lookalike audiences, retargeting sequences for website visitors, and conversion campaigns optimised for purchase or lead form completions
-- **LinkedIn Ads**: B2B lead generation via Sponsored Content and Message Ads, targeting by job title, company size, and industry
+- **LinkedIn Ads**: B2B lead generation via Sponsored Content and Message Ads, targeting by job title, company size, and industry — see our [B2B social media marketing strategy guide](/social-media/b2b-social-media-marketing-strategy-guide) for the broader organic-plus-paid B2B playbook
 - **TikTok Ads**: Short-form video creative testing, spark ads to amplify organic content, and conversion campaigns for younger demographics
 - **Pinterest and YouTube**: Longer-consideration category campaigns for e-commerce and content-heavy brands
 
