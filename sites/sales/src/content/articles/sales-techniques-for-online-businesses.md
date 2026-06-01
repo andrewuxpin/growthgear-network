@@ -210,7 +210,7 @@ This level of engagement data gives online sellers a visibility advantage that i
 
 For building the broader digital funnel that supports your online sales process, see [how to create high-converting sales funnels](https://marketing.growthgear.com.au/content-marketing/how-to-create-high-converting-sales-funnels-complete-guide) and [how to optimize landing pages for conversions](https://marketing.growthgear.com.au/seo/how-to-optimize-landing-pages-for-conversions-complete-guide) on the Marketing Edge blog.
 
-Connecting your sales data to your marketing attribution model also helps identify which channels deliver buyers most likely to close. See our guide on [advanced sales prospecting techniques](/sales-techniques/sales-prospecting-techniques) and [closing techniques that convert](/sales-techniques/sales-closing-techniques-that-actually-work) for how these techniques build on each other.
+Connecting your sales data to your marketing attribution model also helps identify which channels deliver buyers most likely to close. See our guide on [advanced sales prospecting techniques](/sales-techniques/sales-prospecting-techniques) and [closing techniques that convert](/sales-techniques/sales-closing-techniques-that-actually-work) for how these techniques build on each other. For brands selling through marketplaces, the same discipline applies inside our [Amazon retail sales growth strategy for 2026](/sales-techniques/amazon-retail-sales-growth-strategy-2026).
 
 ### Online Sales Techniques: At a Glance
 

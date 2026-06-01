@@ -200,7 +200,7 @@ Adapting any of these sales strategy examples works best as a structured pilot r
 
 For the execution of closing deals once your strategy generates qualified pipeline, our guide on [sales closing techniques](/sales-techniques/sales-closing-techniques-that-actually-work) covers the specific methods that convert opportunities at each deal stage. Ensure your pipeline processes support your chosen strategy by reviewing [sales pipeline management fundamentals](/b2b-sales/sales-pipeline-management-guide).
 
-Building the right funnel architecture to complement your outbound or inbound strategy is equally important. For cross-channel alignment, see [how to create high-converting sales funnels](https://marketing.growthgear.com.au/content-marketing/how-to-create-high-converting-sales-funnels-complete-guide) on Marketing Edge.
+Building the right funnel architecture to complement your outbound or inbound strategy is equally important. For cross-channel alignment, see [how to create high-converting sales funnels](https://marketing.growthgear.com.au/content-marketing/how-to-create-high-converting-sales-funnels-complete-guide) on Marketing Edge. Consumer brands that also operate on marketplaces should layer in the [Amazon retail sales growth strategy for 2026](/sales-techniques/amazon-retail-sales-growth-strategy-2026) so the marketplace P&L is run with the same rigor as outbound and inbound channels.
 
 > **Common mistake:** Do not evaluate a new sales strategy at the 30-day mark. Most B2B sales cycles exceed 30 days, which means early pipeline data is still incomplete. Commit to the full 90-day window before drawing conclusions or making changes.
 

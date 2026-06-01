@@ -200,7 +200,7 @@ A 30-minute weekly meeting between the sales lead and marketing lead, focused on
 2. Which leads are converting and which are not?
 3. What content do sales reps need for their current active deals?
 
-This keeps both teams in sync without heavy process overhead. For a comprehensive view of [B2B sales techniques that close deals](/sales-techniques/b2b-sales-techniques-that-close-deals), including how to convert marketing-sourced pipeline, see our dedicated guide.
+This keeps both teams in sync without heavy process overhead. For a comprehensive view of [B2B sales techniques that close deals](/sales-techniques/b2b-sales-techniques-that-close-deals), including how to convert marketing-sourced pipeline, see our dedicated guide. Brands that also sell through marketplaces should pair this with the [Amazon retail sales growth strategy for 2026](/sales-techniques/amazon-retail-sales-growth-strategy-2026), which applies the same conversion discipline to the largest e-commerce channel.
 
 ### Quick Reference: How to Increase Sales Revenue
 
