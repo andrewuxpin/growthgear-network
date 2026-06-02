@@ -180,6 +180,8 @@ Select based on:
 4. **Call tracking software** - Attribute phone conversions
 5. **Social media pixels** - Track social platform contributions
 
+Pixel-based tracking captures clicks but consistently undercounts the [silent scroller audience](/social-media/social-media-silent-scroller-traits) — the ~90% of social users who consume content without clicking. Pair pixels with view-through tracking and branded search lift analysis to reveal the dark social contribution that last-click attribution misses.
+
 ### Step 5: Test and Validate Your Model
 - Compare attribution results against known successful campaigns
 - Validate conversion data across different platforms

@@ -224,7 +224,7 @@ Track these metrics monthly rather than post-by-post to gauge brand-building pro
 | Brand mention sentiment | Positive/neutral/negative perception shift | [Social media monitoring tools](/social-media/best-social-media-monitoring-tools) |
 | Referral traffic to website | Social visits that result in on-site actions | Google Analytics 4 |
 
-Total follower count is the most commonly tracked but least useful metric for brand-building purposes. A brand with 5,000 highly engaged followers drives more business outcomes than one with 50,000 passive ones. Prioritize engagement rate and branded search volume as your primary brand health indicators.
+Total follower count is the most commonly tracked but least useful metric for brand-building purposes. A brand with 5,000 highly engaged followers drives more business outcomes than one with 50,000 passive ones. Prioritize engagement rate and branded search volume as your primary brand health indicators — and remember that branded search lift is the cleanest visible signal of your [silent scroller audience](/social-media/social-media-silent-scroller-traits), who form the majority of your real brand reach.
 
 ### A 90-Day Brand Optimization Cycle
 
