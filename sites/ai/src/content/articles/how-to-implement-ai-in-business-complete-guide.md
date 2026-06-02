@@ -608,7 +608,7 @@ Successful AI implementation depends heavily on data quality and availability. B
 **Solution:**
 - Invest in employee training and development
 - Partner with external experts and consultants
-- Hire specialized AI talent
+- Hire specialized AI talent — including senior customer-facing engineering leadership; see our framework for [technical post-sales leader competencies in AI dev tools](/ai-tools/technical-post-sales-leader-competencies-ai-dev-tools) for the five core competencies and interview loop
 - Collaborate with academic institutions
 
 #### Budget Constraints

@@ -248,7 +248,7 @@ If you're evaluating whether to build your AI support stack in-house or partner 
 
 ### What Business Owners Are Saying
 
-Support leaders commonly report that AI triage delivers the fastest time-to-value — most teams see routing accuracy above 85% within three weeks of enabling it. Agent assist has a longer adoption curve; agents initially feel the suggestions slow them down but typically become advocates after 2-3 weeks once they calibrate the tool to their style.
+Support leaders commonly report that AI triage delivers the fastest time-to-value — most teams see routing accuracy above 85% within three weeks of enabling it. Agent assist has a longer adoption curve; agents initially feel the suggestions slow them down but typically become advocates after 2-3 weeks once they calibrate the tool to their style. The leaders who drive the strongest adoption tend to be technical post-sales executives with the [competency mix we describe in our AI dev tools post-sales leader guide](/ai-tools/technical-post-sales-leader-competencies-ai-dev-tools) — particularly the AI/LLM fluency to evaluate where the agent adds value versus where humans still need to escalate.
 
 The consistent criticism is integration complexity. Most platforms offer native integrations with major CRMs and ticketing systems, but teams with legacy telephony or custom internal tools often spend 30-60 days on integration before AI features become usable. Investing in an integration review before selecting a platform saves more time than the evaluation itself.
 
