@@ -315,7 +315,7 @@ Note: These benchmarks represent well-optimized sequences. New sequences without
 
 Run one variable test per sequence iteration. Testing subject line AND body copy AND CTA simultaneously tells you nothing useful. A disciplined testing approach:
 
-1. Test subject lines first (highest impact on open rate)
+1. Test subject lines first (highest impact on open rate) — for category-specific patterns see our [B2B sales tax exemption recovery subject lines](/sales-techniques/b2b-sales-tax-exemption-recovery-subject-lines) breakdown of dollar-anchor and regulatory-trigger frameworks
 2. Once open rate is stable, test the opening two sentences
 3. Then test your CTA (one question vs. calendar link vs. two-option choice)
 

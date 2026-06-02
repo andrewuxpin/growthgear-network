@@ -97,7 +97,7 @@ Worth a 15-minute call to see whether the same approach applies to [Company]?
 
 ---
 
-**Why it works**: The subject line anchors to a concrete problem rather than your product. The email quantifies the pain before mentioning your solution, and the proof point is outcome-specific rather than feature-specific. For more templates organized by sequence stage and subject line format, see the [cold email templates guide](/sales-techniques/cold-email-templates-that-get-replies).
+**Why it works**: The subject line anchors to a concrete problem rather than your product. The email quantifies the pain before mentioning your solution, and the proof point is outcome-specific rather than feature-specific. For more templates organized by sequence stage and subject line format, see the [cold email templates guide](/sales-techniques/cold-email-templates-that-get-replies). For finance-buyer-specific patterns (CFO, controller, and tax director), the dollar-anchor frameworks in our [B2B sales tax exemption recovery subject lines](/sales-techniques/b2b-sales-tax-exemption-recovery-subject-lines) guide translate well to any high-dollar professional services offer.
 
 ### Template 2: The Trigger Event Template
 

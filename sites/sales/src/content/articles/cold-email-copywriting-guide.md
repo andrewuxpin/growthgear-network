@@ -93,7 +93,7 @@ The best subject lines are either specific, curiosity-driven, or both:
 | Result preview | "How we helped [Similar Company] cut churn 22%" | Outcome-first credibility |
 | Short and specific | "Quick question on your SDR stack" | Low-pressure, conversational |
 
-Avoid subject lines that sound like marketing: "Revolutionise your sales process" or "Don't miss this opportunity." These train inbox filters and condition recipients to ignore.
+Avoid subject lines that sound like marketing: "Revolutionise your sales process" or "Don't miss this opportunity." These train inbox filters and condition recipients to ignore. For niche finance buyers — CFOs, controllers, and tax directors — see the persona-tuned templates in our guide to [B2B sales tax exemption recovery subject lines](/sales-techniques/b2b-sales-tax-exemption-recovery-subject-lines).
 
 > **Pro tip:** Test your subject line against the "would I open this if I didn't know the sender?" question. If the answer is no, rewrite it.
 
