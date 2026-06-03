@@ -125,7 +125,7 @@ Use an MLP when your data has no inherent spatial or sequential structure — ta
 
 ### CNN vs RNN and Transformer
 
-Recurrent neural networks process sequences one element at a time, maintaining a hidden state across timesteps. They were historically the default for text and time-series before transformers. Transformers use [self-attention](/deep-learning/attention-mechanism-deep-learning-explained) to process all positions in parallel, looking at every input token simultaneously. Vision Transformers (ViT) apply this to images by treating image patches as tokens.
+Recurrent neural networks process sequences one element at a time, maintaining a hidden state across timesteps. They were historically the default for text and time-series before transformers. Transformers use [self-attention](/deep-learning/attention-mechanism-deep-learning-explained) to process all positions in parallel, looking at every input token simultaneously. [Vision Transformers (ViT)](/deep-learning/what-is-a-vision-transformer-vit) apply this to images by treating image patches as tokens.
 
 CNNs still beat ViTs at small-to-medium scale. Dosovitskiy et al. 2021 (Google Research, "An Image Is Worth 16x16 Words") show ViTs match CNN accuracy only at 14 million or more training images — below that threshold, CNNs are more efficient and accurate. For most business deployments with thousands to tens of thousands of labeled images, CNNs remain the right default.
 

@@ -112,7 +112,7 @@ ResNet-50 remains one of the most practical CNN choices for custom business clas
 - **EfficientNet-B4**: 82.9% top-1 accuracy, 19M parameters
 - **EfficientNet-B7**: 84.3% top-1 accuracy, 66M parameters — highest ImageNet accuracy among non-transformer CNNs at launch
 
-The difference between 25M and 5.3M parameters translates directly to lower inference costs and faster latency in production. For businesses running millions of images through a cloud API, EfficientNet-B0 typically cuts compute cost by 50–70% compared to ResNet-50 at equivalent accuracy.
+The difference between 25M and 5.3M parameters translates directly to lower inference costs and faster latency in production. For businesses running millions of images through a cloud API, EfficientNet-B0 typically cuts compute cost by 50–70% compared to ResNet-50 at equivalent accuracy. At very large scale (14M+ training images, multimodal alignment, document understanding), CNN architectures eventually give way to [vision transformers](/deep-learning/what-is-a-vision-transformer-vit), which dominate state-of-the-art benchmarks on COCO and ADE20K.
 
 **MobileNet** (Howard et al., Google, 2017) uses **depthwise separable convolutions** — splitting standard convolutions into a spatial filtering step followed by a channel combining step — reducing computation by 8–9x with minimal accuracy loss. MobileNetV3-Large achieves 75.2% top-1 accuracy on ImageNet while running in real-time on a smartphone CPU.
 

@@ -155,7 +155,7 @@ The standard scaled dot-product attention from "Attention Is All You Need" has s
 
 Sparse attention was key to extending workable context lengths from 512 tokens (original BERT) toward 32K+.
 
-**Flash Attention** (Dao et al., Stanford, [2022](https://arxiv.org/abs/2205.14135)) took a different approach: rather than reducing computation, it reorganized the attention algorithm to minimize memory bandwidth usage on GPU hardware. By computing attention in tiles that fit in GPU SRAM rather than writing intermediate results to HBM (slow memory), Flash Attention achieved **10–20x memory reduction** compared to standard attention with identical mathematical results. Flash Attention 2 and 3 have been adopted by virtually every major LLM training stack. It is the primary reason 128K+ context windows became commercially viable.
+**Flash Attention** (Dao et al., Stanford, [2022](https://arxiv.org/abs/2205.14135)) took a different approach: rather than reducing computation, it reorganized the attention algorithm to minimize memory bandwidth usage on GPU hardware. By computing attention in tiles that fit in GPU SRAM rather than writing intermediate results to HBM (slow memory), Flash Attention achieved **10–20x memory reduction** compared to standard attention with identical mathematical results. Flash Attention 2 and 3 have been adopted by virtually every major LLM training stack — and increasingly by [vision transformers](/deep-learning/what-is-a-vision-transformer-vit) for the same memory-bandwidth reasons. It is the primary reason 128K+ context windows became commercially viable.
 
 ### Attention Variant Comparison
 
