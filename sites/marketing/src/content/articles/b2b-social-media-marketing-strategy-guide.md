@@ -53,7 +53,7 @@ B2B social media marketing is the practice of using platforms like LinkedIn, X, 
 
 The change driving everything else is buyer behavior. [HubSpot's 2026 marketing report](https://www.hubspot.com/marketing-statistics) confirms that 75% of B2B buyers now use social media to inform purchase decisions, and that 95% of B2B marketers produce social media content while 91% use social to distribute it. The implication: if you're not present, you're invisible during the 60-70% of the buying journey that happens before a buyer talks to sales.
 
-Audiences are also using social platforms as search engines — typing full questions and problem statements into LinkedIn, YouTube, TikTok, and Instagram the same way they would Google. That means optimizing posts for searchable language matters as much as crafting them for the feed.
+Audiences are also using social platforms as search engines — typing full questions and problem statements into LinkedIn, YouTube, TikTok, and Instagram the same way they would Google. That means optimizing posts for searchable language matters as much as crafting them for the feed; a coordinated [social media SEO strategy](/seo/social-media-seo-strategy-guide) turns each platform into a discoverable surface that compounds with your website rankings.
 
 ### The B2B social media stack
 

@@ -263,7 +263,7 @@ With the growing popularity of voice search and AI-powered search, optimizing fo
 
 ## 11. Leverage Social Media for Content Distribution
 
-While social media signals aren't direct ranking factors, they can indirectly boost organic traffic through increased visibility and engagement.
+While social media signals aren't direct ranking factors, they can indirectly boost organic traffic through increased visibility and engagement. A deliberate [social media SEO strategy](/seo/social-media-seo-strategy-guide) treats YouTube, LinkedIn, and Pinterest as discoverable surfaces that win their own SERP positions and reinforce your branded search demand.
 
 ### Social Media Strategy for SEO
 
