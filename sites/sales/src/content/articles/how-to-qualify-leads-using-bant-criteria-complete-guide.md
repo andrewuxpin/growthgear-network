@@ -348,7 +348,7 @@ BANT works effectively in combination with other sales frameworks:
 
 ### BANT + MEDDIC
 
-Combining BANT with MEDDIC (Metrics, Economic Buyer, Decision Criteria, Decision Process, Identify Pain, Champion) provides comprehensive qualification coverage.
+Combining BANT with MEDDIC (Metrics, Economic Buyer, Decision Criteria, Decision Process, Identify Pain, Champion) provides comprehensive qualification coverage. BANT acts as the fast lead filter at the top of the funnel; the [MEDDIC sales methodology](/sales-techniques/meddic-sales-methodology-guide) then qualifies the resulting opportunity in depth.
 
 ### BANT + Challenger Sale
 

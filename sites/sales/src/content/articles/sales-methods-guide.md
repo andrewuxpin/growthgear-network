@@ -156,7 +156,7 @@ MEDDIC is primarily a qualification framework rather than a full sales methodolo
 
 Most enterprise sales teams use MEDDIC alongside another method — often SPIN or Challenger — to ensure reps pursue genuinely qualified opportunities. The expanded version, MEDDPICC, adds Paper Process (procurement and legal steps) and Competition.
 
-MEDDIC is one of the highest-ROI methodology investments in enterprise sales: eliminating pipeline that was never going to close is at least as valuable as improving close rates on the pipeline that will.
+MEDDIC is one of the highest-ROI methodology investments in enterprise sales: eliminating pipeline that was never going to close is at least as valuable as improving close rates on the pipeline that will. For a deep dive on rollout, scoring, and CRM setup, see the complete [MEDDIC sales methodology guide](/sales-techniques/meddic-sales-methodology-guide).
 
 ---
 

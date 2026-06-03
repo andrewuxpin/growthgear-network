@@ -251,7 +251,7 @@ Use your metrics to identify the specific failure point rather than blaming effo
 
 - **Low contact rate**: Targeting or message relevance is off. Revisit your ICP definition and the first line of your email opener.
 - **High contact rate, low meeting rate**: Prospects are responding but not converting. The value proposition or call-to-action isn't compelling enough.
-- **High meeting rate, low pipeline conversion**: Meetings aren't qualifying. Tighten your discovery process using [BANT criteria or MEDDIC](/sales-techniques/how-to-qualify-leads-using-bant-criteria-complete-guide) to filter out poor-fit accounts earlier.
+- **High meeting rate, low pipeline conversion**: Meetings aren't qualifying. Tighten your discovery process using [BANT criteria](/sales-techniques/how-to-qualify-leads-using-bant-criteria-complete-guide) at the top of the funnel and the [MEDDIC sales methodology](/sales-techniques/meddic-sales-methodology-guide) on active opportunities to filter out poor-fit accounts earlier.
 - **Pipeline generated but low close rate**: This is a prospecting quality issue — you're booking meetings with wrong-fit accounts. Revisit ICP criteria and tighten account selection.
 
 Review these metrics weekly in pipeline reviews, not just at end-of-quarter. Problems caught in week 3 can be fixed; problems discovered at quarter-end cannot. For a broader view of pipeline health, see the [sales pipeline management guide](/b2b-sales/sales-pipeline-management-guide).
