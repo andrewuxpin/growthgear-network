@@ -45,7 +45,7 @@ Email marketing delivers the highest ROI of any digital channel — **$36 for ev
 
 The teams that get email right share one habit: they track a tight set of email marketing metrics across three tiers — deliverability, engagement, and revenue — then act on the numbers within 72 hours. Everything else is reporting theater.
 
-This guide covers the 12 email marketing metrics that matter most in 2026, current industry benchmarks from Mailchimp and Campaign Monitor, a diagnostic playbook for fixing weak performance, a reporting dashboard structure that actually drives decisions, and the measurement mistakes that quietly distort your numbers. If you want the broader strategic frame first, our [email marketing best practices guide](/content-marketing/email-marketing-best-practices-guide) and [targeted email marketing strategy guide](/content-marketing/targeted-email-marketing-strategy-guide) cover the foundations.
+This guide covers the 12 email marketing metrics that matter most in 2026, current industry benchmarks from Mailchimp and Campaign Monitor, a diagnostic playbook for fixing weak performance, a reporting dashboard structure that actually drives decisions, and the measurement mistakes that quietly distort your numbers. If you want the broader strategic frame first, our [email marketing best practices guide](/content-marketing/email-marketing-best-practices-guide) and [targeted email marketing strategy guide](/content-marketing/targeted-email-marketing-strategy-guide) cover the foundations — and if you're deciding who should own these metrics day-to-day, see [what an email marketing manager does](/content-marketing/what-is-an-email-marketing-manager).
 
 ## The 12 Email Marketing Metrics That Matter Most
 

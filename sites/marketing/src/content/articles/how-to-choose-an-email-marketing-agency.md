@@ -151,7 +151,7 @@ The right answer depends on send volume, brand specificity, and speed to ship. H
 
 ### The Hybrid Model Most Mid-Market Brands End Up With
 
-By the time a brand reaches $20–100M in revenue, the dominant model is a single in-house lifecycle marketer plus a specialist agency. The in-house lead owns brand voice, calendar, and cross-functional coordination. The agency owns platform builds, deliverability ops, and quarterly audits. This split solves the most common failure mode of pure agency engagements — nobody internal cares enough — while avoiding the most common failure mode of pure in-house teams: one person trying to be strategist, copywriter, designer, developer, and ops lead simultaneously.
+By the time a brand reaches $20–100M in revenue, the dominant model is a single in-house lifecycle marketer plus a specialist agency. The in-house lead — usually titled an [email marketing manager](/content-marketing/what-is-an-email-marketing-manager) — owns brand voice, calendar, and cross-functional coordination. The agency owns platform builds, deliverability ops, and quarterly audits. This split solves the most common failure mode of pure agency engagements — nobody internal cares enough — while avoiding the most common failure mode of pure in-house teams: one person trying to be strategist, copywriter, designer, developer, and ops lead simultaneously.
 
 > **Common mistake:** Hiring a junior email coordinator because the agency quote felt expensive. A $70K/year coordinator with no platform certifications typically delivers less than a $5K/month agency retainer staffed by a certified strategist. Compare like-for-like seniority, not like-for-like dollars.
 
