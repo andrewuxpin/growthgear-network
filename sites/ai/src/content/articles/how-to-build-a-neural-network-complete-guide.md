@@ -61,7 +61,7 @@ Every neural network, from a simple binary classifier to a large language model,
 - **Hidden layers**: Extract progressively abstract representations. A shallow network might learn edges; a deep network learns objects.
 - **Output layer**: Produces the final prediction. A single neuron for binary classification; one neuron per class for multi-class problems.
 
-The depth (number of hidden layers) and width (neurons per layer) determine what the network can learn. According to the [Stanford HAI 2024 AI Index](https://hai.stanford.edu/research/ai-index-report), the majority of production AI systems deployed commercially now use deep networks with 10 or more hidden layers — a shift from the 3–5 layer architectures that dominated a decade ago.
+The depth (number of hidden layers) and width (neurons per layer) determine what the network can learn. According to the [Stanford HAI 2024 AI Index](https://hai.stanford.edu/research/ai-index-report), the majority of production AI systems deployed commercially now use deep networks with 10 or more hidden layers — a shift from the 3–5 layer architectures that dominated a decade ago. If you want to develop intuition for how depth changes what a network can fit, our walkthrough of [TensorFlow Playground](/deep-learning/tensorflow-playground-guide) shows the effect live on toy datasets in the browser.
 
 ### Activation Functions and Forward Propagation
 

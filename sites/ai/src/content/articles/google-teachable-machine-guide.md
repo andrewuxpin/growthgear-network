@@ -49,7 +49,7 @@ This guide covers how Teachable Machine works under the hood, step-by-step instr
 
 Google Teachable Machine is a free, browser-based ML training tool that lets anyone build custom classification models—for images, sounds, or body poses—without writing a single line of code. Training happens entirely in the browser using your webcam or uploaded files, and the resulting model exports to TensorFlow.js or TensorFlow Lite for use in real applications.
 
-The tool was created by the Google Creative Lab and has been available since 2017, with a major v2.0 update in 2019 that added audio and pose projects. It runs entirely client-side—your training data never leaves your browser unless you explicitly save to Google Drive.
+The tool was created by the Google Creative Lab and has been available since 2017, with a major v2.0 update in 2019 that added audio and pose projects. It runs entirely client-side—your training data never leaves your browser unless you explicitly save to Google Drive. If your team wants to build hyperparameter intuition before shipping a real model, pair Teachable Machine with [TensorFlow Playground](/deep-learning/tensorflow-playground-guide), Google's complementary browser-based visualiser for the underlying neural network behaviour.
 
 ### The Three Project Types
 

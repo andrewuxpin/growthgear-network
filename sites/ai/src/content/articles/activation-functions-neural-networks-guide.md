@@ -96,7 +96,7 @@ Sigmoid squashes any input into a range between 0 and 1 along an S-shaped curve:
 - Not zero-centered — outputs are always positive, creating zig-zagging gradient descent dynamics
 - Saturates quickly — neurons frequently end up in flat gradient regions
 
-Modern practice: use sigmoid only in binary classification output layers. Never use it in hidden layers if you can avoid it.
+Modern practice: use sigmoid only in binary classification output layers. Never use it in hidden layers if you can avoid it. To see the vanishing-gradient problem live, swap ReLU for Sigmoid on the spiral dataset in [TensorFlow Playground](/deep-learning/tensorflow-playground-guide) — loss creeps down for ~200 epochs, then stalls.
 
 ### Tanh (Hyperbolic Tangent)
 
