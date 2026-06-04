@@ -170,7 +170,7 @@ The core engagement metrics to track are:
 
 ### Building a Lead Engagement Score
 
-A lead engagement score combines **behavioral signals** (what the lead has done) with **fit signals** (how well they match your ICP) into a single number that drives rep prioritization.
+A lead engagement score combines **behavioral signals** (what the lead has done) with **fit signals** (how well they match your ICP) into a single number that drives rep prioritization. For the full methodology — including how to derive point weights from closed-won data and recalibrate quarterly — see our guide to building a [lead scoring model](/sales-techniques/lead-scoring-model-guide).
 
 | Signal Type | Signal | Score Weight |
 |-------------|--------|--------------|

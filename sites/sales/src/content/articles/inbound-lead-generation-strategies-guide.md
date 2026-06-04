@@ -93,7 +93,7 @@ The engage stage is also where most B2B teams over-engineer the form. Every addi
 
 The convert stage moves engaged prospects to a sales conversation. This is where lead scoring, lifecycle marketing, and intent signals determine speed-to-deal. Score by behavioral signals (pages visited, content downloaded, return visits) and firmographic fit, then route hot leads to sales within five minutes. A Harvard Business Review study of 2,241 firms found leads contacted within five minutes are 21 times more likely to qualify than leads contacted after 30 minutes.
 
-A simple lead-scoring model that works for most early-stage B2B teams uses three behavioral signals and two firmographic signals: pricing page view (+15), demo request (+25), comparison page view (+10), industry match (+10), company size match (+15). Anything above 40 routes to sales immediately; anything between 20-40 enters a nurture sequence; anything below 20 stays in the broader newsletter list. Refine the thresholds quarterly using closed-won data.
+A simple lead-scoring model that works for most early-stage B2B teams uses three behavioral signals and two firmographic signals: pricing page view (+15), demo request (+25), comparison page view (+10), industry match (+10), company size match (+15). Anything above 40 routes to sales immediately; anything between 20-40 enters a nurture sequence; anything below 20 stays in the broader newsletter list. Refine the thresholds quarterly using closed-won data. Our complete walkthrough for building a [lead scoring model](/sales-techniques/lead-scoring-model-guide) covers variable selection, weight derivation, and MQL threshold tuning in detail.
 
 ## High-Performance Inbound Channels That Drive Pipeline
 
