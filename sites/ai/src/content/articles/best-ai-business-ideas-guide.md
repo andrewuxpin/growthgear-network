@@ -99,7 +99,7 @@ The business model is typically SaaS — monthly or annual subscription per seat
 
 ### API-Wrapper Micro-SaaS
 
-Micro-SaaS businesses — focused tools that solve one specific problem — are faster to build than ever thanks to frontier model APIs. A founder can wrap an API with a clean interface, a Stripe subscription integration, and a specific use case, and ship in 4-8 weeks.
+Micro-SaaS businesses — focused tools that solve one specific problem — are faster to build than ever thanks to frontier model APIs. A founder can wrap an API with a clean interface, a Stripe subscription integration, and a specific use case, and ship in 4-8 weeks. The build stack for this kind of micro-SaaS — Cursor, v0, Claude or ChatGPT Team, and a small set of growth tools — is exactly what the [best AI tools for startups guide](/ai-tools/best-ai-tools-for-startups) covers by funding stage.
 
 Successful micro-SaaS categories in 2026:
 - **AI meeting summarizers** with CRM auto-logging for specific platforms
