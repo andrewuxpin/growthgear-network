@@ -135,7 +135,7 @@ A team with:
 
 Has a velocity of (50 × 0.25 × $40,000) ÷ 60 = **$8,333/day**.
 
-Improving any variable improves velocity. Doubling win rate from 25% to 50% doubles velocity. So does cutting cycle length from 60 to 30 days. This makes velocity a useful optimization target — and a tool for evaluating where to invest sales development resources.
+Improving any variable improves velocity. Doubling win rate from 25% to 50% doubles velocity. So does cutting cycle length from 60 to 30 days. This makes velocity a useful optimization target — and a tool for evaluating where to invest sales development resources. For a deep dive on benchmarks, segmented calculation, and the four levers that move the number, see our complete [sales pipeline velocity formula guide](/b2b-sales/sales-pipeline-velocity-formula-guide).
 
 > **Looking to accelerate your pipeline velocity?** GrowthGear has helped 50+ startups build sales engines that deliver 156% average growth. [Book a Free Strategy Session](https://growthgear.com.au) to diagnose your pipeline health and identify your highest-leverage improvement areas.
 

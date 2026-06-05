@@ -45,7 +45,7 @@ Not every "forecasting" feature is the same. A basic pipeline view in your CRM s
 
 Manual spreadsheet forecasts achieve around 55-65% accuracy. That sounds acceptable until you model what a 10% miss means on a $5M revenue target—a $500K variance that ripples through headcount planning, marketing spend, and investor relations.
 
-AI-driven forecasting tools consistently achieve 85-95% accuracy by incorporating factors that humans miss: email response sentiment, deal velocity changes, competitor mentions in call recordings, and historical close rate patterns by rep and deal type.
+AI-driven forecasting tools consistently achieve 85-95% accuracy by incorporating factors that humans miss: email response sentiment, deal velocity changes, competitor mentions in call recordings, and historical close rate patterns by rep and deal type. Anchoring the forecast on a [sales pipeline velocity baseline](/b2b-sales/sales-pipeline-velocity-formula-guide) rather than rep gut feel closes most of the remaining accuracy gap.
 
 ### Key Features That Actually Move the Needle
 

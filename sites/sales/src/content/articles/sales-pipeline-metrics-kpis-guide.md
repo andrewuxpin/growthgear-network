@@ -152,7 +152,7 @@ Over a 90-day quarter, that's $750,000 in projected revenue. If your quarterly q
 
 ### What a Healthy Velocity Number Looks Like
 
-There's no universal benchmark for pipeline velocity because it depends on your deal size and cycle length. The useful comparison is **your own velocity over time**. If velocity is increasing quarter-over-quarter, your pipeline is getting more efficient. If it's declining, one or more of the four inputs is deteriorating — and the formula tells you exactly which one.
+There's no universal benchmark for pipeline velocity because it depends on your deal size and cycle length. The useful comparison is **your own velocity over time**. If velocity is increasing quarter-over-quarter, your pipeline is getting more efficient. If it's declining, one or more of the four inputs is deteriorating — and the formula tells you exactly which one. For a deep-dive on segmented benchmarks and the four levers that move the number most, see our [sales pipeline velocity formula guide](/b2b-sales/sales-pipeline-velocity-formula-guide).
 
 ### Improving Each Velocity Input
 
