@@ -49,7 +49,7 @@ This guide gives you the frameworks, formulas, and techniques to write cold emai
 
 ## What Is Cold Email Copywriting (and Why Most Reps Get It Wrong)
 
-Cold email copywriting is the skill of writing a first-contact message to a prospect who has no prior relationship with you, structured to earn a reply. Unlike marketing email, cold email is one-to-one, not one-to-many — which means it must read as personal, specific, and relevant to work.
+Cold email copywriting is the skill of writing a first-contact message to a prospect who has no prior relationship with you, structured to earn a reply. Unlike marketing email, cold email is one-to-one, not one-to-many — which means it must read as personal, specific, and relevant to work. If you want the canonical definition before diving into the copy mechanics, our [cold email meaning guide](/sales-techniques/cold-email-meaning-explained) covers the structural traits, legal lines, and how cold email differs from spam and warm outreach.
 
 Most reps get it wrong for three reasons. They write about themselves ("We're a leading platform for..."). They send generic messages to everyone ("I wanted to reach out to see if..."). They treat the email as a pitch when it should be a conversation-starter. The result: a 2-4% reply rate that makes cold email feel broken when the real problem is the copy.
 

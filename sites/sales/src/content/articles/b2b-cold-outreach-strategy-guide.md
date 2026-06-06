@@ -49,7 +49,7 @@ This guide covers the complete mechanics of B2B cold outreach: how to build targ
 
 ## What Makes B2B Cold Outreach Actually Work
 
-Effective B2B cold outreach works when three variables align: the right person, the right message, and the right moment. Most teams optimize for message and ignore the other two. That's why most cold outreach fails.
+Effective B2B cold outreach works when three variables align: the right person, the right message, and the right moment. Most teams optimize for message and ignore the other two. That's why most cold outreach fails. Before tuning the tactics, make sure the team agrees on terminology — our [cold email meaning guide](/sales-techniques/cold-email-meaning-explained) defines what counts as cold, what counts as spam, and where the legal lines sit.
 
 According to HubSpot's State of Sales report, 33% of sales professionals say cold email is their most effective outreach channel — but the same data shows a massive performance gap between top and average performers. The gap isn't creativity. It's targeting and timing.
 
