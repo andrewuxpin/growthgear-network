@@ -43,7 +43,7 @@ callout:
 
 Most business leaders asking whether data science requires coding are really asking two questions: "Do I need to code to work with data?" and "What should I require when hiring data talent?" The honest answer to both: it depends on the role — but coding is rarely optional.
 
-Data science is a broad field spanning business intelligence, statistical analysis, machine learning, and AI engineering. The coding requirement scales directly with how deep into the stack you need to go. A marketing analyst pulling dashboards sits at one end; an ML engineer deploying transformer models sits at the other.
+Data science is a broad field spanning business intelligence, statistical analysis, machine learning, and AI engineering. The coding requirement scales directly with how deep into the stack you need to go. A marketing analyst pulling dashboards sits at one end; an ML engineer deploying transformer models sits at the other. Coding is one of two technical thresholds business leaders ask about — the other being mathematics, which we cover in our companion guide on [whether data science requires math](/machine-learning/does-data-science-require-math-guide).
 
 ## Does Data Science Require Coding?
 

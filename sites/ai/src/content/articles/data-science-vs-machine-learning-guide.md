@@ -64,7 +64,7 @@ A data scientist's primary job is to turn raw data into decisions. That process 
 
 Data scientists primarily use Python (pandas, NumPy, scikit-learn) and SQL, with visualization tools like Tableau, Power BI, or matplotlib for reporting. Their output is typically a report, a dashboard, an A/B test result, or a validated model prototype — not a production-grade deployed system.
 
-If you're defining job requirements or evaluating candidates, the amount of coding each data role actually requires varies significantly by tier. Our guide on [does data science require coding](/machine-learning/does-data-science-require-coding-guide) breaks down the specific Python and SQL depth expected at each level — from analyst to ML engineer.
+If you're defining job requirements or evaluating candidates, the amount of coding each data role actually requires varies significantly by tier. Our guide on [does data science require coding](/machine-learning/does-data-science-require-coding-guide) breaks down the specific Python and SQL depth expected at each level — from analyst to ML engineer. The mathematics depth scales the same way: see [does data science require math](/machine-learning/does-data-science-require-math-guide) for the applied statistics, linear algebra, and calculus expectations by role tier.
 
 The scope of data science also includes adjacent specializations: data analysts who focus on reporting and business intelligence, and data engineers who build the pipelines that move data from source systems into analytical stores. Understanding [what data engineering involves](/machine-learning/what-is-data-engineering-guide) — and how it underpins both analytics and ML — is essential before deciding which data role to hire first.
 
