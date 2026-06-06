@@ -119,7 +119,7 @@ Pick two or three. Trying to optimise email for everything at once produces a pr
 
 ## The B2B Email Stack: Segmentation, Automation, and Personalization
 
-The B2B email stack is the combination of segmentation logic, triggered automation, and personalization that turns a contact list into a pipeline engine. Software matters less than the data model you build inside it — most B2B teams underuse their existing platform and overestimate the lift from switching. Get segmentation, sequences, and signals right first.
+The B2B email stack is the combination of segmentation logic, triggered automation, and personalization that turns a contact list into a pipeline engine. Software matters less than the data model you build inside it — most B2B teams underuse their existing platform and overestimate the lift from switching. Get segmentation, sequences, and signals right first. Email sits inside a wider automation program; our [B2B marketing automation strategy guide](/content-marketing/b2b-marketing-automation-strategy-guide) covers the broader workflow architecture.
 
 ### Segmentation Frameworks That Actually Drive Engagement
 

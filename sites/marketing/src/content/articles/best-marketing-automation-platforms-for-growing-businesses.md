@@ -101,7 +101,7 @@ Its Shopify and WooCommerce integrations are native and deep — including aband
 
 ### Marketo Engage (Adobe)
 
-**Best for:** Enterprise B2B companies with complex, multi-touch buying cycles and dedicated marketing operations teams.
+**Best for:** Enterprise B2B companies with complex, multi-touch buying cycles and dedicated marketing operations teams. If you're designing the workflows that will run on it, see our [B2B marketing automation strategy guide](/content-marketing/b2b-marketing-automation-strategy-guide).
 
 Marketo is the dominant platform for enterprise demand generation. Its lead scoring engine is the most granular available — combining demographic scoring with behavioral scoring across web, email, events, and offline sources. Revenue attribution modeling connects marketing spend to closed-won revenue directly in the platform.
 

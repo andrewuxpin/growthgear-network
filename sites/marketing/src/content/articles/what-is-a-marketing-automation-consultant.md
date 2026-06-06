@@ -47,7 +47,7 @@ This guide breaks down what a marketing automation consultant actually delivers,
 
 ## What Does a Marketing Automation Consultant Do?
 
-A marketing automation consultant audits your platforms, fixes the data plumbing between your CRM and marketing tools, designs lifecycle workflows tied to revenue stages, builds reporting against pipeline, and trains your team to operate the system once the engagement ends. They are an external diagnostic and design resource — not a day-to-day operator and not a campaign agency. The output is typically a working system, a runbook, and a trained internal owner.
+A marketing automation consultant audits your platforms, fixes the data plumbing between your CRM and marketing tools, designs lifecycle workflows tied to revenue stages, builds reporting against pipeline, and trains your team to operate the system once the engagement ends. They are an external diagnostic and design resource — not a day-to-day operator and not a campaign agency. The output is typically a working system, a runbook, and a trained internal owner. For B2B teams designing those workflows themselves, our [B2B marketing automation strategy guide](/content-marketing/b2b-marketing-automation-strategy-guide) walks through the five workflows that drive pipeline.
 
 ### The Five Core Deliverables
 
