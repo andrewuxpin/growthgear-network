@@ -74,6 +74,7 @@ Pull up the Playground when:
 - An exec asks why one model overfits and another doesn't
 - A team is debating "more data or more layers" before scoping a pilot
 - An instructor wants a 5-minute classroom demo of [activation functions](/deep-learning/activation-functions-neural-networks-guide)
+- A student is scoping a [machine learning ISEF project](/machine-learning/machine-learning-for-isef-project-guide) and needs to defend why a deeper network is justified on the chosen dataset
 
 Skip it when the question is operational ("which cloud GPU should we rent?") or when the audience already builds production models — at that point [how to build a neural network in practice](/deep-learning/how-to-build-a-neural-network-complete-guide) is the better starting point.
 

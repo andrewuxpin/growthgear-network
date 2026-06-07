@@ -141,7 +141,7 @@ This works well for small manufacturers or facilities teams who need simple moni
 
 Retail kiosks, museum installations, and public-facing interactive displays use Teachable Machine's pose project type to enable touch-free gesture controls. A trained pose model recognizes specific body positions—raised hand, arms crossed, pointing gestures—to navigate a menu, confirm a selection, or advance a presentation.
 
-This has direct applications in high-traffic environments where physical contact with shared screens creates hygiene or wear concerns. The model runs entirely in the browser, making deployment as simple as loading a web page on a display-connected device.
+This has direct applications in high-traffic environments where physical contact with shared screens creates hygiene or wear concerns. The model runs entirely in the browser, making deployment as simple as loading a web page on a display-connected device. The same workflow is also a popular starting point for student research — see our guide on [machine learning for ISEF projects](/machine-learning/machine-learning-for-isef-project-guide) for how high-school finalists use Teachable Machine to prototype accessibility and computer vision entries.
 
 For teams exploring AI-driven workflows across their full business stack, our roundup of [AI tools for small business](/ai-tools/best-ai-tools-for-small-business) covers the broader landscape of tools that complement custom ML models.
 

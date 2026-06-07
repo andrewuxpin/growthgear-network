@@ -91,7 +91,7 @@ Start by clearly defining what you want to achieve:
 2. **Set success metrics**: Accuracy, precision, recall, F1-score, or mean squared error? For imbalanced classification tasks, [sensitivity and recall](/machine-learning/what-is-sensitivity-in-machine-learning) are far more informative than overall accuracy alone.
 3. **Determine constraints**: Time, budget, computational resources, and data availability
 
-**Example**: Predicting house prices (regression problem) with a target accuracy of 85% using real estate data.
+**Example**: Predicting house prices (regression problem) with a target accuracy of 85% using real estate data. The same problem-framing discipline is what separates a wall-of-honor science fair entry from a Grand Award winner — see our guide on [machine learning for ISEF projects](/machine-learning/machine-learning-for-isef-project-guide) for how students convert a vague interest into a falsifiable research question that judges can score.
 
 ### Step 2: Collect and Prepare Your Data
 
