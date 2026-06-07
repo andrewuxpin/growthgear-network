@@ -1,5 +1,5 @@
 ---
-title: "What Is Data Engineering? Roles, Tools & Pipelines"
+title: "What Is Data Engineering? Roles & Tools"
 description: "What is data engineering? Learn what data engineers do, the tools they use, and when your company needs one. A practical guide for business leaders and CTOs."
 category: "machine-learning"
 author:

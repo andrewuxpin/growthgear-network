@@ -1,5 +1,5 @@
 ---
-title: "Email Marketing Examples That Drive Real Results"
+title: "Email Marketing Examples That Drive Real"
 description: "Discover 20 proven email marketing examples: welcome sequences, promotional emails, nurture campaigns, and re-engagement tactics — all ready to adapt today."
 category: "content-marketing"
 author:

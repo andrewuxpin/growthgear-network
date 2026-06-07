@@ -1,5 +1,5 @@
 ---
-title: "Technical Post-Sales Leader Competencies in AI Dev Tools"
+title: "Technical Post-Sales Leader Competencies in"
 description: "The competencies that define great technical post-sales leaders at AI developer tooling companies — technical depth, AI fluency, and executive impact."
 category: "ai-tools"
 author:

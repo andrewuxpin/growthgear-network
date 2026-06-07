@@ -1,5 +1,5 @@
 ---
-title: "Which Social Media Platform Pays the Most? (2026)"
+title: "Which Social Media Platform Pays the Most?"
 description: "Compare which social media platform pays the most in 2026 — for creators and brands. YouTube, TikTok, Instagram, LinkedIn, and Pinterest ROI compared."
 category: "social-media"
 author:

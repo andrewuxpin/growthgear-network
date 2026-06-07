@@ -1,5 +1,5 @@
 ---
-title: "B2B Growth Hacking: Strategies That Actually Work"
+title: "B2B Growth Hacking: Strategies That"
 description: "Discover proven B2B growth hacking strategies that accelerate pipeline and revenue. From viral loops to product-led growth, here's what actually works."
 category: "content-marketing"
 author:

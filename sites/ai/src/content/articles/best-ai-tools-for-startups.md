@@ -1,5 +1,5 @@
 ---
-title: "Best AI Tools for Startups: The Founder Stack Guide"
+title: "Best AI Tools for Startups: The Founder Stack"
 description: "The best AI tools for startups in 2026, from product builds to growth, sales, and ops. Stack guide with pricing, picks by funding stage, and what to skip."
 category: "ai-tools"
 author:

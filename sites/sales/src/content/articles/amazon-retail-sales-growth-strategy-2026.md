@@ -1,5 +1,5 @@
 ---
-title: "Amazon Retail Sales Growth Strategy: 2026 Playbook"
+title: "Amazon Retail Sales Growth Strategy: 2026"
 description: "Amazon retail sales growth strategy for 2026: a five-pillar playbook covering listings, ads, pricing, fulfillment, and brand to grow profitable market share."
 category: "sales-techniques"
 author:

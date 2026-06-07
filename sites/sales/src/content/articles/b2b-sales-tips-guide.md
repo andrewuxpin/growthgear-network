@@ -1,5 +1,5 @@
 ---
-title: "B2B Sales Tips: 12 Strategies That Win More Deals"
+title: "B2B Sales Tips: 12 Strategies That Win More"
 description: "Master B2B sales with 12 proven strategies covering prospecting, discovery, multi-stakeholder engagement, and closing techniques that win enterprise accounts."
 category: "b2b-sales"
 author:

@@ -1,5 +1,5 @@
 ---
-title: "SaaS Content Marketing Agency: How to Choose One"
+title: "SaaS Content Marketing Agency: How to"
 description: "A SaaS content marketing agency builds pipeline through product-led writing. Here's how to choose one, what they cost, and when in-house wins instead."
 category: "content-marketing"
 author:

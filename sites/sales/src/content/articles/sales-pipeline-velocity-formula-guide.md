@@ -1,5 +1,5 @@
 ---
-title: "Sales Pipeline Velocity: Formula to Accelerate Revenue"
+title: "Sales Pipeline Velocity: Formula to"
 description: "Sales pipeline velocity measures how fast deals convert into revenue. Learn the formula, 2026 benchmarks, and four levers to accelerate your B2B pipeline."
 category: "b2b-sales"
 author:

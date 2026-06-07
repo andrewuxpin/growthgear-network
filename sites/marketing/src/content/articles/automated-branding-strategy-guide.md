@@ -1,5 +1,5 @@
 ---
-title: "Automated Branding: Scale Brand Consistency Fast"
+title: "Automated Branding: Scale Brand"
 description: "Automated branding keeps your visual identity consistent across every channel. Discover the tools, workflows, and step-by-step framework to scale your brand."
 category: "content-marketing"
 author:

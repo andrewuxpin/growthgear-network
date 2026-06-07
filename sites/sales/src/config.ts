@@ -29,7 +29,7 @@ export const siteConfig: SiteConfig = {
   },
   seo: {
     titleTemplate: "%s | Sales Mastery",
-    defaultDescription: "Master the art of sales with proven strategies, techniques, and tools. Expert guides on B2B sales, CRM, pipeline management, and closing deals to grow your revenue.",
+    defaultDescription: "Master the art of sales with proven strategies, techniques, and tools. Expert guides on B2B sales, CRM, pipeline management, and closing deals to grow your.",
     siteUrl: "https://sales.growthgear.com.au",
   },
 };

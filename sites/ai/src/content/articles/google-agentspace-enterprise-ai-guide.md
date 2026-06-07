@@ -1,5 +1,5 @@
 ---
-title: "Google Agentspace: Enterprise AI for Business Teams"
+title: "Google Agentspace: Enterprise AI for Business"
 description: "Google Agentspace brings AI agents to enterprise workflows. Learn how it works, what it costs, and how to deploy it across your organization in 2026."
 category: "ai-tools"
 author:

@@ -1,5 +1,5 @@
 ---
-title: "Lead Engagement Strategies That Convert Prospects"
+title: "Lead Engagement Strategies That Convert"
 description: "Master lead engagement with proven strategies that turn cold prospects into paying customers. Includes timing, channel tactics, and CRM tools for sales teams."
 category: "sales-techniques"
 author:

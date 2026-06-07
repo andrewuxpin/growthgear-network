@@ -1,5 +1,5 @@
 ---
-title: "Machine Learning Algorithms: Types and Business Uses"
+title: "ML Algorithms: Types and Business Uses"
 description: "Explore core machine learning algorithms—supervised, unsupervised, reinforcement learning—and their real-world business applications across industries."
 category: "machine-learning"
 author:

@@ -1,5 +1,5 @@
 ---
-title: "Email Marketing Best Practices: 12 Proven Tactics"
+title: "Email Marketing: 12 Best Practices"
 description: "Master email marketing best practices with 12 proven tactics for list building, segmentation, deliverability, and campaign optimization to drive real ROI."
 category: "content-marketing"
 author:

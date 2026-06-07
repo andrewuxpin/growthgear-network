@@ -1,5 +1,5 @@
 ---
-title: "What Is Dropout in Deep Learning? A Practical Guide"
+title: "What Is Dropout in Deep Learning? A Practical"
 description: "Dropout randomly deactivates neurons during training to prevent overfitting. Learn how deep learning dropout works, variants, and the right rate for your model."
 category: "deep-learning"
 author:

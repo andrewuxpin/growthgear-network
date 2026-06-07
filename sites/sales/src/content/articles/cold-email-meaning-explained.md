@@ -1,5 +1,5 @@
 ---
-title: "Cold Email Meaning: What It Is and How It Actually Works"
+title: "Cold Email Meaning: What It Is and How It"
 description: "Cold email meaning explained: definition, examples, how it differs from spam, and what makes one work. A practical guide for B2B sellers and founders."
 category: "sales-techniques"
 author:

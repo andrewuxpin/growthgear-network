@@ -1,5 +1,5 @@
 ---
-title: "Lead Pipeline: Build and Scale Your Sales Machine"
+title: "Lead Pipeline: Build and Scale Your Sales"
 description: "Learn how to build a lead pipeline that fills with qualified prospects, converts faster, and drives predictable B2B revenue growth for your sales team."
 category: "b2b-sales"
 author:

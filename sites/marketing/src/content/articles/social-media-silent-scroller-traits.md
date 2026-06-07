@@ -1,5 +1,5 @@
 ---
-title: "Social Media Silent Scroller Traits: 2026 Marketer Guide"
+title: "Social Media Silent Scroller Traits: 2026"
 description: "Decode social media silent scroller traits, behaviors, and conversion patterns. Reach the silent majority — up to 90% of users — with smarter content."
 category: "social-media"
 author:

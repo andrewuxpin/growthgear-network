@@ -1,5 +1,5 @@
 ---
-title: "B2B Inside Sales: Complete Guide for Modern Teams"
+title: "B2B Inside Sales: Guide for Modern Teams"
 description: "B2B inside sales guide covering team structure, tools, tactics, and KPIs to scale revenue without travel. Build a remote-first sales engine that closes."
 category: "b2b-sales"
 author:

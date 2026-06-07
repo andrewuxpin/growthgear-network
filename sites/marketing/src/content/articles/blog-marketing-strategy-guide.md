@@ -1,5 +1,5 @@
 ---
-title: "Blog Marketing Strategy: Drive Traffic and Leads"
+title: "Blog Marketing Strategy: Drive Traffic and"
 description: "Learn how to build a blog marketing strategy that drives organic traffic, generates leads, and grows your brand authority. Practical guide for marketing teams."
 category: "content-marketing"
 author:

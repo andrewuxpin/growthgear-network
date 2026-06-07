@@ -1,5 +1,5 @@
 ---
-title: "CRM Database Guide: Build, Clean & Use Your Data"
+title: "CRM Database Guide: Build & Clean Data"
 description: "Learn what a CRM database is, how to structure contact and deal records for B2B sales, maintain data quality, and track the metrics that predict revenue."
 category: "crm-tools"
 author:

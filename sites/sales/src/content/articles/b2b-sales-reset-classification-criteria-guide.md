@@ -1,5 +1,5 @@
 ---
-title: "B2B Sales Reset Classification Criteria: Complete Guide"
+title: "B2B Sales Reset Classification Criteria"
 description: "Master B2B sales reset classification criteria with a 6-factor framework, a 6-step scoring process, and the CRM cadence that keeps account tiers honest."
 category: "b2b-sales"
 author:

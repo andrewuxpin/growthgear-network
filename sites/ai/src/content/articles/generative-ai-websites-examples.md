@@ -1,5 +1,5 @@
 ---
-title: "12 Generative AI Websites: Top Examples for Business"
+title: "12 Generative AI Websites: Top Examples for"
 description: "Explore 12 generative AI websites examples for business across text, image, video, audio, code, and productivity, with 2026 pricing and a selection guide."
 category: "ai-tools"
 author:

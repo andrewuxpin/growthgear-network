@@ -1,5 +1,5 @@
 ---
-title: "What Is an Email Marketing Manager? Role and Skills"
+title: "What Is an Email Marketing Manager? Role"
 description: "Learn what an email marketing manager does, the skills and tools they need, 2026 salary benchmarks, and when to hire one versus a specialist or agency."
 category: "content-marketing"
 author:

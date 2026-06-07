@@ -1,5 +1,5 @@
 ---
-title: "Best Social Media Scheduling Tools: 2026 Buyer's Guide"
+title: "Best Social Media Scheduling Tools: 2026"
 description: "Compare the 8 best social media scheduling tools for 2026—pricing tiers, features, and the right pick for solo creators, SMBs, agencies, and enterprise teams."
 category: "social-media"
 author:

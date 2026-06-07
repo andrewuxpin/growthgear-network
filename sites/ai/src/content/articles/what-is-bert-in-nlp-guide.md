@@ -1,5 +1,5 @@
 ---
-title: "What Is BERT in NLP? Architecture and Business Uses"
+title: "What Is BERT in NLP? Architecture and"
 description: "BERT is Google's 2018 NLP model that changed language understanding with bidirectional pre-training. Learn how it works and where it beats GPT for business."
 category: "deep-learning"
 author:

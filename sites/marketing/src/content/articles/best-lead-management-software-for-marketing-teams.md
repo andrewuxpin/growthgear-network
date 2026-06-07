@@ -1,5 +1,5 @@
 ---
-title: "Best Lead Management Software for Marketing Teams"
+title: "Best Lead Management Software for"
 description: "Compare the top 7 lead management software platforms for 2026. Features, pricing, and lead scoring tools matched to your marketing team size and needs."
 category: "content-marketing"
 author:

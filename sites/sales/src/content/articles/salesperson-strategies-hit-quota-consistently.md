@@ -1,5 +1,5 @@
 ---
-title: "Salesperson Strategies to Hit Quota Every Quarter"
+title: "Salesperson Strategies to Hit Quota Every"
 description: "Proven salesperson strategies to hit quota consistently. Master prospecting, deal advancement, time management, and performance tracking for B2B sales success."
 category: "sales-techniques"
 author:

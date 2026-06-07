@@ -1,5 +1,5 @@
 ---
-title: "What Is Precision in Machine Learning? Complete Guide"
+title: "What Is Precision in Machine Learning? Guide"
 description: "Learn what precision is in machine learning, how it differs from accuracy and recall, how to calculate it, and when to optimize for it in business ML."
 category: "machine-learning"
 author:

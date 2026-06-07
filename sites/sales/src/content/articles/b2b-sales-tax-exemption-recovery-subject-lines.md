@@ -1,5 +1,5 @@
 ---
-title: "B2B Sales Tax Exemption Recovery: Cold Email Subject Lines"
+title: "B2B Sales Tax Exemption Recovery: Cold"
 description: "Discover B2B sales tax exemption recovery subject lines that book CFO meetings. 24+ templates, principles, and frameworks for cold email outreach success."
 category: "sales-techniques"
 author:
