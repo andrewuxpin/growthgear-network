@@ -45,7 +45,7 @@ Most underperforming sales teams do not have a talent problem. They have a strat
 
 According to Salesforce's State of Sales research, fewer than three in ten B2B reps consistently follow a defined sales strategy in their day-to-day work. Yet companies with documented and enforced sales processes see roughly 18% higher revenue growth than peers without one, based on research from Vantage Point Performance and the Sales Management Association. The gap between high and low performers is rarely effort. It is the presence or absence of a coherent strategy.
 
-This guide answers the question every founder, sales leader, and SDR eventually asks: what is a sales strategy, really? You will learn the working definition, the six components every strategy contains, the four most common strategic models, how strategy differs from plans and tactics, and a five-step framework you can use this quarter to write your own.
+This guide answers the question every founder, sales leader, and SDR eventually asks: what is a sales strategy, really? You will learn the working definition, the six components every strategy contains, the four most common strategic models, how strategy differs from plans and tactics, and a five-step framework you can use this quarter to write your own. For a deeper look at the foundational layer that sits beneath every strategy, see our [bedrock sales strategy framework guide](/b2b-sales/bedrock-sales-strategy-framework-guide), which covers the five pillars that should stay stable for 18 to 36 months.
 
 ## What Is a Sales Strategy?
 

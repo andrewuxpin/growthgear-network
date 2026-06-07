@@ -133,7 +133,7 @@ The mechanics of an effective ABS strategy:
 4. **Run coordinated multi-touch campaigns**: Sales outreach and marketing content delivery follow the same account playbook, not separate calendars
 5. **Measure account-level engagement**: Track intent signals across the entire buying committee, not just activity from a single contact
 
-ABS consistently increases average deal size and improves close rates on target accounts. The prerequisite is tight sales-marketing alignment and a clearly defined ICP. Without both, the personalization becomes surface-level, the cost per account rises, and the model collapses. For a full breakdown of building a [comprehensive B2B sales strategy](/b2b-sales/b2b-sales-strategy-guide) with ICP development and account selection criteria, that guide covers the foundational architecture.
+ABS consistently increases average deal size and improves close rates on target accounts. The prerequisite is tight sales-marketing alignment and a clearly defined ICP. Without both, the personalization becomes surface-level, the cost per account rises, and the model collapses. For a full breakdown of building a [comprehensive B2B sales strategy](/b2b-sales/b2b-sales-strategy-guide) with ICP development and account selection criteria, that guide covers the foundational architecture. Before designing any of these motions, audit the foundation underneath with our [bedrock sales strategy framework guide](/b2b-sales/bedrock-sales-strategy-framework-guide), which walks through the five pillars (ICP, value, motion, methodology, operating model) every B2B strategy stands on.
 
 ## Insight-Led and Technology-Driven Approaches
 
