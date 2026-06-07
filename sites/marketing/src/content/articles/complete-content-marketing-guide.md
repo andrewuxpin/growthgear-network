@@ -148,7 +148,7 @@ The best content format depends on where your audience looks for answers and whi
 | Email newsletters | Lead nurturing, retention | Low | None | High |
 | Interactive tools | Lead capture, engagement | Very high | Medium | Very high |
 
-The right mix depends on team size and resources. Most early-stage content programs do best starting with blog posts, building to long-form guides, and introducing video once the written foundation is established. The person executing this foundation is typically a [content marketing specialist](/content-marketing/what-is-a-content-marketing-specialist) — a role that combines SEO writing, editorial planning, and performance analytics to build a program that compounds over time.
+The right mix depends on team size and resources. Most early-stage content programs do best starting with blog posts, building to long-form guides, and introducing video once the written foundation is established. The person executing this foundation is typically a [content marketing specialist](/content-marketing/what-is-a-content-marketing-specialist) — a role that combines SEO writing, editorial planning, and performance analytics to build a program that compounds over time. Teams without the budget for in-house senior talent often outsource execution instead; our guide on [how to choose a content marketing agency](/content-marketing/how-to-choose-content-marketing-agency) breaks down the agency models, pricing benchmarks, and vetting checklist for that decision.
 
 ## Distributing and Promoting Your Content
 

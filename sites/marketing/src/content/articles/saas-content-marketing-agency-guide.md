@@ -43,7 +43,7 @@ callout:
 
 A SaaS content marketing agency lives or dies by one question: can it turn writing into signups? Most cannot. The [Content Marketing Institute's 2024 B2B benchmarks](https://contentmarketinginstitute.com/articles/b2b-content-marketing-research/) show that **76% of top-performing content marketers** use content for demand generation, yet the same survey reports that only 29% of B2B marketers rate their content programs "very successful." The gap is where specialist SaaS agencies earn their fee.
 
-This guide walks through what these agencies actually do, how they differ from generic content shops, what to pay, and how to choose one that produces pipeline rather than blog posts that gather dust. If you are evaluating proposals this quarter, read the [content marketing services guide](/content-marketing/content-marketing-services-guide) alongside this article — it covers the broader services landscape that SaaS agencies sit inside.
+This guide walks through what these agencies actually do, how they differ from generic content shops, what to pay, and how to choose one that produces pipeline rather than blog posts that gather dust. If you are evaluating proposals this quarter, read the [content marketing services guide](/content-marketing/content-marketing-services-guide) alongside this article — it covers the broader services landscape that SaaS agencies sit inside. Buyers comparing SaaS specialists against general-purpose agencies should also work through our framework on [how to choose a content marketing agency](/content-marketing/how-to-choose-content-marketing-agency), which covers the cross-vertical vetting checklist and pricing benchmarks.
 
 ## What Is a SaaS Content Marketing Agency?
 
