@@ -145,7 +145,7 @@ For each candidate variable, segment the lead set and compare the conversion rat
 
 ### Step 3: Normalize the scale
 
-Most models use a 0–100 scale. The total possible positive score should exceed the MQL threshold by ~30% so high-intent leads pass even without every attribute. Pick a target MQL threshold (e.g., 60), then size point values so that an in-ICP prospect with two strong intent signals lands above it.
+Most models use a 0–100 scale. The total possible positive score should exceed the MQL threshold by ~30% so high-intent leads pass even without every attribute. Pick a target MQL threshold (e.g., 60), then size point values so that an in-ICP prospect with two strong intent signals lands above it. For the account-level fit layer that sits underneath this lead score, see our dedicated guide on [ICP scoring criteria for B2B sales](/b2b-sales/icp-scoring-criteria-b2b-sales).
 
 ### Step 4: Validate against a holdout sample
 

@@ -189,6 +189,8 @@ Develop detailed ICP based on:
 - Competitive landscape evaluation
 - Sales team input and feedback
 
+For a weighted, tiered scoring framework that turns the ICP from a slide into a daily routing tool, see our guide on [ICP scoring criteria for B2B sales](/b2b-sales/icp-scoring-criteria-b2b-sales).
+
 **2. Build Target Account List**
 Identify 25-100 target accounts using:
 - CRM data analysis

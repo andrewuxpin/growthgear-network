@@ -211,7 +211,7 @@ Most enterprise ICP failures trace back to four root causes: criteria that are t
 
 "Companies with 50-5,000 employees in technology or healthcare" is not a target profile. It's a population. When criteria are too broad, reps use their own judgment to fill in the gaps — and judgment varies.
 
-Specificity is the point. If your criteria can be applied to more than 20% of the addressable market, they're not criteria — they're filters. Push until your profile fits 5-8% of the market but converts at 3-4x your baseline close rate.
+Specificity is the point. If your criteria can be applied to more than 20% of the addressable market, they're not criteria — they're filters. Push until your profile fits 5-8% of the market but converts at 3-4x your baseline close rate. For a quantitative scoring layer that operationalizes this filtering, see the weighted [ICP scoring criteria for B2B sales](/b2b-sales/icp-scoring-criteria-b2b-sales) model.
 
 ### Mistake 2: Optimizing for Acquisitions Instead of Expansions
 
