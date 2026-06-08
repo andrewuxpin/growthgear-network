@@ -44,7 +44,7 @@ This guide explains what ML means for business leaders — the core concepts, th
 
 ## What Does ML Mean?
 
-ML stands for **machine learning** — a subset of artificial intelligence where algorithms improve their performance by learning from data rather than following hard-coded rules. The core idea: show the system enough examples of a problem and its correct answer, and it builds a predictive model it can apply to new, unseen data. The system improves with more data, not with more hand-written rules.
+ML stands for **machine learning** — a subset of artificial intelligence where algorithms improve their performance by learning from data rather than following hard-coded rules. The core idea: show the system enough examples of a problem and its correct answer, and it builds a predictive model it can apply to new, unseen data. The system improves with more data, not with more hand-written rules. For the comprehensive pillar covering history, types, and business applications end-to-end, see our [what is machine learning business guide](/machine-learning/what-is-machine-learning-business-guide).
 
 This distinguishes ML from traditional software. A rule-based spam filter might block emails containing "click here to claim your prize." An ML spam filter learns from millions of flagged examples and can catch new spam patterns its developers never anticipated.
 

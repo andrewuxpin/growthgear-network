@@ -59,7 +59,7 @@ All ML algorithms fall into one of three paradigms based on how they learn:
 | **Unsupervised** | Unlabeled data only | Pattern discovery, segmentation | K-means, PCA, autoencoders |
 | **Reinforcement** | Rewards via environment interaction | Sequential decision-making | Q-learning, PPO, DQN |
 
-Most business ML problems map to supervised learning. Unsupervised methods shine for customer analytics and anomaly detection. Reinforcement learning is emerging in pricing, logistics, and personalization — but requires more infrastructure maturity to deploy reliably.
+Most business ML problems map to supervised learning. Unsupervised methods shine for customer analytics and anomaly detection. Reinforcement learning is emerging in pricing, logistics, and personalization — but requires more infrastructure maturity to deploy reliably. For a complete primer on these three types and how they fit inside the AI/ML/deep-learning hierarchy, see our [what is machine learning business guide](/machine-learning/what-is-machine-learning-business-guide).
 
 ### How Algorithms Learn
 
