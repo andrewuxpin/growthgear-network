@@ -54,7 +54,7 @@ Every major platform uses **engagement velocity** — the speed at which a post 
 
 This means timing isn't only about reaching people when they're online. It's about triggering a self-reinforcing distribution cycle. A post published at 2 AM might reach your most dedicated followers, but it won't generate enough immediate engagement to activate the algorithm's amplification mechanism. The result: most of your audience never sees it.
 
-The practical implication is that two identical posts — one published at peak time, one published off-peak — can generate dramatically different reach even if the underlying content quality is the same.
+The practical implication is that two identical posts — one published at peak time, one published off-peak — can generate dramatically different reach even if the underlying content quality is the same. One important exception: under regulations like the [Kathy Hochul social media law](/social-media/kathy-hochul-social-media-law-marketers-guide), feeds for users under 18 default to chronological rather than algorithmic — making absolute timing far more important than engagement velocity when the audience includes minors.
 
 ### The Three Social Media Attention Windows
 

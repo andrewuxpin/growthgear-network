@@ -83,7 +83,7 @@ Pick ONE primary KPI. Write it as a single sentence: "Generate 350 marketing-qua
 
 ### Step 2: Map the audience and buying stage
 
-Define exactly who you want to reach and what they already know. Build a one-page audience brief covering: demographics, job titles (for B2B), platform usage habits, current awareness of your category, and the specific objection you need to overcome. Use platform-native audience tools — Meta Audience Insights, LinkedIn Campaign Manager Forecasting, and TikTok's Audience Estimator — to validate reach before committing budget.
+Define exactly who you want to reach and what they already know. Build a one-page audience brief covering: demographics, job titles (for B2B), platform usage habits, current awareness of your category, and the specific objection you need to overcome. Use platform-native audience tools — Meta Audience Insights, LinkedIn Campaign Manager Forecasting, and TikTok's Audience Estimator — to validate reach before committing budget. If any portion of your target audience is under 18, audit the campaign against the [Kathy Hochul social media law](/social-media/kathy-hochul-social-media-law-marketers-guide) requirements before launch — algorithmic targeting and AI features for minors face active restriction.
 
 ### Step 3: Choose platforms based on the goal
 

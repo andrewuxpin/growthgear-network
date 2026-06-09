@@ -113,7 +113,7 @@ This pattern repeats across consumer ecommerce. According to [Content Marketing 
 
 ### The Algorithm Reward
 
-Platforms reward content that holds silent scrollers. Watch time, completion rate, and save rate now outweigh likes and comments in TikTok's and Instagram's ranking algorithms — per public statements from both companies in 2025. Designing for silent scrollers therefore lifts reach for everyone, including the visible 10%.
+Platforms reward content that holds silent scrollers. Watch time, completion rate, and save rate now outweigh likes and comments in TikTok's and Instagram's ranking algorithms — per public statements from both companies in 2025. Designing for silent scrollers therefore lifts reach for everyone, including the visible 10%. For under-18 audiences specifically, regulatory changes like the [Kathy Hochul social media law](/social-media/kathy-hochul-social-media-law-marketers-guide) are now stripping out algorithmic ranking entirely — making save-worthy, self-contained design even more important when minor users see chronological feeds by default.
 
 ### The Brand-Building Compounding
 
