@@ -63,7 +63,7 @@ Each connection between neurons has a **weight** — a number that determines ho
 
 ### Why Depth Matters
 
-A single-layer network can only learn linear relationships. Every additional layer exponentially increases the complexity of patterns the network can represent. According to [Stanford HAI's 2024 AI Index](https://hai.stanford.edu/research/ai-index), deep learning models with more than 10 layers consistently outperform shallow alternatives on vision and language benchmarks by 15-40%.
+A single-layer network can only learn linear relationships. Every additional layer exponentially increases the complexity of patterns the network can represent. According to [Stanford HAI's 2024 AI Index](https://hai.stanford.edu/research/ai-index), deep learning models with more than 10 layers consistently outperform shallow alternatives on vision and language benchmarks by 15-40%. The conceptual breakthroughs that made deeper networks trainable trace back to a small group of researchers — see our list of the [most-cited machine learning scientists on Google Scholar](/machine-learning/most-cited-machine-learning-scientists-google-scholar) for the lineage behind the depth-equals-capability trend.
 
 For business applications, depth translates directly to capability: deep networks can understand the nuance in a customer complaint email, detect subtle manufacturing defects in product images, or predict churn from complex behavioral sequences that simpler models miss.
 

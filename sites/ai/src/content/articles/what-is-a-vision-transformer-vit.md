@@ -83,7 +83,7 @@ The class token gets its own positional encoding. After this step, each token in
 
 ### Step 3: Transformer Encoder
 
-The transformer encoder is identical to the one in the original Vaswani et al. 2017 paper. Each encoder block contains layer normalization, multi-head [self-attention](/deep-learning/attention-mechanism-deep-learning-explained), another layer norm, and a feed-forward MLP. ViT-Base stacks 12 encoder blocks with 12 attention heads each; ViT-Large uses 24 blocks with 16 heads.
+The transformer encoder is identical to the one in the original Vaswani et al. 2017 paper. Each encoder block contains layer normalization, multi-head [self-attention](/deep-learning/attention-mechanism-deep-learning-explained), another layer norm, and a feed-forward MLP. ViT-Base stacks 12 encoder blocks with 12 attention heads each; ViT-Large uses 24 blocks with 16 heads. "Attention Is All You Need" is now one of the fastest-cited AI papers in history — see where Vaswani sits alongside the [most-cited machine learning scientists on Google Scholar](/machine-learning/most-cited-machine-learning-scientists-google-scholar) for the citation trajectory behind the transformer takeover.
 
 In self-attention, every token can attend to every other token. For a 196-patch sequence, that means each patch directly considers all other patches in a single layer — global context arrives immediately, unlike a CNN where it takes many convolutions to build up. This global attention is also why ViT excels at tasks requiring long-range visual reasoning, such as document layout understanding or scene composition.
 
