@@ -117,7 +117,7 @@ Your value proposition belongs in one sentence. Not a feature list. Not a produc
 **Weak value prop:** "We offer an AI-powered sales engagement platform with multi-channel sequencing."
 **Strong value prop:** "We help B2B teams book 3x more meetings from their existing contact list without adding headcount."
 
-The strong version describes an outcome the prospect already wants. The weak version requires them to translate features into outcomes themselves — and most won't bother.
+The strong version describes an outcome the prospect already wants. The weak version requires them to translate features into outcomes themselves — and most won't bother. The weak version is also a hallmark of [why AI automation agency cold outreach fails in 2026](/sales-techniques/why-ai-automation-agency-cold-outreach-fails-2026), where AI-generated templates default to feature-listing rather than outcome-framing.
 
 ### CTA: One Low-Friction Question
 

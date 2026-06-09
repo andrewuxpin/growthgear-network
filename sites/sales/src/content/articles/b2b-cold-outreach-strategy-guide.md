@@ -249,7 +249,7 @@ Cold outreach failures cluster in predictable patterns:
 
 AI tools are changing the research-to-personalization workflow. Teams using AI for prospecting research — summarizing a prospect's LinkedIn activity, recent press mentions, or company announcements — cut personalization time by 60-70% while maintaining message quality.
 
-The workflow: research automation handles data gathering; the rep writes the first line based on AI-surfaced insights. This keeps the human judgment in the highest-value part of the process. For a deeper look at AI applications across the sales function, [implementing AI in business](https://ai.growthgear.com.au/machine-learning/how-to-implement-ai-in-business-complete-guide) covers the integration patterns that sales teams are using successfully.
+The workflow: research automation handles data gathering; the rep writes the first line based on AI-surfaced insights. This keeps the human judgment in the highest-value part of the process. The opposite pattern — letting AI write the email itself — is precisely [why AI automation agency cold outreach fails in 2026](/sales-techniques/why-ai-automation-agency-cold-outreach-fails-2026). For a deeper look at AI applications across the sales function, [implementing AI in business](https://ai.growthgear.com.au/machine-learning/how-to-implement-ai-in-business-complete-guide) covers the integration patterns that sales teams are using successfully.
 
 Pair AI-assisted research with [customer acquisition cost tracking](https://marketing.growthgear.com.au/seo/customer-acquisition-cost-calculation-optimization-guide) to understand the true cost of outbound as a channel and make budget allocation decisions based on data.
 

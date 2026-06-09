@@ -156,7 +156,7 @@ Cold calling rules differ. The [LinkedIn Sales Solutions cold calling guide](htt
 
 ### AI assistants and cold email
 
-AI personalization tools and conversational AI now sit inside many outbound stacks. Used well, they cut research time and improve relevance. Used poorly, they push reply rates down by flooding inboxes with hollow personalization. [AI Insights covers the right way to evaluate AI assistants](https://ai.growthgear.com.au/ai-tools/best-ai-chatbots-for-customer-service) before plugging one into your prospecting workflow.
+AI personalization tools and conversational AI now sit inside many outbound stacks. Used well, they cut research time and improve relevance. Used poorly, they push reply rates down by flooding inboxes with hollow personalization. This is the failure mode behind [why AI automation agency cold outreach fails in 2026](/sales-techniques/why-ai-automation-agency-cold-outreach-fails-2026), and the diagnostic for fixing it. [AI Insights covers the right way to evaluate AI assistants](https://ai.growthgear.com.au/ai-tools/best-ai-chatbots-for-customer-service) before plugging one into your prospecting workflow.
 
 ## Measuring Cold Email Performance (Benchmarks & KPIs)
 
