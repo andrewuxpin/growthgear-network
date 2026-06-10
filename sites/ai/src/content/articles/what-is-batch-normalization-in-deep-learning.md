@@ -183,7 +183,7 @@ Batch normalization affects business AI teams primarily through training cost, d
 Batch normalization is not universally beneficial. Specific situations where it should be avoided or replaced:
 
 - **Batch size below 8**: Unreliable statistics cause training instability. Use Group Normalization or Layer Normalization instead.
-- **Transformer architectures**: Always use Layer Normalization.
+- **Transformer architectures**: Always use [layer normalization](/deep-learning/what-is-layer-normalization-in-deep-learning), which normalizes across the feature dimension per example and is independent of batch size.
 - **RNN / LSTM / GRU**: BN cannot handle variable-length sequences or the temporal hidden state. Use Layer Normalization.
 - **Online learning or single-example inference**: Where each example is processed independently. Use Instance or Layer Normalization.
 - **Combined with heavy dropout (rate > 0.1) in residual networks**: BN and dropout interact poorly in ResNet-style architectures. If using both, apply dropout only at rates ≤ 0.1, as covered in the [what is overfitting in machine learning guide](/machine-learning/what-is-overfitting-in-machine-learning).

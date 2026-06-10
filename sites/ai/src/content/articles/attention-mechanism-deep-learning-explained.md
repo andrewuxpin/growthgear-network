@@ -137,6 +137,8 @@ The original transformer used sinusoidal positional encoding (fixed, based on si
 
 Positional encoding is why transformers understand that "the model" in sentence 1 refers to a different entity than "the model" in sentence 5, even when both are processed simultaneously through attention.
 
+Each attention sublayer is wrapped in an Add & Norm step, where its output is added to the residual input and then stabilized with [layer normalization](/deep-learning/what-is-layer-normalization-in-deep-learning) — the normalization scheme that keeps gradients trainable across the deep stacks behind every modern transformer.
+
 For a deeper grounding in how these architectural components fit together, see our guide on [transformer architecture in machine learning](/deep-learning/what-is-a-transformer-in-machine-learning) and how [deep learning works at a system level](/deep-learning/how-deep-learning-works-complete-guide).
 
 ## Attention Mechanism Variants Compared
