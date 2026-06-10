@@ -52,7 +52,7 @@ For example, if 100 people visit your website and 3 make a purchase, your conver
 ### 1. Data Collection and Analysis
 
 #### Web Analytics Setup
-Before optimizing anything, you need to understand your current performance:
+Before optimizing anything, you need to understand your current performance. Conversion is one of the seven areas covered in a full [digital marketing audit](/content-marketing/how-to-do-a-digital-marketing-audit), so if you have not reviewed your channels recently, start there to confirm which pages deserve optimization effort first:
 
 - **Google Analytics 4**: Track user behavior, conversion paths, and identify drop-off points
 - **Heatmap tools**: Use platforms like Hotjar or Crazy Egg to see where users click and scroll

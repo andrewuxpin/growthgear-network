@@ -100,7 +100,7 @@ Effective marketing goals connect directly to business outcomes:
 
 According to [CoSchedule's Marketer Happiness Report](https://coschedule.com/marketing-statistics), marketers who set formal goals are 376% more likely to report success. The reason is straightforward: documented goals create the feedback loops that enable course correction. When results diverge from targets, a documented goal tells you how far off track you are and by when you need to make adjustments.
 
-Every goal in your plan should have three components: a baseline (current state), a target (desired state), and a deadline (when you'll evaluate progress). Without all three, goals become aspirations rather than commitments.
+Every goal in your plan should have three components: a baseline (current state), a target (desired state), and a deadline (when you'll evaluate progress). Without all three, goals become aspirations rather than commitments. The cleanest way to establish reliable baselines is to run a [digital marketing audit](/content-marketing/how-to-do-a-digital-marketing-audit) before you plan, so every target is anchored to a verified current-state number rather than a guess.
 
 ### Building Audience Personas That Actually Inform Strategy
 
