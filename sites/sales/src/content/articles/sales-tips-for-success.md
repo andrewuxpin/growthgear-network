@@ -93,7 +93,7 @@ This single habit, applied consistently across a full quarter, can add 4 to 6 de
 
 ## Prospecting Tips That Fill Your Pipeline
 
-Consistent prospecting is the most reliable predictor of consistent revenue. The biggest mistake sales reps make is treating prospecting as a task to do when the pipeline gets thin, rather than a non-negotiable daily discipline. A structured, multi-channel approach keeps your pipeline full regardless of where you are in the quota cycle.
+Consistent prospecting is the most reliable predictor of consistent revenue. The biggest mistake sales reps make is treating prospecting as a task to do when the pipeline gets thin, rather than a non-negotiable daily discipline. A structured, multi-channel approach keeps your pipeline full regardless of where you are in the quota cycle. Disciplined prospecting is one of the core [sales best practices](/sales-techniques/sales-best-practices-guide) that separate teams hitting quota on purpose from those hitting it by luck.
 
 ### Tip 4: Build a Multi-Touch Outreach Cadence
 

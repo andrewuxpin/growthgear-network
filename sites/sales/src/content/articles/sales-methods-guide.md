@@ -59,7 +59,7 @@ A sales process defines the **stages** your deals move through: prospecting, dis
 
 Most CRM implementations map a process well but leave method up to individual reps. This creates variance: your top performer closes at 40%, your median at 12%, not because of effort, but because they're running different behaviors at every interaction.
 
-The solution is a consistent, trained method. The specific [B2B sales techniques](/sales-techniques/b2b-sales-techniques-that-close-deals) within that method matter, but the overarching system is what makes individual techniques coherent and replicable across the whole team.
+The solution is a consistent, trained method. The specific [B2B sales techniques](/sales-techniques/b2b-sales-techniques-that-close-deals) within that method matter, but the overarching system is what makes individual techniques coherent and replicable across the whole team. A trained method is one pillar of the broader [sales best practices](/sales-techniques/sales-best-practices-guide) that turn individual talent into a repeatable, team-wide system.
 
 ### Why Method Selection Matters More Than You Think
 

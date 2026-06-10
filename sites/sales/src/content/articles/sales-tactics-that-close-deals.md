@@ -51,7 +51,7 @@ This guide covers proven sales tactics across prospecting, closing, account mana
 
 Sales tactics are specific, repeatable actions reps take to move deals forward at each stage of the pipeline. They differ from strategy, which sets direction, and skills, which define capability. The most effective teams match specific tactics to buyer readiness, deal complexity, and pipeline stage rather than applying the same playbook to every prospect regardless of context.
 
-Most teams get tactics wrong in one of two ways. Either they adopt too many at once — overwhelming reps with a bloated playbook — or they run no playbook at all, leaving each rep to improvise. Both approaches produce inconsistent results.
+Most teams get tactics wrong in one of two ways. Either they adopt too many at once — overwhelming reps with a bloated playbook — or they run no playbook at all, leaving each rep to improvise. Both approaches produce inconsistent results. Tactics work best inside a wider system of [sales best practices](/sales-techniques/sales-best-practices-guide) that defines how you qualify, close, and measure every deal.
 
 ### Tactics vs. Strategy vs. Skills
 
