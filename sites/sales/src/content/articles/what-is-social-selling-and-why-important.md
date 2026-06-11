@@ -72,7 +72,7 @@ Modern B2B buyers have fundamentally changed how they research and purchase prod
 - **92% of buyers** trust recommendations from people they know
 - **78% of salespeople** using social selling outsell their peers who don't
 
-These statistics highlight why traditional sales approaches are becoming less effective and why social selling has emerged as a critical skill.
+These statistics highlight why traditional sales approaches are becoming less effective and why social selling has emerged as a critical skill. When social selling is paired with a systematic [social media lead generation strategy](/sales-techniques/social-media-lead-generation-strategy), the result is both higher quality relationships AND measurable pipeline volume.
 
 ### Key Benefits of Social Selling
 

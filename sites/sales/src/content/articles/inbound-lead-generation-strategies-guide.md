@@ -97,7 +97,7 @@ A simple lead-scoring model that works for most early-stage B2B teams uses three
 
 ## High-Performance Inbound Channels That Drive Pipeline
 
-The five channels that consistently produce qualified B2B inbound pipeline are organic search, gated content, webinars, customer reviews, and partner referrals. Most teams overcommit to social and undercommit to these five. Focus your first inbound quarter on whichever channel best matches how your buyer researches purchases.
+The five channels that consistently produce qualified B2B inbound pipeline are organic search, gated content, webinars, customer reviews, and partner referrals. Most teams overcommit to social and undercommit to these five. Focus your first inbound quarter on whichever channel best matches how your buyer researches purchases. For teams already investing in social, our [social media lead generation strategy guide](/sales-techniques/social-media-lead-generation-strategy) covers platform-by-platform tactics to make social a forecastable pipeline channel.
 
 ### Organic search and SEO content
 

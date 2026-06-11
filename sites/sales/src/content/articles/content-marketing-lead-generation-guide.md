@@ -207,6 +207,8 @@ Without active promotion, even great content sits unseen for months. A new domai
 - Outreach to 3-5 relevant industry newsletters for guest feature or link inclusion
 - Repurposing into 3-5 short-form social posts over the following two weeks
 
+For a dedicated playbook on using LinkedIn and other platforms as a systematic lead generation channel, see our [social media lead generation strategy guide](/sales-techniques/social-media-lead-generation-strategy).
+
 Distribution is especially critical for webinars and gated guides, where the lead capture event is time-bound. Without sufficient promotion, a high-quality webinar can attract fewer than 20 registrants, well below the threshold where the format delivers positive ROI.
 
 ### Skipping Lead Capture Optimization
