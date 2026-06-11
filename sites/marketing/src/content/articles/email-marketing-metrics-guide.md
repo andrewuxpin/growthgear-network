@@ -127,7 +127,7 @@ The gap between average and top-quartile is largely explained by segmentation ri
 
 ### Where Most B2B Teams Sit
 
-Most B2B teams without dedicated email marketing resources land in the second quartile: 25-35% open rate, 2-3% click rate, 1-2% conversion. The fastest path to top quartile is rarely better copy. It is fixing list decay (remove inactive subscribers quarterly), tightening segmentation (5-10 active segments minimum), and adding 3-4 behavioral trigger flows.
+Most B2B teams without dedicated email marketing resources land in the second quartile: 25-35% open rate, 2-3% click rate, 1-2% conversion. The fastest path to top quartile is rarely better copy. It is fixing list decay (remove inactive subscribers quarterly), tightening segmentation (5-10 active segments minimum), and adding 3-4 behavioral trigger flows. A fourth lever many teams overlook is send timing — our guide to the [best time to send marketing emails](/content-marketing/best-time-to-send-marketing-emails) covers how day-of-week and time-of-day optimization can add a consistent 5–15% open rate lift with no copy changes required.
 
 > **Want to scale your marketing impact?** GrowthGear has helped 50+ startups build marketing engines that deliver 156% average growth. [Book a Free Strategy Session](https://growthgear.com.au) to audit your email program and identify where revenue is being left on the table.
 

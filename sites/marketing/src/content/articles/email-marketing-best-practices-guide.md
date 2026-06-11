@@ -167,7 +167,7 @@ Without DMARC in particular, Gmail and Yahoo now filter a significant portion of
 
 HubSpot's email marketing research shows Tuesday and Thursday between 9-11am and 1-3pm local time generate the highest average open rates for B2B audiences. For e-commerce, Sunday evenings and Thursday mornings index well.
 
-That said, your audience is not the average. Run a send-time optimization test: split your list across four time windows over four sends and measure open rate by cohort. Most enterprise ESPs (Klaviyo, ActiveCampaign, HubSpot) offer automated send-time optimization based on each subscriber's historical open behavior.
+That said, your audience is not the average. Our [guide to the best time to send marketing emails](/content-marketing/best-time-to-send-marketing-emails) breaks down day-by-day and hour-by-hour performance data plus A/B testing methodology. Run a send-time optimization test: split your list across four time windows over four sends and measure open rate by cohort. Most enterprise ESPs (Klaviyo, ActiveCampaign, HubSpot) offer automated send-time optimization based on each subscriber's historical open behavior.
 
 Frequency matters as much as timing. Most B2B programs see engagement drop at more than 4 sends per month. For [building lead generation pipelines](https://sales.growthgear.com.au/b2b-sales/best-lead-generation-strategies-b2b-companies), start at 2 sends per month and increase gradually, tracking unsubscribe rates at each step.
 

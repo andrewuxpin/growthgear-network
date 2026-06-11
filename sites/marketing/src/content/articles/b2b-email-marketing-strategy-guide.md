@@ -166,7 +166,7 @@ Avoid the trap of personalizing first names while ignoring content relevance. Th
 
 ## Measuring B2B Email Performance
 
-B2B email measurement has changed more in the last three years than in the previous fifteen. Apple Mail Privacy Protection now pre-loads images for many recipients, inflating open rates by 20-40% for affected segments according to Litmus. That makes open rate unreliable on its own. The metrics that matter most are click-through, reply rate, and downstream pipeline contribution.
+B2B email measurement has changed more in the last three years than in the previous fifteen. Apple Mail Privacy Protection now pre-loads images for many recipients, inflating open rates by 20-40% for affected segments according to Litmus. That makes open rate unreliable on its own. The metrics that matter most are click-through, reply rate, and downstream pipeline contribution. One optimization that still moves genuine opens: send time. Our guide to the [best time to send marketing emails](/content-marketing/best-time-to-send-marketing-emails) covers the Tuesday–Thursday 9–11am benchmark, industry-specific windows, and the A/B methodology to find your list's actual peak.
 
 ### Benchmarks for 2026
 
