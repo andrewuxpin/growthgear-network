@@ -63,7 +63,7 @@ These differences matter because they change where you invest your pipeline reso
 
 ### How the Funnel and Pipeline Relate
 
-Many teams conflate the sales funnel with the sales pipeline — they're related but distinct. The **funnel** describes the *buyer's* journey (stages of awareness and decision-making). The **pipeline** describes the *seller's* process (stages of tasks and actions required to advance deals). For a complete revenue picture, pair your [B2B sales funnel strategy](/b2b-sales/b2b-sales-strategy-guide) with a structured [sales pipeline management approach](/b2b-sales/b2b-sales-pipeline-guide) that gives every rep a clear workflow.
+Many teams conflate the sales funnel with the sales pipeline — they're related but distinct. The **funnel** describes the *buyer's* journey (stages of awareness and decision-making). The **pipeline** describes the *seller's* process (stages of tasks and actions required to advance deals). For a complete revenue picture, pair your [B2B sales funnel strategy](/b2b-sales/b2b-sales-strategy-guide) with a structured [sales pipeline management approach](/b2b-sales/b2b-sales-pipeline-guide) that gives every rep a clear workflow. For a full breakdown of exactly how the two frameworks differ, when to use each, and how to run them in parallel, see the [sales funnel vs sales pipeline comparison](/b2b-sales/sales-funnel-vs-sales-pipeline).
 
 ---
 
