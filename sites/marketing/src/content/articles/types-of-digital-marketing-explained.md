@@ -180,6 +180,8 @@ For businesses ready to add AI-driven personalization to display campaigns, [how
 
 The best digital marketing mix starts with your audience and budget, not with what's popular or trending. A B2B software company needs SEO, content, and LinkedIn; an e-commerce brand needs Instagram, PPC, and email. Most SMBs see the strongest results from mastering two channels deeply before adding a third.
 
+For location-based businesses — retailers, service providers, restaurants, and professional practices — the channel priority shifts significantly: Google Business Profile and local SEO precede any paid or social investment. The [local digital marketing strategy guide](/content-marketing/local-digital-marketing-strategy-guide) maps the full channel sequence and budget allocation for brick-and-mortar and service-area businesses.
+
 ### Start With Audience Research and Budget Reality
 
 Map your buyer persona to platform behavior before spending anything. Three questions that determine your starting point:

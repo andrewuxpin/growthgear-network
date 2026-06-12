@@ -85,7 +85,7 @@ The best marketing blogs publish data-driven content weekly, not just thought pi
 
 **[Content Marketing Institute](https://contentmarketinginstitute.com)** publishes the gold standard for content strategy. Their annual B2B and B2C Content Marketing reports (surveying 1,500+ marketers) are the most reliable benchmarks for content investment and performance. Every [content marketing plan](/content-marketing/how-to-create-content-marketing-plan) should reference their benchmark data.
 
-**[Search Engine Journal](https://searchengineland.com)** breaks algorithm updates faster than most publications and provides technical SEO guidance written for practitioners. Particularly strong on paid search and local SEO.
+**[Search Engine Journal](https://searchengineland.com)** breaks algorithm updates faster than most publications and provides technical SEO guidance written for practitioners. Particularly strong on paid search and local SEO. If your business serves a defined geographic area, supplement SEJ's coverage with a structured [local digital marketing strategy](/content-marketing/local-digital-marketing-strategy-guide) — covering Google Business Profile, local SEO, and paid local advertising benchmarks for SMBs.
 
 **[MarketingProfs](https://www.marketingprofs.com)** bridges the gap between academic marketing research and practical application. Their B2B Forum is the largest event for B2B marketers, and their free articles cover real campaign analysis.
 

@@ -127,6 +127,8 @@ The 70/20/10 allocation model provides a sensible starting framework:
 
 This structure protects revenue-generating channels while creating a systematic path for expanding your channel mix. Many teams make the mistake of testing too many channels simultaneously with too little budget per channel — the 10% experiment budget forces prioritization of the most promising tests rather than spreading dollars too thin to generate meaningful signal.
 
+Local businesses should apply this model after establishing their foundational channels — Google Business Profile and local SEO — which require time investment rather than significant ad spend. The [local digital marketing strategy guide](/content-marketing/local-digital-marketing-strategy-guide) details the right budget allocation by business size, from solo operators to multi-location SMBs.
+
 ## Step 2: Choose Your Channels and Set Your KPIs
 
 Channel selection is where most digital marketing plans lose coherence. The goal is not to be present everywhere — it's to be consistently effective on the 3–4 platforms where your audience is most likely to take meaningful action, with enough budget per channel to generate real performance data.
