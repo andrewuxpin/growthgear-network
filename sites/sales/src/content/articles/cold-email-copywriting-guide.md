@@ -222,7 +222,7 @@ Cold email copywriting is an empirical process, not a creative one. The copy tha
 
 A practical testing cadence: change ONE variable per batch of 50-100 sends. Test subject lines first (highest leverage on open rate), then opening lines (highest leverage on reply rate), then CTAs last. Document results in a simple spreadsheet with send date, variable tested, open rate, and reply rate. After 3-4 rounds of testing you'll have a statistically meaningful picture of what resonates with your specific audience.
 
-For a complete framework on what to measure in your outreach, see the [B2B cold outreach strategy guide](/sales-techniques/b2b-cold-outreach-strategy-guide) and [cold email templates that get replies](/sales-techniques/cold-email-templates-that-get-replies).
+For a complete framework on what to measure in your outreach, see the [B2B cold outreach strategy guide](/sales-techniques/b2b-cold-outreach-strategy-guide) and [cold email templates that get replies](/sales-techniques/cold-email-templates-that-get-replies). For the full 2026 overview covering deliverability infrastructure, A/B testing cadence, and reply rate benchmarks, see the [cold email best practices guide](/sales-techniques/cold-email-best-practices-guide).
 
 ### Cold Email Copywriting: At a Glance
 
