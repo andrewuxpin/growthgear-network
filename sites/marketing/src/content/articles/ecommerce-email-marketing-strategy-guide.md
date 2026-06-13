@@ -41,7 +41,7 @@ callout:
   content: "Automated flows run on behavioral triggers and generate revenue 24/7. Set up your welcome series and abandoned cart sequence before sending a single broadcast campaign."
 ---
 
-Ecommerce email marketing is the highest-returning channel most online stores underuse. The average store leaves automated revenue on the table every single day by treating email as a broadcast medium rather than a behavioral system.
+Ecommerce email marketing is the highest-returning channel most online stores underuse. The average store leaves automated revenue on the table every single day by treating email as a broadcast medium rather than a behavioral system. For a broader look at all automation channels — email, SMS, push, and on-site triggers — see our [ecommerce marketing automation guide](/content-marketing/ecommerce-marketing-automation-guide).
 
 This guide covers the complete ecommerce email strategy: list building, the five essential automated flows, performance measurement, and advanced personalization tactics. Whether you're setting up your first store or optimizing a seven-figure operation, these are the frameworks that move the revenue needle.
 
