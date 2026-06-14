@@ -92,7 +92,7 @@ LinkedIn is the strongest single B2B platform. Per [DSMN8's 2026 B2B social repo
 - **Document carousels** — 5-10 page PDF carousels with frameworks, data, or visual stories
 - **Short native video** under 90 seconds — particularly executive talking-head content
 
-LinkedIn's organic algorithm in 2026 rewards comments and "save" actions more than reactions. Posts that prompt a real discussion in the first hour see 3-5x the reach of high-reaction-but-low-comment posts. Plan content around questions, frameworks, and contrarian takes that invite reply.
+LinkedIn's organic algorithm in 2026 rewards comments and "save" actions more than reactions. Posts that prompt a real discussion in the first hour see 3-5x the reach of high-reaction-but-low-comment posts. Plan content around questions, frameworks, and contrarian takes that invite reply. For the latest LinkedIn algorithm changes and broader platform news across TikTok, Instagram, and Threads, see our [2026 social media platform updates guide](/social-media/social-media-news-today-platform-updates).
 
 ### YouTube: the long-tail B2B engine
 

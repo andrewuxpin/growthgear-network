@@ -40,7 +40,7 @@ callout:
   content: "Pick the single number that defines campaign success before any creative work begins. Multi-goal campaigns spread budget thin and produce ambiguous results."
 ---
 
-Most social media campaigns underperform not because the creative is weak, but because the planning skipped one of seven essential steps. This guide walks through the framework GrowthGear uses with marketing teams running campaigns from $2,000 brand-awareness sprints to $250,000 product launches.
+Most social media campaigns underperform not because the creative is weak, but because the planning skipped one of seven essential steps. This guide walks through the framework GrowthGear uses with marketing teams running campaigns from $2,000 brand-awareness sprints to $250,000 product launches. Before campaign planning begins, understand which platforms shifted their algorithm or commerce features in 2026 — our [social media news and platform updates guide](/social-media/social-media-news-today-platform-updates) covers the key changes that affect campaign design and format selection.
 
 We've structured it as a complete playbook: definition, the 7-step framework, current benchmarks by platform, the mistakes that quietly kill campaigns, and the tools required at each stage. Use it as a working reference, not a one-time read.
 
