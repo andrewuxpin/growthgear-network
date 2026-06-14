@@ -84,7 +84,7 @@ A strong B2B ICP captures:
 
 - **Company size**: Define both employee count and annual revenue ranges. A 50-person company and a 500-person company need entirely different messaging and deal structures.
 - **Industry vertical**: Identify your top 1-3 verticals based on historical win rate and expansion revenue — not your widest addressable market.
-- **Tech stack**: Knowing what tools your ICP uses (their CRM, marketing platform, ERP) identifies integration opportunities and signals buying sophistication.
+- **Tech stack**: Knowing what tools your ICP uses (their CRM, marketing platform, ERP) identifies integration opportunities and signals buying sophistication. For teams running their own sales operations on Google Suite, our [Google Workspace sales strategy guide](/b2b-sales/google-workspace-sales-strategy-guide) covers how to turn Gmail, Sheets, Docs, and Meet into a coordinated B2B sales system.
 - **Geography**: Key regions where your team can engage and support customers effectively.
 - **Growth signals**: Recent funding rounds, headcount growth on LinkedIn, new product launches, executive hires — these indicate budget availability and active investment.
 
