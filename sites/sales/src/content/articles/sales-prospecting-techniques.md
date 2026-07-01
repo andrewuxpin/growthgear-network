@@ -76,6 +76,8 @@ A poorly defined ICP is the single most common reason prospecting pipelines stal
 
 For teams with a geographic ICP component, a focused [local lead generation guide](/sales-techniques/local-lead-generation-guide) covers the LinkedIn Navigator filters, Chamber of Commerce directories, and local networking channels that maximize conversion within a defined territory.
 
+When your ICP includes procurement-led buying processes, expect additional complexity: procurement professionals evaluate vendors against formal criteria and operate within structured budget cycles rather than responding to pain-point outreach. The [outreach to procurement professionals guide](/sales-techniques/outreach-to-procurement-professionals-guide) details the research, channel selection, and messaging approach that works specifically with this audience.
+
 ## 6 Sales Prospecting Techniques That Actually Work
 
 The most effective prospecting programs combine outbound and social channels simultaneously. According to HubSpot's 2024 State of Sales Report, reps who prospect across three or more channels consistently outperform single-channel reps in both pipeline volume and deal win rates. The six techniques below form the core of a modern, multi-channel approach. For teams that sell primarily through digital channels, these techniques combine with virtual demo and proposal strategies covered in [sales techniques for online businesses](/sales-techniques/sales-techniques-for-online-businesses). For the broader operating model that wraps these techniques into roles, tooling, and KPIs, see our [B2B inside sales guide](/b2b-sales/b2b-inside-sales-guide).

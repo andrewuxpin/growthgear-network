@@ -90,6 +90,8 @@ The B2B cold outreach ICP has four dimensions:
 
 > **Pro tip:** Record your ICP criteria as a written document before building any list. When you can describe your best prospect in one paragraph, your list-building and your messaging both improve dramatically.
 
+When your ICP includes procurement professionals as a target buyer, the outreach approach changes significantly — they operate within formal vendor evaluation processes and respond to compliance and ROI framing rather than pain-point messaging. See our guide on [outreach to procurement professionals](/sales-techniques/outreach-to-procurement-professionals-guide) for the specialized research and sequencing framework that works with this audience.
+
 ### List-Building Sources That Produce Qualified Prospects
 
 The tools that consistently produce the most qualified B2B prospecting lists:
