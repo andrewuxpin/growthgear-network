@@ -156,7 +156,7 @@ The consistent advice from experienced automation practitioners: start with one 
 
 ## How to Evaluate and Select AI Automation Services
 
-Selecting AI automation services requires evaluating five criteria that consistently predict whether a platform will deliver ROI for your specific situation. These criteria matter more than feature count, integration library size, or vendor marketing claims — and applying them before your first demo will save significant time and prevent the costly mistake of buying the wrong category of tool.
+Selecting AI automation services requires evaluating five criteria that consistently predict whether a platform will deliver ROI for your specific situation. These criteria matter more than feature count, integration library size, or vendor marketing claims — and applying them before your first demo will save significant time and prevent the costly mistake of buying the wrong category of tool. For a vendor-neutral overview of US AI automation tiers and tools, the [Droven.io AI automation guide](/ai-tools/droven-io-ai-automation-usa-guide) maps the landscape before you start vendor conversations.
 
 ### Five-Criteria Evaluation Framework
 

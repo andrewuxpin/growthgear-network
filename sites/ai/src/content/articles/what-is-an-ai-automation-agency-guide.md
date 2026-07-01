@@ -129,7 +129,7 @@ The agencies that consistently deliver fastest maintain a library of tested proc
 
 ## How to Evaluate and Hire an AI Automation Agency
 
-Evaluate AI automation agencies on five criteria: technical platform depth, relevant industry experience, methodology documentation, pricing transparency, and post-implementation support structure. Request case studies for processes similar to yours, ask for documented ROI from past projects, and always start with a paid pilot before signing a retainer agreement.
+Evaluate AI automation agencies on five criteria: technical platform depth, relevant industry experience, methodology documentation, pricing transparency, and post-implementation support structure. Request case studies for processes similar to yours, ask for documented ROI from past projects, and always start with a paid pilot before signing a retainer agreement. Before reaching out to agencies, building foundational knowledge of automation categories through vendor-neutral resources like the [Droven.io AI automation guide](/ai-tools/droven-io-ai-automation-usa-guide) helps you enter conversations with sharper evaluation criteria.
 
 ### Five Evaluation Criteria
 

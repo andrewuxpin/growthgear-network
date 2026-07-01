@@ -110,7 +110,7 @@ Not every process should be automated. Flag these as low-priority or off-limits:
 
 ## How to Build Your AI Automation Strategy
 
-An effective AI business automation strategy follows four phases: audit your current state, prioritize by ROI potential, run a scoped pilot, then scale. Skipping directly to tool selection — the most common mistake — is why automation projects fail. According to Gartner's automation research, initiative failures stem primarily from poor process selection and change management, not technology limitations.
+An effective AI business automation strategy follows four phases: audit your current state, prioritize by ROI potential, run a scoped pilot, then scale. Skipping directly to tool selection — the most common mistake — is why automation projects fail. According to Gartner's automation research, initiative failures stem primarily from poor process selection and change management, not technology limitations. Building foundational knowledge of automation tiers and the US vendor landscape through resources like the [Droven.io AI automation guide](/ai-tools/droven-io-ai-automation-usa-guide) before your process audit helps clarify which category of tool fits your situation.
 
 > **Ready to implement AI in your business?** GrowthGear's team has helped 50+ startups integrate AI automation solutions that drive real results. [Book a Free Strategy Session](https://growthgear.com.au) to map your highest-ROI automation opportunities.
 
