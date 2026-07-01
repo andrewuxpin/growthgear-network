@@ -96,7 +96,7 @@ The right tool stack for managing multiple social media accounts depends on team
 
 ### Social Media Scheduling Tools Compared
 
-**A scheduling tool is the operational core of any multi-account management workflow.** Without one, posting is reactive and inconsistent — the two biggest algorithm penalties on every major platform. With one, you can batch-create a full week of content in two to three hours and set it to publish automatically.
+**A scheduling tool is the operational core of any multi-account management workflow.** Without one, posting is reactive and inconsistent — the two biggest algorithm penalties on every major platform. With one, you can batch-create a full week of content in two to three hours and set it to publish automatically. If you're new to scheduling, the complete guide on [what a social media scheduler is and how to use one](/social-media/social-media-scheduler-guide) covers setup, key features, and the content mix best practices that drive results.
 
 The [best social media marketing tools](/social-media/best-social-media-marketing-tools) for scheduling differ significantly in capability and price:
 
