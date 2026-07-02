@@ -129,7 +129,7 @@ Even the best content library delivers nothing if reps do not know how to use it
 - Quarterly win/loss analysis sessions that feed back into content updates
 - Peer learning: top-performer playbook sharing in monthly team meetings
 
-Coaching is consistently the most underfunded component of sales enablement. GrowthGear has helped 50+ B2B teams implement structured coaching cadences that cut average ramp time by 30-60 days per new hire, delivering a measurable payback on the enablement investment within the first hire class.
+Coaching is consistently the most underfunded component of sales enablement. GrowthGear has helped 50+ B2B teams implement structured coaching cadences that cut average ramp time by 30-60 days per new hire, delivering a measurable payback on the enablement investment within the first hire class. For a detailed framework on building individual development plans, coaching cadences, and measuring coaching ROI, see our complete guide to [B2B sales coaching](/b2b-sales/b2b-sales-coaching-guide).
 
 > **Looking to accelerate your sales growth?** GrowthGear has helped 50+ startups build sales engines that deliver 156% average growth. [Book a Free Strategy Session](https://growthgear.com.au) to map out your sales enablement strategy.
 

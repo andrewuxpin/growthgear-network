@@ -165,7 +165,7 @@ A well-instrumented CRM gives you the data to make these improvements. Teams tha
 
 ### CRM Integration and Pipeline Visibility
 
-Every stage of your sales process should have a corresponding pipeline stage in your CRM, with defined entry criteria and expected actions. This lets managers identify bottlenecks at scale: if 60% of deals stall at Stage 4 (Presentation), that signals a training or messaging problem, not a pipeline volume problem.
+Every stage of your sales process should have a corresponding pipeline stage in your CRM, with defined entry criteria and expected actions. This lets managers identify bottlenecks at scale: if 60% of deals stall at Stage 4 (Presentation), that signals a training or messaging problem, not a pipeline volume problem. Structured [B2B sales coaching](/b2b-sales/b2b-sales-coaching-guide) is how you address those skill gaps systematically rather than on a deal-by-deal basis.
 
 AI tools are increasingly embedded in CRMs for deal scoring, next-best-action recommendations, and conversation intelligence. For a deeper look at how AI fits into a modern sales process, see the AI Insights guide on [implementing AI in business](https://ai.growthgear.com.au/machine-learning/how-to-implement-ai-in-business-complete-guide).
 
