@@ -64,7 +64,7 @@ A modern B2B social program runs on four roles that often blur:
 - **Employee advocacy** — engineers, sellers, customer success amplifying brand content
 - **Paid social** — LinkedIn Ads, Meta, and increasingly programmatic on YouTube
 
-Most companies underinvest in the middle two. Brand pages do the work nobody clicks, paid carries the immediate-attribution conversation, and executive plus employee voices — the strongest organic asset most B2B companies own — get ignored. We unpack this gap in our [B2B content marketing strategy guide](/content-marketing/best-content-marketing-strategies-b2b-companies), which complements this article.
+Most companies underinvest in the middle two. Brand pages do the work nobody clicks, paid carries the immediate-attribution conversation, and executive plus employee voices — the strongest organic asset most B2B companies own — get ignored. We unpack this gap in our [B2B content marketing strategy guide](/content-marketing/best-content-marketing-strategies-b2b-companies), which complements this article. When scaling your B2B social program requires dedicated headcount, our [social media jobs career guide](/social-media/social-media-jobs-career-guide) covers every role type, hiring sequencing, and salary benchmarks.
 
 ### How B2B social differs from B2C
 

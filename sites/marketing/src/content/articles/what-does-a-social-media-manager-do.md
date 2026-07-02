@@ -157,6 +157,8 @@ Most social media managers enter through a coordinator or assistant role, buildi
 - **Social media specialist track**: Senior social media manager → Head of Social → VP of Social Media or Chief Social Officer at scale-up and enterprise brands
 - **Generalist marketing track**: Social media manager → Content marketing manager → Digital marketing manager → Marketing director
 
+For a broader view of every social media job type — coordinator, content creator, paid specialist, and strategist — including salary benchmarks by experience level, see the [social media jobs career guide](/social-media/social-media-jobs-career-guide).
+
 The generalist path is increasingly common. The audience insight, content strategy, analytics capability, and paid media experience gained in social media translate directly into broader marketing leadership. Managers who proactively develop attribution modeling competency and campaign ROI analysis typically transition into senior marketing roles within three to five years of reaching the social media manager level.
 
 For those planning toward the generalist track, understanding how [B2B lead generation strategies](https://sales.growthgear.com.au/b2b-sales/best-lead-generation-strategies-b2b-companies) intersect with social media activity provides the cross-functional context that makes this career transition more natural — and makes senior marketing roles more accessible.
