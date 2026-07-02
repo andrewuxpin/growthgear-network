@@ -57,7 +57,7 @@ The defining shift is from *programmer-defined logic* to *data-defined logic*. I
 
 The 1959 idea has been around for decades, but three forces made it dominant after 2012. Compute became cheap and parallel through GPUs originally built for gaming. The internet produced labelled datasets at unprecedented scale (every product review, click, and tagged photo became training data). And new algorithms — deep neural networks, transformers, gradient-boosted trees — turned that data and compute into models that exceeded human performance on image recognition, translation, and speech.
 
-The result: 65% of organisations now use generative AI regularly in at least one business function, per [McKinsey's State of AI 2024 report](https://www.mckinsey.com/capabilities/quantumblack/our-insights/the-state-of-ai). Classic ML adoption is even broader — fraud detection, demand forecasting, churn prediction, and recommendation systems are now standard at most mid-market and enterprise companies.
+The result: 65% of organisations now use generative AI regularly in at least one business function, per [McKinsey's State of AI 2024 report](https://www.mckinsey.com/capabilities/quantumblack/our-insights/the-state-of-ai). Classic ML adoption is even broader — fraud detection, demand forecasting, churn prediction, and recommendation systems are now standard at most mid-market and enterprise companies. For a decision guide on which specific algorithms to choose — with implementation timelines and cost ranges by project type — see [machine learning algorithms for business leaders](/machine-learning/machine-learning-algorithms-for-business).
 
 ### What Machine Learning Is Not
 

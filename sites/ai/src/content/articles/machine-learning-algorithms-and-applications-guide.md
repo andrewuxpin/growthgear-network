@@ -89,7 +89,7 @@ The practical ceiling for linear models is when the relationship between feature
 - **Random Forest**: Trains hundreds of trees on random data subsets and averages predictions. Robust, handles missing data, provides feature importance scores.
 - **Gradient Boosting (XGBoost, LightGBM)**: Trains trees sequentially, each correcting the errors of the previous. Consistently achieves state-of-the-art results on structured data.
 
-According to Kaggle's 2023 ML competition analysis, gradient boosting algorithms won more than 60% of structured data competitions — the most reliable starting point for business ML.
+According to Kaggle's 2023 ML competition analysis, gradient boosting algorithms won more than 60% of structured data competitions — the most reliable starting point for business ML. For a guide to selecting between these algorithm families based on business constraints — covering implementation costs, interpretability requirements, and ROI benchmarks — see our [machine learning algorithms for business leaders](/machine-learning/machine-learning-algorithms-for-business) guide.
 
 Business applications:
 - **Fraud detection**: XGBoost on transaction features (amount, location, device fingerprint, timing patterns) achieves high precision at scale — but [sensitivity (recall) is equally critical for fraud detection](/machine-learning/what-is-sensitivity-in-machine-learning), since missing a genuine fraud event costs far more than a false positive review
