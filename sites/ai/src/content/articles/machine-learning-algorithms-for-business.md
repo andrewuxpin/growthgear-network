@@ -47,7 +47,7 @@ Andrew Ng, AI pioneer and former Google Brain lead, famously described AI as "th
 
 This guide cuts through the technical noise. It's built for CEOs, CTOs, and operations leaders who need to make ML investment decisions without a machine learning engineering background. By the end, you'll know which algorithms have the best track record for which business problems, what realistic implementation looks like, and how to measure whether an ML project is working.
 
-For a technical breakdown of supervised, unsupervised, and reinforcement learning families, see [types and applications of machine learning algorithms](/machine-learning/machine-learning-algorithms-and-applications-guide).
+For a technical breakdown of supervised, unsupervised, and reinforcement learning families, see [types and applications of machine learning algorithms](/machine-learning/machine-learning-algorithms-and-applications-guide). For a model-first view — covering key architectures, comparison tables, and a four-step selection framework — see our [types of machine learning models guide](/machine-learning/types-of-machine-learning-models-complete-guide).
 
 ## What Are Machine Learning Algorithms and Why Do They Matter for Business?
 

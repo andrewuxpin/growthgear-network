@@ -131,7 +131,7 @@ The boundaries blur in practice. *Semi-supervised learning* mixes a small labell
 | **Machine learning (ML)** | A subset of AI where systems learn from data instead of following hand-coded rules. | Churn prediction, fraud detection, demand forecasting, recommendation. | Project naming, technical RFCs, vendor evaluation. |
 | **Deep learning (DL)** | A subset of ML using neural networks with many hidden layers. | Image recognition, machine translation, speech-to-text, ChatGPT, Sora. | When the project specifically uses neural networks on unstructured data. |
 
-Most business AI projects today land in the ML layer — classic supervised models on tabular data — even though deep learning gets more attention. For an architectural deep-dive on how neural networks learn, our [how deep learning works guide](/deep-learning/how-deep-learning-works-complete-guide) covers the layered approach.
+Most business AI projects today land in the ML layer — classic supervised models on tabular data — even though deep learning gets more attention. For an architectural deep-dive on how neural networks learn, our [how deep learning works guide](/deep-learning/how-deep-learning-works-complete-guide) covers the layered approach. For a full taxonomy of model types — supervised, unsupervised, reinforcement, and generative — with a four-step business selection framework, see our [types of machine learning models guide](/machine-learning/types-of-machine-learning-models-complete-guide).
 
 ### When ML Is Enough and When You Need Deep Learning
 
