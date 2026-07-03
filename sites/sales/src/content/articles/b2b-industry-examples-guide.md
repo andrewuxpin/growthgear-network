@@ -57,7 +57,7 @@ In a B2C transaction, a single consumer decides to purchase based largely on pri
 
 According to [Gartner's research on B2B buying journeys](https://www.gartner.com/en/sales/insights/b2b-buying-journey), the typical enterprise purchase involves 6-10 decision-makers, each with distinct priorities and the ability to stall or block a deal. This fundamentally changes how you position your product, structure pricing, and run your sales process.
 
-Understanding this distinction is the foundation for [building an effective B2B sales strategy](/b2b-sales/b2b-sales-strategy-guide) that matches how business buyers actually make decisions. If you're newer to the space, it also helps to understand [the different types of sales models](/sales-techniques/types-of-sales-every-sales-team-should-know) before diving into industry specifics.
+Understanding this distinction is the foundation for [building an effective B2B sales strategy](/b2b-sales/b2b-sales-strategy-guide) that matches how business buyers actually make decisions. For a comprehensive breakdown of [what B2B sales is, the five core sales models, and the key performance metrics](/b2b-sales/b2b-sales-definition-types-examples), see our definition and types guide. If you're newer to the space, it also helps to understand [the different types of sales models](/sales-techniques/types-of-sales-every-sales-team-should-know) before diving into industry specifics.
 
 ### The Scale of B2B Commerce
 

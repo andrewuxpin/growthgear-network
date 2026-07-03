@@ -43,7 +43,7 @@ callout:
 
 A structured B2B sales process is the difference between a repeatable revenue engine and a team that relies on individual heroics. Companies with a defined, documented sales process generate 18% more revenue than those without one, according to the Sales Management Association.
 
-This guide walks through all seven stages of the B2B sales process — from identifying the right prospects to closing the deal and setting up the post-sale relationship for expansion. Each stage includes specific actions, tools, and metrics that high-performing teams use to execute consistently.
+This guide walks through all seven stages of the B2B sales process — from identifying the right prospects to closing the deal and setting up the post-sale relationship for expansion. Each stage includes specific actions, tools, and metrics that high-performing teams use to execute consistently. If you're newer to B2B selling, start with our overview of [what B2B sales is, the main types, and how the model works](/b2b-sales/b2b-sales-definition-types-examples) before diving into the process detail here.
 
 ## What Is the B2B Sales Process?
 

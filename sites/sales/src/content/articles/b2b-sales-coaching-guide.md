@@ -42,7 +42,7 @@ The performance gap between a B2B sales team's top and bottom performers is wide
 
 Most B2B organizations under-invest in coaching. They confuse it with training, with managing, or with motivation. Effective **B2B sales coaching** is none of those things. It is a systematic, ongoing process that identifies specific skill gaps and closes them through individualized, applied practice on real deals.
 
-This guide covers how to build a B2B sales coaching program from scratch, the techniques that deliver the highest ROI, how to measure what's working, and the mistakes that derail most programs before they gain traction. Whether you lead a team of 5 or 50, the framework applies at any scale.
+This guide covers how to build a B2B sales coaching program from scratch, the techniques that deliver the highest ROI, how to measure what's working, and the mistakes that derail most programs before they gain traction. Whether you lead a team of 5 or 50, the framework applies at any scale. Strong coaching always starts from a shared understanding of [what B2B sales is and the types of deals your reps are closing](/b2b-sales/b2b-sales-definition-types-examples).
 
 ## What Is B2B Sales Coaching and Why Does It Matter?
 
