@@ -82,7 +82,7 @@ The practical test: would your target reader find this content useful even if th
 
 A content marketing strategy connects your audience's questions to your business expertise through a structured program. Start with three inputs: buyer personas, 3-5 topic pillars, and a publishing schedule your team can sustain. The [Content Marketing Institute](https://contentmarketinginstitute.com/research/) reports that marketers with **documented strategies are 4x more likely** to report success.
 
-Only 40% of B2B content teams have their strategy written down — which explains why most content programs underperform despite significant investment. A well-documented [digital content strategy](/content-marketing/how-to-build-digital-content-strategy) — covering goals, audience personas, channel selection, production workflows, and measurement — gives teams the six-component framework that separates high-performing programs from the rest.
+Only 40% of B2B content teams have their strategy written down — which explains why most content programs underperform despite significant investment. A well-documented [digital content strategy](/content-marketing/how-to-build-digital-content-strategy) — covering goals, audience personas, channel selection, production workflows, and measurement — gives teams the six-component framework that separates high-performing programs from the rest. For the specific execution frameworks — pillar-cluster architecture, format selection by buyer stage, and distribution systems — our [content marketing strategies guide](/content-marketing/content-marketing-strategies-guide) provides the implementation detail.
 
 ### Define Your Audience and Buyer Personas
 

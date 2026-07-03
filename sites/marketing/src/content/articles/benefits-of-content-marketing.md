@@ -42,7 +42,7 @@ callout:
 
 Content marketing is the practice of creating and distributing valuable, relevant content to attract and retain a clearly defined audience — and ultimately drive profitable customer action. The strategic and financial benefits of content marketing are measurable, compounding, and consistently underestimated by businesses still relying primarily on paid acquisition channels.
 
-This guide breaks down each specific, data-backed benefit of content marketing — from organic traffic to brand authority to long-term competitive moat — and explains how to capture them systematically.
+This guide breaks down each specific, data-backed benefit of content marketing — from organic traffic to brand authority to long-term competitive moat — and explains how to capture them systematically. Applying these benefits in practice starts with choosing the right [content marketing strategies](/content-marketing/content-marketing-strategies-guide) — from pillar-cluster architecture to original research to distribution playbooks.
 
 ## The Core Benefits of Content Marketing
 
