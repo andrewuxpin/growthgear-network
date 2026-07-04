@@ -152,7 +152,7 @@ Effective content personalisation:
 
 ## Automation Sequences That Nurture at Scale
 
-Marketing automation is what transforms email from a broadcast tool into an inbound engine. Three core sequences — welcome, nurture, and re-engagement — can run continuously without manual effort. According to Aberdeen Group research, **businesses using marketing automation see 53% higher conversion rates** than those relying on manual sends.
+Marketing automation is what transforms email from a broadcast tool into an inbound engine. Three core sequences — welcome, nurture, and re-engagement — are the cornerstone of any [inbound marketing automation system](/content-marketing/inbound-marketing-automation-guide) and can run continuously without manual effort. According to Aberdeen Group research, **businesses using marketing automation see 53% higher conversion rates** than those relying on manual sends.
 
 Every effective [email marketing campaign](/content-marketing/how-to-create-effective-email-marketing-campaigns) starts with these three sequences properly configured.
 

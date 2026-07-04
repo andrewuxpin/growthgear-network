@@ -52,7 +52,7 @@ The term "drip" comes from drip irrigation: steady, measured delivery produces b
 
 According to HubSpot, drip campaign emails generate 80% higher open rates and 3x higher click-through rates compared to single-send marketing emails. The performance gap is not subtle — it reflects the fundamental difference between sending when it's convenient for the sender versus when it's meaningful for the recipient.
 
-The [benefits of email marketing](/content-marketing/benefits-of-email-marketing) extend significantly when automation is added. Each message arrives when intent is highest: seconds after a signup, hours after an abandoned cart, or days after a content download. That precision is what separates a drip campaign from a broadcast.
+The [benefits of email marketing](/content-marketing/benefits-of-email-marketing) extend significantly when automation is added. Each message arrives when intent is highest: seconds after a signup, hours after an abandoned cart, or days after a content download. That precision is what separates a drip campaign from a broadcast. When drip sequences are part of a broader [inbound marketing automation strategy](/content-marketing/inbound-marketing-automation-guide), they function as the nurture engine that moves leads from awareness to sales-readiness.
 
 ### How Drip Campaigns Differ from Email Blasts
 

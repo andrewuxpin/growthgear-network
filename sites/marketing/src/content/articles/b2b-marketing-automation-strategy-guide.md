@@ -109,7 +109,7 @@ The minimum viable ABM workflow:
 
 ### 4. Sales-Marketing Handoff with SLA Timers
 
-This is the most under-built workflow in B2B automation. Once marketing passes an MQL to sales, automation should track whether sales acts within the agreed SLA (typically 24 hours for inbound MQLs). If sales doesn't act, the lead either reroutes or bounces back to marketing for re-nurture. Without SLA enforcement, leads die in CRM purgatory.
+This is the most under-built workflow in B2B automation. Once marketing passes an MQL to sales, automation should track whether sales acts within the agreed SLA (typically 24 hours for inbound MQLs). If sales doesn't act, the lead either reroutes or bounces back to marketing for re-nurture. Without SLA enforcement, leads die in CRM purgatory. For a complete walkthrough of inbound lead scoring and handoff mechanics, see our [inbound marketing automation guide](/content-marketing/inbound-marketing-automation-guide).
 
 The 2024 [HubSpot State of Marketing report](https://www.hubspot.com/state-of-marketing) found that B2B companies with formal marketing-sales SLAs are 67% more effective at converting MQLs to SQLs than companies without them.
 
