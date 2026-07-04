@@ -188,7 +188,7 @@ Hire a data scientist when you have a **specific prediction problem worth solvin
 - **Clear ML use case**: You need to forecast demand, score leads, predict customer churn, or personalize recommendations at scale
 - **Data maturity**: 12+ months of structured, clean transaction or behavioral data, with a working data warehouse
 - **Budget**: $100,000+ for an in-house hire, or $15,000–$40,000 for a project-based contractor engagement
-- **Technical foundation**: Clean data pipelines, version-controlled code, and a working BI layer already in place
+- **Technical foundation**: Clean [data pipelines](/machine-learning/data-pipeline-explained-etl-elt-guide), version-controlled code, and a working BI layer already in place
 
 GrowthGear's [guide to hiring a data scientist](/machine-learning/how-to-hire-a-data-scientist-business-guide) covers the complete hiring process — technical assessments, interview questions, and the in-house versus outsource decision framework — in detail.
 

@@ -43,7 +43,7 @@ callout:
 
 Every business decision that depends on data — a forecast, a churn model, a revenue dashboard — ultimately rests on a foundation built by data engineers. If that foundation is unstable, every model, report, and analysis built on top of it is compromised.
 
-Data engineering is one of the most critical yet least understood roles in the modern data stack. Business leaders know they need data scientists. They often underestimate how much of a data scientist's time gets burned cleaning unreliable pipelines — or how quickly that problem disappears with the right infrastructure hire.
+Data engineering is one of the most critical yet least understood roles in the modern data stack. Business leaders know they need data scientists. They often underestimate how much of a data scientist's time gets burned cleaning unreliable [data pipelines](/machine-learning/data-pipeline-explained-etl-elt-guide) — or how quickly that problem disappears with the right infrastructure hire.
 
 This guide covers what data engineering is, what data engineers actually do day-to-day, which tools define the modern stack, and how to decide when your company needs one.
 
