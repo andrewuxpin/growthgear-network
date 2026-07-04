@@ -192,7 +192,7 @@ This sequence structure consistently produces 8-12% reply rates for well-targete
 
 **Day 5 — Email #2 (Different angle):** Don't follow up on Email #1 directly. Approach the same problem from a different angle — a relevant case study, a benchmark stat, or a different pain point.
 
-**Day 8 — Phone call (if high-priority):** For high-value targets, call after Email #2. Reference the email. Ask one qualification question. Do not pitch.
+**Day 8 — Phone call (if high-priority):** For high-value targets, call after Email #2. Reference the email. Ask one qualification question. Do not pitch. Use prepared [cold calling scripts for B2B teams](/sales-techniques/cold-calling-scripts-b2b-sales) to handle common objections before dialing.
 
 **Day 14 — Email #3 (Break-up email):** "I've reached out a couple of times about [specific problem]. I don't want to keep emailing if the timing's wrong. Should I close out my notes on you, or is this worth a quick conversation?" This email reliably generates 20-30% reply rates — either a re-engagement or a clear no.
 
