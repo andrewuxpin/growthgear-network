@@ -206,7 +206,7 @@ Its AI demand forecasting accounts for seasonal trends, promotional spikes, and 
 
 **Integrations**: Shopify, WooCommerce, Amazon, eBay, Etsy, and 100+ sales channels.
 
-For connecting your e-commerce tools into automated workflows — linking Shopify data to Klaviyo campaigns, Gorgias tickets, and your CRM — [Make.com's automation platform](/ai-tools/make-com-automation-guide) handles multi-step workflows without code.
+For connecting your e-commerce tools into automated workflows — linking Shopify data to Klaviyo campaigns, Gorgias tickets, and your CRM — [Make.com's automation platform](/ai-tools/make-com-automation-guide) handles multi-step workflows without code. For Amazon sellers looking to build complementary affiliate content sites — product review hubs and buying guides that drive additional affiliate revenue — [SiteGenius AI](/ai-tools/site-genius-ai-review-guide) automates affiliate site creation and content generation at a one-time $14.95 price.
 
 ---
 

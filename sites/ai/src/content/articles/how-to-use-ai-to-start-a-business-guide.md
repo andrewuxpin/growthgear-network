@@ -60,7 +60,7 @@ Before AI tools became accessible, starting a business required hiring or learni
 - **Business plan**: $1,500–4,000 from a business consultant
 - **Basic website**: $1,000–5,000 from a web developer
 
-With AI, a founder with clear thinking can produce high-quality versions of all of the above for under $100/month in tool subscriptions. The output isn't always perfect — but it's good enough to test, learn, and iterate. That's what early-stage work actually requires.
+With AI, a founder with clear thinking can produce high-quality versions of all of the above for under $100/month in tool subscriptions. The output isn't always perfect — but it's good enough to test, learn, and iterate. That's what early-stage work actually requires. For founders specifically testing a niche affiliate business model, [SiteGenius AI](/ai-tools/site-genius-ai-review-guide) generates a complete Amazon affiliate site in under 60 seconds — substantially below the $1,000–5,000 website development estimate above.
 
 ### What AI Can and Can't Replace
 
