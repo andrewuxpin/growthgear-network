@@ -133,7 +133,7 @@ Keep initial emails under 100 words. Brevity signals respect for the recipient's
 
 Cold calling has the highest conversion rate per qualified connect of any outbound channel. The challenge is low connect rates: B2B cold calls average a 6-8% connect rate, meaning most attempts end in voicemail or no answer.
 
-The counter-strategy is speed-to-dial and trigger-based calling. Call within minutes of an email open or a relevant trigger event — a job change, company announcement, or technology purchase signal. Tools like Gong, Salesloft, and Outreach integrate with engagement data to flag the optimal call window.
+The counter-strategy is speed-to-dial and trigger-based calling. Call within minutes of an email open or a relevant trigger event — a job change, company announcement, technology purchase signal, or an ICP-matched company visiting your website. Tools like Gong, Salesloft, and Outreach integrate with engagement data to flag the optimal call window. [Website visitor tracking software](/crm-tools/website-visitor-tracking-software-b2b) is one of the most underused outbound triggers: when a target account views your pricing page, that is a high-intent signal worth an immediate outreach attempt.
 
 When you connect, use the first 10 seconds to establish why you are calling and who you have helped before asking for time. Keep the ask specific and small: "Would you have 30 seconds to hear why I'm calling?" is easier to process than launching immediately into a pitch.
 

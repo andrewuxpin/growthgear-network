@@ -235,7 +235,7 @@ Monthly cost for Stage 2: $100-$300/user additional
 
 Once outbound is running, add inbound capture. **HubSpot** (free to start) captures inbound leads from your website and content. **Clay** enriches prospect records for both inbound and outbound, reducing research time per rep.
 
-If your website drives meaningful organic traffic (3,000+ monthly visitors), add **Breeze Intelligence** to identify and score anonymous visitors.
+If your website drives meaningful organic traffic (3,000+ monthly visitors), add **Breeze Intelligence** to identify and score anonymous visitors. For a broader comparison including GDPR-compliant alternatives, see the guide to [website visitor tracking software for B2B sales](/crm-tools/website-visitor-tracking-software-b2b).
 
 Monthly cost for Stage 3: $50-$200 total for the team
 
