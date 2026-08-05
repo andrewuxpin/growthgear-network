@@ -142,7 +142,7 @@ For a fuller comparison of e-commerce email tools, see [best email marketing pla
 
 ## How to Choose the Right Platform for Your Business
 
-Choosing a marketing automation platform is not primarily a features decision — it's an integration and adoption decision. The most capable platform that your team can't implement or your CRM can't connect to will underdeliver against a simpler tool that fits your stack.
+Choosing a marketing automation platform is not primarily a features decision — it's an integration and adoption decision. The most capable platform that your team can't implement or your CRM can't connect to will underdeliver against a simpler tool that fits your stack. If you are still deciding whether to invest in a CRM, a marketing automation platform, or both, our [CRM vs marketing automation comparison](/content-marketing/crm-vs-marketing-automation) breaks down which system to buy first based on your bottleneck.
 
 ### A Three-Step Evaluation Framework
 

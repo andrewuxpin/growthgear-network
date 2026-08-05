@@ -137,7 +137,7 @@ When you're stack-shopping, the question isn't "what should we buy" — it's "wh
 
 ### Build vs. Buy Decisions
 
-Three components are usually worth buying outright in 2026: the core marketing automation platform, the CRM, and the attribution layer. Everything else — intent data, identity resolution, web personalization — is a build/buy decision driven by your data maturity and team size. Teams under 20 people generally over-spend on intent data they can't act on; teams over 100 people generally under-invest in attribution and end up flying blind on pipeline source.
+Three components are usually worth buying outright in 2026: the core marketing automation platform, the CRM, and the attribution layer. Everything else — intent data, identity resolution, web personalization — is a build/buy decision driven by your data maturity and team size. Teams under 20 people generally over-spend on intent data they can't act on; teams over 100 people generally under-invest in attribution and end up flying blind on pipeline source. If you are weighing which to deploy first, our [CRM vs marketing automation guide](/content-marketing/crm-vs-marketing-automation) maps the decision to your revenue bottleneck.
 
 ### Governance: The Layer Nobody Talks About
 

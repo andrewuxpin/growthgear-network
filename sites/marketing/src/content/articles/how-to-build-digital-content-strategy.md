@@ -80,7 +80,7 @@ Vague ambitions like "increase brand awareness" are not goals — they're intent
 
 - **Organic traffic growth**: Target a specific percentage increase in search-driven sessions over a defined timeframe (e.g., 40% growth in six months)
 - **Lead generation**: Number of marketing-qualified leads (MQLs) attributed to content touches, tracked via UTM parameters and CRM data
-- **Revenue attribution**: Pipeline influenced by content before close, measured using multi-touch attribution in your CRM
+- **Revenue attribution**: Pipeline influenced by content before close, measured using multi-touch attribution in your CRM — if you are deciding between a CRM and a marketing automation platform, our [CRM vs marketing automation comparison](/content-marketing/crm-vs-marketing-automation) clarifies which system owns attribution data
 - **Domain authority growth**: Domain Rating improvement and backlinks earned per quarter, tracked via Ahrefs or Semrush
 - **Audience retention**: Email subscriber growth rate, newsletter open rate trends, and returning visitor percentage
 
