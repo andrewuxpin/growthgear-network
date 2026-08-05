@@ -276,7 +276,7 @@ Assign point values to each BANT component based on qualification strength:
 
 Many sales representatives approach BANT as a rigid checklist to complete rather than a framework for understanding prospects. This mechanical approach can damage rapport and miss important nuances.
 
-**Solution**: Use BANT as a conversation guide that naturally flows throughout your discovery process.
+**Solution**: Use BANT as a conversation guide that naturally flows throughout your discovery process. For a structured set of [discovery call questions](/sales-techniques/discovery-call-questions-that-uncover-buying-intent) that reveal buying intent alongside BANT criteria, use a four-phase framework that moves from rapport to diagnosis to qualification to confirmation.
 
 ### Mistake 2: Qualifying Too Early
 

@@ -114,7 +114,7 @@ For tactics on leveraging content as part of your outreach, the [best B2B conten
 
 Discovery is the most consequential phase of a B2B sale. Done well, it surfaces the buyer's true pain, the cost of inaction, and the internal dynamics that will shape the decision. Done poorly, it leaves reps guessing — and pitching the wrong solution.
 
-According to HubSpot Research, 69% of buyers say the most important thing a salesperson can do is listen to their needs. Yet most reps spend less than 30% of a discovery call asking questions; the rest is spent talking.
+According to HubSpot Research, 69% of buyers say the most important thing a salesperson can do is listen to their needs. Yet most reps spend less than 30% of a discovery call asking questions; the rest is spent talking. For a complete set of [discovery call questions](/sales-techniques/discovery-call-questions-that-uncover-buying-intent) that uncover buying intent, use the SPIN framework to move from situation to problem to implication to need-payoff.
 
 ### SPIN Selling in Practice
 
