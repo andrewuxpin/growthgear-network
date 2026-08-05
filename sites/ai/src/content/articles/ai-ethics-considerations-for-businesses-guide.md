@@ -136,7 +136,7 @@ AI automation raises significant ethical questions about employment and economic
 ### Step 1: Establish AI Ethics Governance
 
 **Create an AI Ethics Committee**
-- Include diverse stakeholders from technical, legal, and business teams
+- Include diverse stakeholders from technical, legal, and business teams — legal team members can draw on [AI tools for legal professionals](/ai-tools/best-ai-tools-for-legal) to inform contract and compliance review processes
 - Establish clear roles and responsibilities
 - Define decision-making processes for ethical dilemmas
 

@@ -77,7 +77,7 @@ The Stanford HAI *[AI Index Report 2024](https://aiindex.stanford.edu/ai-index-r
 
 ## The Five Pillars of an AI Governance Framework
 
-An effective AI governance framework rests on five interconnected components: risk classification, data governance, model documentation, accountability structures, and compliance monitoring. According to Gartner's 2024 AI Governance Survey, organizations implementing all five pillars experience **40% fewer AI-related incidents** and twice as fast regulatory approval cycles compared to organizations with ad hoc governance.
+An effective AI governance framework rests on five interconnected components: risk classification, data governance, model documentation, accountability structures, and compliance monitoring. According to Gartner's 2024 AI Governance Survey, organizations implementing all five pillars experience **40% fewer AI-related incidents** and twice as fast regulatory approval cycles compared to organizations with ad hoc governance. Legal teams evaluating AI tools for contract review and compliance work should also review the [best AI tools for legal professionals](/ai-tools/best-ai-tools-for-legal) to ensure vendor selection aligns with governance requirements.
 
 ### Pillar 1: Risk Classification and AI Inventory
 

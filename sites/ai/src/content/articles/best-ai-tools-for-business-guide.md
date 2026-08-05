@@ -165,7 +165,7 @@ Each function has distinct metrics that signal whether an AI tool is delivering 
 - **Sales AI**: Deals touched per rep per week, CRM data completeness score, forecast accuracy improvement
 - **Support AI**: Ticket deflection rate, first-contact resolution rate, CSAT score change
 
-If a tool is not showing movement on at least two of its function's core metrics within 90 days, the issue is usually data quality or adoption — not the tool. Investigate before cancelling. The [best AI tools for finance](/ai-tools/best-ai-tools-for-finance) guide applies this same framework to FP&A, accounting, and analytics tooling.
+If a tool is not showing movement on at least two of its function's core metrics within 90 days, the issue is usually data quality or adoption — not the tool. Investigate before cancelling. The [best AI tools for finance](/ai-tools/best-ai-tools-for-finance) guide applies this same framework to FP&A, accounting, and analytics tooling. Legal and compliance teams can apply the same evaluation framework using the [best AI tools for legal professionals](/ai-tools/best-ai-tools-for-legal) guide for contract review, due diligence, and legal research workflows.
 
 ---
 
