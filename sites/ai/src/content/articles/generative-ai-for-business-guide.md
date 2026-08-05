@@ -58,7 +58,7 @@ The key foundation models shaping business AI in 2026:
 | Llama 3 70B | Meta (open-source) | Self-hosted, data privacy control | 8,000 tokens |
 | Mistral Large | Mistral AI | GDPR-compliant European option | 32,000 tokens |
 
-Foundation models are accessed via APIs and form the backbone of most enterprise GenAI stacks. The majority of businesses don't train their own foundation models — they access them through cloud APIs and layer proprietary data on top using retrieval-augmented generation (RAG).
+Foundation models are accessed via APIs and form the backbone of most enterprise GenAI stacks. The majority of businesses don't train their own foundation models — they access them through cloud APIs and layer proprietary data on top using retrieval-augmented generation (RAG), the architecture explained in our [RAG guide](/deep-learning/what-is-rag-retrieval-augmented-generation).
 
 ### Generative AI vs. Traditional AI: A Practical Distinction
 

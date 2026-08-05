@@ -123,7 +123,7 @@ For businesses, RLHF-accessible platforms like OpenPipe and Argilla now make pre
 
 ## Fine-Tuning vs. Prompt Engineering vs. RAG
 
-Use prompt engineering first — it's free and often sufficient. Use RAG when the model needs current or proprietary information it wasn't trained on. Fine-tune when you need the model to behave differently: adopt a specific persona, follow precise output format rules, or achieve task-specific accuracy that prompting cannot reliably deliver at scale.
+Use prompt engineering first — it's free and often sufficient. Use RAG when the model needs current or proprietary information it wasn't trained on — our [RAG (retrieval-augmented generation) guide](/deep-learning/what-is-rag-retrieval-augmented-generation) covers the full pipeline. Fine-tune when you need the model to behave differently: adopt a specific persona, follow precise output format rules, or achieve task-specific accuracy that prompting cannot reliably deliver at scale.
 
 ### When to Prompt, Not Fine-Tune
 
