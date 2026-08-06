@@ -89,7 +89,7 @@ Interest-stage prospects know the problem exists and are actively seeking inform
 
 **What converts here:**
 - In-depth guides and practical frameworks
-- Email nurture sequences triggered by content downloads or webinar attendance
+- Email [nurture sequences](/sales-techniques/lead-nurturing-strategy-guide) triggered by content downloads or webinar attendance
 - Retargeting campaigns to re-engage blog readers who didn't convert
 - Gated content (assessments, templates, checklists) that deliver immediate value
 
