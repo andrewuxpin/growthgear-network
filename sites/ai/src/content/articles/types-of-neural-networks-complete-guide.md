@@ -221,7 +221,7 @@ The architecture selection decision has a 3-step framework that cuts through the
 | Tabular (structured) | MLP or gradient boosted trees (often beats NNs) |
 | Graph-structured | GNN |
 | Unlabeled data (anomaly) | Autoencoder |
-| Need to generate new examples | GAN or diffusion model |
+| Need to generate new examples | GAN or [diffusion model](/deep-learning/what-is-diffusion-model) |
 
 ### Step 2: Assess Your Constraints
 

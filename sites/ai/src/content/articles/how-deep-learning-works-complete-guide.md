@@ -257,7 +257,7 @@ Fine-tuning a vision model on 500 custom product images takes hours on a single 
 | **CNN** | Convolutional network for image/grid data | Visual inspection, product recognition, medical imaging |
 | **RNN/LSTM** | Recurrent network for sequential data | Time-series forecasting, stream processing |
 | **Transformer** | Attention-based architecture for language and beyond | LLMs, chatbots, document AI, NLP |
-| **GAN/Diffusion** | Generative architectures that create new data | Synthetic data, image generation, creative tools |
+| **GAN/Diffusion** | Generative architectures that create new data | Synthetic data, image generation, creative tools — see our [diffusion model guide](/deep-learning/what-is-diffusion-model) |
 | **Transfer learning** | Fine-tuning pre-trained models on your data | Makes deep learning accessible to SMBs |
 
 ---

@@ -153,7 +153,7 @@ For most Australian SMBs without strict data residency requirements, **Claude 3.
 |---|---|---|---|
 | Content drafting | Jasper, Claude | $40-100 | Blog posts, emails, ad copy |
 | Coding assistance | GitHub Copilot | $19/user | Development, automation scripts |
-| Image generation | Midjourney, DALL-E 3 | $10-30 | Marketing visuals, presentations |
+| Image generation | Midjourney, DALL-E 3 | $10-30 | Marketing visuals, presentations (see [what is a diffusion model](/deep-learning/what-is-diffusion-model)) |
 | Presentation creation | Gamma, Beautiful.ai | $15-40 | Pitch decks, client decks |
 | Research and analysis | Perplexity Pro | $20 | Market research, competitor intel |
 | Meeting summarization | Otter.ai, Fathom | $15-30 | Sales calls, team meetings |
