@@ -47,7 +47,7 @@ Choosing the right email marketing agency, then, has less to do with finding "a 
 
 ## What Does an Email Marketing Agency Do?
 
-An email marketing agency is a specialist firm that designs, builds, and operates a brand's email program end-to-end — strategy, segmentation, copy, design, automation, deliverability, and reporting. Unlike a [marketing automation agency](/content-marketing/marketing-automation-agency-guide) that owns the entire MarTech stack, an email agency stays inside the email channel and tunes it for revenue or pipeline.
+An email marketing agency is a specialist firm that designs, builds, and operates a brand's email program end-to-end — strategy, segmentation, copy, design, automation, deliverability, and reporting. Unlike a [marketing automation agency](/content-marketing/marketing-automation-agency-guide) that owns the entire MarTech stack, an email agency stays inside the email channel and tunes it for revenue or pipeline. For teams that need a diagnostic and lifecycle rebuild rather than ongoing campaign production, an [email marketing consultant](/content-marketing/what-is-an-email-marketing-consultant) offers a fixed-scope alternative to a full agency retainer.
 
 The day-to-day work breaks into four buckets. Strategists set the offer calendar, segmentation logic, and lifecycle map. Production teams build templates, automated flows, and one-off campaigns. Operations specialists monitor deliverability, manage suppression lists, and run A/B tests. Account leads coordinate reporting and align email metrics with the broader revenue model — pipeline for B2B clients, revenue per recipient for ecommerce clients.
 

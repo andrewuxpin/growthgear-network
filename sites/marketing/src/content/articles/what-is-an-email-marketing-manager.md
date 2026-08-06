@@ -44,7 +44,7 @@ Most companies treat email as a side channel until the numbers force a rethink. 
 
 The role is more specific than "marketing manager who runs emails." Email has its own technical stack, deliverability physics, attribution challenges, and compliance landscape from CAN-SPAM to GDPR. A digital marketing manager rarely has the depth to own those at scale, and a campaign specialist rarely has the seniority to set strategy across them.
 
-According to a [2025 Litmus State of Email report](https://www.litmus.com/blog/the-state-of-email), email generates an average ROI of $36 for every $1 spent — but only when the program is run as a dedicated channel with clear ownership. The companies leaving money on the table are not the ones without email; they are the ones without an owner.
+According to a [2025 Litmus State of Email report](https://www.litmus.com/blog/the-state-of-email), email generates an average ROI of $36 for every $1 spent — but only when the program is run as a dedicated channel with clear ownership. The companies leaving money on the table are not the ones without email; they are the ones without an owner. For teams that need external expertise to diagnose a stalled program before hiring a full-time manager, an [email marketing consultant](/content-marketing/what-is-an-email-marketing-consultant) can audit deliverability and rebuild workflows in a fixed-scope engagement.
 
 This guide covers what the role actually involves, the skills that separate strong candidates from average ones, salary benchmarks by geography and seniority, how the role compares to specialists and agencies, and a framework for deciding whether to hire one.
 
