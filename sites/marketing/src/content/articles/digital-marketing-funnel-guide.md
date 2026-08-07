@@ -41,7 +41,7 @@ callout:
   content: "Most funnels lose 60-70% of leads between interest and decision. The fix is not more traffic — it is dedicated mid-funnel content like case studies, comparison guides, and email nurture sequences that address specific buying objections."
 ---
 
-A digital marketing funnel is the backbone of every successful online growth strategy. According to HubSpot's 2024 State of Marketing report, companies with a well-defined marketing funnel generate **28% more revenue growth** than those without one. Yet fewer than 40% of marketing teams have a documented funnel framework, per the Content Marketing Institute's 2024 B2B report — which is why so much marketing spend produces traffic but not pipeline.
+A digital marketing funnel is the backbone of every successful online growth strategy. According to [HubSpot's 2024 State of Marketing report](https://blog.hubspot.com/marketing/state-of-marketing), companies with a well-defined marketing funnel generate **28% more revenue growth** than those without one. Yet fewer than 40% of marketing teams have a documented funnel framework, per the [Content Marketing Institute's 2024 B2B report](https://contentmarketinginstitute.com/research/) — which is why so much marketing spend produces traffic but not pipeline.
 
 This guide covers what a digital marketing funnel is, how to build one step by step, which model fits your business, how to measure each stage, and the mistakes that quietly drain conversions from your funnel every day.
 
@@ -76,11 +76,11 @@ Building a digital marketing funnel takes four to six weeks for a basic version 
 
 ### Step 1: Define Your Audience and Map Their Journey
 
-Every funnel starts with a precise audience definition. According to Gartner's 2023 CMO Spend Survey, marketing budgets average **9.1% of company revenue** — and that spend is wasted if the funnel is built for "everyone." Define your buyer persona with demographics, psychographics, behavioral patterns, and the specific problems they are trying to solve.
+Every funnel starts with a precise audience definition. According to [Gartner's 2023 CMO Spend Survey](https://www.gartner.com/en/marketing/topics/cmo-spend), marketing budgets average **9.1% of company revenue** — and that spend is wasted if the funnel is built for "everyone." Define your buyer persona with demographics, psychographics, behavioral patterns, and the specific problems they are trying to solve.
 
 Map the customer journey across five touchpoints: problem recognition, information gathering, solution evaluation, purchase decision, and post-purchase experience. Each touchpoint becomes a funnel stage with its own content and conversion goal.
 
-For B2B teams, this journey is longer and more complex. According to Demand Gen Report's 2024 B2B Buyer Survey, the average B2B purchase involves **6-8 decision makers** and takes 3-6 months. That means your funnel needs enough mid-funnel content to sustain engagement across a long evaluation period. Our [B2B email marketing strategy guide](/content-marketing/b2b-email-marketing-strategy-guide) covers the email sequences that keep prospects engaged during that window.
+For B2B teams, this journey is longer and more complex. According to [Demand Gen Report's 2024 B2B Buyer Survey](https://www.demandgenreport.com/), the average B2B purchase involves **6-8 decision makers** and takes 3-6 months. That means your funnel needs enough mid-funnel content to sustain engagement across a long evaluation period. Our [B2B email marketing strategy guide](/content-marketing/b2b-email-marketing-strategy-guide) covers the email sequences that keep prospects engaged during that window.
 
 ### Step 2: Choose Your Channels and Content for Each Stage
 
@@ -110,7 +110,7 @@ For B2B teams looking to scale lead generation, the [Sales Mastery guide to B2B 
 
 ### Step 4: Set Up Analytics and Define KPIs per Stage
 
-Each funnel stage needs its own KPI. According to WordStream's 2024 conversion rate benchmarks, the average landing page converts at **2.35%**, but the top 25% of pages convert at **5.31% or higher**. The gap between average and top performers is almost always in mid-funnel nurturing, not top-of-funnel traffic volume.
+Each funnel stage needs its own KPI. According to [WordStream's 2024 conversion rate benchmarks](https://www.wordstream.com/blog/ws/2014/03/17/what-is-a-good-conversion-rate), the average landing page converts at **2.35%**, but the top 25% of pages convert at **5.31% or higher**. The gap between average and top performers is almost always in mid-funnel nurturing, not top-of-funnel traffic volume.
 
 | Funnel Stage | Primary KPI | Benchmark (Average) | Benchmark (Top 25%) |
 |---|---|---|---|
