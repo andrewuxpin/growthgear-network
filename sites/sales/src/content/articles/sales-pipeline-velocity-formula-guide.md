@@ -55,7 +55,7 @@ The metric is sometimes called sales velocity or revenue velocity. The formula a
 
 ### Why velocity beats raw pipeline coverage
 
-Pipeline coverage is the most widely reported pipeline metric. A team carrying $5M in open pipeline against a $1.5M quota has 3.3x coverage, which feels healthy. Velocity asks a sharper question: will that pipeline convert to revenue inside the quarter? A team with 3.3x coverage but a 120-day cycle and a 12% win rate is structurally short on time, not pipeline.
+Pipeline coverage is the most widely reported pipeline metric. A team carrying $5M in open pipeline against a $1.5M quota has 3.3x coverage, which feels healthy. For a complete guide to calculating, benchmarking, and fixing this ratio, see the [pipeline coverage ratio guide](/b2b-sales/pipeline-coverage-ratio-guide). Velocity asks a sharper question: will that pipeline convert to revenue inside the quarter? A team with 3.3x coverage but a 120-day cycle and a 12% win rate is structurally short on time, not pipeline.
 
 Velocity also catches problems earlier. If your win rate drops three points or your cycle stretches by a week, coverage looks unchanged. Velocity moves immediately. That makes it a more useful weekly signal for sales leaders who need to act before quota slips.
 

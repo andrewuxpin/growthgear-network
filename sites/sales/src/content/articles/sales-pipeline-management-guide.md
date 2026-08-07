@@ -83,7 +83,7 @@ Pipeline management without measurement is just deal tracking. These five metric
 
 **Formula**: Pipeline value ÷ Revenue target
 
-A **3x–4x coverage ratio** is the standard benchmark for most B2B sales teams. If you're targeting $1M in quarterly revenue, you need $3M–$4M in active pipeline.
+A **3x–4x coverage ratio** is the standard benchmark for most B2B sales teams. If you're targeting $1M in quarterly revenue, you need $3M–$4M in active pipeline. For a deeper guide on calculating, segmenting, and diagnosing this metric, see our [pipeline coverage ratio guide](/b2b-sales/pipeline-coverage-ratio-guide).
 
 Below 3x signals a volume problem — your reps aren't generating enough qualified opportunities. Above 5x often means pipeline hygiene is poor, with stale or unqualified deals inflating the number.
 

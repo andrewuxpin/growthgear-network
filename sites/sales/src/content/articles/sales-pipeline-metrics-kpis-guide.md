@@ -73,7 +73,7 @@ The eight metrics below give you full coverage of pipeline health: how much pipe
 
 **Formula**: Total pipeline value ÷ Quota for the period
 
-**Why it matters**: Gartner research recommends a 3x–4x pipeline coverage ratio as a baseline for predictable revenue. If your quota is $500K for the quarter, you need $1.5M–$2M in active pipeline to expect a reasonable chance of hitting it — accounting for deals that will slip, shrink, or be lost. Coverage below 3x is an immediate prospecting alert.
+**Why it matters**: Gartner research recommends a 3x–4x pipeline coverage ratio as a baseline for predictable revenue. If your quota is $500K for the quarter, you need $1.5M–$2M in active pipeline to expect a reasonable chance of hitting it — accounting for deals that will slip, shrink, or be lost. Coverage below 3x is an immediate prospecting alert. For a complete walkthrough of calculating, segmenting, and fixing coverage gaps, see the [pipeline coverage ratio guide](/b2b-sales/pipeline-coverage-ratio-guide).
 
 ### 2. Win Rate
 
