@@ -47,7 +47,7 @@ This guide covers what the AI advantage actually means in practice, which five b
 
 ## What Is the AI Advantage?
 
-The AI advantage is the measurable competitive edge a business gains by integrating AI tools and systems into core operations before competitors do. Companies with embedded AI report 40% faster decision cycles, significantly lower per-task costs, and better customer outcomes than non-AI competitors — and these gaps compound as AI systems improve with more data and usage.
+The AI advantage is the measurable competitive edge a business gains by integrating AI tools and systems into core operations before competitors do. Companies with embedded AI report 40% faster decision cycles, significantly lower per-task costs, and better customer outcomes than non-AI competitors — and these gaps compound as AI systems improve with more data and usage. For the strategic growth framework that ties these advantages into a revenue model, see the [AI for business growth guide](/ai-tools/ai-for-business-growth-guide).
 
 The [Stanford Human-Centered AI Institute's AI Index Report](https://hai.stanford.edu/ai-index-report) found that enterprise AI adoption doubled between 2022 and 2024. Early adopters now hold structural advantages in data accumulation, team capability, and process optimization that latecomers cannot quickly close. Getting started later does not just mean catching up — it means competing against a moving target.
 
