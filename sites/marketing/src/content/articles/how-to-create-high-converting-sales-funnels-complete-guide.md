@@ -111,7 +111,7 @@ Before creating any funnel components, you must understand your ideal customer:
 
 ### Step 2: Choose Your Funnel Type
 
-Different business models require different funnel structures:
+Different business models require different funnel structures. For a full framework on mapping your digital channels to each buyer stage, see our [digital marketing funnel guide](/content-marketing/digital-marketing-funnel-guide).
 
 **Lead Generation Funnel**
 - Best for: B2B services, high-ticket items

@@ -59,7 +59,7 @@ Many businesses chase high-volume keywords, only to find their content struggles
 
 ### Content for Every Buyer Stage
 
-Most companies focus heavily on top-of-funnel (TOFU) content — blog posts designed for awareness. While crucial for attracting new audiences, this leaves leads unconverted as they move through their buying journey. An effective content marketing strategy maps content to every stage: awareness (TOFU), consideration (MOFU), and decision (BOFU). Content marketing generates 3x more leads than outbound at 62% lower cost (Demand Metric), but only when it addresses the specific needs at each stage.
+Most companies focus heavily on top-of-funnel (TOFU) content — blog posts designed for awareness. While crucial for attracting new audiences, this leaves leads unconverted as they move through their buying journey. An effective content marketing strategy maps content to every stage of the [digital marketing funnel](/content-marketing/digital-marketing-funnel-guide) — awareness (TOFU), consideration (MOFU), and decision (BOFU). Content marketing generates 3x more leads than outbound at 62% lower cost (Demand Metric), but only when it addresses the specific needs at each stage.
 
 | Buyer Stage | Content Type | Goal | Key Metric |
 |---|---|---|---|
