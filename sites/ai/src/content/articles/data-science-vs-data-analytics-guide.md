@@ -78,7 +78,7 @@ A data scientist works at the intersection of mathematics, programming, and doma
 
 ### Where the Two Roles Overlap
 
-The overlap zone is exploratory analysis and insight generation. Both roles write SQL, both explore datasets to understand distributions and anomalies, and both communicate findings to non-technical stakeholders. The divergence point is what happens after that initial exploration: the analyst writes a report; the scientist builds a model.
+The overlap zone is exploratory analysis and insight generation. Both roles write SQL, both explore datasets to understand distributions and anomalies, and both communicate findings to non-technical stakeholders. The structured approach to this exploration is covered in our guide on [exploratory data analysis (EDA)](/machine-learning/what-is-exploratory-data-analysis-eda). The divergence point is what happens after that initial exploration: the analyst writes a report; the scientist builds a model.
 
 In small teams, one person often does both. The distinction matters most at hiring time: a job description that asks for ML modeling experience alongside Excel dashboards will attract neither specialist and frustrate both types of candidate.
 

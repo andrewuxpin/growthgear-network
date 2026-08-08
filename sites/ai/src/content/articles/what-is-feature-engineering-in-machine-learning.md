@@ -46,7 +46,7 @@ As Pedro Domingos noted in his landmark 2012 paper in *Communications of the ACM
 
 ## What Is Feature Engineering in Machine Learning?
 
-Feature engineering is the deliberate process of using domain knowledge and statistical analysis to create, transform, and select input variables — called *features* — that improve a machine learning model's predictive accuracy. It sits between raw data collection and model training in every production ML pipeline.
+Feature engineering is the deliberate process of using domain knowledge and statistical analysis to create, transform, and select input variables — called *features* — that improve a machine learning model's predictive accuracy. It sits between raw data collection and model training in every production ML pipeline, building on the patterns surfaced during [exploratory data analysis](/machine-learning/what-is-exploratory-data-analysis-eda).
 
 A feature is any measurable property of a data point used as model input. Raw data columns are rarely features ready for use. A customer's signup date is raw data; the number of days since their last login is an engineered feature. An invoice amount is raw data; a binary flag for "amount > 3 standard deviations above the customer's mean" is an engineered feature.
 
