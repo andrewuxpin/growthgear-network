@@ -105,7 +105,7 @@ The tools that consistently produce the most qualified B2B prospecting lists:
 | Hunter.io | Email finding for specific domains | Medium | $ |
 | Clay | Multi-source enrichment and waterfall | High | $$ |
 
-For [B2B lead generation at scale](/b2b-sales/best-lead-generation-strategies-b2b-companies), no single tool covers everything. Most high-performing outbound teams use two tools: one for prospecting (LinkedIn Sales Navigator or Apollo) and one for enrichment/verification (ZoomInfo or Clay).
+For [B2B lead generation at scale](/b2b-sales/best-lead-generation-strategies-b2b-companies), no single tool covers everything. Most high-performing outbound teams use two tools: one for prospecting (LinkedIn Sales Navigator or Apollo) and one for enrichment/verification (ZoomInfo or Clay). For a complete comparison of the best platforms across email, phone, and LinkedIn channels, see our guide to the [best cold outreach tools for B2B sales](/sales-techniques/best-cold-outreach-tools-for-b2b-sales).
 
 ### Verifying and Cleaning Your List
 

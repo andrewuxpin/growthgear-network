@@ -128,7 +128,7 @@ The most effective video scripts follow a four-part structure:
 
 Use a thumbnail with your face clearly visible. Vidyard data shows this increases play rates by 40% compared to a generic freeze-frame thumbnail.
 
-For teams using AI to scale personalization across video and email outreach, [this guide to AI tools for digital marketing automation](https://marketing.growthgear.com.au/content-marketing/best-ai-tools-digital-marketing-automation) covers the tools that can generate personalized openers at volume without sacrificing quality.
+For teams using AI to scale personalization across video and email outreach, [this guide to AI tools for digital marketing automation](https://marketing.growthgear.com.au/content-marketing/best-ai-tools-digital-marketing-automation) covers the tools that can generate personalized openers at volume without sacrificing quality. For a full comparison of the platforms that power cold outreach sequences, see our [best cold outreach tools for B2B sales](/sales-techniques/best-cold-outreach-tools-for-b2b-sales) guide.
 
 ### Combining Email and Video in One Touch
 

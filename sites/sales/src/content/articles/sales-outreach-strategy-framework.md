@@ -121,7 +121,7 @@ Fully AI-written cold emails see roughly half the reply rate of human-edited cop
 
 ### Tool stack for 2026
 
-A working outreach stack in 2026 includes a sequencer (Outreach, Salesloft, Apollo), a CRM (Salesforce, HubSpot), an enrichment provider (ZoomInfo, Apollo, Clay), a signal layer (intent data from Bombora or 6sense), and an AI research tool. Resist the urge to bolt on every new tool. Aim for the smallest stack that supports the strategy, since each additional tool adds integration overhead and reduces rep adoption.
+A working outreach stack in 2026 includes a sequencer (Outreach, Salesloft, Apollo), a CRM (Salesforce, HubSpot), an enrichment provider (ZoomInfo, Apollo, Clay), a signal layer (intent data from Bombora or 6sense), and an AI research tool. Resist the urge to bolt on every new tool. Aim for the smallest stack that supports the strategy, since each additional tool adds integration overhead and reduces rep adoption. For a detailed comparison of the top platforms by pricing and feature set, see our [best cold outreach tools for B2B sales](/sales-techniques/best-cold-outreach-tools-for-b2b-sales) guide.
 
 ### Deliverability and sender reputation
 
