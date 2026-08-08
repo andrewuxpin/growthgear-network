@@ -134,7 +134,7 @@ Knowing what "good" looks like prevents two common reporting failures: declaring
 
 ### Paid campaign benchmarks
 
-According to HubSpot's 2026 advertising benchmarks, paid social CPMs and CTRs vary widely by industry, but the baselines below hold across most B2B and B2C verticals:
+According to HubSpot's 2026 advertising benchmarks, paid social CPMs and CTRs vary widely by industry, but the baselines below hold across most B2B and B2C verticals. For a full breakdown of paid social platform selection, budget allocation, and ROAS targets, see our [paid social media marketing guide](/social-media/paid-social-media-marketing-guide):
 
 | Platform | Typical CPM | Typical CTR | Typical CPC |
 |---|---|---|---|

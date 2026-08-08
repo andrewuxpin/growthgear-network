@@ -233,7 +233,7 @@ Most B2B teams over-index on the top two and never connect to the bottom two. Cl
 
 ### ROI benchmarks worth knowing
 
-Per [Sprout Social's 2026 ROI research](https://sproutsocial.com/insights/social-media-statistics/), social media marketing delivers an average $5.20 return per $1 spent. LinkedIn specifically shows even stronger long-cycle returns: a 192% three-year ROI for paid social and 229% three-year ROI for organic. More than 70% of B2B marketers using social over 12+ months report increased sales attributable to those programs.
+Per [Sprout Social's 2026 ROI research](https://sproutsocial.com/insights/social-media-statistics/), social media marketing delivers an average $5.20 return per $1 spent. LinkedIn specifically shows even stronger long-cycle returns: a 192% three-year ROI for paid social and 229% three-year ROI for organic. More than 70% of B2B marketers using social over 12+ months report increased sales attributable to those programs. For a comprehensive framework on structuring and budgeting paid campaigns, see our [paid social media marketing guide](/social-media/paid-social-media-marketing-guide).
 
 These benchmarks are useful for stakeholder conversations but lousy for tactical decisions. Build your own benchmarks against your industry, ACV, and motion within 6-9 months of consistent measurement.
 
