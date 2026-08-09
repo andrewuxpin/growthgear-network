@@ -226,10 +226,11 @@ The Zapier dashboard's **Task History** view shows which Zaps consumed the most 
 ### When to Consider Switching Tools
 
 Zapier is the right choice when setup speed and integration breadth matter more than cost. Consider switching to Make or building on [best-practice AI business solutions](/machine-learning/how-to-implement-ai-in-business-complete-guide) with a more flexible stack when:
-
 - Monthly task costs exceed $100 and the work is primarily data routing with minimal AI logic
 - Your team has a developer available to manage an n8n self-hosted instance
 - You need more than 5,000 tasks/month regularly — at that volume, Make's pricing becomes significantly more attractive
+
+For a broader view of seven Zapier alternatives including Activepieces, Workato, and Pabbly Connect, see our [Zapier alternatives comparison guide](/ai-tools/zapier-alternatives-comparison-guide).
 
 Pairing Zapier with a well-configured [CRM platform for your sales team](https://sales.growthgear.com.au/crm-tools/best-crm-software-small-business-teams) can also reduce overall automation complexity. Many CRMs (HubSpot, Salesforce) have native automation features that overlap with Zapier's basic Zap functions — consolidating operations into the CRM directly can reduce how much you need Zapier for.
 

@@ -198,7 +198,7 @@ If you're considering a move, plan for rebuild, not export. Workflow logic trans
 4. **Run in parallel**: Don't cut over until n8n versions run for 1-2 weeks alongside Zapier. Catch edge cases before retiring the Zap.
 5. **Document workflow logic**: Use n8n's notes feature and Git versioning (Enterprise) to capture decisions for future maintainers.
 
-Plan 1-3 days per workflow including testing. A 20-workflow migration typically takes a small team 4-8 weeks. Our [best n8n templates guide](/ai-tools/best-n8n-templates-ai-automation-workflows) covers starter patterns that accelerate the rebuild.
+Plan 1-3 days per workflow including testing. A 20-workflow migration typically takes a small team 4-8 weeks. If you're evaluating multiple Zapier alternatives beyond n8n, our [Zapier alternatives comparison](/ai-tools/zapier-alternatives-comparison-guide) covers Make, Activepieces, Workato, and four other platforms. Our [best n8n templates guide](/ai-tools/best-n8n-templates-ai-automation-workflows) covers starter patterns that accelerate the rebuild.
 
 ### Self-Hosting n8n Setup
 
