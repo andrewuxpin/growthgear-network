@@ -71,7 +71,7 @@ Effective enablement tackles this inefficiency head-on. When reps have a searcha
 
 The compounding effect is significant. A rep who adds two additional selling hours per day converts that time into more pipeline, more demos, and more closed revenue. At scale, across a team of 10-20 reps, this time recovery represents meaningful top-line impact without adding headcount.
 
-For enablement to deliver its full value, it must sit within a coherent [B2B sales strategy](/b2b-sales/b2b-sales-strategy-guide) that defines your ICP, sales motion, and go-to-market structure. Enablement without strategy produces well-equipped reps chasing the wrong buyers.
+For enablement to deliver its full value, it must sit within a coherent [B2B sales strategy](/b2b-sales/b2b-sales-strategy-guide) that defines your ICP, sales motion, and go-to-market structure. A well-designed [B2B sales team structure](/b2b-sales/b2b-sales-team-structure-guide) ensures each rep receives enablement tailored to their specific role. Enablement without strategy produces well-equipped reps chasing the wrong buyers.
 
 ---
 
