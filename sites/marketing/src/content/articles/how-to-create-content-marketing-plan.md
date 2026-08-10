@@ -174,7 +174,7 @@ Distribution-first planning means deciding how you'll promote a piece of content
 - Will you repurpose it into a short-form video, carousel, or infographic?
 - Are you doing outreach to earn backlinks or syndication placements?
 
-For most teams, the simplest distribution stack turns one article into five touchpoints:
+For most teams, the simplest distribution stack turns one article into five touchpoints. Once this stack is defined, [content marketing automation](/content-marketing/content-marketing-automation-guide) tools can handle the publishing, cross-posting, and newsletter triggers automatically:
 
 1. **Publish** the long-form article on your website
 2. **Email** an excerpt with a link to your subscriber list within 48 hours of publishing

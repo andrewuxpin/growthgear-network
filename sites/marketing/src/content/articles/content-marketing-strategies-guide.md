@@ -133,7 +133,7 @@ AI tools can dramatically accelerate both video creation and content repurposing
 
 ## How Should You Distribute and Amplify Your Content?
 
-Publishing a piece of content is 50% of the work. Distribution — the channels and workflows that get content in front of your audience — accounts for the other half. Brands that prioritize email, organic search, and 2-3 focused social channels over scattered multi-platform approaches generate 3x more leads at 62% lower cost (Demand Metric, 2024).
+Publishing a piece of content is 50% of the work. Distribution — the channels and workflows that get content in front of your audience — accounts for the other half. Brands that prioritize email, organic search, and 2-3 focused social channels over scattered multi-platform approaches generate 3x more leads at 62% lower cost (Demand Metric, 2024). Automating those distribution workflows with a [content marketing automation](/content-marketing/content-marketing-automation-guide) stack ensures every new piece is published and amplified without manual intervention.
 
 ### Owned Channel Distribution First
 
