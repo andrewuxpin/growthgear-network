@@ -43,7 +43,7 @@ callout:
 
 Social media gives small businesses something that was impossible a generation ago: direct access to thousands of potential customers at near-zero distribution cost. But access isn't strategy.
 
-Most small business owners either post inconsistently, spread effort across every platform, or treat social media as a digital brochure. None of these approaches produce meaningful results. The businesses that win on social treat it as a system — deliberate [brand building on social media](/social-media/how-to-build-a-brand-on-social-media), consistent content output, and measurement tied to real business outcomes like leads and revenue.
+Most small business owners either post inconsistently, spread effort across every platform, or treat social media as a digital brochure. None of these approaches produce meaningful results. The businesses that win on social treat it as a system — deliberate [brand building on social media](/social-media/how-to-build-a-brand-on-social-media), consistent content output, and measurement tied to real business outcomes like leads and revenue. For concrete models to adapt to your own audience and budget, our roundup of [social media marketing examples that drive results](/social-media/social-media-marketing-examples) breaks down nine documented campaigns with the strategy, metrics, and replicable framework behind each.
 
 This guide covers everything you need to build that system: from choosing the right platform for your audience to creating content on a lean budget and measuring ROI accurately.
 
