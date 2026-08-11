@@ -65,7 +65,7 @@ Pick a CRM with a clear upgrade path — from free to starter to professional to
 
 ### Pricing That Matches Revenue Stage
 
-A startup at $200K ARR shouldn't pay $500/month for CRM seats. The best startup CRMs offer free or sub-$20/user tiers with core functionality intact. [HubSpot's research](https://research.hubspot.com/reports/crm-impact) shows that 68% of startups begin on free CRM plans and upgrade only after crossing $500K ARR.
+A startup at $200K ARR shouldn't pay $500/month for CRM seats. The best startup CRMs offer free or sub-$20/user tiers with core functionality intact. [HubSpot's research](https://research.hubspot.com/reports/crm-impact) shows that 68% of startups begin on free CRM plans and upgrade only after crossing $500K ARR. For a dedicated comparison of seven platforms with permanent free tiers, see our [best free CRM software](/crm-tools/best-free-crm-software) guide covering user limits, contact caps, and upgrade paths.
 
 ## Best CRM Software for Startups in 2026
 
