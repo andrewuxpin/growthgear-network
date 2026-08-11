@@ -118,7 +118,7 @@ Sales and customer service are the two functions where AI has the most direct re
 
 For a comparison of CRM options specifically sized for small teams, see [best CRM software for small business teams](https://sales.growthgear.com.au/crm-tools/best-crm-software-small-business-teams).
 
-**Pipedrive** ($14/user/month Essential plan) is the CRM designed for salespeople first, with AI-powered sales assistant features baked into every plan. The AI assistant surfaces next-best actions, flags stalled deals, and predicts close probability — removing the analytical overhead from pipeline management. It works best for businesses with a defined sales process of 3-7 stages and a team of 2-10 reps.
+**Pipedrive** ($14/user/month Essential plan) is the CRM designed for salespeople first, with AI-powered sales assistant features baked into every plan. The AI assistant surfaces next-best actions, flags stalled deals, and predicts close probability — removing the analytical overhead from pipeline management. It works best for businesses with a defined sales process of 3-7 stages and a team of 2-10 reps. For a broader comparison of the full sales AI stack — including revenue intelligence, prospecting, and conversation analytics tools — see our [best AI tools for sales teams](/ai-tools/best-ai-tools-for-sales-teams) guide.
 
 ### AI Customer Service Tools
 

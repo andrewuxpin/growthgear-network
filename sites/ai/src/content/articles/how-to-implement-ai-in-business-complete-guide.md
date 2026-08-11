@@ -131,7 +131,7 @@ For a platform-by-platform breakdown of AI tools covering each of these customer
 **2. Sales and Marketing**
 - Personalize customer experiences
 - Optimize pricing strategies
-- Automate lead scoring and qualification
+- Automate lead scoring and qualification — the [best AI tools for sales teams](/ai-tools/best-ai-tools-for-sales-teams) guide compares Gong, Clari, Apollo, Clay, and CRM-native AI options by use case and price
 - Enhance content creation and distribution (see our guide to the [best AI productivity tools for business](/ai-tools/best-ai-productivity-tools-for-business) for specific tool recommendations)
 - Improve content visibility in AI-generated search answers—as ChatGPT and Perplexity become primary B2B research channels, [AI search optimization tools](/ai-tools/best-ai-search-optimization-tools) track where your brand appears and guide content improvements
 
