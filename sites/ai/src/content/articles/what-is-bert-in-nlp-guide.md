@@ -49,7 +49,7 @@ For business teams, BERT matters because it powers the NLP capabilities inside e
 
 BERT is an encoder-only transformer model that represents text as dense numerical vectors by processing the full input sequence simultaneously, attending to both left and right context at every layer. It achieves this through bidirectional self-attention, which lets each word "see" every other word in the sentence during pre-training. This full-context reading is what separates BERT from older language models that only processed text left-to-right.
 
-To understand how this fits into the broader deep learning landscape, it helps to first understand the [attention mechanism in deep learning](/deep-learning/attention-mechanism-deep-learning-explained) and the [transformer architecture](/machine-learning/what-is-a-transformer-in-machine-learning) that BERT is built on.
+To understand how this fits into the broader deep learning landscape, it helps to first understand the [attention mechanism in deep learning](/deep-learning/attention-mechanism-deep-learning-explained) and the [transformer architecture](/machine-learning/what-is-a-transformer-in-machine-learning) that BERT is built on. For the specifics of how BERT's 12 parallel attention heads capture different relationship types, see [what is multi-head attention in deep learning](/deep-learning/what-is-multi-head-attention-in-deep-learning).
 
 ### The Bidirectional Breakthrough
 

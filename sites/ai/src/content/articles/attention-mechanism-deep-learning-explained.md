@@ -127,7 +127,7 @@ A single attention head can only represent one type of relevance relationship at
 3. All h head outputs are **concatenated** into a single vector.
 4. A final linear projection (W_O) reduces the concatenated output back to the model's working dimension.
 
-The result is a richer representation that captures multiple relationship types in one forward pass. For a sentence like "The quick brown fox jumps over the lazy dog," one head might link "fox" to "jumps" (subject-verb), another might link "quick" and "brown" to "fox" (adjective-noun), and another might track positional patterns. All happen in parallel, in one layer.
+The result is a richer representation that captures multiple relationship types in one forward pass. For a sentence like "The quick brown fox jumps over the lazy dog," one head might link "fox" to "jumps" (subject-verb), another might link "quick" and "brown" to "fox" (adjective-noun), and another might track positional patterns. All happen in parallel, in one layer. For a deeper dive into the mechanics, head count selection, and Multi-Query/Grouped-Query variants, see our guide on [multi-head attention in deep learning](/deep-learning/what-is-multi-head-attention-in-deep-learning).
 
 ### Positional Encoding: Solving Order Without Recurrence
 
