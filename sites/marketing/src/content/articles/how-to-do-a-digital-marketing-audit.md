@@ -139,7 +139,7 @@ The deliverable is not the scorecard — it is the plan. Translate every gap int
 
 ## Should You Run the Audit Yourself or Hire an Agency or Consultant?
 
-Run the audit yourself when you have analytics fluency and a single-market, few-channel setup; hire a consultant for an independent expert read on a mid-sized program; and hire an agency when you run paid media across several channels and markets where wasted spend is large. The right choice depends on channel complexity and internal skill.
+Run the audit yourself when you have analytics fluency and a single-market, few-channel setup; hire a consultant for an independent expert read on a mid-sized program; and hire an agency when you run paid media across several channels and markets where wasted spend is large. For a deeper look at what a consultant brings to this process, see our guide to [what a digital marketing consultant does](/content-marketing/what-is-a-digital-marketing-consultant). The right choice depends on channel complexity and internal skill.
 
 ### DIY vs. Consultant vs. Agency
 

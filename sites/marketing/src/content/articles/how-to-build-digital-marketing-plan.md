@@ -82,7 +82,7 @@ Plans that skip any of these questions create predictable execution gaps. The mo
 
 The argument for planning isn't theoretical. Documented plans create feedback loops that intuition-based marketing can't replicate. When a tactic isn't working, a plan tells you whether the problem is the goal, the audience, the channel, or the creative. Without a plan, "it's not working" is the only diagnosis available — which leads to wholesale strategy changes when a targeted adjustment would have been sufficient.
 
-GrowthGear's work with 50+ startups consistently shows the same pattern: teams that document their plan in the first 60 days of engagement improve marketing ROI within the following 90 days. Not because the plan is magic, but because it forces the clarity that makes optimization possible.
+GrowthGear's work with 50+ startups consistently shows the same pattern: teams that document their plan in the first 60 days of engagement improve marketing ROI within the following 90 days. Not because the plan is magic, but because it forces the clarity that makes optimization possible. For businesses unsure where to start, a [digital marketing consultant](/content-marketing/what-is-a-digital-marketing-consultant) can build the initial plan and measurement framework so your team can execute with confidence.
 
 ## Step 1: Define Your Goals, Audience, and Budget
 

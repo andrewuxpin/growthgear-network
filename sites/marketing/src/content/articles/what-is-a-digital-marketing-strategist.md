@@ -87,7 +87,7 @@ The distinction matters because each role solves a different problem. Hire the w
 | **Salary range (US)** | $70K–$120K | $50K–$85K | $90K–$150K | $5K–$15K/engagement |
 | **Time horizon** | Quarterly / annual | Daily / weekly | Monthly / quarterly | Per engagement |
 
-For the related execution role, see our [what is a digital marketing specialist](/content-marketing/what-is-digital-marketing-specialist-skills-roles-guide) guide. For the people-management role, see [what does a digital marketing manager do](/content-marketing/what-does-a-digital-marketing-manager-do). And for the external version of the role, see our [content marketing consultant](/content-marketing/what-is-a-content-marketing-consultant) breakdown.
+For the related execution role, see our [what is a digital marketing specialist](/content-marketing/what-is-digital-marketing-specialist-skills-roles-guide) guide. For the people-management role, see [what does a digital marketing manager do](/content-marketing/what-does-a-digital-marketing-manager-do). For the broader external advisory role that covers SEO, paid, and content together, see our guide to [what a digital marketing consultant does](/content-marketing/what-is-a-digital-marketing-consultant). And for the content-specific external version of the role, see our [content marketing consultant](/content-marketing/what-is-a-content-marketing-consultant) breakdown.
 
 ### When the Lines Blur
 
