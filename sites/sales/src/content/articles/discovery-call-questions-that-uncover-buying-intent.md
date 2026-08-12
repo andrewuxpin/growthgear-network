@@ -103,7 +103,7 @@ The opening phase sets the tone for the entire call. These questions are low-sta
 
 ### Pain Point and Impact Questions
 
-This is the core of the discovery call. The goal is to move from surface problems to quantified business impact. According to the [SPIN methodology](/sales-techniques/how-to-qualify-leads-using-bant-criteria-complete-guide), these questions progress from Situation to Problem to Implication to Need-Payoff:
+This is the core of the discovery call. The goal is to move from surface problems to quantified business impact. According to the [SPIN methodology](/sales-techniques/spin-selling-technique-guide), these questions progress from Situation to Problem to Implication to Need-Payoff:
 
 - "What is the biggest challenge your team is facing right now?"
 - "How long has this been a problem for your team?"
