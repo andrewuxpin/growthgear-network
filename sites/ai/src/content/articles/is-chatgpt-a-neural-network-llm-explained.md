@@ -105,7 +105,7 @@ This stage requires far less data than pretraining — thousands of examples rat
 
 ### Stage 3: RLHF — Reinforcement Learning from Human Feedback
 
-RLHF, introduced in OpenAI's InstructGPT paper (2022), is what separates ChatGPT from raw GPT. The process has three steps:
+RLHF, introduced in OpenAI's InstructGPT paper (2022), is what separates ChatGPT from raw GPT. For a detailed breakdown of the three-stage RLHF pipeline and alternatives like DPO and Constitutional AI, see our [RLHF alignment guide](/deep-learning/what-is-rlhf-reinforcement-learning-human-feedback). The process has three steps:
 
 1. **Generate multiple outputs**: The model produces several responses to the same prompt
 2. **Human ranking**: Human raters rank the outputs from best to worst

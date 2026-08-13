@@ -113,7 +113,7 @@ This democratization of fine-tuning is significant: what once required a researc
 
 ### RLHF and Instruction Tuning
 
-The fine-tuning behind ChatGPT's helpfulness involves an additional stage beyond supervised fine-tuning: Reinforcement Learning from Human Feedback (RLHF).
+The fine-tuning behind ChatGPT's helpfulness involves an additional stage beyond supervised fine-tuning: Reinforcement Learning from Human Feedback (RLHF). For a full breakdown of the three-stage RLHF pipeline, see our [RLHF alignment guide](/deep-learning/what-is-rlhf-reinforcement-learning-human-feedback).
 
 Standard fine-tuning optimizes for predicting training examples. RLHF optimizes for human preference: a reward model — itself fine-tuned on human ratings of model outputs — scores model generations, and the language model is updated to produce higher-rated outputs via proximal policy optimization (PPO).
 

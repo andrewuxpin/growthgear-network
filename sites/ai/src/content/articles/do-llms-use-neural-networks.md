@@ -84,7 +84,7 @@ Not all LLMs are identical neural networks. The transformer architecture comes i
 | **Encoder-only** | BERT, RoBERTa, DistilBERT | Reads bidirectionally; no generation capability | Classification, NER, embeddings, semantic search |
 | **Encoder-decoder** | T5, BART, Google Translate models | Maps input sequences to output sequences | Translation, Q&A, structured data extraction |
 
-Most "LLM" products in the market today are **decoder-only** transformers. When an AI vendor sells you API access to a large language model, they are almost certainly providing a decoder-only transformer trained at scale and fine-tuned with RLHF.
+Most "LLM" products in the market today are **decoder-only** transformers. When an AI vendor sells you API access to a large language model, they are almost certainly providing a decoder-only transformer trained at scale and fine-tuned with RLHF — the alignment technique covered in our [RLHF guide](/deep-learning/what-is-rlhf-reinforcement-learning-human-feedback).
 
 Encoder-only models — like BERT with its 110M and 340M parameter variants (per Devlin et al. 2018) — are not generative, but they excel at understanding tasks. If your use case is classifying customer support tickets, routing insurance claims, or powering semantic search, an encoder-only model at a fraction of the cost will frequently outperform a full generative LLM.
 
