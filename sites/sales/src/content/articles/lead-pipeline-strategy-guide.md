@@ -220,7 +220,7 @@ Addressing one pipeline health issue each month compounds over a quarter into ma
 
 A healthy lead pipeline depends on a reliable flow of qualified leads from marketing. The friction point for most teams is the MQL-to-SQL handoff: marketing celebrates volume, sales celebrates quality, and neither team's metric captures the actual goal (pipeline that closes).
 
-Fix this with a shared pipeline contribution metric: measure what percentage of marketing-sourced leads reach the Proposal stage, not just what percentage become SQLs. This single alignment change forces both teams to care about the full journey. This shared metric is one of the most effective ways to align marketing investment with sales outcomes.
+Fix this with a shared pipeline contribution metric: measure what percentage of marketing-sourced leads reach the Proposal stage, not just what percentage become SQLs. This single alignment change forces both teams to care about the full journey. This shared metric is one of the most effective ways to align marketing investment with sales outcomes. For a deep dive into defining the handoff itself, see the [MQL to SQL conversion guide](/b2b-sales/mql-to-sql-conversion-guide).
 
 ### Quick Reference Summary: Lead Pipeline Health Scorecard
 

@@ -123,7 +123,7 @@ Drop variables that feel meaningful but do not predict revenue:
 
 ## How do you assign point values without guessing?
 
-Assign point values by back-testing 90 days of closed-won and closed-lost data to measure which attributes and behaviors actually predict revenue. Weight each variable by its conversion lift over the baseline. According to Forrester research, scoring models built on historical data outperform opinion-based models by 30–50% in MQL-to-SQL conversion. The method below is repeatable and survives recalibration.
+Assign point values by back-testing 90 days of closed-won and closed-lost data to measure which attributes and behaviors actually predict revenue. Weight each variable by its conversion lift over the baseline. According to Forrester research, scoring models built on historical data outperform opinion-based models by 30–50% in MQL-to-SQL conversion. The method below is repeatable and survives recalibration. For the broader handoff framework that turns these scores into accepted SQLs, see the [MQL to SQL conversion guide](/b2b-sales/mql-to-sql-conversion-guide).
 
 ### Step 1: Pull a baseline conversion rate
 

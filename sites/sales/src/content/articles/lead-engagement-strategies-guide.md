@@ -186,7 +186,7 @@ A lead engagement score combines **behavioral signals** (what the lead has done)
 
 Reps review a prioritized list of leads sorted by engagement score each morning. High-fit, high-activity leads get same-day follow-up. Low-fit leads below a threshold get moved to a long-nurture sequence instead of consuming active rep time.
 
-Integrate engagement scoring with [BANT lead qualification criteria](/sales-techniques/how-to-qualify-leads-using-bant-criteria-complete-guide) to ensure you're prioritizing leads that are both engaged AND qualified — not just active. An engaged but unqualified lead is still not worth a discovery call.
+Integrate engagement scoring with [BANT lead qualification criteria](/sales-techniques/how-to-qualify-leads-using-bant-criteria-complete-guide) to ensure you're prioritizing leads that are both engaged AND qualified — not just active. An engaged but unqualified lead is still not worth a discovery call. For the full picture of how engagement scoring feeds the sales handoff, see the [MQL to SQL conversion guide](/b2b-sales/mql-to-sql-conversion-guide).
 
 ### Diagnosing Sequence Performance
 
