@@ -230,7 +230,7 @@ Five measurement mistakes consistently distort email marketing metrics and lead 
 
 Apple Mail Privacy Protection automatically pre-fetches tracking pixels for Apple Mail users, registering an "open" whether the recipient saw the email or not. **According to Litmus**, about 60% of email opens now happen in Apple environments. That means open rate is inflated by 30-50% for most B2B lists and is increasingly useless as an absolute metric.
 
-The fix: weight clicks, replies, and conversions higher; use open rate only for trend analysis within a stable Apple-MPP baseline.
+The fix: weight clicks, replies, and conversions higher; use open rate only for trend analysis within a stable Apple-MPP baseline. For the broader privacy adaptation playbook — zero-party data, preference centers, and server-side tracking — our [email marketing trends for 2026](/content-marketing/email-marketing-trends-2026) covers how leading programs are rebuilding measurement around the metrics that survive.
 
 ### Mistake 2: Ignoring List Decay
 

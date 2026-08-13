@@ -173,7 +173,7 @@ Frequency matters as much as timing. Most B2B programs see engagement drop at mo
 
 ## Measuring and Iterating on Performance
 
-Measurement closes the improvement loop. Without tracking the right metrics, you're optimizing based on gut feel rather than signal. The goal is to connect email activity to business outcomes — not just to open rates. Our [email marketing metrics guide](/content-marketing/email-marketing-metrics-guide) covers the full 12-metric framework, current 2026 benchmarks, and a diagnostic playbook for underperforming campaigns.
+Measurement closes the improvement loop. Without tracking the right metrics, you're optimizing based on gut feel rather than signal. The goal is to connect email activity to business outcomes — not just to open rates. For the broader direction the channel is heading, our [email marketing trends for 2026](/content-marketing/email-marketing-trends-2026) covers the AI personalization and privacy-first measurement shifts shaping strategy this year. Our [email marketing metrics guide](/content-marketing/email-marketing-metrics-guide) covers the full 12-metric framework, current 2026 benchmarks, and a diagnostic playbook for underperforming campaigns.
 
 ### Practice 12: Track the Metrics That Map to Revenue
 
