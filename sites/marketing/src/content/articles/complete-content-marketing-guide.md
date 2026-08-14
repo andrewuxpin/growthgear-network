@@ -120,7 +120,7 @@ Use quarterly themes aligned to business goals — a product launch, a seasonal 
 
 ## The Content Types That Drive the Most Results
 
-The best content format depends on where your audience looks for answers and which stage of the buyer journey you're targeting. Blog posts, long-form guides, case studies, and original research consistently deliver the highest results for most B2B brands. Master 3-4 formats consistently rather than spreading production across every possible channel. For specific tactics and content ideas proven to generate traffic, see [content marketing ideas and proven tactics](/content-marketing/content-marketing-ideas-proven-tactics).
+The best content format depends on where your audience looks for answers and which stage of the buyer journey you're targeting. Blog posts, long-form guides, case studies, and original research consistently deliver the highest results for most B2B brands. Master 3-4 formats consistently rather than spreading production across every possible channel. For a detailed breakdown of each format and how to choose between them, see our guide on the [types of content marketing](/content-marketing/types-of-content-marketing-guide). For specific tactics and content ideas proven to generate traffic, see [content marketing ideas and proven tactics](/content-marketing/content-marketing-ideas-proven-tactics).
 
 ### Written Content — Blogs, Guides, and Research
 

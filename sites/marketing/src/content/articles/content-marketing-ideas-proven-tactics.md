@@ -45,7 +45,7 @@ Most businesses approach content marketing like a creative exercise: brainstorm 
 
 According to [Content Marketing Institute's 2024 B2B Content Marketing Benchmarks report](https://contentmarketinginstitute.com), only 40% of B2B marketers say their organization is "very committed" to content marketing. Yet that committed group consistently outperforms competitors on organic traffic, lead quality, and customer acquisition cost.
 
-This guide presents 25 proven content marketing ideas organized by format, effort level, and business impact — plus a framework for deciding which ones to prioritize first. Whether you're building from scratch or deepening an existing program, start by building [a structured content marketing plan](/content-marketing/how-to-create-content-marketing-plan) before producing a single piece.
+This guide presents 25 proven content marketing ideas organized by format, effort level, and business impact — plus a framework for deciding which ones to prioritize first. Whether you're building from scratch or deepening an existing program, start by understanding the [types of content marketing](/content-marketing/types-of-content-marketing-guide) and which formats fit your audience, then build [a structured content marketing plan](/content-marketing/how-to-create-content-marketing-plan) before producing a single piece.
 
 ## Why Most Content Marketing Ideas Don't Work
 
