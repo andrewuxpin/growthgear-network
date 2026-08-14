@@ -155,7 +155,7 @@ The agenda should cover:
 
 The manager's role in pipeline reviews isn't to interrogate — it's to coach. The question isn't "where is this deal?" but "what's the next buyer action, and when does it happen?"
 
-HubSpot's research on sales pipeline management found that companies with formal pipeline reviews grew revenue 28% faster than those without them.
+HubSpot's research on sales pipeline management found that companies with formal pipeline reviews grew revenue 28% faster than those without them. For a structured agenda and the 30-day no-movement rule for cutting stalled deals, see the dedicated [sales pipeline review guide](/b2b-sales/sales-pipeline-review-guide).
 
 ### Stage-Level Time Limits
 

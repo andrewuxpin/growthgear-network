@@ -51,7 +51,7 @@ Sales pipeline metrics give you a quantified view of whether your current pipeli
 
 The critical distinction is between **activity metrics** and **pipeline metrics**. Activity metrics (calls made, emails sent) measure effort. Pipeline metrics measure outcomes — the rate at which effort converts to signed contracts. Both matter, but conflating them leads to the common mistake of celebrating a full calendar while missing revenue targets.
 
-Once you know which pipeline metrics to track, the next step is assembling them into a structured [sales pipeline report](/crm-tools/sales-pipeline-report-guide) that drives consistent weekly reviews and accurate revenue forecasts.
+Once you know which pipeline metrics to track, the next step is assembling them into a structured [sales pipeline report](/crm-tools/sales-pipeline-report-guide) that drives consistent weekly reviews and accurate revenue forecasts. The metrics only matter if a recurring [sales pipeline review](/b2b-sales/sales-pipeline-review-guide) acts on them, cutting stalled deals and flagging coverage gaps before the quarter slips.
 
 ### Why Pipeline Visibility Changes Revenue Outcomes
 

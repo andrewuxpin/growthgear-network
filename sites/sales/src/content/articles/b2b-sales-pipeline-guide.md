@@ -195,7 +195,7 @@ Pipeline health isn't a one-time project — it's a discipline. The teams that c
 
 ### The Weekly Pipeline Review Framework
 
-The most effective B2B pipeline review follows a structured format that covers the same information every week. This creates a consistent baseline for spotting trends, coaching reps, and adjusting forecasts.
+The most effective B2B pipeline review follows a structured format that covers the same information every week. This creates a consistent baseline for spotting trends, coaching reps, and adjusting forecasts. For a complete meeting agenda, the five-item review structure, and rules for cutting stalled deals, see the dedicated [sales pipeline review guide](/b2b-sales/sales-pipeline-review-guide).
 
 At the rep level, a weekly 30-45 minute pipeline review should cover:
 
