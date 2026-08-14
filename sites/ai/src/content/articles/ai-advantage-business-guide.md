@@ -131,7 +131,7 @@ For sales teams looking to pair AI with structured pipeline development, see [ho
 
 ## How to Build Your AI Advantage Step by Step
 
-Building the AI advantage starts with an honest capability audit, not tool selection. Most organizations fail with AI because they purchase tools before defining the problem they are solving. The correct sequence is: identify your highest-friction business process, determine whether AI can address it with a measurable outcome, select tools, run a 90-day pilot, and then scale.
+Building the AI advantage starts with an honest capability audit, not tool selection. Most organizations fail with AI because they purchase tools before defining the problem they are solving. The correct sequence is: identify your highest-friction business process, determine whether AI can address it with a measurable outcome, select tools, run a 90-day pilot, and then scale. For the full scaling framework — building AI infrastructure, deploying revenue intelligence, and automating operations — the [how to use AI to scale a business guide](/ai-tools/how-to-use-ai-to-scale-a-business-guide) covers the systems that handle complexity without proportional cost increases.
 
 ### Step 1: Run an AI Readiness Audit
 

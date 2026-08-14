@@ -176,7 +176,7 @@ Pick one high-volume, well-documented process. Set a clear success metric. Run f
 
 ### Phase 3: Scale (Months 4-9)
 
-If the pilot hits its target, scale to adjacent functions. The pattern: one function proves AI works, the next two functions adopt faster because the team has built AI literacy and the data foundations are in place. For the full tool stack by company size — from a $120-300/month starter stack to a $500-2,000/month scale stack — see the tactical growth playbook linked in the intro above. The content-generation side of the scale phase — deploying foundation models and LLM APIs for marketing and sales — follows the same four-phase structure but with added governance controls.
+If the pilot hits its target, scale to adjacent functions. The pattern: one function proves AI works, the next two functions adopt faster because the team has built AI literacy and the data foundations are in place. For the full operational scaling framework — building AI infrastructure, deploying revenue intelligence, and automating teams at scale — see the [how to use AI to scale a business guide](/ai-tools/how-to-use-ai-to-scale-a-business-guide). For the full tool stack by company size — from a $120-300/month starter stack to a $500-2,000/month scale stack — see the tactical growth playbook linked in the intro above. The content-generation side of the scale phase — deploying foundation models and LLM APIs for marketing and sales — follows the same four-phase structure but with added governance controls.
 
 ### Phase 4: Institutionalise (Months 10+)
 
