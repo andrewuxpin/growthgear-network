@@ -127,7 +127,7 @@ The modern data engineering stack is organized into four functional layers: inge
 
 **dbt (data build tool)** has become the standard for SQL-based transformation inside data warehouses. Engineers define transformation logic in SQL files, and dbt compiles and runs them against the warehouse while enforcing testing, documentation, and lineage tracking. Per [dbt's documentation](https://docs.getdbt.com/docs/introduction), the tool is now used by over 50,000 companies globally.
 
-**Cloud data warehouses** — Snowflake, Google BigQuery, or Amazon Redshift — serve as the central storage layer where transformed data lives and analysts query it. Databricks combines data lakehouse storage with Spark compute, popular in organizations running heavy ML workloads.
+**Cloud data warehouses** — Snowflake, Google BigQuery, or Amazon Redshift — serve as the central storage layer where transformed data lives and analysts query it. For a deeper comparison of these platforms, see our guide on [what a data warehouse is](/machine-learning/what-is-a-data-warehouse-guide). Databricks combines data lakehouse storage with Spark compute, popular in organizations running heavy ML workloads.
 
 ### Ingestion and Integration
 

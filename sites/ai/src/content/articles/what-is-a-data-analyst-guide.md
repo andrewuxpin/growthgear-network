@@ -98,7 +98,7 @@ Data analysts need a blend of technical and business skills. On the technical si
 
 The following technical skills appear most consistently in data analyst roles, ordered by how broadly they apply:
 
-- **SQL** — Essential. Every relational database and most data warehouses (BigQuery, Redshift, Snowflake) use SQL. Analysts who can't write SQL are dependent on engineers to pull data for them.
+- **SQL** — Essential. Every relational database and most [data warehouses](/machine-learning/what-is-a-data-warehouse-guide) (BigQuery, Redshift, Snowflake) use SQL. Analysts who can't write SQL are dependent on engineers to pull data for them.
 - **Python or R** — Important. Python (with pandas, NumPy, matplotlib, and seaborn) is the dominant language for data wrangling, statistical analysis, and more complex transformations. R is common in healthcare, academic, and statistical research contexts.
 - **Excel or Google Sheets** — Still widely used for ad hoc analysis, financial modeling, and sharing results with non-technical stakeholders.
 - **BI tools** — Tableau, Microsoft Power BI, Looker, or Metabase. These tools turn SQL queries into interactive dashboards that non-analysts can explore.

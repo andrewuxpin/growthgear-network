@@ -62,7 +62,7 @@ A typical data pipeline comprises five stages:
 - **Data Sources** — The origin points of data, including transactional databases (PostgreSQL, MySQL), SaaS applications (Salesforce, HubSpot), event streams, IoT devices, and external APIs.
 - **Ingestion** — Extracting data from sources and moving it to a staging area or storage layer via connectors, APIs, or dedicated ingestion tools like Fivetran or Airbyte.
 - **Transformation** — Cleaning, structuring, enriching, and aggregating raw data into a format suitable for its intended use. This includes validation, deduplication, joining datasets, and applying business logic.
-- **Storage** — The destination repository: a cloud data warehouse (Snowflake, BigQuery, Redshift), a data lake (AWS S3, Azure Data Lake), or a data lakehouse (Databricks) that combines both.
+- **Storage** — The destination repository: a [cloud data warehouse](/machine-learning/what-is-a-data-warehouse-guide) (Snowflake, BigQuery, Redshift), a data lake (AWS S3, Azure Data Lake), or a data lakehouse (Databricks) that combines both.
 - **Consumption** — The final endpoint: BI dashboards (Tableau, Looker), machine learning models, operational applications, or reverse ETL tools that push data back into business systems.
 
 ### Batch vs Streaming Data Pipelines
