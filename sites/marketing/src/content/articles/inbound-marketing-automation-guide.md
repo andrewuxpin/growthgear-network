@@ -133,7 +133,7 @@ An effective inbound marketing automation workflow runs in three stages: attract
 
 Building a successful workflow requires mapping automation to each step of the buyer journey. Consistency and personalization at scale are only achievable when each workflow stage has a clear trigger, defined content, and a measurable exit condition.
 
-For a detailed look at drip campaign mechanics, see our [drip campaign guide](/content-marketing/drip-campaign-guide).
+For a detailed look at drip campaign mechanics, see our [drip campaign guide](/content-marketing/drip-campaign-guide). To understand how these workflows fit into a full stage-by-stage automated funnel, see our [marketing funnel automation guide](/content-marketing/marketing-funnel-automation-guide).
 
 ### Stage 1: Lead Capture Triggers That Feed Your Funnel
 

@@ -97,7 +97,7 @@ To fill the top of your funnel with qualified traffic, focus on [increasing orga
 
 ### Step 3: Build Your Automation and Lead Capture System
 
-The technical layer of a funnel includes landing pages, lead magnets, email automation, and CRM integration. According to HubSpot, companies using marketing automation generate **451% more qualified leads** than those that do not. The system works because it responds to prospect behavior in real time rather than on a fixed schedule.
+The technical layer of a funnel includes landing pages, lead magnets, email automation, and CRM integration. According to HubSpot, companies using marketing automation generate **451% more qualified leads** than those that do not. The system works because it responds to prospect behavior in real time rather than on a fixed schedule. For a complete framework on wiring these triggered workflows across every funnel stage, see our [marketing funnel automation guide](/content-marketing/marketing-funnel-automation-guide).
 
 Your lead capture system needs three components:
 - **Landing pages** with a single conversion goal and minimal friction
