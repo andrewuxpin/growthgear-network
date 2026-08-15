@@ -56,7 +56,7 @@ Average reps improvise. Top reps follow a process — for prospecting, for disco
 
 A sales system doesn't mean a rigid script. It means defined steps with clear exit criteria: what must be true before a prospect moves from "contacted" to "qualified," and what must be true before a deal moves from "proposal" to "close." For the specific techniques that fuel each stage—from research-first cold calling to the summary close—see the full guide on [salesperson techniques that close more deals](/sales-techniques/salesperson-techniques-that-close-more-deals).
 
-If you don't already have a documented sales strategy, start with [how to create a sales strategy that works](/sales-techniques/how-to-create-sales-strategy-that-works) before optimizing individual tactics. From there, a [detailed sales plan](/sales-techniques/how-to-write-a-sales-plan) translates that strategy into the weekly activity targets each rep needs to hit quota.
+If you don't already have a documented sales strategy, start with [how to create a sales strategy that works](/sales-techniques/how-to-create-sales-strategy-that-works) before optimizing individual tactics. From there, a [detailed sales plan](/sales-techniques/how-to-write-a-sales-plan) translates that strategy into the weekly activity targets each rep needs to hit quota. And if your comp plan is not reinforcing those targets, review your [sales commission structures](/b2b-sales/sales-commission-structures-guide) to align rep incentives with the behaviors that drive consistent attainment.
 
 ### They Disqualify as Hard as They Qualify
 

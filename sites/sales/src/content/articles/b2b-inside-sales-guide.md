@@ -217,7 +217,7 @@ These confirm the team is producing revenue, not just activity:
 | **Team health** | Quota attainment, ramp time | Quarterly | Under 50% of reps hitting quota |
 | **Unit economics** | CAC payback, LTV/CAC | Quarterly | Payback exceeds 18 months |
 
-Tie compensation to a mix of all three metric categories so reps can't game one at the expense of another. The best comp plans combine an activity floor (must hit minimum dials), pipeline accelerators (bonus on SQLs above target), and outcome-based commission (paid on closed-won revenue).
+Tie compensation to a mix of all three metric categories so reps can't game one at the expense of another. The best comp plans combine an activity floor (must hit minimum dials), pipeline accelerators (bonus on SQLs above target), and outcome-based commission (paid on closed-won revenue). For a deeper look at how to structure these variable components, see the complete guide to [sales commission structures](/b2b-sales/sales-commission-structures-guide).
 
 ### Common Reporting Mistakes
 

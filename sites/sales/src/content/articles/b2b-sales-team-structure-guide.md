@@ -56,7 +56,7 @@ Before defining job titles, understand the four functions every B2B sales team m
 - **Prospecting and lead qualification:** Finding and qualifying net-new opportunities. Pipeline creation, not conversion.
 - **Closing and deal advancement:** Running discovery, demos, negotiations, and final-close conversations. Pipeline conversion.
 - **Account management and expansion:** Onboarding, retention, upselling, and cross-selling. Revenue protection and growth.
-- **Sales operations and enablement:** CRM administration, territory design, compensation, content, training, and analytics. The infrastructure that makes the first three functions possible.
+- **Sales operations and enablement:** CRM administration, territory design, compensation, content, training, and analytics. The infrastructure that makes the first three functions possible. Designing the right [sales commission structures](/b2b-sales/sales-commission-structures-guide) is one of the highest-leverage decisions within this function.
 
 A team of three might have one person covering all four. A team of fifty will have dedicated specialists. The structure question is not whether you need these functions — you do — but how to group them into roles that make sense for your deal complexity and team size.
 
