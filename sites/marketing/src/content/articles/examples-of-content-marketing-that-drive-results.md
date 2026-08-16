@@ -94,7 +94,7 @@ Buffer built a loyal audience by publishing their company metrics, salary formul
 
 Buffer reported that their transparent blog approach drove significant reductions in their paid acquisition costs, as organic brand searches increased dramatically.
 
-**What you can replicate**: Identify one area where radical transparency would differentiate your brand. Publishing your internal processes, mistakes, or pricing decisions builds trust faster than polished brand content ever can.
+**What you can replicate**: Identify one area where radical transparency would differentiate your brand. Publishing your internal processes, mistakes, or pricing decisions builds trust faster than polished brand content ever can. For more inventive approaches that go beyond standard formats, our [creative content marketing guide](/content-marketing/creative-content-marketing-guide) covers interactive tools, data storytelling, and user-generated campaigns.
 
 > **Pro tip:** Transparency content works best for B2B SaaS and service businesses where trust is a primary buying criterion. Audit your sales objections — if prospects frequently say "I'm not sure I trust you yet," transparency content directly addresses that barrier.
 

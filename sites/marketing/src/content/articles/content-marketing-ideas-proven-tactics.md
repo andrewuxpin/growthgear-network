@@ -49,7 +49,7 @@ This guide presents 25 proven content marketing ideas organized by format, effor
 
 ## Why Most Content Marketing Ideas Don't Work
 
-Most content marketing ideas fail not because the idea is wrong, but because they lack strategic intent. Successful content needs three inputs before you write: demand validation, keyword opportunity, and a distribution plan. Without all three, even creative ideas generate traffic that doesn't convert.
+Most content marketing ideas fail not because the idea is wrong, but because they lack strategic intent. Successful content needs three inputs before you write: demand validation, keyword opportunity, and a distribution plan. Without all three, even creative ideas generate traffic that doesn't convert. For a deeper dive into how inventive formats and original angles drive measurable engagement, see our [creative content marketing guide](/content-marketing/creative-content-marketing-guide).
 
 ### The Content Treadmill Problem
 
