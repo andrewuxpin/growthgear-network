@@ -150,7 +150,7 @@ Multi-stakeholder consensus is one of the highest-leverage skills in B2B sales â
 
 ### Tip 6: Create a Mutual Success Plan
 
-A Mutual Success Plan (also called a Joint Execution Plan or mutual close plan) is a shared document co-created with your buyer after discovery is complete. It documents the agreed evaluation milestones, success criteria, approval chain, and target dates in a format that both parties own equally.
+A Mutual Success Plan (also called a Joint Execution Plan or mutual close plan) is a shared document co-created with your buyer after discovery is complete. It documents the agreed evaluation milestones, success criteria, approval chain, and target dates in a format that both parties own equally. For a step-by-step build process and the common mistakes that stall deals, see our [mutual action plan guide](/sales-techniques/mutual-action-plan-guide).
 
 A complete Mutual Success Plan includes:
 

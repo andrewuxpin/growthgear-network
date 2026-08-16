@@ -245,6 +245,7 @@ A closing playbook standardizes what your best reps do instinctively and gives y
 | Buying signal guide | List of verbal and behavioral signals that indicate close-readiness |
 | Discount authorization matrix | What discounts reps can offer without approval, and the process for exceptions |
 | Follow-up cadence post-close | Sequence for re-engaging "not now" prospects at defined intervals |
+| Mutual action plan template | A co-created, dated milestone document the buyer owns alongside the seller; see our [mutual action plan guide](/sales-techniques/mutual-action-plan-guide) for the build process |
 
 ### Building the Playbook From Real Data
 

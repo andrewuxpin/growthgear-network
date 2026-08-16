@@ -95,7 +95,7 @@ Generic demos that walk through every feature are among the most common cycle ki
 
 The proposal stage is where most B2B cycles stall. Proposals often land on the buyer's desk with no agreed timeline for a decision, no internal champion committed to driving the evaluation forward, and competing priorities taking precedence.
 
-The best practice is to co-create a **mutual action plan** with your champion before sending the proposal. This document lists every step both sides need to complete, with owners and dates, from proposal review through contract signature. Teams that use mutual action plans consistently report faster time-to-close than those sending proposals into a vacuum.
+The best practice is to co-create a **mutual action plan** with your champion before sending the proposal. This document lists every step both sides need to complete, with owners and dates, from proposal review through contract signature. Teams that use mutual action plans consistently report faster time-to-close than those sending proposals into a vacuum. For the full build process, see our [mutual action plan guide](/sales-techniques/mutual-action-plan-guide).
 
 ### Stage 5: Closing
 
