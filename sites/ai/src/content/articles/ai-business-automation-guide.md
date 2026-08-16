@@ -173,7 +173,7 @@ Here's how the major workflow orchestration platforms compare for SMB use cases:
 | **Activepieces** | Open-source alternative | Free (self-host) | AI text/image modules | Yes |
 | **Workato** | Enterprise-grade orchestration | $10,000+/year | Enterprise AI connectors | No |
 
-When evaluating platforms, prioritize: native integration with your existing stack, no-code configuration for non-technical teams, audit logs for compliance, and clear escalation paths to human agents.
+When evaluating platforms, prioritize: native integration with your existing stack, no-code configuration for non-technical teams, audit logs for compliance, and clear escalation paths to human agents. For a focused look at what "free (self-host)" actually means for n8n — including the real infrastructure cost and Community Edition limits — see our [n8n free tier guide](/ai-tools/what-is-n8n-free-tier-guide).
 
 For businesses that need a managed implementation rather than a self-serve approach, our guide to [AI automation services](/ai-tools/ai-automation-services-guide) covers when to hire a specialist — or for a deeper look at evaluating and hiring the firms that deliver it, see our guide to [what an AI automation agency does and how to choose one](/ai-tools/what-is-an-ai-automation-agency-guide).
 

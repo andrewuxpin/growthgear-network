@@ -93,7 +93,7 @@ n8n offers two delivery models — Cloud (managed) and self-hosted (Community Ed
 | Cloud Pro | $50 | 10,000 | Managed cloud |
 | Enterprise | Custom | Custom | Self-host or managed |
 
-The execution model means a 50-node workflow consumes one execution, not 50. This makes n8n especially attractive for data processing pipelines, ETL jobs, and AI agent workflows with many internal steps.
+The execution model means a 50-node workflow consumes one execution, not 50. This makes n8n especially attractive for data processing pipelines, ETL jobs, and AI agent workflows with many internal steps. For a focused breakdown of what the $0 Community Edition includes and what it actually costs to run, see our [n8n free tier guide](/ai-tools/what-is-n8n-free-tier-guide).
 
 > **Pro tip:** Map your top three workflows to both pricing models before committing. A 5-step Zapier workflow running 1,000 times/month = 5,000 tasks ($69 Team). The same workflow on n8n self-hosted = 1,000 executions on a $20 VPS. The savings compound as workflows multiply.
 
