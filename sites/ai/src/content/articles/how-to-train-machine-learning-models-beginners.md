@@ -273,7 +273,7 @@ print(f"Average CV score: {scores.mean():.2f}")
 ### 2. Document Everything
 - Keep track of experiments and results
 - Document data preprocessing steps
-- Record hyperparameter settings and performance metrics
+- Record hyperparameter settings and performance metrics (see our guide to [hyperparameter tuning in machine learning](/machine-learning/what-is-hyperparameter-tuning-in-machine-learning))
 
 ### 3. Version Control
 - Use Git for code versioning

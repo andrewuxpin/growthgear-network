@@ -227,7 +227,7 @@ When choosing between candidate algorithms (logistic regression vs. gradient boo
 
 ### Application 2: Hyperparameter Search
 
-Grid search, random search, and Bayesian optimisation all use cross-validation as the inner objective function. The hyperparameter configuration with the highest mean k-fold score on the training portion is selected, then evaluated on the held-out test set. For computationally expensive models, reduce to k=3 during search and bump to k=10 for the final reported estimate.
+Grid search, random search, and Bayesian optimisation all use cross-validation as the inner objective function. The [hyperparameter tuning](/machine-learning/what-is-hyperparameter-tuning-in-machine-learning) configuration with the highest mean k-fold score on the training portion is selected, then evaluated on the held-out test set. For computationally expensive models, reduce to k=3 during search and bump to k=10 for the final reported estimate.
 
 ### Application 3: Detecting Overfitting
 

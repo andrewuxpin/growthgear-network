@@ -92,7 +92,7 @@ The primary methods for detecting overfitting are the train-validation accuracy 
 Before training begins, split your dataset into three non-overlapping sets:
 
 - **Training set** (60-80%): Used to update model weights
-- **Validation set** (10-20%): Used to monitor generalization during training and tune hyperparameters
+- **Validation set** (10-20%): Used to monitor generalization during training and tune [hyperparameters](/machine-learning/what-is-hyperparameter-tuning-in-machine-learning)
 - **Test set** (10-20%): Held out until final evaluation — never used for any tuning decisions
 
 Track training accuracy and validation accuracy throughout training. The gap between them is your primary diagnostic:
