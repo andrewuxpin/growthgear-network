@@ -58,7 +58,7 @@ Most B2B organizations already do parts of this. They run onboarding programs, p
 **Sales enablement** is an ongoing process. It delivers the right information to the right rep at the right moment throughout the full sales cycle, not just during an onboarding week. The key distinction: training builds capabilities, enablement activates them in the context of real deals.
 
 A mature enablement function includes:
-- **Onboarding playbooks** that compress ramp time from 9 months to under 90 days
+- **Onboarding [playbooks](/b2b-sales/sales-playbook-guide)** that compress ramp time from 9 months to under 90 days
 - **Content libraries** tagged by buyer stage, persona, and objection type
 - **Coaching cadences** tied to deal reviews and call recording analysis
 - **CRM workflows** that surface the right asset at the right pipeline stage automatically
