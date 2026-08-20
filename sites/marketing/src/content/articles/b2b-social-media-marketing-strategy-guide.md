@@ -80,6 +80,8 @@ Most companies underinvest in the middle two. Brand pages do the work nobody cli
 
 The economic implication: B2B social is more expensive on a per-impression basis but produces dramatically higher contract values. A single LinkedIn touch on a $250K ARR opportunity is worth orders of magnitude more than a $35 product impression.
 
+Regulated B2B categories add a compliance layer on top of this framework. A hospital system running [healthcare social media marketing](/social-media/healthcare-social-media-marketing-guide) still uses LinkedIn for recruiting and referrals, but every post routes through a clinical and legal review the average B2B brand never needs.
+
 ## Choosing the Right Platforms for B2B
 
 The right B2B platform mix depends on where your buyers spend time and what content you can sustainably produce. For most B2B companies, LinkedIn anchors the program at 60-70% of organic and 80%+ of paid budget, with YouTube and X playing supporting roles. TikTok and Instagram Reels matter for specific motions — recruiting, software targeting younger buyers, and category education.

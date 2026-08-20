@@ -177,6 +177,8 @@ Whether you're building a team or launching a career, the social media manager r
 
 For teams deciding between in-house hiring and agency support, [social media marketing for small business](/social-media/social-media-marketing-for-small-business) covers the decision framework: in-house works best when brand voice consistency and real-time responsiveness are critical; agencies deliver more value when output volume and specialist expertise matter more than integration speed.
 
+Regulated industries add a screening step most job descriptions skip. A practice hiring for [healthcare social media marketing](/social-media/healthcare-social-media-marketing-guide) needs a candidate who can speak fluently about HIPAA-safe content review, not just platform fluency — ask about it directly in the interview, since it rarely shows up on a resume.
+
 ### Becoming a Social Media Manager
 
 **Build a portfolio before you apply**. Volunteer to manage social media for a local business, nonprofit, or personal brand for three to six months. Employers hire on demonstrated results — follower growth percentages, engagement rate improvements, campaign outcomes — not theoretical knowledge of platform algorithms.
