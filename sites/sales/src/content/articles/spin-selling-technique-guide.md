@@ -172,7 +172,7 @@ The practical division is straightforward: SPIN is the questioning technique you
 
 ### SPIN vs Challenger
 
-The Challenger Sale, researched by Matthew Dixon and Brent Adamson at CEB (now Gartner), teaches reps to deliver commercial insight that reframes how the buyer thinks about their problem. Challenger is about teaching, tailoring, and taking control of the conversation. SPIN is about asking questions that let the buyer discover the problem themselves.
+[The Challenger Sale](/sales-techniques/challenger-sale-methodology-guide), researched by Matthew Dixon and Brent Adamson at CEB (now Gartner), teaches reps to deliver commercial insight that reframes how the buyer thinks about their problem. Challenger is about teaching, tailoring, and taking control of the conversation. SPIN is about asking questions that let the buyer discover the problem themselves.
 
 These approaches are not contradictory. A skilled rep might use Challenger-style insight to reframe the buyer's understanding of their industry, then use SPIN questions to help the buyer trace the implications within their own organization. According to [Harvard Business Review research](https://hbr.org/2022/03/the-science-of-strong-business-writing) on B2B buying behavior, buyers who feel they discovered the insight themselves are more committed to acting on it.
 

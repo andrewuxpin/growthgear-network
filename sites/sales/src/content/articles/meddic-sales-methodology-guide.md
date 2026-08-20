@@ -136,7 +136,7 @@ BANT (Budget, Authority, Need, Timing) is a fast inbound lead filter that an SDR
 
 ### MEDDIC vs SPIN, Challenger, and Sandler
 
-SPIN (Situation, Problem, Implication, Need-payoff) is a questioning technique for discovery calls. The [complete SPIN selling guide](/sales-techniques/spin-selling-technique-guide) covers each question type with examples and call sequencing. Challenger teaches reps to challenge customer assumptions with insights. Sandler is a structured sales process with strong qualification gates. None of these are mutually exclusive with MEDDIC. The strongest enterprise teams use SPIN questioning to gather raw discovery, Challenger insights to reframe the buyer's view, and MEDDIC to score the resulting opportunity. The frameworks layer cleanly.
+SPIN (Situation, Problem, Implication, Need-payoff) is a questioning technique for discovery calls. The [complete SPIN selling guide](/sales-techniques/spin-selling-technique-guide) covers each question type with examples and call sequencing. Challenger teaches reps to challenge customer assumptions with insights; the [Challenger Sale methodology guide](/sales-techniques/challenger-sale-methodology-guide) breaks down the five rep profiles and the Teach-Tailor-Take-Control framework in depth. Sandler is a structured sales process with strong qualification gates. None of these are mutually exclusive with MEDDIC. The strongest enterprise teams use SPIN questioning to gather raw discovery, Challenger insights to reframe the buyer's view, and MEDDIC to score the resulting opportunity. The frameworks layer cleanly.
 
 ### Quick Reference Summary
 

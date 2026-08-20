@@ -104,7 +104,7 @@ The Challenger method operates on three behaviors:
 
 The core differentiator is teaching. Challengers don't ask what keeps the buyer up at night and mirror it back. They arrive with a perspective that genuinely changes how the buyer thinks about their situation.
 
-This is why Challenger works so well in today's environment: when buyers have access to unlimited information, the value a rep provides comes from synthesis and perspective, not product knowledge they could find on your website.
+This is why Challenger works so well in today's environment: when buyers have access to unlimited information, the value a rep provides comes from synthesis and perspective, not product knowledge they could find on your website. For a deeper dive into the five rep profiles and how to build a Teach-Tailor-Take-Control rollout, see the [complete Challenger Sale methodology guide](/sales-techniques/challenger-sale-methodology-guide).
 
 ### Solution Selling
 
