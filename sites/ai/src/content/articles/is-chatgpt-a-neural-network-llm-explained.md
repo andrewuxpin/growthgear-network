@@ -187,6 +187,8 @@ The [natural language processing applications](/machine-learning/what-is-natural
 
 For marketing teams looking to scale content operations using LLMs, our guide to [AI tools for digital marketing automation](https://marketing.growthgear.com.au/content-marketing/best-ai-tools-digital-marketing-automation) covers the full stack. For sales teams using LLMs to personalize outreach, see our analysis of [B2B lead generation strategies with AI](https://sales.growthgear.com.au/b2b-sales/best-lead-generation-strategies-b2b-companies).
 
+The same API-accessed model can also be wrapped in something more autonomous than a chat interface. See our guide on [what an AI agent is](/deep-learning/what-is-an-ai-agent-explained) for how businesses are moving from single-turn API calls to systems that reason through multi-step tasks and call tools on their own.
+
 ### When to Fine-Tune vs. When to Prompt-Engineer
 
 Most teams jump to fine-tuning before exhausting what's possible with prompt engineering. This is expensive and often unnecessary.

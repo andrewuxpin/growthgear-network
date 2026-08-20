@@ -61,7 +61,7 @@ AI automation agencies are growing in direct proportion to AI adoption itself. A
 
 ## What Services Do AI Automation Agencies Offer?
 
-AI automation agencies typically offer process auditing, workflow design, tool implementation, integration development, and ongoing monitoring. Most structure their services across four tiers — from light-touch workflow automation through fully autonomous AI agent systems — letting businesses start simple and scale as confidence and ROI compound.
+AI automation agencies typically offer process auditing, workflow design, tool implementation, integration development, and ongoing monitoring. Most structure their services across four tiers — from light-touch workflow automation through fully autonomous [AI agent](/deep-learning/what-is-an-ai-agent-explained) systems — letting businesses start simple and scale as confidence and ROI compound.
 
 ### Core Service Tiers
 

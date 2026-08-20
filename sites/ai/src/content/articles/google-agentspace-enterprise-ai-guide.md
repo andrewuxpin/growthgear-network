@@ -39,7 +39,7 @@ This guide explains exactly what Agentspace does, how it compares to alternative
 
 Google Agentspace is an enterprise AI platform built on [Google Cloud](https://cloud.google.com/agentspace) that combines two distinct capabilities: **universal enterprise search** and **AI agent orchestration**.
 
-The search layer pulls from Google Workspace, third-party systems like Salesforce, Jira, and SharePoint, and any custom data sources you connect. The agent layer lets those AI agents not just answer questions but complete tasks — drafting documents, filing tickets, updating CRM records — based on natural language instructions from employees.
+The search layer pulls from Google Workspace, third-party systems like Salesforce, Jira, and SharePoint, and any custom data sources you connect. The agent layer lets those AI agents not just answer questions but complete tasks — drafting documents, filing tickets, updating CRM records — based on natural language instructions from employees. If you're new to the underlying concept, see [what an AI agent is](/deep-learning/what-is-an-ai-agent-explained) and how it differs from a standard chatbot before evaluating Agentspace against other platforms.
 
 ### The Core Architecture
 
