@@ -118,7 +118,7 @@ Compared to traditional methods, social selling offers:
 
 LinkedIn remains the most effective platform for B2B social selling, with over 900 million professional users worldwide. Key features include:
 
-- **Sales Navigator** for advanced prospecting
+- **[Sales Navigator](/crm-tools/is-linkedin-sales-navigator-worth-it)** for advanced prospecting
 - **InMail messaging** for direct outreach
 - **Content publishing** for thought leadership
 - **Group participation** for community building

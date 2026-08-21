@@ -115,7 +115,7 @@ According to LinkedIn's research, social sellers who use Sales Navigator exceed 
 
 **What works:** Advanced lead filters, saved searches with alerts when new prospects match your ICP, and TeamLink (shared connections across your org). The integration with Salesforce and HubSpot syncs account and contact activity back to your CRM.
 
-**What doesn't:** InMail credits are limited (50/month per seat), so it's not a high-volume outbound channel. Sales Navigator doesn't provide direct email addresses — you still need a data tool like Apollo or ZoomInfo to get contact info.
+**What doesn't:** InMail credits are limited (50/month per seat), so it's not a high-volume outbound channel. Sales Navigator doesn't provide direct email addresses — you still need a data tool like Apollo or ZoomInfo to get contact info. For a full 2026 pricing breakdown and tier-by-tier ROI guidance, see [is LinkedIn Sales Navigator worth it](/crm-tools/is-linkedin-sales-navigator-worth-it).
 
 **Pricing:** Core plan at $99/user/month or ~$960/year. Advanced at $149/user/month adds TeamLink and advanced reporting.
 
