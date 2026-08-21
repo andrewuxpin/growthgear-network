@@ -51,7 +51,7 @@ These practices are drawn from Litmus, HubSpot, Campaign Monitor, and Mailchimp 
 
 ## Build and Segment Your Email List
 
-A quality email list is built on explicit consent and organized by subscriber behavior, not just contact information. Start with permission-based acquisition through lead magnets, content upgrades, and gated resources. Then segment immediately — even a simple two-segment split between new subscribers and engaged regulars will outperform a single undifferentiated list.
+A quality email list is built on explicit consent and organized by subscriber behavior, not just contact information. Start with permission-based acquisition through lead magnets, content upgrades, and gated resources — our guide on [how to build an email marketing list](/content-marketing/how-to-build-an-email-marketing-list) breaks down lead magnet formats, opt-in placement, and welcome-sequence timing in detail. Then segment immediately — even a simple two-segment split between new subscribers and engaged regulars will outperform a single undifferentiated list.
 
 According to Campaign Monitor, segmented campaigns generate **760% more revenue** than non-segmented sends. That figure reflects a simple truth: relevance drives response.
 

@@ -110,7 +110,7 @@ These benchmarks are a starting point, not a prescription. Test your audience sp
 
 ### Building and Growing Your Subscriber List
 
-A newsletter is only as valuable as its list quality. These are the highest-converting list-building tactics for marketing teams:
+A newsletter is only as valuable as its list quality. These are the highest-converting list-building tactics for marketing teams — for a deeper breakdown of lead magnets, opt-in placement, and segmentation, see our full guide on [how to build an email marketing list](/content-marketing/how-to-build-an-email-marketing-list):
 
 **1. Lead magnets on high-traffic pages**
 Offer a free resource — checklist, guide, template, or mini-course — in exchange for an email address. A one-page audit checklist placed on a relevant blog post consistently converts 3-5% of page visitors to subscribers.
