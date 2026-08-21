@@ -85,7 +85,7 @@ An overfitted model does exactly the same thing with data.
 
 ## How to Detect Overfitting in Your Models
 
-The primary methods for detecting overfitting are the train-validation accuracy gap, learning curve analysis, and cross-validation. All three should be standard practice in any ML development workflow — not afterthoughts applied after deployment has already failed.
+The primary methods for detecting overfitting are the train-validation accuracy gap, learning curve analysis, and cross-validation. All three should be standard practice in any ML development workflow — not afterthoughts applied after deployment has already failed. For classifiers with two or three input features, [plotting the model's decision boundary](/deep-learning/how-to-plot-neural-network-classification-boundary) adds a visual check that catches overfitting patterns numeric metrics alone can miss.
 
 ### Train-Validation Accuracy Gap
 

@@ -183,7 +183,7 @@ A practical threshold-setting workflow for [production ML model training and dep
 
 ## When Classification Reports Fall Short
 
-A classification report is a powerful diagnostic tool, but its per-class metrics are evaluated at a single threshold and assume that your test set distribution reflects production. When class imbalance is severe, costs are asymmetric, or each instance can belong to multiple classes, the standard report alone will mislead you. Three specific situations require complementary analysis methods.
+A classification report is a powerful diagnostic tool, but its per-class metrics are evaluated at a single threshold and assume that your test set distribution reflects production. When class imbalance is severe, costs are asymmetric, or each instance can belong to multiple classes, the standard report alone will mislead you. Three specific situations require complementary analysis methods, and for two- or three-feature models, [plotting the decision boundary](/deep-learning/how-to-plot-neural-network-classification-boundary) is a fast visual complement that surfaces overfitting the report's numbers alone won't show.
 
 ### Severe Class Imbalance
 

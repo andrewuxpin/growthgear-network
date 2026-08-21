@@ -191,7 +191,7 @@ This process is handled entirely by the framework. What you control is the archi
 
 ## How to Evaluate and Deploy Your Neural Network
 
-Evaluating a neural network means measuring its real-world performance — not just how well it memorised training data. The gap between training accuracy and test accuracy is your primary signal. Deployment means making the model available to produce predictions in production systems reliably, at scale, and with acceptable latency.
+Evaluating a neural network means measuring its real-world performance — not just how well it memorised training data. The gap between training accuracy and test accuracy is your primary signal. Deployment means making the model available to produce predictions in production systems reliably, at scale, and with acceptable latency. For classifiers, [plotting the decision boundary](/deep-learning/how-to-plot-neural-network-classification-boundary) alongside these metrics gives you a visual way to confirm the model learned a sensible pattern rather than memorising noise.
 
 ### Evaluation Metrics by Task Type
 
