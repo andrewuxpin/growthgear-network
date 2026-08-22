@@ -121,6 +121,8 @@ For marketers, [social media SEO](/social-media/social-media-seo-strategy-guide)
 
 The keyword research skills that apply to Google also apply to social search: understand what your target audience is searching for on each platform, write captions that match those queries naturally, and build content around answers, not just themes.
 
+Platform feature announcements like these move fast, but they're only half the picture — pair this news monitoring with a broader look at [which 2026 social media trends are actually worth adopting](/social-media/social-media-trends-2026-guide) versus which ones are hype dressed up as a feature launch.
+
 ### Facebook's EU Regulatory Response
 
 Facebook is experimenting with giving EU users a choice between AI-driven feeds and chronological feeds, following regulatory pressure under the Digital Services Act. For brands with EU-heavy audiences, this matters: chronological feeds favor **consistent, frequent publishing** rather than the hit-and-miss timing of algorithm-driven posting. Brands with significant EU audiences should consider increasing post frequency and aligning publishing schedules more tightly with audience peak hours.

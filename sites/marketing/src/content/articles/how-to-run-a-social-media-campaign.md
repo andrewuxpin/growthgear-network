@@ -162,6 +162,8 @@ Organic engagement and paid conversion are different goals. Don't kill an organi
 
 Campaigns need 3-5 creative variations per ad set on day one, and another 2-3 fresh variations by day 10-14. Teams that produce all creative upfront and never refresh see CTR collapse in week two. Build creative refresh into the production schedule from the start.
 
+Refreshing creative is not the same as chasing every new format the moment it launches — decide [which 2026 social media trends are actually worth adopting](/social-media/social-media-trends-2026-guide) into your campaign mix before you commit a creative refresh cycle to one.
+
 ### Mistake 3: Skipping the audience warming phase
 
 Cold conversion campaigns convert at 25-50% of warm campaign rates, according to Meta's 2026 advertising research. Run a 7-14 day awareness phase before the conversion push, targeting lookalikes of your customer list. Pixel the audience, retarget them with the conversion creative, and watch CPA drop 40-60%.

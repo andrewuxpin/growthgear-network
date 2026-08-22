@@ -98,6 +98,8 @@ A realistic weekly time allocation for a single-brand social media manager looks
 
 Most social media managers spend 18-30 hours per week managing a single brand across all core functions. Agencies and freelancers managing multiple brands apply batching and template workflows to increase output efficiency. The guide on [managing multiple social media accounts efficiently](/social-media/how-to-manage-multiple-social-media-accounts) covers the scheduling and batching frameworks that make simultaneous multi-brand management viable without proportional time increases.
 
+The monthly "competitor and trend research" line item above is where a good social media manager earns their keep — not by adopting every new feature, but by knowing [which social media trends are actually worth adopting in 2026](/social-media/social-media-trends-2026-guide) versus which ones are hype dressed up as urgency.
+
 > **Want to scale your marketing impact?** GrowthGear has helped 50+ startups build social media and marketing systems that deliver 156% average growth. [Book a Free Strategy Session](https://growthgear.com.au) to design your social media strategy or find the right hire for your team.
 
 ### The Scope Most Businesses Underestimate
