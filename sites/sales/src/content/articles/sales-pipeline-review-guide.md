@@ -47,7 +47,7 @@ This guide covers the cadence, agenda, and exit criteria for running a pipeline 
 
 ## What Is a Sales Pipeline Review and Why It Matters
 
-A sales pipeline review is a recurring meeting where a sales manager and each rep walk through every active deal in the CRM, verify it meets the exit criteria for its current stage, confirm the next step and close date, and remove or downgrade opportunities that no longer qualify. The output is a clean pipeline, an accurate forecast, and a list of deals that need executive intervention.
+A sales pipeline review is a recurring meeting where a sales manager and each rep walk through every active deal in the CRM, verify it meets the exit criteria for its current stage, confirm the next step and close date, and remove or downgrade opportunities that no longer qualify. The output is a clean pipeline, an accurate forecast, and a list of deals that need executive intervention. That clean output is also the input every [sales forecasting method](/b2b-sales/sales-forecasting-methods-guide) depends on; no formula fixes a forecast built on stale stage data.
 
 It is not a status update or a coaching session, though coaching happens naturally when a manager sees how a rep is working a deal. The reason it matters is simple: pipelines decay. Deals slip, buyers go quiet, champions leave their companies, and budgets freeze. A deal that entered the pipeline in March as a strong opportunity can become dead weight by June if nobody inspects it. HubSpot sales research found that 40 percent of forecasted deals slip from one quarter to the next, and a meaningful share of those never close at all. Without a review, those deals sit in the pipeline masquerading as revenue.
 
