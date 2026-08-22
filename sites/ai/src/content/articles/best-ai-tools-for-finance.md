@@ -177,7 +177,7 @@ Key capabilities:
 
 **Best for**: Companies with high accounts payable volume ($5M+ annual payables) and global supplier payments.
 
-Tipalti automates the full AP lifecycle from supplier onboarding through payment and reconciliation. The machine learning layer handles invoice data extraction (including handwritten and non-standard formats), validates supplier details against sanctions and compliance lists, detects duplicate invoices, and flags suspicious payment patterns before funds move.
+Tipalti automates the full AP lifecycle from supplier onboarding through payment and reconciliation. The machine learning layer handles invoice data extraction (including handwritten and non-standard formats), validates supplier details against sanctions and compliance lists, detects duplicate invoices, and flags suspicious payment patterns before funds move. Any AI tool touching customer or supplier financial data at a regulated institution should also be evaluated against the vendor due-diligence criteria in our [AI compliance for financial services guide](/machine-learning/ai-compliance-for-financial-services-guide), including GLBA vendor-oversight and audit-trail requirements.
 
 Key capabilities:
 - **AI invoice processing**: ML extracts data from invoices — including PDFs, images, and non-standard formats — with high accuracy rates

@@ -165,7 +165,7 @@ For the full regulation text, see [Regulation (EU) 2024/1689](https://eur-lex.eu
 
 ### NIST AI Risk Management Framework (AI RMF 1.0)
 
-The US National Institute of Standards and Technology published the [AI Risk Management Framework 1.0](https://airc.nist.gov/RMF) in January 2023. It is voluntary for private businesses but has become the expected baseline in US federal procurement, financial services oversight, and healthcare regulation.
+The US National Institute of Standards and Technology published the [AI Risk Management Framework 1.0](https://airc.nist.gov/RMF) in January 2023. It is voluntary for private businesses but has become the expected baseline in US federal procurement, financial services oversight, and healthcare regulation. Banks and lenders face sector-specific rules on top of this general baseline — see our [AI compliance for financial services guide](/machine-learning/ai-compliance-for-financial-services-guide) for the Federal Reserve's SR 26-2 model risk guidance and related requirements.
 
 The framework organizes AI risk management into four functions:
 
