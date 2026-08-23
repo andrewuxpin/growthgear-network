@@ -228,6 +228,8 @@ The average number of days from first touch to closed-won. [Forrester reports](h
 | **Growth-stage SMB** ($2M-$20M ARR) | 45-60 days | 20-35% | 25-40% |
 | **Mid-market** ($20M+ ARR) | 30-45 days | 25-40% | 35-55% |
 
+If you're still weighing whether these numbers justify the investment for your business, see our full breakdown of the [benefits of marketing automation](/content-marketing/benefits-of-marketing-automation), including cost ranges and realistic payback timelines by stage.
+
 ### The 30-Day Audit
 
 After launching your automated funnel, run a 30-day audit. For each workflow, check:

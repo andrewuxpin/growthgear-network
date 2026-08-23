@@ -153,7 +153,7 @@ The second most useful AI capability is conversation-level intent extraction —
 
 ## B2B Marketing Automation ROI: Metrics, Benchmarks, and Attribution
 
-Proving B2B marketing automation ROI requires measuring pipeline outcomes, not activity volume. The right metrics tie automation directly to revenue: marketing-sourced pipeline percentage, MQL-to-SQL conversion rate, sales cycle length, and cost per opportunity. Forrester benchmarks show top-quartile programs deliver positive ROI within 9-12 months — but only when measurement is set up before launch.
+Proving B2B marketing automation ROI requires measuring pipeline outcomes, not activity volume. The right metrics tie automation directly to revenue: marketing-sourced pipeline percentage, MQL-to-SQL conversion rate, sales cycle length, and cost per opportunity. Forrester benchmarks show top-quartile programs deliver positive ROI within 9-12 months — but only when measurement is set up before launch. If you're still deciding whether the investment makes sense at your current lead volume, see our breakdown of the [benefits of marketing automation](/content-marketing/benefits-of-marketing-automation) and realistic payback timelines by business stage.
 
 ### The Five Metrics That Actually Prove It Works
 

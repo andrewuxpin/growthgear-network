@@ -184,6 +184,8 @@ Buyers who set numeric expectations consistently outperform buyers who set quali
 | Day 30 | First broken workflow rebuilt, attribution reporting live |
 | Day 60 | Three nurture or lifecycle journeys shipped with named goals |
 | Day 90 | 20-40% lift in marketing-qualified leads, dashboard handed to CFO |
+
+Before signing a statement of work, it's worth confirming the underlying investment case for your business stage — see our breakdown of the [benefits of marketing automation](/content-marketing/benefits-of-marketing-automation) and the lead-volume signals that determine whether you're ready.
 | Day 180 | Internal owner trained, runbook complete, engagement closes |
 
 If you are not seeing measurable lift by day 90, the consultant is not delivering, the scope was wrong, or your internal team is not staffing against the project. Pause the engagement and diagnose which of those three is true before extending.
