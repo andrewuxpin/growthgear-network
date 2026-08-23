@@ -187,7 +187,7 @@ Hyperparameter tuning fails silently more often than it fails loudly. The most d
 
 The most common and damaging mistake. If you evaluate hyperparameter configurations on the test set and pick the best one, the test set has become part of your training process. The resulting accuracy is optimistically biased and will not hold in production. This is a form of data leakage — the same issue covered in our [overfitting guide](/machine-learning/what-is-overfitting-in-machine-learning), where the test set trap inflates accuracy estimates.
 
-**Fix**: Use nested cross-validation or a separate held-out test set that is evaluated exactly once, after all tuning is complete. Never look at test set performance during the search.
+**Fix**: Use nested cross-validation or a separate held-out test set that is evaluated exactly once, after all tuning is complete. Never look at test set performance during the search. Logging every trial's configuration and held-out score automatically — rather than by hand — is exactly what experiment tracking in an MLOps practice is for; see [best MLOps tools for small teams](/machine-learning/best-mlops-tools-for-small-teams) for tools that make this the default.
 
 ### Pitfall 2: Not Using a Consistent Random Seed
 

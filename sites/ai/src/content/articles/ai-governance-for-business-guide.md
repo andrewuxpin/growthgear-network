@@ -119,7 +119,7 @@ For SMBs, this typically means designating an **AI governance lead** — often t
 
 ### Pillar 4: Compliance Monitoring and Audit Trails
 
-Static governance is not enough. Models drift as production data distributions shift. Regulations evolve. New AI tools enter your organization. Governance requires **continuous monitoring** and documented audit trails that demonstrate ongoing compliance.
+Static governance is not enough. Models drift as production data distributions shift. Regulations evolve. New AI tools enter your organization. Governance requires **continuous monitoring** and documented audit trails that demonstrate ongoing compliance — the same drift-detection and monitoring practices covered in [best MLOps tools for small teams](/machine-learning/best-mlops-tools-for-small-teams) for teams building this capability from scratch.
 
 At minimum, implement:
 
