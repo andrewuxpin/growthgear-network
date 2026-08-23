@@ -176,6 +176,10 @@ The practical division is straightforward: SPIN is the questioning technique you
 
 These approaches are not contradictory. A skilled rep might use Challenger-style insight to reframe the buyer's understanding of their industry, then use SPIN questions to help the buyer trace the implications within their own organization. According to [Harvard Business Review research](https://hbr.org/2022/03/the-science-of-strong-business-writing) on B2B buying behavior, buyers who feel they discovered the insight themselves are more committed to acting on it.
 
+### SPIN vs Sandler
+
+The [Sandler Selling System](/sales-techniques/sandler-selling-system-guide) predates SPIN by more than a decade and focuses on mutual qualification rather than a specific questioning sequence. Sandler's Pain Funnel and SPIN's Problem and Implication questions cover similar ground — moving a buyer from surface symptom to real cost — but Sandler wraps that discovery inside a full sales process built around Up-Front Contracts and a willingness to walk away from a bad-fit deal.
+
 ### SPIN vs Consultative Selling
 
 Consultative selling is a broad philosophy that positions the salesperson as a trusted advisor who diagnoses needs before recommending solutions. SPIN is the specific questioning toolkit that makes consultative selling operational. Without a structured questioning framework, consultative selling devolves into generic rapport-building that never reaches business impact.

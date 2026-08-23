@@ -158,6 +158,8 @@ Most enterprise sales teams use MEDDIC alongside another method — often SPIN o
 
 MEDDIC is one of the highest-ROI methodology investments in enterprise sales: eliminating pipeline that was never going to close is at least as valuable as improving close rates on the pipeline that will. For a deep dive on rollout, scoring, and CRM setup, see the complete [MEDDIC sales methodology guide](/sales-techniques/meddic-sales-methodology-guide).
 
+Teams looking for an older, process-driven alternative to layer alongside these six methods often add the [Sandler Selling System](/sales-techniques/sandler-selling-system-guide), which structures the entire sales conversation — not just qualification — around mutual fit and a rep's willingness to walk away from a bad match.
+
 ---
 
 ## How to Choose the Right Sales Method for Your Team

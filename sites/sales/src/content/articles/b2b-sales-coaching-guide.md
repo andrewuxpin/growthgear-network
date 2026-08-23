@@ -98,7 +98,7 @@ Effective call reviews focus on **one or two skill areas at a time**. For a rep 
 
 AI-powered conversation intelligence platforms — such as those that automatically flag key moments, track talk-to-listen ratios, and identify where objections emerged — let managers surface precise coaching opportunities far faster than manual review. To understand how AI coaching tools fit into your sales technology stack, see our guide on [how to implement AI in your business](https://ai.growthgear.com.au/machine-learning/how-to-implement-ai-in-business-complete-guide).
 
-For teams using a structured methodology like MEDDIC, call reviews should explicitly track framework adherence — whether reps are identifying the economic buyer, confirming the decision criteria, and understanding the decision process. Our [MEDDIC sales methodology guide](/sales-techniques/meddic-sales-methodology-guide) outlines how to coach each element of the framework.
+For teams using a structured methodology like MEDDIC, call reviews should explicitly track framework adherence — whether reps are identifying the economic buyer, confirming the decision criteria, and understanding the decision process. Our [MEDDIC sales methodology guide](/sales-techniques/meddic-sales-methodology-guide) outlines how to coach each element of the framework. Teams running the [Sandler Selling System](/sales-techniques/sandler-selling-system-guide) should review calls specifically for Up-Front Contracts and Pain Funnel depth, since a rep who skips either step tends to skip straight to pitching.
 
 ### Deal Review Coaching: Moving Stuck Opportunities
 
