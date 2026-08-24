@@ -48,7 +48,7 @@ This guide walks through that sequence with specifics: which tasks are genuinely
 
 AI task automation means using machine learning models to handle work that previously required a human — but specifically work that involves variable, unstructured inputs. That distinction from traditional automation matters enormously.
 
-**Traditional (rule-based) automation** follows rigid if-then logic. It breaks the moment inputs deviate from the expected format. A formula in Excel, a scheduled batch process, a basic chatbot that only understands exact keyword matches — these are rule-based automations.
+**Traditional (rule-based) automation** follows rigid if-then logic. It breaks the moment inputs deviate from the expected format. A formula in Excel, a scheduled batch process, a basic chatbot that only understands exact keyword matches — these are rule-based automations. This is the same category as RPA; see [RPA vs AI automation](/ai-tools/rpa-vs-ai-automation-difference-guide) for a direct, side-by-side comparison of when each approach wins.
 
 **AI automation** handles variability. It can read an email written in a dozen different ways and still classify it correctly. It can extract data from PDFs with inconsistent layouts. It can generate a contextually appropriate reply to a customer complaint without a script. That flexibility is what makes AI automation genuinely different — and why it can tackle workflows that have historically resisted automation.
 

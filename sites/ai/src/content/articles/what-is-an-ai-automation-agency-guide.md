@@ -68,7 +68,7 @@ AI automation agencies typically offer process auditing, workflow design, tool i
 Reputable agencies organize their services into four distinct capability tiers:
 
 - **Tier 1 — Workflow Automation**: Connecting existing SaaS tools via platforms like Make.com or Zapier to eliminate manual data transfer. Typical use cases include CRM updates, email routing, form-to-spreadsheet pipelines, and notification triggers. Entry cost: $3,000–$10,000.
-- **Tier 2 — RPA (Robotic Process Automation)**: Software robots that replicate human clicks and keystrokes in applications without APIs. Most relevant for legacy ERP data entry, PDF extraction, and browser-based reporting workflows. Entry cost: $10,000–$40,000.
+- **Tier 2 — RPA (Robotic Process Automation)**: Software robots that replicate human clicks and keystrokes in applications without APIs. Most relevant for legacy ERP data entry, PDF extraction, and browser-based reporting workflows. Entry cost: $10,000–$40,000. See [RPA vs AI automation](/ai-tools/rpa-vs-ai-automation-difference-guide) for how to tell whether a process actually belongs in this tier or the next one.
 - **Tier 3 — Intelligent Automation**: AI models layered on top of RPA or workflow tools to handle unstructured data and automated decision-making. Use cases include invoice classification, email intent detection, and lead scoring models. Entry cost: $15,000–$75,000.
 - **Tier 4 — Agentic AI Systems**: Fully autonomous AI agents that research, decide, and act across multiple systems with minimal human oversight. Use cases include end-to-end customer onboarding, autonomous competitive research, and multi-step sales research. Entry cost: $25,000–$150,000+.
 

@@ -54,7 +54,7 @@ The core difference from traditional automation: AI handles ambiguity. Tradition
 
 ### How It Differs from Traditional Automation
 
-Traditional automation (think: basic scripts, macros, older RPA) works on structured, predictable inputs. A bot that pulls invoice line items from a standardized PDF template will fail the moment a supplier sends a differently formatted file.
+Traditional automation (think: basic scripts, macros, older RPA) works on structured, predictable inputs. A bot that pulls invoice line items from a standardized PDF template will fail the moment a supplier sends a differently formatted file — see [RPA vs AI automation](/ai-tools/rpa-vs-ai-automation-difference-guide) for a full breakdown of where that brittleness comes from and when it's actually fine to accept it.
 
 AI automation handles that 20% of edge cases:
 
