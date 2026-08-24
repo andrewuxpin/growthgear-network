@@ -110,7 +110,7 @@ Metrics is the dollar number the buyer expects to gain or save. "Reduce ticket h
 
 ### Economic Buyer: Finding Who Actually Signs
 
-The Economic Buyer is the person with discretionary spending authority over the budget line. It is rarely the procurement department, which only enforces terms. In SaaS, it is typically a VP or C-level executive whose P&L the spend hits. Reps must speak with the Economic Buyer directly at least once before the deal closes. Failure mode: relying on the champion to "carry the deal to the EB" without ever confirming alignment in person. Strong reps use [discovery and prospecting techniques](/sales-techniques/sales-prospecting-techniques) to engineer that meeting early.
+The Economic Buyer is the person with discretionary spending authority over the budget line. It is rarely the procurement department, which only enforces terms. In SaaS, it is typically a VP or C-level executive whose P&L the spend hits. Reps must speak with the Economic Buyer directly at least once before the deal closes. Failure mode: relying on the champion to "carry the deal to the EB" without ever confirming alignment in person. Strong reps use [discovery and prospecting techniques](/sales-techniques/sales-prospecting-techniques) to engineer that meeting early. Teams running MEDDIC alongside a broader stakeholder-mapping discipline often layer in the [Strategic Selling (Miller Heiman)](/sales-techniques/strategic-selling-miller-heiman-guide) framework, which splits the buying committee into four distinct influence types rather than tracking the Economic Buyer alone.
 
 ### Decision Criteria and Decision Process
 

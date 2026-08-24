@@ -105,7 +105,7 @@ A practical process for building your team's first teaching pitch:
 
 ### Tailor: Adapting by Stakeholder, Not Just Industry
 
-Many teams customize their pitch only at the industry level, but the Challenger research shows tailoring has to go deeper, down to the individual stakeholder. The economic buyer cares about ROI and risk. The technical buyer cares about implementation complexity. The end user cares about daily workflow impact. A single teaching pitch has to flex across all three without losing its core insight; a pitch about supply chain inefficiency might emphasize cost savings for a CFO, timeline risk for an operations VP, and daily friction for a warehouse manager, all built from the same underlying data.
+Many teams customize their pitch only at the industry level, but the Challenger research shows tailoring has to go deeper, down to the individual stakeholder. The economic buyer cares about ROI and risk. The technical buyer cares about implementation complexity. The end user cares about daily workflow impact. A single teaching pitch has to flex across all three without losing its core insight; a pitch about supply chain inefficiency might emphasize cost savings for a CFO, timeline risk for an operations VP, and daily friction for a warehouse manager, all built from the same underlying data. This three-way split maps closely to the four buying influences in [Strategic Selling (Miller Heiman)](/sales-techniques/strategic-selling-miller-heiman-guide), which adds a fourth role, the internal Coach, for the person who tells you which insight will actually land with each of the other three.
 
 ### Take Control: Handling Pushback Assertively
 

@@ -64,6 +64,8 @@ The terminology in this space is messy. Sales teams use "mutual close plan," "jo
 |---|---|---|---|
 | **Seller close plan** | Seller alone | Seller's steps only (send proposal, follow up) | One-sided; buyer has no ownership |
 | **Mutual action plan** | Seller + buyer together | Both parties' steps (procurement, security, legal, exec sign-off) | Shared; both sides own dates |
+
+A seller-only close plan overlaps with the internal planning half of [Strategic Selling (Miller Heiman)](/sales-techniques/strategic-selling-miller-heiman-guide), whose Blue Sheet maps buying influences and red flags before the seller ever brings a MAP to the buyer. The two tools are complementary, not competing: the Blue Sheet is your internal map, and the MAP is the co-authored document you build once that map is solid enough to share.
 | **MEDDPICC fields** | Seller (internal qualification) | Paper process, decision criteria | Seller's internal tracking, not shared with buyer |
 
 A MAP is the only one of these that the buyer actually co-owns. That co-ownership is the entire mechanism. If you build a document listing your steps and email it to the buyer, you have a close plan, not a MAP, regardless of what you call it.
