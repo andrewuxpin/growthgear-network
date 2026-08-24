@@ -215,6 +215,8 @@ The biggest mistake is reporting full ROI before month 12. Content compounds: mo
 
 **Fix**: Report two separate ROI numbers each quarter. **Trailing 12-month ROI** captures the steady state; **cohort ROI** tracks how each quarter's content investment performs over its lifetime. Programs look 3-5x better under cohort accounting once you're past month 18.
 
+This 12-month lens applies to always-on content — a time-bound [content marketing campaign](/content-marketing/content-marketing-campaign-guide) needs the opposite discipline: its ROI window is fixed to the campaign's own start and end dates, measured against the single KPI it was built around, not blended into the broader trailing-12-month number.
+
 ### Mistake 2: Only Counting Direct Conversions
 
 If you only count form fills that came directly from a content URL, you'll undercount content's contribution by 40-70%. Dark social, brand search lift, sales call mentions, and word-of-mouth all carry real economic value that no tracking pixel captures.

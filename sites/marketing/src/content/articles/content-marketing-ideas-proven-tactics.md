@@ -155,6 +155,8 @@ Interactive and distribution-focused ideas are the force multipliers of any cont
 
 **#25: User-generated content campaigns.** Invite customers to share their results, processes, or tips using a branded hashtag or a structured submission form. This provides authentic social proof, generates content you can reshare, and builds community around your brand. The best B2B UGC programs run structured campaigns — monthly customer spotlights, results challenges — rather than hoping customers post organically. For building the pipeline that UGC feeds into, [B2B lead generation strategies](https://sales.growthgear.com.au/b2b-sales/best-lead-generation-strategies-b2b-companies) provide the conversion framework.
 
+Ideas #23–25 all describe recurring tactics, but any one of them can also anchor a standalone push — a UGC challenge or a co-marketing webinar makes a natural centerpiece for a time-bound [content marketing campaign](/content-marketing/content-marketing-campaign-guide) with its own KPI and end date, rather than running indefinitely as an always-on program.
+
 ---
 
 ## Building Your Content Calendar Around These Ideas

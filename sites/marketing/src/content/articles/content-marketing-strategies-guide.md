@@ -123,7 +123,7 @@ You don't need a large budget. Practical approaches include:
 - **Data mining:** Analyze publicly available datasets or your own anonymized customer data for patterns others haven't reported.
 - **Benchmark aggregation:** Compile existing research into a synthesis report, adding original analysis and commentary that creates new insight.
 
-These "state of the industry" reports and benchmark studies become citation magnets — other publishers link to your data instead of conducting their own research. They also directly feed [B2B lead generation](https://sales.growthgear.com.au/b2b-sales/best-lead-generation-strategies-b2b-companies) by establishing your firm as the authoritative voice in your category.
+These "state of the industry" reports and benchmark studies become citation magnets — other publishers link to your data instead of conducting their own research. They also directly feed [B2B lead generation](https://sales.growthgear.com.au/b2b-sales/best-lead-generation-strategies-b2b-companies) by establishing your firm as the authoritative voice in your category. A research release rarely earns its full potential from a single publish, though — pairing it with a dedicated [content marketing campaign](/content-marketing/content-marketing-campaign-guide) around launch week, complete with its own distribution budget and KPI, is what turns a good dataset into a genuine authority moment.
 
 ### Video and Interactive Content
 
