@@ -63,7 +63,7 @@ A typical binary classification report on a fraud detection dataset looks like t
 | Macro Avg | 0.81 | 0.86 | 0.83 | 10,000 |
 | Weighted Avg | 0.98 | 0.97 | 0.97 | 10,000 |
 
-Notice: 97% accuracy looks strong, but the fraud class — what you actually care about — has an F1-score of only 0.67. This is precisely the insight a classification report surfaces that accuracy hides.
+Notice: 97% accuracy looks strong, but the fraud class — what you actually care about — has an F1-score of only 0.67. This is precisely the insight a classification report surfaces that accuracy hides. When that per-class F1-score is strong on your training set but weak on held-out test data, the gap is usually a symptom of the [bias-variance tradeoff](/machine-learning/bias-variance-tradeoff-machine-learning-explained) rather than a flaw in the report itself.
 
 ### The Confusion Matrix Foundation
 

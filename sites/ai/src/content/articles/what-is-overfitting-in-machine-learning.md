@@ -62,7 +62,7 @@ Machine learning theory frames the overfitting problem in the **bias-variance tr
 - **Bias** measures systematic error — how far the model's average predictions are from the true values
 - **Variance** measures sensitivity to training data — how much predictions change when trained on a different data sample
 
-Overfitting is **high variance**: the model is so sensitive to its specific training examples that it memorizes their details rather than their underlying patterns. Underfitting is **high bias**: the model is too rigid to capture genuine signal in any data.
+Overfitting is **high variance**: the model is so sensitive to its specific training examples that it memorizes their details rather than their underlying patterns. Underfitting is **high bias**: the model is too rigid to capture genuine signal in any data. For the full diagnostic framework — including how to tell which one you're facing and which fixes apply to each — see our guide to the [bias-variance tradeoff in machine learning](/machine-learning/bias-variance-tradeoff-machine-learning-explained).
 
 The goal is a model with both low bias *and* low variance. Understanding [how models learn from data through gradient descent and loss minimization](/machine-learning/why-machines-learn-how-ai-learns-from-data) clarifies why this tradeoff exists: every additional bit of complexity the model can use to reduce training error also increases its potential to fit noise.
 

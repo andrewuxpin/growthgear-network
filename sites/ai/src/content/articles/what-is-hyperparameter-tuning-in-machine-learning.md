@@ -61,7 +61,7 @@ The distinction between parameters and hyperparameters is fundamental. **Paramet
 | **Optimised via** | Gradient descent, closed-form solutions | Grid search, random search, Bayesian optimisation |
 | **Changed during training?** | Yes, every iteration | No, fixed for each run |
 
-A typical neural network has millions of parameters but only 5 to 20 hyperparameters that matter. Despite this asymmetry, the right hyperparameter choices can swing final accuracy by 10 to 30 percentage points — often more than switching model architecture.
+A typical neural network has millions of parameters but only 5 to 20 hyperparameters that matter. Despite this asymmetry, the right hyperparameter choices can swing final accuracy by 10 to 30 percentage points — often more than switching model architecture. Most of that swing comes from where each hyperparameter setting pushes the model along the [bias-variance tradeoff](/machine-learning/bias-variance-tradeoff-machine-learning-explained): regularisation strength and tree depth in particular are direct variance controls, while capacity settings like network width control bias.
 
 ### Why Hyperparameter Tuning Matters
 
