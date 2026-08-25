@@ -89,6 +89,8 @@ According to [Gartner's research on the B2B buying journey](https://www.gartner.
 
 LinkedIn's own [Social Selling Index research](https://business.linkedin.com/sales-solutions/social-selling/the-social-selling-index-ssi) reports that reps with a high Social Selling Index create 45% more opportunities and are 51% more likely to hit quota than reps who don't work the platform actively. Sales Navigator usage is also tied to higher win rates and larger pipeline, though LinkedIn is clear that the score reflects prospecting behavior more than it causes results on its own.
 
+A job-change or funding alert only pays off if the rep turns it into a specific opening line instead of a generic InMail — the same pre-call diagnostic discipline covered in the [Solution Selling methodology guide](/sales-techniques/solution-selling-methodology-guide).
+
 > "The reps who get real pipeline from Sales Navigator treat it like a calendar, not a search engine. They review alerts every Monday, send a fixed InMail quota every week, and log every reply. The tool doesn't do that work for them — the cadence does." — Abe Dearmer, GrowthGear Consulting
 
 > **Not sure your team is ready for LinkedIn Sales Navigator?** GrowthGear has helped 50+ startups build the [prospecting](/sales-techniques/sales-prospecting-techniques) cadence that makes a tool like this pay for itself, part of the work behind 156% average client growth. [Book a Free Strategy Session](https://growthgear.com.au) to map out your outreach process before you buy.

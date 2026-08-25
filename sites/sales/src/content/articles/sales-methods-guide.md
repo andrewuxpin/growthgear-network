@@ -114,7 +114,7 @@ Solution Selling, developed by Mike Bosworth in the 1980s, shifted sales from pr
 
 The method follows a structured sequence: diagnosis, vision creation, and value justification. It works well when buyers have acknowledged a problem exists but haven't yet committed to a specific solution shape.
 
-Solution Selling has evolved significantly and is often layered with other methodologies today. Its strength is in deal framing: helping buyers develop a comprehensive view of their problem before they begin evaluating solutions, which naturally positions your approach ahead of competitors.
+Solution Selling has evolved significantly and is often layered with other methodologies today. Its strength is in deal framing: helping buyers develop a comprehensive view of their problem before they begin evaluating solutions, which naturally positions your approach ahead of competitors. For the full three-stage process and where it now falls short against pre-educated buyers, see the [complete Solution Selling methodology guide](/sales-techniques/solution-selling-methodology-guide).
 
 ### Consultative Selling
 

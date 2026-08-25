@@ -43,6 +43,8 @@ At its core, social selling involves:
 - **Engaging in meaningful conversations** about industry topics
 - **Establishing thought leadership** within your niche
 
+Social selling earns the conversation; what happens once a prospect replies still comes down to how well you diagnose their actual problem. The [Solution Selling methodology guide](/sales-techniques/solution-selling-methodology-guide) covers the structured questioning that turns a warm social reply into a qualified opportunity.
+
 ### How Social Selling Differs from Traditional Sales
 
 Traditional sales methods often rely on interruption-based tactics such as cold calls, mass emails, and aggressive pitches. Social selling, however, takes a relationship-first approach:
