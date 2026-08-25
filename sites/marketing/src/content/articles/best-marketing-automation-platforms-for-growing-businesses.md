@@ -47,7 +47,7 @@ This guide compares the top platforms by business stage, use case, and budget â€
 
 Marketing automation platforms automate the gap between someone showing interest and your team closing the sale. At their core, they do five things: capture leads, segment contacts by behavior, trigger personalized messages across channels, score leads for sales readiness, and report on what's working.
 
-The platforms differ dramatically on *how* they handle each function, and those differences determine whether the tool fits your team or fights it.
+The platforms differ dramatically on *how* they handle each function, and those differences determine whether the tool fits your team or fights it. If you want to see these functions in action before choosing a platform, our [marketing automation examples](/content-marketing/marketing-automation-examples) roundup walks through 12 real workflows with their exact triggers and timing.
 
 ### The Four Core Functions Every Platform Must Handle
 

@@ -44,7 +44,7 @@ Ecommerce stores lose a staggering amount of revenue to preventable drop-offs. A
 
 **Ecommerce marketing automation** closes these gaps by triggering personalised messages the moment a shopper signals intent — viewing a product, abandoning a cart, completing a first purchase, or going quiet for 90 days. Instead of a single campaign blast to your full list, automation delivers the right message to the right person at the right time, automatically.
 
-This guide covers every high-revenue workflow, how to evaluate platforms, a four-step strategy framework, and the benchmarks to measure your results against.
+This guide covers every high-revenue workflow, how to evaluate platforms, a four-step strategy framework, and the benchmarks to measure your results against. For a broader look at how cart recovery and browse abandonment fit alongside lead-gen and onboarding workflows, see our roundup of [marketing automation examples](/content-marketing/marketing-automation-examples).
 
 ---
 

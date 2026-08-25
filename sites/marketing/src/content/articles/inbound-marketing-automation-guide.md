@@ -45,7 +45,7 @@ Most marketing teams understand inbound marketing. Fewer understand why 63% of t
 
 Inbound marketing automation solves this by turning sporadic content touches into a consistent, behavior-triggered system: the right email at the right moment, triggered by what a prospect just did rather than by what day it is on the calendar. It's the difference between a marketing team that hustles and one that compounds.
 
-This guide covers how inbound marketing automation works, which platforms deliver the best results for SMBs, how to build the three core workflows every team needs, what ROI to expect and when, and how to launch in 30 days.
+This guide covers how inbound marketing automation works, which platforms deliver the best results for SMBs, how to build the three core workflows every team needs, what ROI to expect and when, and how to launch in 30 days. For concrete, ready-to-build workflows beyond inbound — including ecommerce and onboarding automation — see our [marketing automation examples](/content-marketing/marketing-automation-examples) roundup.
 
 ## What Is Inbound Marketing Automation?
 
