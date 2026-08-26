@@ -77,7 +77,7 @@ The most common failure mode is not poor content — it's no documented plan at 
 - **Skip distribution**: Publishing without promotion is like putting a billboard in a warehouse
 - **Ignore the measurement loop**: Without defined metrics, there's no feedback mechanism to improve
 
-GrowthGear has worked with more than 50 startups on content marketing programs. The single biggest predictor of success: a documented plan reviewed and updated at least quarterly.
+GrowthGear has worked with more than 50 startups on content marketing programs. The single biggest predictor of success: a documented plan reviewed and updated at least quarterly. Founders building their first plan from scratch may want to start with our guide to [content marketing for startups](/content-marketing/content-marketing-for-startups-guide), which compresses this framework into a 30-day launch plan sized for a pre-seed or seed-stage budget.
 
 ## The 6-Step Framework to Build Your Content Marketing Plan
 
