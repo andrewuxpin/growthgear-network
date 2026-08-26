@@ -55,7 +55,7 @@ The ROI math is straightforward. If a content writer spends 2 hours per day on f
 | Data & Reporting | Analysis, dashboards, interpretation | 40–65% |
 | Engineering | Code generation, review, docs | 30–50% |
 
-Understanding your primary bottleneck guides tool selection. Don't buy a hammer when you need a drill. If you're evaluating AI at an enterprise or department level — not just individual tools — the [AI business solutions guide](/ai-tools/ai-business-solutions-guide) maps solution categories (customer service, operations, sales, analytics) to cost ranges and ROI timelines.
+Understanding your primary bottleneck guides tool selection. Don't buy a hammer when you need a drill. If you're evaluating AI at an enterprise or department level — not just individual tools — the [AI business solutions guide](/ai-tools/ai-business-solutions-guide) maps solution categories (customer service, operations, sales, analytics) to cost ranges and ROI timelines. The Operations & Admin row above is often the easiest starting point — see our comparison of [the best AI meeting transcription tools](/ai-tools/best-ai-meeting-transcription-tools) for a breakdown of which platform fits which workflow.
 
 ### The Adoption Trap to Avoid
 
