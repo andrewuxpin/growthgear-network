@@ -111,6 +111,8 @@ Practical impact of LoRA:
 
 This democratization of fine-tuning is significant: what once required a research ML team and six-figure infrastructure budget now runs on a single rented GPU for under $50.
 
+Architecture matters here too. All of the above assumes a dense model, where LoRA adapts every layer uniformly. Sparse [mixture of experts models like Mixtral](/deep-learning/mixture-of-experts-vs-dense-models-explained) complicate this picture — applying LoRA carelessly can throw off a trained router's expert-selection behavior, so MoE fine-tuning typically needs more careful validation than fine-tuning a dense model of comparable active-parameter size.
+
 ### RLHF and Instruction Tuning
 
 The fine-tuning behind ChatGPT's helpfulness involves an additional stage beyond supervised fine-tuning: Reinforcement Learning from Human Feedback (RLHF). For a full breakdown of the three-stage RLHF pipeline, see our [RLHF alignment guide](/deep-learning/what-is-rlhf-reinforcement-learning-human-feedback).

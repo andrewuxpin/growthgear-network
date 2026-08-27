@@ -172,6 +172,8 @@ For high-volume applications, these costs compound quickly. A product recommenda
 
 **Speculative decoding** (for LLMs) uses a small fast model to draft tokens that a larger model then verifies — cutting LLM inference latency by 2–4x without changing output quality. This technique is especially relevant for [transformer-based models](/machine-learning/what-is-a-transformer-in-machine-learning), which dominate modern NLP inference workloads.
 
+**Architecture choice** is another lever, decided before serving even starts. [Mixture of experts models](/deep-learning/mixture-of-experts-vs-dense-models-explained) activate only a small subset of parameters per token, cutting per-token inference compute compared to a dense model of equivalent total size — at the cost of needing the full expert set loaded in VRAM regardless of how many activate.
+
 ### Monitoring Inference in Production
 
 Production inference requires observability beyond standard API monitoring. Key metrics to track:

@@ -69,6 +69,8 @@ A transformer block has three key components working together:
 
 These blocks are stacked — GPT-2 had 48 layers, GPT-3 had 96, and the largest models today run into the hundreds. The depth creates hierarchical representations: early layers learn syntax, middle layers learn semantics, and late layers learn complex reasoning patterns. This layered architecture follows the same core deep learning principles described in [how deep learning works](/deep-learning/how-deep-learning-works-complete-guide). Running these stacked layers on new data in production — the process known as [machine learning inference](/machine-learning/what-is-inference-in-machine-learning) — is where optimizing latency and cost becomes the primary engineering challenge.
 
+Not every transformer uses a single dense feed-forward block per layer, though. Models like Mixtral and DeepSeek-V3 swap that block for multiple specialized sub-networks and a router that activates only a few per token — see [mixture of experts vs dense models](/deep-learning/mixture-of-experts-vs-dense-models-explained) for how that tradeoff changes memory footprint, training complexity, and serving cost.
+
 ### Encoder vs. Decoder Transformers
 
 The original architecture had two halves:
