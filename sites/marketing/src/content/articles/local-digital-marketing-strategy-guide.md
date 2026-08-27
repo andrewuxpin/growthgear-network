@@ -103,7 +103,7 @@ For local SEO, four areas drive the most ranking lift:
 - **Local keyword content**: Blog posts targeting "[service] in [city]" capture long-tail local intent that larger competitors typically overlook
 - **LocalBusiness schema**: Implement JSON-LD markup on your website to tell search engines precisely where you operate and what you offer
 
-For the technical SEO foundation behind local organic rankings — including site speed, mobile optimization, and crawlability — the [organic traffic and local SEO guide](/seo/how-to-increase-organic-website-traffic-fast) covers each factor with specific benchmarks.
+For the technical SEO foundation behind local organic rankings — including site speed, mobile optimization, and crawlability — the [organic traffic and local SEO guide](/seo/how-to-increase-organic-website-traffic-fast) covers each factor with specific benchmarks. Professional services businesses with strict advertising rules, such as law firms, need to pair these local SEO tactics with compliance review — see [content marketing for law firms](/content-marketing/content-marketing-for-law-firms-guide) for the bar-advertising considerations that apply.
 
 ### Paid Local Advertising: Google and Meta
 

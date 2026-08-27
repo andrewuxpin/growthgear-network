@@ -152,7 +152,7 @@ The barrier to entry is lower than it appears. A smartphone with good lighting a
 
 Case studies are the highest-converting content format in B2B service businesses. A case study that shows a specific customer result — "We helped a landscaping company reduce their quote-to-close time from 12 days to 3 days" — builds credibility faster than any amount of general-purpose content.
 
-For small businesses, even one well-written case study per quarter creates a compounding trust asset. Include specific numbers, quote the client directly (with permission), and structure the story as Problem → Solution → Result.
+For small businesses, even one well-written case study per quarter creates a compounding trust asset. Include specific numbers, quote the client directly (with permission), and structure the story as Problem → Solution → Result. Professional services firms with strict advertising rules, like law practices, need extra care here — see [content marketing for law firms](/content-marketing/content-marketing-for-law-firms-guide) for how to frame results without violating bar advertising rules.
 
 ---
 

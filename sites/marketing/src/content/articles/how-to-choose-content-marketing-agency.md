@@ -151,7 +151,7 @@ Five factors drive most of the variation in agency pricing. Understanding them h
 - **Research depth**: Original research and primary interviews add $2,000-$5,000 per piece
 - **Design and asset complexity**: Custom illustrations, interactive content, and video bump per-piece cost by $500-$3,000
 - **Distribution included**: Pure writing is cheaper; agencies that include email amplification and social distribution charge 1.5-2x more
-- **Industry expertise**: Regulated industries (healthcare, finance, legal) carry a 25-50% premium for compliance review
+- **Industry expertise**: Regulated industries (healthcare, finance, legal) carry a 25-50% premium for compliance review — law firms specifically should weigh this against the in-house option covered in [content marketing for law firms](/content-marketing/content-marketing-for-law-firms-guide)
 
 ### Cost-Per-Piece Benchmarks
 
