@@ -124,7 +124,7 @@ Skill stacks faster when the right inputs arrive every week. A short reading que
 
 ### The reading list that actually moves the needle
 
-Read three books in three months, not thirty in one year. *The Challenger Sale* by Matthew Dixon and Brent Adamson, *Gap Selling* by Keenan, and *Never Split the Difference* by Chris Voss form a tight skill triangle: insight-led teaching, problem-centric discovery, and tactical negotiation. After each book, run a 30-day drill on the single behavior you most want to import. LinkedIn Sales Solutions' own learning research found reps who finish one book and apply one practice see a 12 percent lift in conversion within a quarter.
+Read three books in three months, not thirty in one year. *The Challenger Sale* by Matthew Dixon and Brent Adamson, [*Gap Selling*](/sales-techniques/gap-selling-methodology-guide) by Keenan, and *Never Split the Difference* by Chris Voss form a tight skill triangle: insight-led teaching, problem-centric discovery, and tactical negotiation. After each book, run a 30-day drill on the single behavior you most want to import. LinkedIn Sales Solutions' own learning research found reps who finish one book and apply one practice see a 12 percent lift in conversion within a quarter.
 
 ### Tools to install this week
 

@@ -69,6 +69,8 @@ According to HubSpot Research, 69% of buyers say the most important thing a sale
 
 A well-structured discovery call follows a four-phase framework: open, diagnose, qualify, and confirm. Each phase has a specific purpose and a set of questions designed to move the conversation from rapport to commitment. The framework ensures you cover every critical area without turning the call into an interrogation. According to Gong.io analysis of over 25,000 sales calls, the optimal discovery call lasts 38 minutes, with top performers asking 11 to 14 questions distributed across these phases.
 
+The diagnose phase is where methodologies like [GAP Selling](/sales-techniques/gap-selling-methodology-guide) add the most structure, sizing the distance between a prospect's current state and their desired future state before qualification even starts.
+
 ### The Four-Phase Discovery Framework
 
 | Phase | Duration | Purpose | Question Count |

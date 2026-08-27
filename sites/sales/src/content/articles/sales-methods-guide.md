@@ -273,7 +273,7 @@ Aligning your [sales funnel structure](https://marketing.growthgear.com.au/conte
 
 Consider adapting or switching your method when:
 
-- Discovery call scores plateau despite sustained coaching (the method may not fit your buyer profile)
+- Discovery call scores plateau despite sustained coaching (the method may not fit your buyer profile — teams stuck here often evaluate [GAP Selling](/sales-techniques/gap-selling-methodology-guide)'s Current State, Future State, and three-impact framework as a more diagnostic alternative)
 - Conversion rates improve but deal sizes don't (you may need a more insight-led, higher-stakes method)
 - Rep onboarding time is increasing (overly complex methodologies add significant ramp-time friction)
 - Your buyers' decision processes have changed meaningfully (new stakeholder layers, procurement involvement, or committee buying)
