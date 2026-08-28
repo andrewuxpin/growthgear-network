@@ -103,7 +103,7 @@ The recurrent connection creates a feedback loop that, in theory, gives RNNs ind
 - Time-series classification on constrained hardware
 - Educational and prototyping contexts
 
-**The core limitation: vanishing gradients.** When training with backpropagation through time (BPTT), gradients can shrink exponentially as they propagate back through many timesteps. An RNN trained on 500-token sequences "forgets" what happened at token 50. This is the problem LSTMs and GRUs solve.
+**The core limitation: vanishing gradients.** When training with backpropagation through time (BPTT), gradients can shrink exponentially as they propagate back through many timesteps. An RNN trained on 500-token sequences "forgets" what happened at token 50. This is the problem LSTMs and GRUs solve. Our [RNN vs Transformer guide](/deep-learning/recurrent-neural-network-vs-transformer-guide) compares both approaches head-to-head, including where RNNs still win.
 
 ### Long Short-Term Memory Networks (LSTMs)
 

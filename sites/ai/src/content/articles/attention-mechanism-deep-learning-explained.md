@@ -62,6 +62,8 @@ Two structural problems limited RNNs at scale:
 - **Sequential bottleneck**: Tokens had to be processed in order, preventing parallelization across GPU cores. Training long sequences was slow regardless of hardware.
 - **Information decay**: For very long sequences (hundreds or thousands of tokens), information from early tokens would fade from the hidden state before reaching the end — what researchers called the **vanishing gradient problem**.
 
+For a full side-by-side breakdown of these tradeoffs, see our [RNN vs Transformer comparison guide](/deep-learning/recurrent-neural-network-vs-transformer-guide).
+
 The workaround — using an encoder that compressed the whole input into a single fixed-length vector before the decoder began — created a hard information bottleneck. Every translation or generation had to flow through one narrow representation of the entire source.
 
 Attention solved this directly. Instead of compressing the input, an attention-based model **keeps all input representations accessible** and learns which ones to consult at each generation step.

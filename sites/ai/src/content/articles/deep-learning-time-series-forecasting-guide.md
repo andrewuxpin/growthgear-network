@@ -90,7 +90,7 @@ Key characteristics:
 - Native support in [TensorFlow/Keras](https://www.tensorflow.org/tutorials/structured_data/time_series) and PyTorch with minimal configuration
 - Best for: daily sales forecasting, energy consumption prediction, anomaly detection
 
-The primary limitation of LSTM is sequential computation — each timestep must be processed in order, which slows training on very long sequences.
+The primary limitation of LSTM is sequential computation — each timestep must be processed in order, which slows training on very long sequences. See our [RNN vs Transformer guide](/deep-learning/recurrent-neural-network-vs-transformer-guide) for a deeper look at when that tradeoff still favors LSTM over a Transformer.
 
 ### GRU (Gated Recurrent Unit)
 
