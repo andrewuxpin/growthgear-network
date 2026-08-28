@@ -40,7 +40,7 @@ callout:
   content: "Open rate is a vanity metric without context. Always track click-to-open rate (CTOR) and conversion rate alongside opens to see whether emails actually drive business results."
 ---
 
-Email marketing has delivered a **$36 return for every $1 spent** for the average business, according to [Litmus's 2024 State of Email Marketing report](https://www.litmus.com/blog/email-marketing-roi). No other digital channel matches that ratio consistently — not paid search, not social media, not display advertising. For businesses at any stage, the benefits of email marketing extend well beyond raw ROI: you own the audience, control delivery timing, and track every click and conversion back to a specific send.
+Email marketing has delivered a **$36 return for every $1 spent** for the average business, according to [Litmus's 2024 State of Email Marketing report](https://www.litmus.com/blog/email-marketing-roi). No other digital channel matches that ratio consistently — not paid search, not social media, not display advertising. For businesses at any stage, the benefits of email marketing extend well beyond raw ROI: you own the audience, control delivery timing, and track every click and conversion back to a specific send. If you've heard otherwise, see why [email marketing is far from dead](/content-marketing/is-email-marketing-dead) in 2026 — the ROI data tells a very different story than the "email is dying" narrative.
 
 This guide covers every major benefit of email marketing — why each one matters, how it differs across business models, and how to capture it with a structured program.
 

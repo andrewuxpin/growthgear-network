@@ -41,7 +41,7 @@ callout:
   content: "CTOR (clicks divided by opens) isolates how compelling your message is from how well your subject line performs. It is the cleanest engagement metric in a post-Apple-MPP world."
 ---
 
-Email marketing delivers the highest ROI of any digital channel — **$36 for every $1 spent**, according to the Data & Marketing Association — yet most teams measure it wrong. They watch open rates that Apple has effectively broken, miss the metrics that predict revenue, and skip the diagnostic signals that explain why one campaign hits 5% click-through while a near-identical one stalls at 1%.
+Email marketing delivers the highest ROI of any digital channel — **$36 for every $1 spent**, according to the Data & Marketing Association — yet most teams measure it wrong. They watch open rates that Apple has effectively broken, miss the metrics that predict revenue, and skip the diagnostic signals that explain why one campaign hits 5% click-through while a near-identical one stalls at 1%. That broken measurement, not channel decline, is also why so many teams wrongly conclude [email marketing is dead](/content-marketing/is-email-marketing-dead) — the fix is reading the right metrics, not abandoning the channel.
 
 The teams that get email right share one habit: they track a tight set of email marketing metrics across three tiers — deliverability, engagement, and revenue — then act on the numbers within 72 hours. Everything else is reporting theater.
 
