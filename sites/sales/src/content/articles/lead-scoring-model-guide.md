@@ -219,7 +219,7 @@ The patterns that quietly break scoring models:
 
 - **Sales bypassing the queue** — reps cherry-picking corrupts conversion data. Audit by rep monthly.
 - **Form data inflation** — buyers learning to inflate titles to access gated content. Cross-check job title against LinkedIn enrichment.
-- **Channel bias** — leads from a single high-volume channel dominating the top of the queue, hiding higher-quality leads from smaller channels. Score by source-adjusted lift.
+- **Channel bias** — leads from a single high-volume channel dominating the top of the queue, hiding higher-quality leads from smaller channels. Score by source-adjusted lift — leads from a [B2B customer referral program](/sales-techniques/b2b-customer-referral-program-guide), for example, typically deserve a fit-score boost given their track record on conversion and lifetime value.
 - **Stale behavior weight** — pricing page visits from 2024 still scoring full points in 2026. Apply time decay.
 
 ### Tools and automation

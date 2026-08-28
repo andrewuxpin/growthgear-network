@@ -185,7 +185,7 @@ Map the stakeholder landscape before initiating the cross-sell:
 - **End users:** The people who will use the new product daily
 - **IT/Security:** Technical approvers who must assess integration and compliance risk
 
-The fastest enterprise cross-sells happen when your current champion actively sponsors the introduction to the new department. Build that sponsorship by ensuring your current deployment is performing so well that your champion's reputation is tied to the results. A genuinely successful deployment converts customers into advocates who sell internally on your behalf.
+The fastest enterprise cross-sells happen when your current champion actively sponsors the introduction to the new department. Build that sponsorship by ensuring your current deployment is performing so well that your champion's reputation is tied to the results. A genuinely successful deployment converts customers into advocates who sell internally on your behalf — the same dynamic that makes a formal [B2B customer referral program](/sales-techniques/b2b-customer-referral-program-guide) effective outside your existing accounts.
 
 For handling the objections that arise when new stakeholders are involved, the [sales negotiation techniques](/sales-techniques/sales-negotiation-techniques) that apply to new logo deals apply equally to expansion conversations. Price, timing, and scope objections look the same whether the deal is a new contract or an upsell.
 

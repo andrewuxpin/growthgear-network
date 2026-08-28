@@ -151,7 +151,7 @@ Paid advertising provides immediate visibility and can generate qualified leads 
 
 ### 8. Referral and Partnership Programs
 
-Referral leads convert 30% better than leads from other channels and have a 16% higher lifetime value.
+Referral leads convert 30% better than leads from other channels and have a 16% higher lifetime value. For a step-by-step framework covering incentive design, CRM tracking, and how to close the "referral gap," see our [guide to building a B2B customer referral program](/sales-techniques/b2b-customer-referral-program-guide).
 
 #### Program Components:
 - **Customer referral incentives**: Offer discounts or credits for successful referrals
