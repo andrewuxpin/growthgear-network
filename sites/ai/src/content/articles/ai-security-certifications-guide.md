@@ -156,7 +156,7 @@ For deeper coverage of the EU AI Act's tier structure and compliance timeline, s
 
 ## How to Choose AI Security Certifications for Your Team
 
-Match the certification to the function, not the headline. Compliance leads need AIGP, security architects need AAISM, hands-on ML engineers need CAISP, and the organization needs ISO 42001 if it sells into the EU or regulated U.S. sectors. A one-size-fits-all certification strategy wastes budget and creates capability gaps.
+Match the certification to the function, not the headline. Compliance leads need AIGP, security architects need AAISM, hands-on ML engineers need CAISP, and the organization needs ISO 42001 if it sells into the EU or regulated U.S. sectors — see [AI compliance for healthcare](/machine-learning/ai-compliance-for-healthcare-guide) and [AI compliance for financial services](/machine-learning/ai-compliance-for-financial-services-guide) for what "regulated" means in practice for those two sectors. A one-size-fits-all certification strategy wastes budget and creates capability gaps.
 
 The decision is driven by three inputs: regulatory exposure (does the EU AI Act apply?), team structure (do you have separate security and compliance functions?), and procurement pressure (are enterprise customers asking for certifications?). Score each input before assigning certification budget.
 

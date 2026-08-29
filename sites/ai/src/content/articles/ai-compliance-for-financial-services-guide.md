@@ -51,6 +51,8 @@ AI compliance for financial services is the set of regulatory obligations — mo
 
 General AI governance frameworks like the EU AI Act or NIST's AI RMF apply broadly across industries. Financial services compliance adds a second layer: banking regulators supervise safety and soundness, fair lending law governs any AI that affects credit access, and financial privacy law governs how customer data flows through AI vendors. A chatbot recommendation engine and a credit-underwriting model face very different compliance burdens even if both run on similar machine learning techniques.
 
+Other regulated industries follow the same sector-on-top-of-governance pattern — see [AI compliance for healthcare](/machine-learning/ai-compliance-for-healthcare-guide) for how FDA device law and HIPAA create an equivalent second layer for hospitals and health-tech vendors.
+
 ### Who Has to Comply?
 
 Obligations scale with an institution's size, complexity, and risk profile rather than applying uniformly to every AI user in the sector. The following institution types face AI compliance obligations, though the specific requirements and supervisory intensity differ:
