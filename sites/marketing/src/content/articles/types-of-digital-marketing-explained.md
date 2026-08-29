@@ -166,7 +166,7 @@ The main risk is brand alignment — affiliates using aggressive or misleading t
 
 ### Display and Native Advertising
 
-**Display advertising** places visual banner ads across websites, apps, and Google's Display Network. **Native advertising** blends into editorial content — sponsored articles, in-feed social posts — matching the platform's appearance and format.
+**Display advertising** places visual banner ads across websites, apps, and Google's Display Network. **Native advertising** blends into editorial content — sponsored articles, in-feed social posts — matching the platform's appearance and format. Our [digital display advertising guide](/content-marketing/digital-display-advertising-guide) breaks down CPM benchmarks across GDN, programmatic, PMP, and CTV if you're deciding how much budget this channel deserves.
 
 Display advertising's strongest use case is retargeting: showing your brand to users who visited your site but didn't convert. Google Display Network data shows retargeted campaigns achieve significantly higher click-through rates than cold display exposures. Native advertising sidesteps banner blindness and typically delivers a 0.2% CTR compared to 0.05% for standard display formats — a 4x advantage in attention.
 

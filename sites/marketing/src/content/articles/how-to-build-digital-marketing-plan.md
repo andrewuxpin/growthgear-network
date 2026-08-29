@@ -142,6 +142,7 @@ Different channels serve fundamentally different objectives. The [right digital 
 | **SEO / organic content** | Long-term lead generation, authority | Actively searches for solutions in your category | Organic traffic, keyword rankings, organic leads |
 | **Email marketing** | Lead nurturing, customer retention, upsell | Has already engaged with your brand | Open rate, CTR, revenue per email |
 | **Paid search (Google Ads)** | High-intent leads, rapid testing | Searches with commercial or transactional intent | CPA, ROAS, conversion rate |
+| **[Digital display advertising](/content-marketing/digital-display-advertising-guide)** | Retargeting and brand awareness at scale | Warm site visitors or broad top-of-funnel reach | CTR, viewability, CPM |
 | **LinkedIn Ads** | B2B brand awareness and lead gen | Professional, job-title targeting required | CPL, MQL conversion rate |
 | **Instagram / TikTok** | B2C awareness, community building | Visual content, lifestyle, or younger demographics | Reach, saves, click-through rate |
 | **Content marketing** | SEO fuel, thought leadership, trust | Early-stage research, comparison shopping | Traffic, time on page, email signups |
