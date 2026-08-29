@@ -108,6 +108,8 @@ Most organizations already have content. The challenge is that it is scattered a
 
 When creating new content, involve your top-performing reps in every planning session. They know which objections actually close deals and which stories resonate with specific buyer personas. Content built with rep input has dramatically higher adoption than content built without it.
 
+If your persona work stops at "job title," see [buyer persona vs ideal customer profile](/b2b-sales/buyer-persona-vs-ideal-customer-profile) for the psychographic detail — goals, objections, professional fears — that actually changes which stories reps should be telling each stakeholder.
+
 For a framework on producing B2B content that converts across the buyer journey, the [best content marketing strategies for B2B companies](https://marketing.growthgear.com.au/content-marketing/best-content-marketing-strategies-b2b-companies) guide covers how to structure content production for maximum sales impact.
 
 ### Step 3: Design Onboarding and Coaching Programs

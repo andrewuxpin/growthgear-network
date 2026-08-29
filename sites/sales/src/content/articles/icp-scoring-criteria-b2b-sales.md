@@ -93,7 +93,7 @@ LinkedIn Sales Navigator, Crunchbase, and Bombora track these signals. Weight a 
 
 B2B purchases involve 6 to 10 stakeholders according to Gartner's buying group research. Buyer-group fit measures whether the right roles exist in the right ratios. A 300-person company with no Director of RevOps is a poor fit for a sales operations platform regardless of firmographics. [Harvard Business Review research](https://hbr.org/2024/02/research-customers-arent-as-loyal-as-you-think) also confirms that targeting accounts with the wrong buying committee composition is a leading cause of stalled or lost deals.
 
-Score this by checking LinkedIn for the presence of titled roles: VP Sales, RevOps Manager, Sales Enablement Lead, or whichever roles map to your buying committee. [Account-based marketing](/b2b-sales/what-is-account-based-marketing-for-sales) programs depend on this signal more than any other.
+Score this by checking LinkedIn for the presence of titled roles: VP Sales, RevOps Manager, Sales Enablement Lead, or whichever roles map to your buying committee. [Account-based marketing](/b2b-sales/what-is-account-based-marketing-for-sales) programs depend on this signal more than any other. Confirming the roles exist is only half the job — see [buyer persona vs ideal customer profile](/b2b-sales/buyer-persona-vs-ideal-customer-profile) for how to build out what each of those roles actually cares about once you've confirmed they're in the account.
 
 > **Pro tip:** A high firmographic fit with the wrong buyer group is a top reason for closed-lost deals. Always verify the buying committee exists before tiering an account as A-tier.
 

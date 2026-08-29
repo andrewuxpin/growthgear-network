@@ -123,7 +123,7 @@ Enterprise purchase decisions rarely rest with one person. Your target profile s
 - **Champion profile**: Who within the organization has the most to gain from your solution? Identify the role most likely to become your internal advocate.
 - **Decision committee size**: Accounts with 6+ decision makers require a different strategy than those with 2-3. Know which structure you're optimized to navigate.
 
-HubSpot research shows that multi-stakeholder deals close at 43% lower rates when sales teams fail to map the full buyer committee early in the cycle. Your target profile should specify the stakeholder structure you can successfully navigate.
+HubSpot research shows that multi-stakeholder deals close at 43% lower rates when sales teams fail to map the full buyer committee early in the cycle. Your target profile should specify the stakeholder structure you can successfully navigate — and pair it with a [buyer persona for each role in that structure](/b2b-sales/buyer-persona-vs-ideal-customer-profile), since knowing the titles in the room isn't the same as knowing what each one needs to hear.
 
 > **Looking to accelerate your sales growth?** GrowthGear has helped 50+ startups build sales engines that deliver 156% average growth. [Book a Free Strategy Session](https://growthgear.com.au) to map out your sales strategy.
 
