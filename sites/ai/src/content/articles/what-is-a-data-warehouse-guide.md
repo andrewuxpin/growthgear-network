@@ -81,7 +81,7 @@ The columnar storage format is the second key piece. Unlike row-oriented transac
 
 Modern cloud warehouses favor ELT — extract, load, transform — over the older ETL pattern. Raw data is loaded into the warehouse first, then transformed *inside* the warehouse using SQL tools like [dbt](https://docs.getdbt.com/docs/introduction). This shift is directly tied to cloud warehouse economics: compute is now cheap enough that transforming 100 GB inside BigQuery costs cents, not the hundreds of dollars a dedicated ETL server once cost.
 
-A typical ELT flow: Fivetran or Airbyte extracts data from Salesforce, Stripe, and Postgres; loads it raw into Snowflake; dbt models transform it into clean reporting tables; and a BI tool like Looker or Tableau queries those tables. This is the modern data stack that most mid-market and enterprise teams run in 2026.
+A typical ELT flow: Fivetran or Airbyte extracts data from Salesforce, Stripe, and Postgres; loads it raw into Snowflake; dbt models transform it into clean reporting tables; and a BI tool like Looker or Tableau queries those tables. This is the modern data stack that most mid-market and enterprise teams run in 2026. Some teams also load [synthetic data](/machine-learning/synthetic-data-vs-real-data-ai-training-guide) alongside real extracts to fill volume or privacy gaps before training downstream ML models.
 
 ## Cloud Data Warehouse Comparison — Snowflake, BigQuery, Databricks, Redshift
 

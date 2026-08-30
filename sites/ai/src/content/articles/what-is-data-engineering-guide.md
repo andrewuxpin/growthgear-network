@@ -90,7 +90,7 @@ The core output of a data engineer's work is a **data pipeline**: an automated s
 
 **Data modeling**: Designing how data is structured in the warehouse — which tables exist, how they relate, what aggregations are pre-computed. Good data models make analyst queries fast and intuitive. Poor models create reporting nightmares.
 
-**Data quality monitoring**: Building automated checks that detect schema changes, null values, duplicates, and statistical anomalies before bad data reaches downstream consumers. According to McKinsey's State of AI 2024, poor data quality is cited as a top barrier to successful AI implementation by 65% of organizations using AI regularly.
+**Data quality monitoring**: Building automated checks that detect schema changes, null values, duplicates, and statistical anomalies before bad data reaches downstream consumers. According to McKinsey's State of AI 2024, poor data quality is cited as a top barrier to successful AI implementation by 65% of organizations using AI regularly. Increasingly, that monitoring also has to cover [synthetic data](/machine-learning/synthetic-data-vs-real-data-ai-training-guide) generated to fill gaps in real training sets, since a synthetic pipeline needs the same validation rigor as any other data source.
 
 **Infrastructure management**: Provisioning and configuring the storage, compute, and orchestration infrastructure — cloud data warehouses, Kubernetes clusters for processing jobs, monitoring and alerting systems.
 

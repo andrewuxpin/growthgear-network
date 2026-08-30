@@ -96,7 +96,7 @@ Assign each system to a tier. The assignment drives every downstream governance 
 
 ### Pillar 2: Data Governance and Model Documentation
 
-AI systems are only as trustworthy as their training data and documentation. Data governance defines who owns each dataset, what data is permissible for training, how personally identifiable information (PII) is handled, and how long data is retained.
+AI systems are only as trustworthy as their training data and documentation. Data governance defines who owns each dataset, what data is permissible for training, how personally identifiable information (PII) is handled, and how long data is retained. This applies just as much to [synthetic training data](/machine-learning/synthetic-data-vs-real-data-ai-training-guide) as to real data — regulators increasingly expect the same generation-method and validation documentation regardless of whether a dataset contains real records.
 
 **Model cards** — one-to-two page documents covering intended use, training data sources, performance metrics, known limitations, and ownership — are the foundational documentation artifact. A well-written model card enables:
 
