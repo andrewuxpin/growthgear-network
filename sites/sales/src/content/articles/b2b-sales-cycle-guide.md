@@ -154,7 +154,7 @@ A practical threshold: if a rep cannot identify the economic buyer, confirm an a
 
 Single-threaded deals are the most common cause of late-stage stalls. When your only contact leaves, gets promoted, or goes on leave, the deal pauses entirely.
 
-Multi-threading means building relationships with at least three stakeholders in every active opportunity: the economic buyer (who controls budget), the technical evaluator (who assesses fit), and a champion (who will advocate internally). GrowthGear's work with 50+ startups consistently shows that multi-threaded deals close at higher rates and shorter cycles than single-threaded ones.
+Multi-threading means building relationships with at least three stakeholders in every active opportunity: the economic buyer (who controls budget), the technical evaluator (who assesses fit), and a champion (who will advocate internally). GrowthGear's work with 50+ startups consistently shows that multi-threaded deals close at higher rates and shorter cycles than single-threaded ones. For a full framework on sequencing outreach by stage and avoiding the most common mistakes, see our [guide to multi-threading B2B sales deals](/b2b-sales/how-to-multi-thread-b2b-sales-deals).
 
 Pair this with content that helps your sales funnel stay aligned throughout the evaluation — resources on [building high-converting sales funnels](https://marketing.growthgear.com.au/content-marketing/how-to-create-high-converting-sales-funnels-complete-guide) can help your marketing team build the right assets for each stage.
 

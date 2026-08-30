@@ -111,7 +111,7 @@ Qualification should be a repeatable test, not a gut feeling. Adopt a single fra
 
 ### Multi-Thread the Buying Committee
 
-Single-threaded deals are fragile. Gartner reports that the typical B2B buying group now includes 6 to 10 decision-makers, and that buyers spend only 17% of their purchase journey meeting with potential suppliers. The best practice is to map and engage multiple stakeholders early, so one quiet champion cannot freeze the whole deal. Reps who build relationships across the committee close faster and lose fewer deals to internal politics.
+Single-threaded deals are fragile. Gartner reports that the typical B2B buying group now includes 6 to 10 decision-makers, and that buyers spend only 17% of their purchase journey meeting with potential suppliers. The best practice is to map and engage multiple stakeholders early, so one quiet champion cannot freeze the whole deal. Reps who build relationships across the committee close faster and lose fewer deals to internal politics. See our [complete guide to multi-threading B2B deals](/b2b-sales/how-to-multi-thread-b2b-sales-deals) for a stage-by-stage sequencing framework.
 
 > **Looking to accelerate your sales growth?** GrowthGear has helped 50+ startups build sales engines that deliver 156% average growth. [Book a Free Strategy Session](https://growthgear.com.au) to turn these best practices into a repeatable process for your team.
 
