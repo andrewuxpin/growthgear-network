@@ -56,7 +56,7 @@ Content Marketing Institute's 2026 B2B Benchmarks study, which surveyed 1,015 ma
 
 ### Niche Authority Over Broad Visibility
 
-Startups should resist writing about everything and instead become the clear expert in one narrow area. This "niche authority" approach targets long-tail keywords with lower volume but much higher intent — instead of writing about "cloud security," a fintech-focused startup might write about cloud security compliance for European fintech companies specifically. That specificity attracts a smaller, more qualified audience that converts at a higher rate.
+Startups should resist writing about everything and instead become the clear expert in one narrow area. This "niche authority" approach targets long-tail keywords with lower volume but much higher intent — instead of writing about "cloud security," a fintech-focused startup might write about cloud security compliance for European fintech companies specifically. That specificity attracts a smaller, more qualified audience that converts at a higher rate. A health-tech startup faces the same trade-off in a more heavily regulated form — see [content marketing for healthcare](/content-marketing/content-marketing-for-healthcare-guide) for how AHPRA's advertising rules shape what niche authority content can and can't say.
 
 ### Founder-Led Distribution and Authenticity
 

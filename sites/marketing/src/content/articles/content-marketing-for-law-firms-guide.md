@@ -45,7 +45,7 @@ Content marketing for law firms is trust-and-referral-driven, constrained by sta
 
 ## What Is Content Marketing for Law Firms (and Why Does It Work Differently)?
 
-Content marketing for law firms is fundamentally different from generic B2B marketing because it operates within a trust-and-referral economy, is heavily regulated by state bar rules, and focuses on niche expertise rather than broad awareness. Legal buying decisions are slow, emotional, and high-stakes, requiring clients to verify a firm's competence before ever picking up the phone.
+Content marketing for law firms is fundamentally different from generic B2B marketing because it operates within a trust-and-referral economy, is heavily regulated by state bar rules, and focuses on niche expertise rather than broad awareness. Legal buying decisions are slow, emotional, and high-stakes, requiring clients to verify a firm's competence before ever picking up the phone. Other regulated professions face a similar dynamic — our [content marketing for healthcare guide](/content-marketing/content-marketing-for-healthcare-guide) covers how AHPRA's advertising rules shape a comparable trust-first content strategy for medical practices.
 
 ### Trust and Referral Economics
 

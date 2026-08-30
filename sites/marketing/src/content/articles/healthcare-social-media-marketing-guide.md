@@ -118,7 +118,7 @@ A telehealth startup should prioritize YouTube and TikTok to explain how a virtu
 
 ## How Do You Build a Healthcare Social Media Content Strategy?
 
-A healthcare content strategy works around four pillars — patient education, community engagement, provider profiles, and practice news — published on a consistent 3-5-times-per-week cadence. Mixing educational content with humanizing, behind-the-scenes posts keeps a practice visible without turning the feed into a wall of promotions.
+A healthcare content strategy works around four pillars — patient education, community engagement, provider profiles, and practice news — published on a consistent 3-5-times-per-week cadence. Mixing educational content with humanizing, behind-the-scenes posts keeps a practice visible without turning the feed into a wall of promotions. For the long-form side of this same strategy — blog posts, FAQs, and the compliance rules that shape them — see our [content marketing for healthcare guide](/content-marketing/content-marketing-for-healthcare-guide).
 
 ### Content Types That Build Patient Trust
 
