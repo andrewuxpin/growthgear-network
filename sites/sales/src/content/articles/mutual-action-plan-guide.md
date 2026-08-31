@@ -98,7 +98,7 @@ The build process is a working session, not an email exchange. Open a shared Goo
 
 ### Step 1: Map the Buyer's Internal Buying Process
 
-Before the build session, ask your champion to walk you through how purchases like this get approved inside their company. You are looking for:
+Before the build session, ask your champion to walk you through how purchases like this get approved inside their company. If you haven't already confirmed this is a real champion and not just a friendly contact, see [how to identify and test a B2B sales champion](/b2b-sales/how-to-build-a-b2b-sales-champion) first. You are looking for:
 
 - The formal procurement or purchasing workflow (vendor onboarding, PO generation)
 - The security or IT review process (questionnaire, third-party risk assessment)

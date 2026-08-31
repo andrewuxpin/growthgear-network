@@ -53,7 +53,7 @@ The cost of skipping multi-threading is measurable. **UserGems** analyzed 500 cl
 
 A single-threaded deal has exactly one point of failure. If your champion changes jobs, gets reassigned, or loses internal political capital, the deal usually dies with them. You also have no visibility into the buyer's internal politics, because you only hear one person's version of events.
 
-That single champion may not be able to sell your solution internally as effectively as you can. They might lack the executive standing or technical depth to persuade other departments, and they may quietly drop objections raised by other stakeholders rather than surface them to you. You end up flying blind until it is too late to recover.
+That single champion may not be able to sell your solution internally as effectively as you can. They might lack the executive standing or technical depth to persuade other departments, and they may quietly drop objections raised by other stakeholders rather than surface them to you. You end up flying blind until it is too late to recover. Before betting a deal on one relationship, learn [how to test whether a champion can actually sell internally](/b2b-sales/how-to-build-a-b2b-sales-champion) rather than assuming enthusiasm equals influence.
 
 ### Why Modern Buying Committees Need More Than One Contact
 
