@@ -50,7 +50,7 @@ A social media manager's core job is to build and grow the brand's social presen
 
 ### Content Creation and Publishing
 
-Content creation is consistently the largest single time investment for social media managers. This includes writing platform-specific copy for Instagram, LinkedIn, TikTok, X, and YouTube Shorts; sourcing or producing visual assets like graphics, photos, and short-form video; and adapting the same core message across platforms without duplicating content verbatim.
+Content creation is consistently the largest single time investment for social media managers. This includes writing platform-specific copy for Instagram, LinkedIn, TikTok, X, and YouTube Shorts; sourcing or producing visual assets like graphics, photos, and short-form video; and adapting the same core message across platforms without duplicating content verbatim. A framework like [social media marketing ideas by goal and effort level](/social-media/social-media-marketing-ideas-guide) helps managers prioritize which formats are worth the production time each week.
 
 Building and maintaining a [social media content calendar](/social-media/how-to-create-social-media-content-calendar) is central to this function. Most social media managers plan content four to six weeks in advance, with weekly adjustments for trending topics, campaign priorities, and real-time events that create timely engagement opportunities.
 

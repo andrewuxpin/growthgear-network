@@ -133,7 +133,7 @@ Content pillars are the 3-5 topic areas your brand consistently covers. They cre
 4. **Behind-the-scenes** — team, process, culture
 5. **Community engagement** — polls, questions, reposts
 
-Every post you schedule should map to one of these pillars. If a post idea doesn't fit any pillar, it either belongs in a new pillar (which means your strategy needs updating) or it shouldn't be created.
+Every post you schedule should map to one of these pillars. If a post idea doesn't fit any pillar, it either belongs in a new pillar (which means your strategy needs updating) or it shouldn't be created. Short on inspiration for a given pillar? This breakdown of [social media marketing ideas by goal and effort level](/social-media/social-media-marketing-ideas-guide) organizes 40+ tactics by funnel stage so you can fill each pillar with ideas that actually match your team's bandwidth.
 
 This pillar framework connects directly to your broader [content marketing strategy](/content-marketing/best-content-marketing-strategies-b2b-companies) — your social calendar should reinforce the same core topics your blog and email campaigns cover.
 
