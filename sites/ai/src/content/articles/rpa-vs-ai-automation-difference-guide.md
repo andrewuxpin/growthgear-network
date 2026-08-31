@@ -149,6 +149,8 @@ For most companies, the end state isn't a choice between RPA and AI automation �
 
 This phased approach reduces risk and produces evidence of ROI before committing to a bigger AI automation investment. It's also a smaller, lower-risk version of the same audit-first logic behind [AI business automation](/ai-tools/ai-business-automation-guide) generally, and one reason many companies now use — or evaluate hiring — an [AI automation agency](/ai-tools/what-is-an-ai-automation-agency-guide) to sequence the rollout correctly the first time.
 
+If you're specifically weighing RPA against the newer **agentic AI** category rather than AI automation broadly, see our dedicated comparison on [agentic AI vs RPA](/ai-tools/agentic-ai-vs-rpa-difference-guide), which covers 2026 Gartner market data and how to spot "agent washing" in vendor claims.
+
 ---
 
 ## Take the Next Step

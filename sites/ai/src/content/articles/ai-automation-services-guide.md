@@ -109,6 +109,8 @@ Examples include AI agents that research prospects and draft personalised outrea
 
 **Not ideal for**: Businesses without API access or development resources, high-stakes regulated processes (healthcare, financial advice), or tasks where autonomous errors carry serious business consequences without human review gates.
 
+For a full breakdown of how agentic AI compares to RPA on cost, market data, and when to combine the two, see our guide to [agentic AI vs RPA](/ai-tools/agentic-ai-vs-rpa-difference-guide).
+
 ### ML-Powered Process Automation
 
 Machine learning automation applies trained models to classify, predict, or extract structured information from unstructured inputs. Document processing that reads invoices from any format, customer sentiment models that route support tickets to the right team, and demand forecasting models that adjust inventory automatically all fall in this category.

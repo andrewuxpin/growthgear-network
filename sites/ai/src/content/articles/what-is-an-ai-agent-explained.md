@@ -92,7 +92,7 @@ AI agents differ from chatbots, robotic process automation (RPA), and traditiona
 | **RPA** | Executes a fixed, pre-recorded script | No — breaks on UI/format changes | High-volume data entry, form filling | Silent failure when the target system changes |
 | **Traditional automation** | Runs deterministic, hand-coded logic | No — only handles cases the code anticipated | Scheduled jobs, rule-based routing | Requires a developer to add every new case |
 
-The practical takeaway for a buyer: if a task has a genuinely unpredictable number of steps or requires judgment calls, an agent is the right tool. If the steps are fixed and known in advance, RPA or a traditional script is cheaper, more auditable, and won't hallucinate a wrong action.
+The practical takeaway for a buyer: if a task has a genuinely unpredictable number of steps or requires judgment calls, an agent is the right tool. If the steps are fixed and known in advance, RPA or a traditional script is cheaper, more auditable, and won't hallucinate a wrong action. For a deeper breakdown of when to combine the two rather than pick one, see our guide to [agentic AI vs RPA](/ai-tools/agentic-ai-vs-rpa-difference-guide).
 
 > **Ready to implement AI in your business?** GrowthGear's team has helped 50+ startups integrate AI solutions that drive real results. [Book a Free Strategy Session](https://growthgear.com.au) to discuss where an AI agent fits your roadmap.
 
