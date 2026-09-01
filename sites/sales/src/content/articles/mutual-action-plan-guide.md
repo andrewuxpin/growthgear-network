@@ -70,6 +70,8 @@ A seller-only close plan overlaps with the internal planning half of [Strategic 
 
 A MAP is the only one of these that the buyer actually co-owns. That co-ownership is the entire mechanism. If you build a document listing your steps and email it to the buyer, you have a close plan, not a MAP, regardless of what you call it.
 
+The success criteria written into a strong MAP usually trace back to the "Metrics That Matter" a rep uncovered during discovery, the same concept at the center of Force Management's [Command of the Message](/sales-techniques/command-of-the-message-methodology-guide) framework. A MAP without buyer-specific metrics tends to collapse into a generic project timeline instead of a document either side is motivated to keep updated.
+
 ## When to Introduce a Mutual Action Plan in Your Deal
 
 Introduce the mutual action plan after discovery is complete and the buyer has confirmed the evaluation is moving forward, typically at the first substantive working session. Introducing it at proposal stage is too late because the buyer's internal approval chain is already running on its own undocumented timeline by then.

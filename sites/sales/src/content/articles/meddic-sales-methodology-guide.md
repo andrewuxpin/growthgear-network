@@ -126,6 +126,8 @@ MEDDIC, MEDDPICC, BANT, and SPIN serve different stages of the sales motion. BAN
 
 Picking the right framework comes down to deal complexity, cycle length, and where in the funnel the qualification gate sits. The frameworks are complementary, not competing, and seasoned sales orgs run them in parallel at different stages of the process. For a broader view of how MEDDIC compares to Challenger, Solution Selling, SNAP, and other approaches, the [complete sales methods guide](/sales-techniques/sales-methods-guide) walks through each in depth.
 
+None of these frameworks tell a rep what to actually say once a deal is qualified. That's a separate discipline, and it's what [Command of the Message](/sales-techniques/command-of-the-message-methodology-guide), Force Management's messaging framework, is built to handle.
+
 ### MEDDIC vs MEDDPICC: When You Need Paper Process
 
 MEDDPICC adds two letters to MEDDIC: **P**aper Process (legal, security, procurement workflow) and **C**ompetition (other vendors and the status quo). Use MEDDPICC when deals routinely involve InfoSec questionnaires, master service agreements, multi-week legal redlines, or competitive evaluations. For most enterprise SaaS above $100K ACV, MEDDPICC is the better default. For mid-market deals in the $25K-$100K range, MEDDIC is usually enough and the simpler acronym wins adoption.

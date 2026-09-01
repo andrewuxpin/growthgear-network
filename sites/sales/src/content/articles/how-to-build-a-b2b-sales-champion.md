@@ -55,6 +55,8 @@ A B2B sales champion is a person inside the buyer's organization who has influen
 
 That definition sits inside the broader [MEDDIC sales methodology](/sales-techniques/meddic-sales-methodology-guide), where the champion is one of six qualification criteria reps check before trusting a deal's forecast. Skipping the champion check is one of the most common reasons deals that looked "qualified" on paper stall out mid-cycle.
 
+Identifying a champion answers *whether* a deal is winnable. What a rep actually says to that champion is a separate problem, one Force Management's other flagship framework, [Command of the Message](/sales-techniques/command-of-the-message-methodology-guide), was built to solve — giving reps language the champion can repeat internally without a rep in the room.
+
 ### Champion vs. Coach vs. Economic Buyer
 
 Confusing these three roles is a common, costly error. All three may seem cooperative on calls, but their leverage and willingness to advocate publicly differ sharply.
