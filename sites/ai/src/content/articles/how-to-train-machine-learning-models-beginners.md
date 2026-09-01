@@ -115,7 +115,7 @@ Data quality directly impacts model performance. According to IBM, data scientis
    - Normalize numerical features
    - Encode categorical variables
    - Create new features ([feature engineering](/machine-learning/what-is-feature-engineering-in-machine-learning))
-   - Scale data appropriately
+   - Scale data appropriately (see our [data preprocessing decision guide](/machine-learning/data-preprocessing-machine-learning-decision-guide) for choosing between imputation, scaling, and encoding methods)
 
 3. **Data Splitting**
    - Training set (70-80%)

@@ -76,7 +76,7 @@ The right feature engineering technique depends on the data type and the algorit
 
 Raw numerical columns often violate the implicit assumptions of many ML algorithms.
 
-**Normalisation and standardisation** bring features to a comparable scale. Min-max normalisation compresses values to [0, 1]: `x_scaled = (x − min) / (max − min)`. Z-score standardisation centres the distribution at zero with unit variance: `x_std = (x − mean) / std`. Use min-max for neural networks and KNN; use z-score for linear models, logistic regression, and SVMs. Neither is needed for tree-based models (gradient boosting, random forests), which are scale-invariant.
+**Normalisation and standardisation** bring features to a comparable scale. Min-max normalisation compresses values to [0, 1]: `x_scaled = (x − min) / (max − min)`. Z-score standardisation centres the distribution at zero with unit variance: `x_std = (x − mean) / std`. Use min-max for neural networks and KNN; use z-score for linear models, logistic regression, and SVMs. Neither is needed for tree-based models (gradient boosting, random forests), which are scale-invariant. See our [data preprocessing decision guide](/machine-learning/data-preprocessing-machine-learning-decision-guide) for a fuller comparison of scaling methods, including Robust Scaler for outlier-heavy data.
 
 **Log transformation** addresses right-skewed distributions. Revenue, customer lifetime value, and page view counts are typically log-normal. Applying `log1p(x)` (which handles zero values) before modelling reduces the influence of outliers and improves linear model fit. Verify with a distribution plot before and after; log transforms are inappropriate for negative values.
 

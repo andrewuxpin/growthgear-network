@@ -98,7 +98,7 @@ Missing values are a fact of life in real-world data, and how you handle them de
 - **Missing at Random (MAR)**: The probability of missingness depends on other observed variables. For example, older customers may be less likely to have email addresses. Requires model-based imputation.
 - **Missing Not at Random (MNAR)**: The missingness is related to the unobserved value itself. For example, high-income customers may refuse to report their salary. Requires domain-specific handling.
 
-A missing value matrix — a heatmap showing where gaps exist across the dataset — reveals patterns that are invisible in aggregate counts. If rows with missing values in column A always have missing values in column B, the missingness is structurally correlated and needs investigation. This analysis directly informs the imputation strategy during [data pipeline](/machine-learning/data-pipeline-explained-etl-elt-guide) construction.
+A missing value matrix — a heatmap showing where gaps exist across the dataset — reveals patterns that are invisible in aggregate counts. If rows with missing values in column A always have missing values in column B, the missingness is structurally correlated and needs investigation. This analysis directly informs the imputation strategy during [data pipeline](/machine-learning/data-pipeline-explained-etl-elt-guide) construction — see our [data preprocessing decision guide](/machine-learning/data-preprocessing-machine-learning-decision-guide) for choosing between deletion, mean/median imputation, KNN, and MICE based on the missingness pattern you find here.
 
 ### Step 5: Outlier Detection
 
