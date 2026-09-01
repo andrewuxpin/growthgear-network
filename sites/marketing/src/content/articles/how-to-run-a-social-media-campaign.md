@@ -52,7 +52,7 @@ A **social media campaign** is a coordinated set of posts, paid ads, and engagem
 
 Campaigns generally fall into one of four categories, each with a different success metric:
 
-- **Brand awareness campaigns** — measured in reach, impressions, and brand-lift studies. Target audience: cold prospects.
+- **Brand awareness campaigns** — measured in reach, impressions, and brand-lift studies. Target audience: cold prospects. Pairing this campaign type with an [influencer marketing strategy for small business](/social-media/influencer-marketing-strategy-small-business-guide) extends reach into a creator's existing trusted audience.
 - **Engagement campaigns** — measured in comments, shares, saves, and engagement rate. Target: warm followers and lookalikes.
 - **Lead generation campaigns** — measured in form submissions, demo bookings, and email signups. Target: in-market buyers.
 - **Conversion / direct response campaigns** — measured in revenue, ROAS, and CAC. Target: bottom-funnel audiences.

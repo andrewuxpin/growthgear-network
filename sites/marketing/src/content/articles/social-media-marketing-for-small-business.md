@@ -69,7 +69,7 @@ This equity compounds over time. A business with 2,000 highly engaged followers 
 
 Social media accelerates trust-building in ways that websites and ad copy cannot. Customers leave public comments, share posts, tag friends, and create user-generated content — all of which function as social proof that influences buying decisions. According to Nielsen's Global Trust in Advertising Report, 92% of consumers trust earned media (recommendations and social proof) over all forms of paid advertising.
 
-For small businesses competing against larger, more established brands, social proof on social media can neutralize the trust deficit. A product with 200 genuine customer reviews on Instagram and an active, responsive community is more credible to a first-time buyer than a larger competitor with a polished website and no visible social engagement.
+For small businesses competing against larger, more established brands, social proof on social media can neutralize the trust deficit. A product with 200 genuine customer reviews on Instagram and an active, responsive community is more credible to a first-time buyer than a larger competitor with a polished website and no visible social engagement. Partnering with nano and micro creators is one of the fastest ways to borrow that trust — see our [influencer marketing strategy for small business](/social-media/influencer-marketing-strategy-small-business-guide) guide for budgets, vetting, and disclosure rules.
 
 ---
 

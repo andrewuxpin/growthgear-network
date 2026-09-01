@@ -70,7 +70,7 @@ The majority of established SMMAs prefer retainers because they enable long-term
 
 ## Core Services a Social Media Marketing Agency Provides
 
-A social media marketing agency typically offers organic management, paid social advertising, content production, and analytics reporting — either as bundled packages or modular services. The scope varies significantly between agencies. Entry-level retainers often cover basic scheduling and reporting. Full-service engagements include strategic direction, creative production, influencer coordination, and full paid media management.
+A social media marketing agency typically offers organic management, paid social advertising, content production, and analytics reporting — either as bundled packages or modular services. The scope varies significantly between agencies. Entry-level retainers often cover basic scheduling and reporting. Full-service engagements include strategic direction, creative production, influencer coordination, and full paid media management. If you're weighing whether to keep that piece in-house, our [influencer marketing strategy for small business](/social-media/influencer-marketing-strategy-small-business-guide) guide covers sourcing, vetting, and contract basics an agency would otherwise handle for you.
 
 Understanding what's included at each tier helps you match agency capability to your actual needs.
 
