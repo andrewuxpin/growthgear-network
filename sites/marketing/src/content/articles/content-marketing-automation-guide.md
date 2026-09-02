@@ -49,7 +49,7 @@ This guide covers what content marketing automation is, which workflows to autom
 
 Content marketing automation is the use of software systems to execute, coordinate, and measure the tasks involved in producing and distributing content — from topic research and drafting through publishing, multi-channel distribution, audience personalization, and performance reporting. Unlike general marketing automation, which spans lead scoring and sales handoffs, content marketing automation focuses specifically on the content lifecycle: the systems that take a content idea from brief to published asset to measured outcome.
 
-The distinction matters because the tools and workflows differ. A marketing automation platform like HubSpot or Marketo handles email nurturing sequences and CRM routing. Content marketing automation layers in content-specific tools — editorial calendars, social schedulers, SEO research platforms, AI drafting assistants, and analytics dashboards — that manage the creation and amplification of content assets themselves.
+The distinction matters because the tools and workflows differ. A marketing automation platform like HubSpot or Marketo handles email nurturing sequences and CRM routing. Content marketing automation layers in content-specific tools — editorial calendars, social schedulers, SEO research platforms, AI drafting assistants, and analytics dashboards — that manage the creation and amplification of content assets themselves. Teams that need these functions unified in one system, with built-in governance rather than a stack of integrated point tools, should compare our [best content marketing platforms guide](/content-marketing/best-content-marketing-platforms-guide).
 
 ### Content Marketing Automation vs. Marketing Automation
 

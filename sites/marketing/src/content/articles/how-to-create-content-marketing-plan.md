@@ -149,7 +149,7 @@ A practical quarterly editorial calendar should include:
 - Status (draft, in review, scheduled, published)
 - Internal linking plan (what existing content will link to this piece)
 
-Use a tool like Notion, Airtable, or a simple Google Sheet. The specific tool matters far less than the discipline of reviewing it weekly. Your [best content marketing tools](/content-marketing/best-content-marketing-tools-for-businesses) guide covers editorial calendar tools in detail.
+Use a tool like Notion, Airtable, or a simple Google Sheet. The specific tool matters far less than the discipline of reviewing it weekly. Your [best content marketing tools](/content-marketing/best-content-marketing-tools-for-businesses) guide covers editorial calendar tools in detail. Once your plan is running across a larger team with formal approval steps, our [best content marketing platforms guide](/content-marketing/best-content-marketing-platforms-guide) compares dedicated software built for that stage.
 
 **Assign content ownership clearly.** Every piece on the calendar needs one named owner — not "the team." When ownership is shared, accountability disappears. The owner is responsible for delivery, not necessarily the writer: they can brief a freelancer, work with an agency, or write it themselves. What matters is that one person is on the hook for the piece hitting the publish date.
 

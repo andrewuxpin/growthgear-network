@@ -162,7 +162,7 @@ The key reports for content marketing are: Engagement (which posts hold attentio
 
 ## Choosing the Right Content Marketing Stack
 
-Build your stack in order: creation and SEO tools first, distribution second, analytics third (with the exception of GA4, which should be installed from day one). Start with two or three tools and add new ones only when you can name the specific workflow bottleneck they will solve. Adding tools to solve vague problems — "we need better content" — wastes budget and creates integration debt. To turn a collection of tools into a connected workflow, the [content marketing automation guide](/content-marketing/content-marketing-automation-guide) covers how to integrate publishing, distribution, and measurement into a single automated pipeline.
+Build your stack in order: creation and SEO tools first, distribution second, analytics third (with the exception of GA4, which should be installed from day one). Start with two or three tools and add new ones only when you can name the specific workflow bottleneck they will solve. Adding tools to solve vague problems — "we need better content" — wastes budget and creates integration debt. To turn a collection of tools into a connected workflow, the [content marketing automation guide](/content-marketing/content-marketing-automation-guide) covers how to integrate publishing, distribution, and measurement into a single automated pipeline. Once your team outgrows managing five separate point tools — or approval workflows and multi-brand governance become the actual bottleneck — it may be time to evaluate a dedicated [content marketing platform](/content-marketing/best-content-marketing-platforms-guide) instead of adding a sixth subscription.
 
 ### What Marketing Teams Are Saying
 
