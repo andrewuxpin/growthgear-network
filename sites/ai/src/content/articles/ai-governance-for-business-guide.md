@@ -200,7 +200,7 @@ Send a structured survey to every team asking: "What AI tools or features do you
 
 For each identified system, record: system name, vendor (if applicable), intended use case, data inputs, data outputs, users, and a preliminary risk tier estimate.
 
-[AI tools for small business automation](/ai-tools/best-ai-tools-for-small-business) and [AI-powered CRM platforms](https://sales.growthgear.com.au/crm-tools/best-crm-software-small-business-teams) that influence sales or hiring decisions both belong in your inventory and may qualify as high-risk under EU AI Act definitions depending on their specific use case.
+[AI tools for small business automation](/ai-tools/best-ai-tools-for-small-business) and [AI-powered CRM platforms](https://sales.growthgear.com.au/crm-tools/best-crm-software-small-business-teams) that influence sales or hiring decisions both belong in your inventory and may qualify as high-risk under EU AI Act definitions depending on their specific use case. Engineering's own shadow AI footprint deserves the same scrutiny — [AI coding assistants](/ai-tools/best-ai-coding-assistants-for-business-teams) touch proprietary source code directly, so vendor data-retention and training-data policies belong in the inventory alongside any customer-facing AI system.
 
 ### Phase 2 — Risk Classification and Policy Design (Weeks 3-6)
 
