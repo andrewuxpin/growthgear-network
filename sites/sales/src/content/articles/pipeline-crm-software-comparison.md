@@ -113,7 +113,7 @@ Pipedrive is purpose-built for salespeople rather than sales operations managers
 
 Essential plan starts at $14/seat/month with visual pipeline, unlimited deals, email sync, and goal tracking. Professional at $49/seat/month adds AI sales assistant, automation workflows, revenue forecasting, and team reporting.
 
-For founders or VP of Sales setting up a first CRM, Pipedrive is the most forgiving starting point. It connects naturally to the broader category covered in [best CRM software for small business teams](/crm-tools/best-crm-software-small-business-teams) and consistently rates highest for ease of use among SMB sales tools on G2.
+For founders or VP of Sales setting up a first CRM, Pipedrive is the most forgiving starting point. It connects naturally to the broader category covered in [best CRM software for small business teams](/crm-tools/best-crm-software-small-business-teams) and consistently rates highest for ease of use among SMB sales tools on G2. If HubSpot is also on your shortlist, our [Pipedrive vs HubSpot comparison](/crm-tools/pipedrive-vs-hubspot-crm-comparison) breaks down the pricing and feature gap between the two in more depth.
 
 **Where it falls short**: Limited marketing functionality — Pipedrive is a pure sales tool. If your team needs lead nurturing sequences or multi-channel attribution, you'll need a separate marketing tool.
 

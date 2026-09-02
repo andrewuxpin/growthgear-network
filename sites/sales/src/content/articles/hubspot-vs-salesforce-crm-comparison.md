@@ -97,7 +97,7 @@ AI is now a real differentiator, not a checkbox. **HubSpot's Breeze AI** is incl
 
 Integrations and mobile experience round out the comparison. HubSpot's native integrations with common email, calendar, and productivity tools are maintained in-house, which keeps them reliable. Salesforce connects to a much larger third-party ecosystem through AppExchange, but maintaining those connections takes technical oversight since breakages happen during updates. On mobile, HubSpot's app is stripped down for on-the-go logging; Salesforce's app mirrors the full desktop experience, which is comprehensive but can feel cluttered for reps working from a phone between meetings.
 
-If your team is small enough that even HubSpot's Professional tier feels like overkill, it's worth comparing against lighter options too — our [Less Annoying CRM review](/crm-tools/less-annoying-crm-review) and [Monday CRM review](/crm-tools/monday-crm-review-sales-teams) cover CRMs built specifically for teams that want less configuration than either HubSpot or Salesforce requires.
+If your team is small enough that even HubSpot's Professional tier feels like overkill, it's worth comparing against lighter options too — our [Less Annoying CRM review](/crm-tools/less-annoying-crm-review) and [Monday CRM review](/crm-tools/monday-crm-review-sales-teams) cover CRMs built specifically for teams that want less configuration than either HubSpot or Salesforce requires. For a sales-only alternative to HubSpot at a lower price point, see our [Pipedrive vs HubSpot comparison](/crm-tools/pipedrive-vs-hubspot-crm-comparison).
 
 ### What Sales Teams Are Saying
 
