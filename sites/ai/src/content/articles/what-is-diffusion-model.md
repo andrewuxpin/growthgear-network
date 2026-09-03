@@ -107,7 +107,7 @@ Diffusion models, Generative Adversarial Networks (GANs), and Variational Autoen
 
 GANs, introduced by Goodfellow et al. in 2014, use two networks — a generator and a discriminator — trained in adversarial competition. The generator produces samples, the discriminator tries to distinguish them from real data, and the generator improves until the discriminator can no longer tell the difference. GANs generate samples in a single forward pass, making them 100-1000x faster at inference than diffusion models.
 
-The persistent problem with GANs is mode collapse: the generator finds a small set of outputs that fool the discriminator and produces limited varieties, reducing diversity. GANs are also notoriously difficult to train — the adversarial dynamic can oscillate, diverge, or collapse without warning. StyleGAN-3 and BigGAN produced impressive results, but the engineering effort to stabilize training is substantial.
+The persistent problem with GANs is mode collapse: the generator finds a small set of outputs that fool the discriminator and produces limited varieties, reducing diversity. GANs are also notoriously difficult to train — the adversarial dynamic can oscillate, diverge, or collapse without warning. StyleGAN-3 and BigGAN produced impressive results, but the engineering effort to stabilize training is substantial. Outside image generation, that same adversarial architecture underpins [GAN-based anomaly detection](/deep-learning/gan-vs-autoencoder-anomaly-detection-guide), which businesses use for fraud detection and visual quality control instead of content creation.
 
 ### VAEs: Fast but Blurry
 
