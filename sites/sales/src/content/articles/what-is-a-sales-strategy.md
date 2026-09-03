@@ -192,7 +192,7 @@ Customer acquisition economics matter enormously at scale. Track [customer acqui
 | Metrics and goals | Revenue, pipeline, activity targets | Quarterly |
 | Tactics | Daily rep moves (scripts, sequences) | Continuously |
 
-A working strategy keeps the top three rows stable across years while allowing the bottom four to flex with market reality. Teams that constantly rewrite their ICP, value proposition, or sales motion are almost always reacting to short-term pain rather than executing a durable plan.
+A working strategy keeps the top three rows stable across years while allowing the bottom four to flex with market reality. Teams that constantly rewrite their ICP, value proposition, or sales motion are almost always reacting to short-term pain rather than executing a durable plan. If your value proposition itself keeps drifting, the root cause is often a missing or untested USP — see our guide on [unique selling proposition vs value proposition](/sales-techniques/unique-selling-proposition-vs-value-proposition) for how the two should work together.
 
 ## Close More Deals, Faster
 

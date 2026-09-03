@@ -123,7 +123,7 @@ This section should clearly articulate how your solution addresses identified pr
 **Key Components:**
 - Clear, benefit-focused value proposition
 - High-level solution overview without overwhelming detail
-- Unique differentiators that set you apart from competitors
+- Unique differentiators that set you apart from competitors — for how this differs from (and should reinforce) your broader value proposition, see [unique selling proposition vs value proposition](/sales-techniques/unique-selling-proposition-vs-value-proposition)
 - Alignment between their needs and your capabilities
 
 ### Social Proof and Case Studies

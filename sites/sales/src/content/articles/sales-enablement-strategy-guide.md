@@ -120,7 +120,7 @@ Even the best content library delivers nothing if reps do not know how to use it
 
 | Week | Focus |
 |---|---|
-| 1-2 | Product knowledge, ICP definition, buyer personas, core value proposition |
+| 1-2 | Product knowledge, ICP definition, buyer personas, core value proposition (see [USP vs value proposition](/sales-techniques/unique-selling-proposition-vs-value-proposition) for how to teach the distinction) |
 | 3-4 | Sales process walkthrough, CRM setup, core email and call sequences |
 | 5-8 | Supervised deals, call shadowing, objection handling practice |
 | 9-12 | Independent selling with weekly structured deal review coaching |
