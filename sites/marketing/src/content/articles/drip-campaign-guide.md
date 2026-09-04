@@ -94,7 +94,7 @@ There are five core drip campaign types, each serving a different stage of the b
 
 A typical welcome sequence runs 3-5 emails over 7-10 days:
 
-- **Email 1 (Day 0)**: Confirm the subscription, deliver any promised lead magnet, and state your brand's primary value proposition in 2-3 sentences. Speed matters here — send within minutes of signup.
+- **Email 1 (Day 0)**: Confirm the subscription, deliver any promised [lead magnet](/content-marketing/lead-magnet-ideas-that-convert), and state your brand's primary value proposition in 2-3 sentences. Speed matters here — send within minutes of signup.
 - **Email 2 (Day 2)**: Share your single most valuable piece of content. A guide, case study, or tool walkthrough — whatever is most relevant to why they signed up.
 - **Email 3 (Day 5)**: Introduce your product or service with a specific, concrete use case. Not "we help marketers" but "here's how [Client] increased email revenue by 43% in 60 days."
 - **Email 4 (Day 8)**: Social proof. A testimonial, a published case study, a notable result with a named client or outcome.

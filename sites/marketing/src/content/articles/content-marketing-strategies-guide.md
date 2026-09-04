@@ -139,7 +139,7 @@ Publishing a piece of content is 50% of the work. Distribution — the channels 
 
 Your owned channels are the most reliable and cost-effective distribution pathways:
 
-- **Email list:** Your newsletter is the highest-value distribution channel. An opted-in audience engages at significantly higher rates than social followers. Build your list actively — every piece of content should include an email capture mechanism tied to a relevant lead magnet.
+- **Email list:** Your newsletter is the highest-value distribution channel. An opted-in audience engages at significantly higher rates than social followers. Build your list actively — every piece of content should include an email capture mechanism tied to a relevant [lead magnet](/content-marketing/lead-magnet-ideas-that-convert).
 - **Organic search:** SEO is a compound growth channel. Content optimized for search continues attracting visitors long after publication, unlike social posts with 24-48 hour windows. Structuring a documented content plan around SEO from the start pays long-term dividends.
 - **Social media (2-3 platforms):** Use social as an awareness amplifier, not your primary distribution channel. B2B marketers typically prioritize LinkedIn; B2C brands prioritize Instagram or TikTok. Trying to maintain full presence on all platforms at once produces mediocre results on each.
 
