@@ -155,7 +155,7 @@ Treat optimization as a continuous practice with a 30-day cadence. Each month, p
 
 ## Inbound vs Outbound: Choosing the Right Mix for B2B Growth
 
-The right inbound-outbound mix depends on category awareness, sales cycle, and growth stage. Most successful B2B teams run a 60/40 inbound-outbound mix once they pass $5M ARR, but early-stage companies in low-awareness categories often need an 80/20 outbound-inbound split until brand recognition catches up. The choice is rarely binary; it is a question of proportions and sequencing.
+The right inbound-outbound mix depends on category awareness, sales cycle, and growth stage. Most successful B2B teams run a 60/40 inbound-outbound mix once they pass $5M ARR, but early-stage companies in low-awareness categories often need an 80/20 outbound-inbound split until brand recognition catches up. The choice is rarely binary; it is a question of proportions and sequencing. That same low-awareness scenario is really a [demand generation problem, not a lead generation one](/sales-techniques/demand-generation-vs-lead-generation) — no amount of inbound or outbound tactic-tuning fixes a category buyers don't yet know or trust.
 
 ### When inbound should dominate
 

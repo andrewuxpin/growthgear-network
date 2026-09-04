@@ -59,7 +59,7 @@ A bad scoring model is worse than none. If marketing passes inflated MQLs, reps 
 
 ### Where lead scoring fits in the broader funnel
 
-Scoring sits between top-of-funnel demand capture and active selling. It informs (but does not replace) the [BANT lead qualification framework](/sales-techniques/how-to-qualify-leads-using-bant-criteria-complete-guide) that reps run on a discovery call. Scoring also feeds the [lead engagement strategies](/sales-techniques/lead-engagement-strategies-guide) that nurture leads who are a good fit but not yet ready. For the complete process of building those nurture tracks, see our [lead nurturing strategy guide](/sales-techniques/lead-nurturing-strategy-guide).
+Scoring sits between top-of-funnel demand capture and active selling — a distinction worth understanding on its own terms in our [demand generation vs lead generation guide](/sales-techniques/demand-generation-vs-lead-generation). It informs (but does not replace) the [BANT lead qualification framework](/sales-techniques/how-to-qualify-leads-using-bant-criteria-complete-guide) that reps run on a discovery call. Scoring also feeds the [lead engagement strategies](/sales-techniques/lead-engagement-strategies-guide) that nurture leads who are a good fit but not yet ready. For the complete process of building those nurture tracks, see our [lead nurturing strategy guide](/sales-techniques/lead-nurturing-strategy-guide).
 
 > "Marketing's job isn't to throw more leads over the wall. It's to score them honestly enough that sales trusts the queue." — Jon Miller, co-founder of Marketo and Engagio, in *Demand Gen Report*
 
