@@ -134,7 +134,7 @@ Several optimized BERT variants have emerged since 2018, each trading accuracy f
 | **ALBERT** | Google, 2019 | 0.18× (12M params) | Similar | −1% | Memory-constrained deployments |
 | **DeBERTa** | Microsoft, 2020 | 1.5× (184M params) | Slightly slower | +3–6% | Top benchmark scores |
 
-**Practical recommendation**: Start with DistilBERT for any production use case where inference latency matters. DistilBERT retains 97% of BERT Base accuracy at 40% smaller size and 60% faster inference (Sanh et al., HuggingFace, 2019). Only upgrade to BERT Large or RoBERTa if initial accuracy benchmarks fall short of requirements.
+**Practical recommendation**: Start with DistilBERT for any production use case where inference latency matters. DistilBERT retains 97% of BERT Base accuracy at 40% smaller size and 60% faster inference (Sanh et al., HuggingFace, 2019). Only upgrade to BERT Large or RoBERTa if initial accuracy benchmarks fall short of requirements. For a deeper look at how knowledge distillation compares with the alternative compression approach, see our [model quantization vs knowledge distillation guide](/deep-learning/model-quantization-vs-knowledge-distillation-guide).
 
 > **Ready to implement AI in your business?** GrowthGear's team has helped 50+ startups integrate NLP and deep learning solutions that drive real results. [Book a Free Strategy Session](https://growthgear.com.au) to discuss your AI roadmap.
 

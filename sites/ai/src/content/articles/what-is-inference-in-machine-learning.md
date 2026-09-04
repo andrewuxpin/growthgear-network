@@ -164,7 +164,7 @@ For high-volume applications, these costs compound quickly. A product recommenda
 
 **Quantization** reduces model weight precision from 32-bit floats to 8-bit or 4-bit integers. This shrinks model size by 4–8x and speeds up inference proportionally, with accuracy loss typically under 1% for most tasks. INT8 quantization is now standard practice for production LLM deployments.
 
-**Knowledge distillation** trains a smaller "student" model to mimic a larger "teacher" model. DistilBERT is 40% smaller than BERT-base but retains 97% of its accuracy — making it the default choice for production NLP at scale.
+**Knowledge distillation** trains a smaller "student" model to mimic a larger "teacher" model. DistilBERT is 40% smaller than BERT-base but retains 97% of its accuracy — making it the default choice for production NLP at scale. See our [model quantization vs knowledge distillation guide](/deep-learning/model-quantization-vs-knowledge-distillation-guide) for a full comparison of when each technique wins.
 
 **Request batching** groups multiple inference requests and processes them together on a GPU, dramatically improving throughput. A GPU processing 32 requests simultaneously costs roughly the same as processing 1 request — spreading the per-request cost 32x.
 
