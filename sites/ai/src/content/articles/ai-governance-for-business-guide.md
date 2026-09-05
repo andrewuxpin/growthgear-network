@@ -157,7 +157,7 @@ The EU AI Act entered into force on August 1, 2024. Implementation follows a pha
 | August 2, 2025 | GPAI model obligations apply; AI literacy requirements for deployers |
 | **August 2, 2026** | **High-risk AI system rules fully effective** — the compliance deadline most businesses are now racing to meet |
 
-High-risk systems include AI used in: hiring and HR management, credit scoring, insurance pricing, educational assessment, medical devices, critical infrastructure, and law enforcement. If your AI falls into any of these categories and affects EU residents, compliance is mandatory — regardless of your organization's headquarters location.
+High-risk systems include AI used in: hiring and HR management, credit scoring, insurance pricing, educational assessment, medical devices, critical infrastructure, and law enforcement. If your AI falls into any of these categories and affects EU residents, compliance is mandatory — regardless of your organization's headquarters location. Insurers face an added layer of US state-level rules on top of this; see [AI compliance for insurance](/machine-learning/ai-compliance-for-insurance-guide) for the NAIC Model Bulletin and Colorado's algorithm-inventory requirements.
 
 **Extraterritorial scope** is the critical point for non-EU businesses. The EU AI Act applies to any organization deploying AI that affects EU residents. An Australian company using an AI-powered hiring tool to evaluate EU-based candidates, or a US company using AI in loan decisions for EU customers, is in scope.
 

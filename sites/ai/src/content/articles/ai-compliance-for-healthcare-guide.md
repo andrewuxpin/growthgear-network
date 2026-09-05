@@ -59,7 +59,7 @@ Compliance responsibilities fall on four groups, each with distinct legal obliga
 
 - **Hospitals and health systems** — subject to HIPAA whenever they use AI to process patient data, and to FDA device regulation as manufacturers if they build or validate their own clinical AI tools
 - **Health-tech and SaMD vendors** — subject to FDA device clearance requirements for diagnostic or clinical-decision-support products, and to HIPAA business associate obligations if they host or process PHI for hospitals
-- **Payers and health insurers** — subject to HIPAA for data handling, plus a growing set of state insurance department AI bulletins governing algorithmic coverage determinations
+- **Payers and health insurers** — subject to HIPAA for data handling, plus a growing set of state insurance department AI bulletins governing algorithmic coverage determinations; see [AI compliance for insurance](/machine-learning/ai-compliance-for-insurance-guide) for the NAIC Model Bulletin and state-specific rules layered on top
 - **Any AI vendor touching PHI** — automatically classified as a HIPAA business associate, a status that is mandatory regardless of whether the vendor claims the AI "just reads" data without storing it
 
 ## Which Regulations Govern AI Use in Healthcare?

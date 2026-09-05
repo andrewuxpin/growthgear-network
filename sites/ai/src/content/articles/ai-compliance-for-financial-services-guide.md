@@ -59,7 +59,7 @@ Obligations scale with an institution's size, complexity, and risk profile rathe
 
 - **Banks and credit unions** — subject to prudential regulator guidance (SR 26-2 for Fed-supervised institutions) plus fair lending law
 - **Fintech lenders** — subject to CFPB adverse-action rules and, increasingly, state-level algorithmic lending disclosure requirements
-- **Insurers** — subject to state insurance regulator AI model bulletins and EU AI Act high-risk classification for AI-based pricing
+- **Insurers** — subject to state insurance regulator AI model bulletins and EU AI Act high-risk classification for AI-based pricing; see [AI compliance for insurance](/machine-learning/ai-compliance-for-insurance-guide) for the NAIC Model Bulletin and Colorado-specific obligations that apply on top of these
 - **Wealth managers and robo-advisors** — subject to SEC/FINRA suitability and disclosure obligations when AI drives investment recommendations
 
 SR 26-2 itself notes it is most directly relevant to banking organizations with over $30 billion in total assets under Federal Reserve supervision, but smaller institutions typically adopt equivalent risk-based practices because examiners reference the same standard informally.
