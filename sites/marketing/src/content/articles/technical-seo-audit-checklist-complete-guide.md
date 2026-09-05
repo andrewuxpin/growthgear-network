@@ -302,7 +302,7 @@ Not all technical SEO issues carry equal weight. Use this triage framework:
 - **P3 — Fix within a month**: orphaned pages, missing schema, INP over 500ms, mixed content warnings
 - **P4 — Optimise when bandwidth allows**: hreflang cleanup, crawl budget optimisation, pagination improvements
 
-Pair your technical fixes with a complete [organic SEO strategy](/seo/organic-seo-strategy-guide) — covering content, link building, and UX signals alongside your technical work. A clean foundation makes every [content marketing strategy for B2B](/content-marketing/best-content-marketing-strategies-b2b-companies) deliver better results because Google can actually surface your content to searchers.
+Pair your technical fixes with a complete [organic SEO strategy](/seo/organic-seo-strategy-guide) — covering content, link building, and UX signals alongside your technical work. Once the technical foundation is clean, our guide to [link building strategies that work in 2026](/seo/link-building-strategies-guide) covers the specific tactics, cost benchmarks, and tools worth investing in next. A clean foundation makes every [content marketing strategy for B2B](/content-marketing/best-content-marketing-strategies-b2b-companies) deliver better results because Google can actually surface your content to searchers.
 
 ### Documenting Findings and Tracking Progress
 
