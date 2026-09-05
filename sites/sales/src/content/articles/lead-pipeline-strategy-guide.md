@@ -190,7 +190,7 @@ Calculated above. Review weekly. A declining velocity trend means future quarter
 **5. Deal Aging**
 Any deal that has been in the same stage for longer than 1.5x your average cycle length is likely stuck or dead. Aged deals over-represent pipeline coverage and under-represent real risk. [Sales pipeline stages analysis](/b2b-sales/sales-pipeline-stages-guide) helps identify where deals consistently stall.
 
-> **Pro tip:** Run a monthly "pipeline hygiene" review: any deal with no activity in 14 days gets a status call, and any deal with no activity in 30 days gets moved to a nurture sequence or marked Closed Lost. Clean pipelines forecast more accurately.
+> **Pro tip:** Run a monthly "pipeline hygiene" review: any deal with no activity in 14 days gets a status call, and any deal with no activity in 30 days gets moved to a nurture sequence or marked Closed Lost. Clean pipelines forecast more accurately. See our full [sales pipeline hygiene checklist](/b2b-sales/sales-pipeline-hygiene-checklist-guide) for the complete weekly/monthly/quarterly cadence.
 
 ### How to Build a Pipeline Review Rhythm
 

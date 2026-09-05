@@ -214,7 +214,7 @@ Log every deal in your CRM from your first paying customer. Use the [B2B sales p
 
 ### Ignoring Pipeline Hygiene
 
-A CRM with 200 stale deals showing "Active" is worse than no CRM — it creates false confidence in your pipeline. Establish a weekly or biweekly pipeline review where deals older than your average sales cycle are marked stale or lost.
+A CRM with 200 stale deals showing "Active" is worse than no CRM — it creates false confidence in your pipeline. Establish a weekly or biweekly pipeline review where deals older than your average sales cycle are marked stale or lost, following a structured [pipeline hygiene checklist](/b2b-sales/sales-pipeline-hygiene-checklist-guide) rather than an ad-hoc cleanup.
 
 According to [G2's CRM market data](https://www.g2.com/categories/crm), companies that conduct weekly pipeline reviews close 28% more deals than those that review monthly. Discipline in pipeline hygiene is a process problem, not a software problem.
 

@@ -353,7 +353,7 @@ Learning from common pitfalls can save you time and resources while building you
 ### Mistake 4: Ignoring Pipeline Hygiene
 
 **Problem**: Stale or unrealistic opportunities skew forecasting and reporting.
-**Solution**: Regularly review and clean your pipeline, removing or updating outdated opportunities.
+**Solution**: Regularly review and clean your pipeline, removing or updating outdated opportunities. For a full weekly, monthly, and quarterly review cadence, see our [sales pipeline hygiene checklist](/b2b-sales/sales-pipeline-hygiene-checklist-guide).
 
 ### Mistake 5: Lack of Sales and Marketing Alignment
 
