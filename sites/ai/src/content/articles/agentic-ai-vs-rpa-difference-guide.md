@@ -151,7 +151,7 @@ Evaluate a candidate process against these four criteria before choosing a techn
 
 ## Avoiding "Agent Washing" When Evaluating Vendors
 
-Vetting vendor claims is essential before buying an agentic AI solution. Gartner advises piloting emerging tools rigorously, verifying claims against your own baseline instead of a canned demo, and demanding transparency into how the system actually reasons rather than what its dashboard shows. Marketing copy alone isn't evidence of genuine agentic capability.
+Vetting vendor claims is essential before buying an agentic AI solution. Gartner advises piloting emerging tools rigorously, verifying claims against your own baseline instead of a canned demo, and demanding transparency into how the system actually reasons rather than what its dashboard shows. Marketing copy alone isn't evidence of genuine agentic capability — if you're weighing the two market-leading RPA vendors specifically, our [UiPath vs Automation Anywhere comparison](/ai-tools/uipath-vs-automation-anywhere-rpa-comparison) breaks down their respective 2026 agentic AI roadmaps and Gartner rankings.
 
 ### Due Diligence and Piloting
 

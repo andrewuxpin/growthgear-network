@@ -47,7 +47,7 @@ An AI automation agency is a specialized consulting firm that designs, builds, a
 
 ### AI Automation Agency vs. General IT Firm
 
-The distinction matters when evaluating proposals. General IT firms offer automation as one of dozens of services, often without dedicated automation architects or pre-built process templates. AI automation agencies live in this space full-time — they maintain ready-to-deploy scaffolding for common business processes and have deep experience with the platforms most businesses need: **Make.com**, **n8n**, **Zapier**, **UiPath**, **Microsoft Power Automate**, and AI agent frameworks like LangChain and CrewAI.
+The distinction matters when evaluating proposals. General IT firms offer automation as one of dozens of services, often without dedicated automation architects or pre-built process templates. AI automation agencies live in this space full-time — they maintain ready-to-deploy scaffolding for common business processes and have deep experience with the platforms most businesses need: **Make.com**, **n8n**, **Zapier**, **UiPath**, **Microsoft Power Automate**, and AI agent frameworks like LangChain and CrewAI. If an agency's recommendation comes down to UiPath versus Automation Anywhere specifically, see our [UiPath vs Automation Anywhere comparison](/ai-tools/uipath-vs-automation-anywhere-rpa-comparison) for how the two platforms actually differ before signing off on either.
 
 The practical difference shows up in delivery timelines. A general IT firm might quote 12–16 weeks to build an invoice processing automation. A specialist agency with tested templates and pre-built connectors can often deliver the same result in 3–4 weeks — because they've built similar workflows dozens of times before.
 
