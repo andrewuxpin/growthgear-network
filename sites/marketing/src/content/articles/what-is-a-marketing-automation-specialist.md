@@ -49,6 +49,8 @@ This guide breaks down exactly what a marketing automation specialist does, the 
 
 A marketing automation specialist designs, builds, and maintains the automated journeys that move leads from first touch to closed deal. They own the platforms (HubSpot, Marketo, Pardot, Klaviyo), the data flowing between those platforms and the CRM, and the trigger logic behind every email, ad audience sync, and lifecycle stage change. They are not the strategist — they are the engineer who makes the strategy run reliably at scale.
 
+As teams start piloting [AI marketing agents](/content-marketing/what-is-an-ai-marketing-agent), this role is often the natural owner of agent oversight — the same platform and workflow expertise that runs fixed automation sequences transfers directly to auditing and scoping an autonomous agent's actions.
+
 ### Daily Responsibilities
 
 Most specialists split their week across four categories of work. According to a [Demand Gen Report](https://www.demandgenreport.com/) study, automation specialists spend roughly 35% of their time on campaign build, 25% on data hygiene and integrations, 20% on reporting, and 20% on stakeholder requests and QA.

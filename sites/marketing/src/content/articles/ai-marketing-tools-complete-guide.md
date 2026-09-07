@@ -57,6 +57,8 @@ AI marketing tools automate four core functions: content generation, audience in
 
 The landscape has matured significantly. Early AI marketing tools (2020-2022) were primarily text generators with limited context awareness. Current tools integrate with your CRM, learn from campaign history, and produce outputs calibrated to your audience's specific behavior patterns.
 
+Most of the tools below are still AI-assisted — they draft, suggest, or score, and a human executes the next step. A smaller but fast-growing category goes further: see [what an AI marketing agent is](/content-marketing/what-is-an-ai-marketing-agent) and how it differs from these tools by planning and executing multi-step tasks on its own.
+
 ### Content Creation and SEO Optimization Tools
 
 **Content creation** is where most teams start with AI, and for good reason — writing is the most time-intensive marketing activity for the majority of teams.
