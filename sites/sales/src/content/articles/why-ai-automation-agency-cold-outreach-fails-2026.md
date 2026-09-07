@@ -43,7 +43,7 @@ callout:
 
 The AI automation agency boom that started in 2023 is now openly struggling. Reply rates that once justified $5,000-$15,000 monthly retainers have collapsed for most volume-first operators. Smartlead, Instantly, and Apollo all reported sharp 2025 declines in average reply rates across their platforms, and Google's spam classifier updates through late 2025 hit AI-paraphrased messaging particularly hard.
 
-This is not a temporary dip. It is a structural reset of [B2B cold outreach](/sales-techniques/b2b-cold-outreach-strategy-guide) economics that breaks the unit math behind most AI automation agencies. The agencies still winning have stopped sending more email — they cut volume, narrowed targeting, and shifted AI from writing copy to surfacing insight. This article diagnoses why AI cold outreach fails in 2026 and lays out a workflow that survives the reset.
+This is not a temporary dip. It is a structural reset of [B2B cold outreach](/sales-techniques/b2b-cold-outreach-strategy-guide) economics that breaks the unit math behind most AI automation agencies. The agencies still winning have stopped sending more email — they cut volume, narrowed targeting, and shifted AI from writing copy to surfacing insight. That distinction matters more as vendors start selling actual [AI sales agents](/crm-tools/what-is-an-ai-sales-agent) rather than volume-based automation scripts — the failure mode changes, but the need for human oversight doesn't go away. This article diagnoses why AI cold outreach fails in 2026 and lays out a workflow that survives the reset.
 
 ## The Core Failure Pattern Behind AI-Generated Cold Outreach
 

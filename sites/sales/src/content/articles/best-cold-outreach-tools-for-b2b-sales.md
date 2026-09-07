@@ -182,7 +182,7 @@ Most teams do not think about deliverability until reply rates drop below 1% and
 
 ### Mistake 3: Over-Automating Personalization
 
-AI personalization is powerful, but fully AI-generated emails see roughly half the reply rate of human-edited copy. The teams winning in 2026 use AI for research and first drafts, then have humans edit before sending. Tools like Clay generate excellent personalization signals from LinkedIn and company data, but the final message should always pass through a human who can judge tone, relevance, and timing. For a deeper look at why fully automated outreach fails, this analysis of why AI automation agency cold outreach fails in 2026 breaks down the specific failure patterns.
+AI personalization is powerful, but fully AI-generated emails see roughly half the reply rate of human-edited copy. The teams winning in 2026 use AI for research and first drafts, then have humans edit before sending. Tools like Clay generate excellent personalization signals from LinkedIn and company data, but the final message should always pass through a human who can judge tone, relevance, and timing. This is the same reasoning behind piloting [any AI sales agent](/crm-tools/what-is-an-ai-sales-agent) with a human-in-the-loop checkpoint before it reaches a real prospect. For a deeper look at why fully automated outreach fails, this analysis of why AI automation agency cold outreach fails in 2026 breaks down the specific failure patterns.
 
 ### Mistake 4: Treating All Prospects the Same
 
