@@ -105,6 +105,8 @@ For local SEO, four areas drive the most ranking lift:
 
 For the technical SEO foundation behind local organic rankings — including site speed, mobile optimization, and crawlability — the [organic traffic and local SEO guide](/seo/how-to-increase-organic-website-traffic-fast) covers each factor with specific benchmarks. Professional services businesses with strict advertising rules, such as law firms, need to pair these local SEO tactics with compliance review — see [content marketing for law firms](/content-marketing/content-marketing-for-law-firms-guide) for the bar-advertising considerations that apply.
 
+For the full playbook — GBP category and title optimization, LocalBusiness schema fields, review generation systems, and local link building — see our dedicated [local SEO strategy guide](/seo/local-seo-strategy-guide).
+
 ### Paid Local Advertising: Google and Meta
 
 Paid local advertising delivers the fastest results and the most precise geographic control. Google Local Services Ads (LSAs) are particularly effective for service businesses — they appear above standard paid search results, carry a "Google Guaranteed" badge, and charge only per valid lead rather than per click.

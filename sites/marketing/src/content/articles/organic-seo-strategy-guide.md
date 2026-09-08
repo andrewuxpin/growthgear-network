@@ -123,6 +123,8 @@ Effective off-page tactics for growing sites:
 
 > **Common mistake:** Chasing link quantity over quality. A single link from a domain rating 70+ site outperforms 50 links from low-authority directories. Focus on relevance and authority — not volume.
 
+If your business serves specific cities or neighborhoods rather than a purely national audience, these four pillars apply differently — see our dedicated [local SEO strategy guide](/seo/local-seo-strategy-guide) for how Google Business Profile signals and proximity change the ranking equation.
+
 ### User Experience Signals
 
 Google's behavioral signals — click-through rate (CTR), dwell time, and pogo-sticking back to search results — all inform how algorithms assess content quality after initial ranking. A page that earns a position but immediately sends visitors back to Google will gradually lose ground to pages that genuinely answer the query.
