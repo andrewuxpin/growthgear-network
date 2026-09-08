@@ -136,7 +136,7 @@ Bigger deals take longer, which can flatten the velocity gain. Avoid this by rai
 
 ### Lever 3: higher win rate
 
-Win rate moves slowest of the four inputs because it requires changing rep behaviour, not just process. Adopt a qualification framework such as MEDDIC or SPICED and enforce it at deal review. According to [Gartner's B2B buying research](https://www.gartner.com/en/sales/insights/b2b-buying-journey), 77% of B2B buyers describe their most recent purchase as very complex or difficult, so reps who can simplify the buying process win disproportionately. Sharper [sales closing techniques](/sales-techniques/sales-closing-techniques-that-actually-work) help, but the deeper move is qualifying out earlier and competing only where you can win.
+Win rate moves slowest of the four inputs because it requires changing rep behaviour, not just process. Adopt a qualification framework such as MEDDIC or [SPICED](/sales-techniques/spiced-sales-methodology-guide) and enforce it at deal review. According to [Gartner's B2B buying research](https://www.gartner.com/en/sales/insights/b2b-buying-journey), 77% of B2B buyers describe their most recent purchase as very complex or difficult, so reps who can simplify the buying process win disproportionately. Sharper [sales closing techniques](/sales-techniques/sales-closing-techniques-that-actually-work) help, but the deeper move is qualifying out earlier and competing only where you can win.
 
 ### Lever 4: shorter sales cycle
 

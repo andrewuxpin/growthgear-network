@@ -199,7 +199,7 @@ Real B2B buying journeys are not linear. A prospect can stall at Consideration, 
 
 ### Mistake 2: Pitching Before the Buyer Is Ready
 
-Reps who pitch too early — before confirming budget, authority, and timeline — spend hours on deals that can't close. HubSpot's research shows that teams using structured qualification frameworks (BANT, MEDDIC, SPICED) close at higher rates than those relying on intuition alone.
+Reps who pitch too early — before confirming budget, authority, and timeline — spend hours on deals that can't close. HubSpot's research shows that teams using structured qualification frameworks (BANT, MEDDIC, [SPICED](/sales-techniques/spiced-sales-methodology-guide)) close at higher rates than those relying on intuition alone.
 
 **Fix**: Make qualification mandatory at funnel entry. No proposal goes out until SQL criteria are confirmed in writing. Build a qualification checklist into your CRM so reps can't advance a deal stage without completing it.
 

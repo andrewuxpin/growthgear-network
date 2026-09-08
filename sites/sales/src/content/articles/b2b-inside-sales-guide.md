@@ -159,7 +159,7 @@ For deals above $25K ACV, switch from lead-based to account-based selling. Ident
 
 ### Structured Discovery
 
-Replace open-ended "tell me about your business" calls with structured discovery using a framework like MEDDIC, BANT, or SPICED. The framework forces reps to gather metrics, identify the economic buyer, document decision criteria, and confirm pain — the information needed to forecast and close. Use a [pipeline metrics dashboard](/b2b-sales/sales-pipeline-metrics-kpis-guide) to track how completeness of discovery correlates with win rate.
+Replace open-ended "tell me about your business" calls with structured discovery using a framework like MEDDIC, BANT, or [SPICED](/sales-techniques/spiced-sales-methodology-guide). The framework forces reps to gather metrics, identify the economic buyer, document decision criteria, and confirm pain — the information needed to forecast and close. Use a [pipeline metrics dashboard](/b2b-sales/sales-pipeline-metrics-kpis-guide) to track how completeness of discovery correlates with win rate.
 
 ### AI-Augmented Workflows
 
