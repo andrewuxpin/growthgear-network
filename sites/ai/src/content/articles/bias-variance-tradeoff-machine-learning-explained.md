@@ -134,7 +134,7 @@ A high-bias model needs more room to represent the pattern in the data, not more
 A high-variance model already has enough capacity — the problem is that it's using that capacity to memorize noise. Each of these fixes constrains it toward learning the signal instead:
 
 - **Add training data** so the model has more signal to separate from noise
-- **Apply L1 or L2 regularization** to penalize large weights and simplify the model
+- **Apply L1 or L2 regularization** to penalize large weights and simplify the model — see our [L1 vs L2 regularization guide](/machine-learning/l1-vs-l2-regularization-machine-learning-guide) for which penalty to pick and when Elastic Net beats either alone
 - **Reduce feature count** to cut the model's opportunities to fit noise
 - **Use ensembling** — bagging methods like random forests average out individual model noise
 - **Apply early stopping** to halt training once validation error starts rising

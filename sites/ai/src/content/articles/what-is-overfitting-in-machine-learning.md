@@ -186,7 +186,7 @@ Both techniques modify the loss function to penalize large model weights:
 | **L1 (Lasso)** | Adds sum of absolute weight values to loss | Forces unimportant weights exactly to zero | Feature selection; sparse high-dimensional data |
 | **Elastic Net** | Combines L1 and L2 penalties | Balances sparsity and weight shrinkage | High-dimensional datasets with correlated features |
 
-The [TensorFlow Keras documentation](https://www.tensorflow.org/tutorials/keras/overfit_and_underfit) recommends starting with L2 regularization at a strength (λ) of 0.001 and adjusting based on validation performance. L2 is the standard starting point for neural network regularization because it rarely eliminates useful weights entirely — it reduces their magnitude rather than zeroing them out.
+The [TensorFlow Keras documentation](https://www.tensorflow.org/tutorials/keras/overfit_and_underfit) recommends starting with L2 regularization at a strength (λ) of 0.001 and adjusting based on validation performance. L2 is the standard starting point for neural network regularization because it rarely eliminates useful weights entirely — it reduces their magnitude rather than zeroing them out. For the full decision framework on when to reach for L1 instead — plus how Elastic Net and weight decay factor in — see our guide to [L1 vs L2 regularization](/machine-learning/l1-vs-l2-regularization-machine-learning-guide).
 
 ### Dropout
 
