@@ -152,7 +152,7 @@ Reels offer high discoverability due to Instagram's algorithm prioritizing short
 
 TikTok thrives on authenticity and creativity. Users respond poorly to overly polished, ad-like content. Instead, successful influencer campaigns on TikTok feature native, unpolished content that feels like a genuine recommendation from a friend.
 
-Influencers should be given creative freedom to present the product in their own style. This might involve trending audio, humor, or educational content that solves a problem. The "duet" and "stitch" features can also be used to encourage user-generated content and community interaction. Hashtags play a crucial role on TikTok, so influencers should use relevant, trending hashtags to maximize visibility. The goal is to create content that feels organic and encourages sharing.
+Influencers should be given creative freedom to present the product in their own style. This might involve trending audio, humor, or educational content that solves a problem. The "duet" and "stitch" features can also be used to encourage [user-generated content](/social-media/user-generated-content-marketing-guide) and community interaction — a distinct, unpaid content source worth building a parallel sourcing strategy around. Hashtags play a crucial role on TikTok, so influencers should use relevant, trending hashtags to maximize visibility. The goal is to create content that feels organic and encourages sharing.
 
 ### YouTube: Long-Form Trust Building
 

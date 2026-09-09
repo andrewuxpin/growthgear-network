@@ -141,7 +141,7 @@ Social media campaigns operate in a fundamentally different environment from ema
 
 ### User-Generated Content Campaign Examples
 
-User-generated content (UGC) campaigns transform customers into content creators — which matters because of the trust differential. According to Nielsen's Trust in Advertising research, 92% of consumers trust UGC more than branded content. A UGC campaign doesn't just generate content; it generates content that your audience actually believes.
+User-generated content (UGC) campaigns transform customers into content creators — which matters because of the trust differential. According to Nielsen's Trust in Advertising research, 92% of consumers trust UGC more than branded content. A UGC campaign doesn't just generate content; it generates content that your audience actually believes. For a full breakdown of how to source, clear rights for, and distribute this content type, see our [user-generated content marketing guide](/social-media/user-generated-content-marketing-guide).
 
 High-converting UGC campaigns share three structural elements:
 - **A specific, easy action**: A photo challenge, a short video format, a review prompt — the lower the friction, the higher the participation rate
