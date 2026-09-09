@@ -76,7 +76,7 @@ The AI capabilities above only deliver value if the tool connects to your existi
 | Development | GitHub, GitLab, Jira |
 | Automation | Make.com, Zapier |
 
-For teams evaluating CRM integration specifically, the [best CRM software for small business teams](https://sales.growthgear.com.au/crm-tools/best-crm-software-small-business-teams) comparison covers HubSpot, Pipedrive, and Salesforce integration depth across PM and sales tools.
+For teams evaluating CRM integration specifically, the [best CRM software for small business teams](https://sales.growthgear.com.au/crm-tools/best-crm-software-small-business-teams) comparison covers HubSpot, Pipedrive, and Salesforce integration depth across PM and sales tools. Operations teams whose projects touch procurement or inventory workflows should also confirm ERP integration depth — see our comparison of [AI tools for supply chain management](/ai-tools/best-ai-tools-for-supply-chain-management) for how platforms like o9 Solutions and Coupa handle that data layer.
 
 ## Best AI Project Management Tools Compared
 
