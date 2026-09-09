@@ -160,6 +160,8 @@ Zoho CRM delivers a feature set that rivals Salesforce at roughly one-third the 
 - Native Zoho ecosystem integration reduces integration complexity
 - Competitive pricing for teams of 10-100 people
 
+For a full breakdown of Zia's AI capabilities against HubSpot's Breeze AI, and the exact 15-seat cost difference between the two platforms, see our [Zoho CRM vs HubSpot comparison](/crm-tools/zoho-crm-vs-hubspot-comparison).
+
 **Pricing:** Free for up to 3 users. Standard from $14/user/month. Professional from $23/user/month. Enterprise from $40/user/month (annual billing).
 
 **Watch out for:** Interface depth can feel overwhelming during initial setup. Plan for a structured 2-week onboarding period rather than expecting teams to self-configure.

@@ -99,7 +99,7 @@ Zoho CRM offers enterprise-grade customisation at startup-friendly prices. You c
 
 **Best for**: Technical founders or startups with a unique sales process that doesn't fit standard pipeline templates. Zoho CRM's flexibility means you can model anything — subscription renewals, complex multi-stage enterprise deals, or channel partner pipelines.
 
-**Pricing**: Free up to 3 users. Standard from $14/user/month. Professional from $23/user/month.
+**Pricing**: Free up to 3 users. Standard from $14/user/month. Professional from $23/user/month. If HubSpot is your other finalist, our [Zoho CRM vs HubSpot comparison](/crm-tools/zoho-crm-vs-hubspot-comparison) breaks down the real cost gap at each tier and where each platform's AI features actually stand.
 
 **Limitations**: Steeper learning curve than HubSpot or Pipedrive. UI is less polished. Customer support response times on lower-tier plans can be slow.
 
