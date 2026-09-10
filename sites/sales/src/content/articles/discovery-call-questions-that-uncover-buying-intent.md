@@ -165,6 +165,8 @@ This technique, called anchoring, gives the prospect a reference point that make
 
 If the prospect remains guarded, acknowledge it: "I sense this might be a sensitive area. I am asking because understanding your current process helps me determine whether our solution is even a fit. If it is not, I will tell you honestly." This level of transparency often disarms guarded prospects.
 
+With busy, time-pressed buyers specifically, brevity in how you ask matters as much as the question itself — the [SNAP Selling methodology guide](/sales-techniques/snap-selling-methodology-guide) covers how to frame priority-mapping questions like these without adding to a frazzled prospect's cognitive load.
+
 ### When Prospects Try to Skip to Pricing
 
 When a prospect asks about pricing before you have completed discovery, resist the urge to give a number. A premature price quote without context anchors the conversation on cost rather than value. Instead, acknowledge the question and redirect:

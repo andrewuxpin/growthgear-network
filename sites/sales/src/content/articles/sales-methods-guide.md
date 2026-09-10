@@ -141,6 +141,8 @@ The core insight is that busy buyers don't have bandwidth to evaluate complex pr
 
 > **Pro tip:** SNAP doesn't mean dumbing down your product. It means eliminating friction from the buying decision. Streamline proposal formats, reduce decision steps, and make the next action obvious.
 
+For the full breakdown of all four SNAP principles, a step-by-step implementation plan, and the most common rollout mistakes, see the complete [SNAP Selling methodology guide](/sales-techniques/snap-selling-methodology-guide).
+
 ### MEDDIC
 
 **Best for**: Enterprise qualification; ensures teams invest effort only in genuinely winnable deals.
