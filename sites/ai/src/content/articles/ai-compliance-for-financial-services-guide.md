@@ -122,6 +122,8 @@ The four highest-exposure AI use cases in financial services are fraud and AML m
 
 Fraud and AML monitoring models carry a different risk profile — the compliance concern is less about explainability and more about false-positive rates that block legitimate customers, and about what customer data flows to third-party fraud-detection vendors under GLBA's vendor-oversight requirement. The underlying architecture matters here too: a [GAN vs autoencoder](/deep-learning/gan-vs-autoencoder-anomaly-detection-guide) choice for the detection model itself directly affects how explainable a flagged transaction is to an examiner. Financial teams evaluating fraud and analytics platforms should also review [best AI tools for finance teams](/ai-tools/best-ai-tools-for-finance) to weigh compliance documentation alongside detection accuracy.
 
+Some institutions are tackling the cross-institution fraud-sharing problem directly with [federated learning vs centralized machine learning](/deep-learning/federated-learning-vs-centralized-machine-learning-guide) architectures, which let banks train a shared fraud model on patterns across institutions without any bank transmitting raw transaction data to the others — sidestepping the GLBA data-sharing question rather than just documenting around it.
+
 ## How Do You Build an AI Compliance Program for Financial Services?
 
 An AI compliance program for financial services rests on four building blocks: a risk-tiered model inventory, explainability readiness for adverse action requirements, vendor due diligence, and a governance committee running a risk-based — not fixed-annual — monitoring cadence. Most institutions can stand up the first two blocks within a quarter.

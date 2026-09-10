@@ -99,6 +99,8 @@ In **December 2024**, HHS [published a Notice of Proposed Rulemaking](https://ww
 
 > **Common mistake:** Don't wait for the Final Rule before encrypting ePHI processed by AI. The NPRM signals where enforcement is heading, and regulators already cite weak encryption practices as a failure under the current "addressable" specification.
 
+Some hospitals are addressing this exposure at the architecture level rather than only through encryption and access controls: training diagnostic models without ever centralizing patient data in the first place. See our comparison of [federated learning vs centralized machine learning](/deep-learning/federated-learning-vs-centralized-machine-learning-guide) for how this approach lets multiple hospitals collaborate on a shared model without any of them transmitting PHI to the others.
+
 ### What AI-Specific Guidance Is HHS Preparing?
 
 HHS's Office for Civil Rights has signaled forthcoming AI-specific guidance expected **mid-2026**, addressing gaps the current rules don't resolve: when AI vendor agreements require a BAA, accountability for errors in AI-generated health information, updated de-identification standards for PHI used to train models, and patient rights to an explanation of automated decisions affecting their care.
