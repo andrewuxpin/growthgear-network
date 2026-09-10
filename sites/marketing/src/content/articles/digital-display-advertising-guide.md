@@ -134,7 +134,7 @@ For most marketers the decision comes down to balancing broad reach against prec
 
 Display earns its budget in three situations:
 
-1. **Retargeting warm traffic**: Serving ads to people who've visited your site, added to cart, or engaged with content keeps your brand visible and pulls them back.
+1. **Retargeting warm traffic**: Serving ads to people who've visited your site, added to cart, or engaged with content keeps your brand visible and pulls them back. Our [guide to building a retargeting strategy](/content-marketing/how-to-build-a-retargeting-strategy) covers audience segmentation, creative sequencing, and frequency capping across Google, Meta, and LinkedIn in depth.
 2. **Brand awareness at scale**: For a new market entrant or product launch, display reaches large volumes of people quickly, building the familiarity that makes future search conversions easier.
 3. **Account-based marketing (ABM)**: In B2B, display can target specific companies or job titles across the open web, reinforcing your message to decision-makers alongside broader [B2B lead generation strategies](https://sales.growthgear.com.au/b2b-sales/best-lead-generation-strategies-b2b-companies).
 

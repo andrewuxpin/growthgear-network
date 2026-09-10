@@ -93,7 +93,7 @@ Channel selection depends on where your audience spends time and what content fo
 | **Decision** | Landing pages, email, sales outreach | Demos, free trials, pricing pages, testimonials, ROI calculators |
 | **Retention** | Email, in-app messaging, community | Newsletters, onboarding sequences, loyalty programs |
 
-The "retargeting ads" listed under Consideration are one branch of a broader channel worth understanding on its own terms — our [digital display advertising guide](/content-marketing/digital-display-advertising-guide) breaks down CPM economics across GDN, programmatic, and native formats, which helps you decide how much awareness budget to put toward paid display versus organic content.
+The "retargeting ads" listed under Consideration are one branch of a broader channel worth understanding on its own terms — our [digital display advertising guide](/content-marketing/digital-display-advertising-guide) breaks down CPM economics across GDN, programmatic, and native formats, which helps you decide how much awareness budget to put toward paid display versus organic content. For the segmentation and frequency-capping mechanics behind those retargeting ads specifically, see our [guide to building a retargeting strategy](/content-marketing/how-to-build-a-retargeting-strategy).
 
 To fill the top of your funnel with qualified traffic, focus on [increasing organic website traffic](/seo/how-to-increase-organic-website-traffic-fast) through SEO content — organic search remains the highest-ROI top-of-funnel channel for most B2B and B2C businesses. According to HubSpot's State of Marketing 2024, **organic search drives 53% of all website traffic** for B2B companies.
 

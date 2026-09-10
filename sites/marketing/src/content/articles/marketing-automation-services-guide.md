@@ -102,7 +102,7 @@ Social automation services schedule and publish content across platforms, monito
 
 - **Content scheduling**: Queue 2-4 weeks of posts across LinkedIn, Instagram, Facebook, X
 - **Brand monitoring**: Alerts for mentions, competitor activity, and trending topics in your category
-- **Audience retargeting**: Automated ad audiences built from website visitors and email list segments
+- **Audience retargeting**: Automated ad audiences built from website visitors and email list segments — see our [retargeting strategy guide](/content-marketing/how-to-build-a-retargeting-strategy) for how to segment and cap frequency on these audiences once they're built
 
 For a complete tool comparison, our guide to [best social media automation tools for small business](/social-media/best-social-media-automation-tools-small-business) covers the leading platforms in detail.
 
