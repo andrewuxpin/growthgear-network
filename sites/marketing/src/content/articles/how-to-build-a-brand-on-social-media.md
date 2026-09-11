@@ -82,7 +82,7 @@ Before creating a single piece of social content, document your brand identity i
 
 ### Brand Voice and Tone Framework
 
-Brand voice is your consistent personality — the character present in every post, reply, and caption regardless of topic. Brand tone shifts situationally (more serious in a service complaint response, more playful in a product launch) but always stays within the constraints of your defined voice.
+Brand voice is your consistent personality — the character present in every post, reply, and caption regardless of topic. Brand tone shifts situationally (more serious in a service complaint response, more playful in a product launch) but always stays within the constraints of your defined voice. For a deeper walkthrough of the full framework, see [how to develop a brand voice](/content-marketing/how-to-develop-a-brand-voice-guide).
 
 Define your voice using three to five adjectives, then create a contrast table:
 

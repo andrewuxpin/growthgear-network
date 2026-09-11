@@ -152,7 +152,7 @@ The one-to-many repurposing model maximizes content ROI from every original piec
 - 1 short video script (90-120 seconds) covering the article's key argument
 - 3 quote graphics for social sharing using the article's most citable lines
 
-According to the Content Marketing Institute, repurposing frameworks increase content ROI by up to 5x without additional research investment. The key is building repurposing tasks directly into your editorial calendar — not treating them as an afterthought after publishing.
+According to the Content Marketing Institute, repurposing frameworks increase content ROI by up to 5x without additional research investment. The key is building repurposing tasks directly into your editorial calendar — not treating them as an afterthought after publishing. Repurposed content only reinforces authority if it still sounds like the same brand across every format; a documented [brand voice](/content-marketing/how-to-develop-a-brand-voice-guide) is what keeps a quote graphic, an email segment, and a video script all recognizable as coming from you.
 
 ### SEO-Powered Compound Distribution
 

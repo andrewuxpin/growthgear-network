@@ -61,7 +61,7 @@ Standard content marketing answers questions thoroughly and accurately. Creative
 
 The rise of AI-generated content has flooded the web with competent but indistinguishable articles. According to a 2024 report by Forrester, **AI-generated content will account for 30% of all marketing content by 2026** — making differentiation through genuine creativity the primary way to stand out. When anyone can generate a 2,000-word blog post in seconds, the value shifts to ideas, formats, and execution that cannot be auto-generated.
 
-For teams exploring how AI can support content workflows without replacing the creative spark, our guide on [AI implementation in business](https://ai.growthgear.com.au/machine-learning/how-to-implement-ai-in-business-complete-guide) covers the practical integration steps. The key principle: use AI for research and drafting, but keep human creativity at the center of format and concept decisions.
+For teams exploring how AI can support content workflows without replacing the creative spark, our guide on [AI implementation in business](https://ai.growthgear.com.au/machine-learning/how-to-implement-ai-in-business-complete-guide) covers the practical integration steps. The key principle: use AI for research and drafting, but keep human creativity at the center of format and concept decisions. A documented [brand voice](/content-marketing/how-to-develop-a-brand-voice-guide) is what keeps that creativity recognizable as yours, rather than just another well-formatted piece in a crowded feed.
 
 ## How Do Top Brands Execute Creative Content Marketing?
 
