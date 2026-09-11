@@ -126,7 +126,7 @@ For subscription businesses, residual commission aligns rep behavior with retent
 
 ### Consider Team Maturity and Role
 
-Early-stage startups with founders selling need simpler plans than mature sales orgs with specialized roles. A five-person team can run on a single base-plus-commission structure. A fifty-person org with SDRs, AEs, and customer success managers needs role-specific plans: SDRs compensated on meetings booked and SQLs generated, AEs on closed-won revenue, and CSMs on net revenue retention.
+Early-stage startups with founders selling need simpler plans than mature sales orgs with specialized roles. A five-person team can run on a single base-plus-commission structure. A fifty-person org with SDRs, AEs, and customer success managers needs role-specific plans: SDRs compensated on meetings booked and SQLs generated, AEs on closed-won revenue, and CSMs on net revenue retention. If the org splits inbound and outbound prospecting further, see our [SDR vs BDR](/b2b-sales/sdr-vs-bdr-difference-b2b-sales) comparison for how comp expectations differ between the two roles.
 
 This is especially important when [structuring your sales team](/b2b-sales/b2b-sales-team-structure-guide), as each role's comp plan must reinforce its specific function rather than creating overlap or conflict between roles.
 

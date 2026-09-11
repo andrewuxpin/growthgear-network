@@ -197,6 +197,8 @@ A playbook codifies your best-performing sequences, messages, and tactics so new
 
 Treat the playbook as a living document. When a rep discovers a message variant that significantly outperforms the baseline, document it and share it with the team. The best outbound organizations learn faster than their competitors because they systematize what works.
 
+As outbound volume grows, many teams hire a dedicated Business Development Representative rather than splitting this work across generalist reps — see our [SDR vs BDR](/b2b-sales/sdr-vs-bdr-difference-b2b-sales) breakdown for how that role differs from inbound-focused sales development.
+
 ### Automation vs. Personalization: Finding the Right Balance
 
 Outbound automation tools — Salesloft, Outreach, Apollo sequences — accelerate follow-up, ensure consistency, and provide performance data across large contact volumes. The risk is that over-automation produces generic outreach that recipients immediately recognize and ignore.

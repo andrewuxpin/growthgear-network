@@ -62,7 +62,7 @@ A team of three might have one person covering all four. A team of fifty will ha
 
 ### SDR, AE, and CSM: The Standard Role Split
 
-The most common B2B role split separates Sales Development Representatives (SDRs), Account Executives (AEs), and Customer Success Managers (CSMs). SDRs handle outbound prospecting and inbound lead qualification, booking meetings for AEs. AEs run the end-to-end sales process from discovery through close. CSMs manage post-sale relationships, driving onboarding, adoption, and expansion.
+The most common B2B role split separates Sales Development Representatives (SDRs), Account Executives (AEs), and Customer Success Managers (CSMs). SDRs handle outbound prospecting and inbound lead qualification, booking meetings for AEs. As teams scale, many further split the SDR function into inbound and outbound specialists — see our guide on [SDR vs BDR](/b2b-sales/sdr-vs-bdr-difference-b2b-sales) for when that additional split pays off. AEs run the end-to-end sales process from discovery through close. CSMs manage post-sale relationships, driving onboarding, adoption, and expansion.
 
 Each role has a distinct success metric. SDRs are measured on meetings booked and qualified pipeline created. AEs are measured on closed-won revenue and win rate. CSMs are measured on net revenue retention and churn rate. According to Salesforce State of Sales data, teams that clearly separate these roles see higher win rates than teams where AEs prospect and manage accounts simultaneously.
 
