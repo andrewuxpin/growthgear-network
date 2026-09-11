@@ -221,7 +221,7 @@ TCNs and Transformers handle the high-frequency, multi-stream nature of financia
 
 Manufacturing operations use multivariate sensor data — vibration, temperature, pressure, current draw — to predict equipment failure before it occurs. Deep learning time series models detect anomalies in sensor readings 24–72 hours before failure, enabling scheduled maintenance rather than emergency repairs.
 
-According to Deloitte's 2022 Global Manufacturing Report, predictive maintenance programs reduce unplanned downtime by 20–50%, with AI-based approaches outperforming rule-based threshold monitoring in complex, multi-sensor environments.
+According to Deloitte's 2022 Global Manufacturing Report, predictive maintenance programs reduce unplanned downtime by 20–50%, with AI-based approaches outperforming rule-based threshold monitoring in complex, multi-sensor environments. On rotating equipment where the underlying physics are well understood, a [physics-informed neural network](/deep-learning/physics-informed-neural-networks-vs-traditional-simulation) can supplement a pure LSTM forecast with predictions constrained by known conservation laws, rather than sensor history alone.
 
 ### Web Traffic and Capacity Planning
 

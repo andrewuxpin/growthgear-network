@@ -73,7 +73,7 @@ The platform is particularly strong for companies with complex product portfolio
 
 ### Kinaxis Maestro
 
-Kinaxis Maestro represents a meaningful evolution in supply chain planning, using generative AI to let users ask planning questions in natural language. That interface makes advanced planning accessible to non-technical users, who can simulate scenarios like a supplier disruption or a demand spike without building a complex model.
+Kinaxis Maestro represents a meaningful evolution in supply chain planning, using generative AI to let users ask planning questions in natural language. That interface makes advanced planning accessible to non-technical users, who can simulate scenarios like a supplier disruption or a demand spike without building a complex model. For manufacturers layering a digital twin underneath that scenario planning, a [physics-informed neural network](/deep-learning/physics-informed-neural-networks-vs-traditional-simulation) can model the underlying production equipment far faster than a traditional simulation re-run for every what-if scenario.
 
 Kinaxis is known for rapid-response planning: it excels at short-term exception management, identifying deviations from plan and suggesting corrective actions. That speed matters most for businesses operating in volatile markets.
 
