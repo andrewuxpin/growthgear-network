@@ -134,7 +134,7 @@ A single well-planned video shoot can be cut into 8-12 pieces of content — soc
 
 Take one long-form asset, such as a webinar or customer interview, and extract three to five short clips for social distribution. Transcribe the audio into a blog post that targets the same keywords the video covers, and pull the strongest quotes into graphic assets for LinkedIn.
 
-The same recording can also become an audio-only podcast clip and the source material for an email nurture sequence. This is the same "one input, many formats" logic behind [content marketing ideas](/content-marketing/content-marketing-ideas-proven-tactics) that works across the wider content plan — video is simply the highest-density input, since it embeds three formats (visual, audio, and text-derived) in a single production.
+The same recording can also become an audio-only podcast clip and the source material for an email nurture sequence. This is the same "one input, many formats" logic behind [content marketing ideas](/content-marketing/content-marketing-ideas-proven-tactics) that works across the wider content plan — video is simply the highest-density input, since it embeds three formats (visual, audio, and text-derived) in a single production. If those podcast clips grow into a recurring show, our [podcast marketing guide](/content-marketing/podcast-marketing-advertise-vs-launch-a-show) covers the format, cadence, and measurement decisions that come next.
 
 ### Batch Production to Cut Cost Per Asset
 

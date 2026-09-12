@@ -74,7 +74,7 @@ Marketing channels fall into four broad categories: owned, earned, paid, and par
 
 ### Owned Channels: Your Long-Term Foundation
 
-Owned channels are digital assets you control: your website, blog, email list, podcast, and any content properties you publish directly. They're called "owned" because no platform can take them from you—unlike social followers or paid ad accounts, which can disappear overnight.
+Owned channels are digital assets you control: your website, blog, email list, [podcast](/content-marketing/podcast-marketing-advertise-vs-launch-a-show), and any content properties you publish directly. They're called "owned" because no platform can take them from you—unlike social followers or paid ad accounts, which can disappear overnight.
 
 **Why owned channels matter**: According to Content Marketing Institute research, organic search and email consistently rank as the top two highest-ROI marketing channels for B2B companies. Owned channels build compound value: a well-optimized blog post drives traffic for years; an email list becomes more valuable as it grows.
 
