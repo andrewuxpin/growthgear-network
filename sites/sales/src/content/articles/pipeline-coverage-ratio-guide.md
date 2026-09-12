@@ -125,7 +125,7 @@ The most direct fix for low coverage is more qualified pipeline. According to Sa
 
 ### Improve Win Rate to Reduce Required Coverage
 
-If your win rate is 20%, you need 5x coverage to expect full quota attainment. If you lift win rate to 28%, the same 3.5x coverage becomes sufficient. Improving win rate is slower than generating pipeline, but it compounds because every point of improvement permanently reduces the coverage you need. Focus on qualification discipline first; the most common win rate killer is advancing unqualified deals to proposal stage. According to HubSpot, teams that enforce a formal qualification framework such as BANT criteria see win rate improvements of 3 to 5 percentage points within two quarters.
+If your win rate is 20%, you need 5x coverage to expect full quota attainment. If you lift win rate to 28%, the same 3.5x coverage becomes sufficient. Improving win rate is slower than generating pipeline, but it compounds because every point of improvement permanently reduces the coverage you need. Focus on qualification discipline first; the most common win rate killer is advancing unqualified deals to proposal stage. According to HubSpot, teams that enforce a formal qualification framework such as BANT criteria see win rate improvements of 3 to 5 percentage points within two quarters. For the full formula, benchmarks by industry, and a step-by-step improvement framework, see our [sales win rate guide](/b2b-sales/sales-win-rate-formula-benchmarks-guide).
 
 ### Shorten Sales Cycle to Compress the Window
 

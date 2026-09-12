@@ -81,7 +81,7 @@ The eight metrics below give you full coverage of pipeline health: how much pipe
 
 **Formula**: Closed-won deals ÷ Total qualified opportunities in the period × 100
 
-**Why it matters**: According to HubSpot's sales research, the average B2B win rate across industries sits around 21%. Elite teams consistently hit 30% or above. Win rate is your single best indicator of how well your team qualifies, pitches, and closes. If your win rate drops below 15%, it typically signals a qualification problem — you're advancing unfit deals to proposal — rather than a closing problem.
+**Why it matters**: According to HubSpot's sales research, the average B2B win rate across industries sits around 21%. Elite teams consistently hit 30% or above. Win rate is your single best indicator of how well your team qualifies, pitches, and closes. If your win rate drops below 15%, it typically signals a qualification problem — you're advancing unfit deals to proposal — rather than a closing problem. For the full formula, industry benchmarks, and a framework for improving it, see our [sales win rate guide](/b2b-sales/sales-win-rate-formula-benchmarks-guide).
 
 ### 3. Average Deal Size
 

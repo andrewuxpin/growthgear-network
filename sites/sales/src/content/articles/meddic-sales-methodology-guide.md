@@ -94,7 +94,7 @@ Disqualification is the underrated benefit. According to [Gartner research on sa
 
 ### Aligning Sellers with Modern Buying Committees
 
-Modern B2B buyers run formal evaluation processes with documented criteria, requested vendor demos, and procurement gates. The Decision Criteria and Decision Process letters force the seller to map this in detail rather than guess. Teams that combine MEDDIC with strong [salesperson techniques](/sales-techniques/salesperson-techniques-that-close-more-deals) for discovery and demo delivery see compounded improvements in win rate.
+Modern B2B buyers run formal evaluation processes with documented criteria, requested vendor demos, and procurement gates. The Decision Criteria and Decision Process letters force the seller to map this in detail rather than guess. Teams that combine MEDDIC with strong [salesperson techniques](/sales-techniques/salesperson-techniques-that-close-more-deals) for discovery and demo delivery see compounded improvements in win rate — see our [sales win rate guide](/b2b-sales/sales-win-rate-formula-benchmarks-guide) for the formula, benchmarks, and how qualification discipline moves the number.
 
 > **Looking to accelerate your sales growth?** GrowthGear has helped 50+ startups build sales engines that deliver 156% average growth. [Book a Free Strategy Session](https://growthgear.com.au) to map out your sales strategy.
 
