@@ -69,7 +69,7 @@ For a foundation on AI ethics principles, see [AI ethics for businesses: what yo
 
 Three categories of cost make the governance investment calculation straightforward:
 
-- **Regulatory fines**: EU AI Act penalties up to €35M or 7% of global turnover; sector-specific fines in [financial services](/machine-learning/ai-compliance-for-financial-services-guide) and [healthcare](/machine-learning/ai-compliance-for-healthcare-guide)
+- **Regulatory fines**: EU AI Act penalties up to €35M or 7% of global turnover; sector-specific fines in [financial services](/machine-learning/ai-compliance-for-financial-services-guide), [healthcare](/machine-learning/ai-compliance-for-healthcare-guide), and [retail](/machine-learning/ai-compliance-for-retail-guide)
 - **Legal liability**: AI-driven discrimination in hiring or lending creates actionable discrimination claims under existing law, independent of the AI Act
 - **Operational failures**: Ungoverned models degrade silently — without monitoring, you discover failures after they affect customers, not before
 
