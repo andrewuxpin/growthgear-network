@@ -75,7 +75,7 @@ The columnar storage format is the second key piece. Unlike row-oriented transac
 
 - **Storage layer** — Columnar, compressed, often Parquet or a proprietary format. Snowflake stages data in cloud object storage (S3, Azure Blob, GCS). BigQuery stores data in its managed Colossus filesystem. Redshift RA3 separates storage to managed S3. Databricks uses Delta Lake on cloud object storage. Per-gigabyte monthly costs are low — typically $20-25 per TB.
 - **Compute layer** — One or more clusters (Snowflake calls them virtual warehouses; BigQuery calls them slots; Redshift calls them provisioned or serverless workgroups) that run SQL against the storage layer. Compute is the dominant cost driver, billed per second (Snowflake, Redshift Serverless) or per query byte (BigQuery on-demand).
-- **Services layer** — Metadata catalog, query optimizer, access control, and billing. Snowflake's Cloud Services layer handles these and is billed as a small percentage of compute. BigQuery's services are bundled. Redshift uses AWS IAM and Glue Data Catalog.
+- **Services layer** — Metadata catalog, query optimizer, access control, and billing. Snowflake's Cloud Services layer handles these and is billed as a small percentage of compute. BigQuery's services are bundled. Redshift uses AWS IAM and Glue Data Catalog. As a warehouse grows past a handful of teams, most companies eventually layer a dedicated platform on top of this built-in metadata catalog — see our comparison of [the best data governance tools for growing data teams](/machine-learning/best-data-governance-tools-for-data-teams) for when that step makes sense.
 
 ### How Data Gets In (ELT)
 
