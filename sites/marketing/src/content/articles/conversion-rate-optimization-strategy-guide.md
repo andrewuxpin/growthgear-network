@@ -96,7 +96,7 @@ Example: "We believe that adding customer testimonials to our product page will 
 
 #### Headlines and Value Propositions
 - **Clear, benefit-focused headlines**: State exactly what visitors will get
-- **Compelling subheadlines**: Expand on your main value proposition
+- **Compelling subheadlines**: Expand on your main [value proposition](/content-marketing/how-to-write-a-value-proposition-that-converts)
 - **Unique selling points**: Highlight what makes you different from competitors
 
 #### Call-to-Action (CTA) Optimization

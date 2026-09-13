@@ -189,7 +189,7 @@ Your social media profiles are permanent fixtures that audiences encounter befor
 
 - **Profile image**: Your logo (for brand accounts) or a professional headshot (for personal brands) — never a product photo or a busy graphic
 - **Cover/banner image**: Update quarterly to reflect current positioning, active campaigns, or seasonal messaging
-- **Bio and about section**: Include your primary keyword, a specific value proposition, and one clear call to action in 150 characters or fewer
+- **Bio and about section**: Include your primary keyword, a [specific value proposition](/content-marketing/how-to-write-a-value-proposition-that-converts), and one clear call to action in 150 characters or fewer
 - **Link in bio**: Use a multi-link landing page (Linktree, Beacons, or a custom page) — not just a homepage URL that leaves visitors without direction
 - **Username and handle**: [Match your @handle across platforms](/social-media/what-is-a-social-media-handle) wherever possible — brand recall depends on consistent recognition across channels
 

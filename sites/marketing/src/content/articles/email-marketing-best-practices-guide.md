@@ -130,7 +130,7 @@ First-name tokens are table stakes. High-performing personalization uses behavio
 
 Email readers scan before they read. Structure accordingly:
 
-- **Opening line**: The most important sentence — state the value proposition immediately
+- **Opening line**: The most important sentence — [state the value proposition](/content-marketing/how-to-write-a-value-proposition-that-converts) immediately
 - **Body**: 3-5 short paragraphs, no block walls of text
 - **Bullet points**: Use for lists of 3+ items
 - **CTA button**: One primary CTA, above the fold on desktop
