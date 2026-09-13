@@ -79,7 +79,7 @@ Prospecting methods include outbound (cold email, cold calling, LinkedIn outreac
 
 ### Stage 2: Discovery and Qualification
 
-Discovery is the highest-leverage stage in the cycle. A thorough discovery conversation surfaces the buyer's actual problem, quantifies the cost of inaction, identifies every stakeholder who will influence or block the deal, and establishes a decision timeline.
+Discovery is the highest-leverage stage in the cycle. A thorough discovery conversation surfaces the buyer's actual problem, quantifies the cost of inaction, identifies every stakeholder who will influence or block the deal, and establishes a decision timeline. Methodologies like [Conceptual Selling vs Strategic Selling](/sales-techniques/conceptual-selling-vs-strategic-selling-guide) give reps a repeatable question structure for running that discovery conversation with each stakeholder, rather than improvising it fresh each time.
 
 Qualification frameworks like [BANT (Budget, Authority, Need, Timeline)](/sales-techniques/how-to-qualify-leads-using-bant-criteria-complete-guide) or MEDDIC help reps assess whether a prospect is worth pursuing before investing significant time. Deals that skip rigorous qualification are the leading cause of late-stage losses and extended cycles.
 

@@ -123,7 +123,7 @@ Assess your standing against every alternative the buyer is weighing, including 
 
 ## Strategic Selling vs. Other B2B Sales Methodologies
 
-Strategic Selling is not a substitute for conversational methodologies like MEDDIC, the Challenger Sale, SPIN Selling, or Sandler; it is the planning layer underneath them. Strategic Selling tells you who to influence, while those frameworks tell you how to run the conversation once you're in the room.
+Strategic Selling is not a substitute for conversational methodologies like MEDDIC, the Challenger Sale, SPIN Selling, or Sandler; it is the planning layer underneath them. Strategic Selling tells you who to influence, while those frameworks tell you how to run the conversation once you're in the room — including its own sibling methodology, [Conceptual Selling](/sales-techniques/conceptual-selling-vs-strategic-selling-guide), which Miller and Heiman built specifically to structure that in-room conversation.
 
 | Methodology | Core Focus | Best For | Pairs Well With |
 |---|---|---|---|
