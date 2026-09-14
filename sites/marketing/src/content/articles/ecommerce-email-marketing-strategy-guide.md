@@ -80,7 +80,7 @@ The quality of your ecommerce email list determines the performance ceiling of e
 
 **Popup with a strong offer**: A well-timed popup — triggered at 20% scroll or 5 seconds on a product page — converting at 2-3% on meaningful traffic volume is worth building. The offer determines performance: 10% off or free shipping consistently outperforms "Subscribe for updates" by 3-5x, according to Omnisend's ecommerce benchmark data. Make the offer specific, valuable, and immediately redeemable.
 
-**Post-purchase upsell page**: After a customer completes an order, invite them to join a loyalty program or VIP list. Conversion rates are high here because purchase intent and brand trust are both at their peak.
+**Post-purchase upsell page**: After a customer completes an order, invite them to join a loyalty program or VIP list. Conversion rates are high here because purchase intent and brand trust are both at their peak. If you haven't picked a program structure yet, our [guide to comparing loyalty program types](/content-marketing/customer-loyalty-program-types-guide) breaks down points, tiered, paid, and cashback models.
 
 **Lead magnets**: For stores with a content angle — fitness, beauty, home improvement, education — a free guide, quiz, or checklist captures emails from browsers who aren't ready to buy. These subscribers need nurture sequences, not immediate promotional sends. Email is one pillar of a broader ecommerce growth engine — for the full picture of acquisition, referral, and conversion tactics, see the [growth hacking for ecommerce guide](/content-marketing/growth-hacking-ecommerce-strategies) that covers referral programs, social proof mechanics, and post-purchase upsell flows.
 

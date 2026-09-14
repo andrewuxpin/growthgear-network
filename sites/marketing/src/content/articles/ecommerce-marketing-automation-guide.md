@@ -107,7 +107,7 @@ A high-performing post-purchase sequence covers:
 - **Product education email** (days 5-7): Usage tips, care instructions, or complementary product recommendations based on what they bought.
 - **Review request** (days 10-14): Ask for the review while the product experience is fresh. Reviews feed social proof for future cart abandonment sequences.
 - **Cross-sell or upsell email** (days 21-30): Recommend products from adjacent categories based on purchase data.
-- **Loyalty programme invitation** (day 45+): Invite repeat purchasers to a VIP tier or loyalty programme — a signal that higher-value customers should receive a differentiated experience.
+- **Loyalty programme invitation** (day 45+): Invite repeat purchasers to a VIP tier or loyalty programme — a signal that higher-value customers should receive a differentiated experience. See our [comparison of loyalty program types](/content-marketing/customer-loyalty-program-types-guide) to decide which structure to invite them into.
 
 Post-purchase lifecycle automation has emerged as a core growth function in 2026, with organisations treating it the same way they treat acquisition — because reducing churn is consistently cheaper per dollar of revenue than increasing new customer volume, according to Klaviyo's 2026 Automation Trends analysis.
 

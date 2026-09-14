@@ -147,6 +147,8 @@ Growth hacking a loyalty program means not building the most complex system — 
 - **Tiered programs**: Bronze/Silver/Gold tiers based on annual spend. The tier status itself creates aspiration — customers spend more to maintain status.
 - **Subscription/DTC boxes**: For consumable products, a subscription model converts one-time buyers into predictable recurring revenue. **McKinsey research** shows subscription ecommerce businesses grow 5.7x faster than pure-play retail equivalents.
 
+For a deeper comparison of points, tiered, paid/VIP, and cashback structures — including which fits your margin and purchase frequency — see our [customer loyalty program comparison guide](/content-marketing/customer-loyalty-program-types-guide).
+
 ## Conversion Optimization Hacks
 
 Conversion optimization is where growth hacking delivers the fastest measurable wins. A 1% improvement in conversion rate doubles revenue relative to a 2x increase in traffic — and it costs nothing in additional acquisition spend. Every experiment here makes your entire paid and organic acquisition more profitable.
