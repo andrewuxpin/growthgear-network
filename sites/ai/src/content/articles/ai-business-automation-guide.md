@@ -192,7 +192,7 @@ During the pilot, track:
 
 If accuracy exceeds 90% and exception rate is under 15%, the process is ready to scale. If not, refine the model or rules before expanding.
 
-For a complete implementation framework, including how to sequence AI across your organization, our guide on [how to implement AI in business](/machine-learning/how-to-implement-ai-in-business-complete-guide) covers the organizational change management side in detail.
+For a complete implementation framework, including how to sequence AI across your organization, our guide on [how to implement AI in business](/machine-learning/how-to-implement-ai-in-business-complete-guide) covers the organizational change management side in detail. If you find yourself running this playbook across finance, supply chain, and customer service simultaneously, you've likely outgrown single-process automation — our guide to [hyperautomation](/ai-tools/hyperautomation-business-decision-guide) covers when it's worth coordinating multiple automated processes under one program instead of scaling each one independently.
 
 ## Measuring ROI from AI Business Automation
 
