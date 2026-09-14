@@ -67,7 +67,7 @@ Confusing these three roles is a common, costly error. All three may seem cooper
 | **Coach** | Shares information, guidance, and internal intelligence about how the deal really moves | Gives you useful insight privately but avoids public advocacy or internal debate |
 | **Economic Buyer** | Controls budget and holds final sign-off authority for the purchase | Focuses on ROI and risk, rarely engages in early technical or product discussion |
 
-Knowing which role you're actually talking to changes how you run the deal. A rep who treats a coach like a champion wastes weeks waiting for advocacy that was never coming, and a rep who treats an economic buyer like a champion overloads a busy executive with detail they don't need this early in a [B2B sales cycle](/b2b-sales/b2b-sales-cycle-guide).
+Knowing which role you're actually talking to changes how you run the deal. A rep who treats a coach like a champion wastes weeks waiting for advocacy that was never coming, and a rep who treats an economic buyer like a champion overloads a busy executive with detail they don't need this early in a [B2B sales cycle](/b2b-sales/b2b-sales-cycle-guide). For a deeper look at surfacing and engaging that third role specifically, see our guide on [how to identify the economic buyer](/b2b-sales/how-to-identify-economic-buyer-b2b-sales) in a B2B deal.
 
 ### Why a Single Champion Isn't Enough
 

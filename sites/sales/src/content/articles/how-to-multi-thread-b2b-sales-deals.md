@@ -65,7 +65,7 @@ Enterprise deals push this even further. Complex technology purchases routinely 
 
 ## How to Map the Buying Committee Before You Multi-Thread
 
-Multi-threading starts with identifying **who** to engage, not just how many people to add to an email thread. The economic buyer, technical evaluator, and champion play distinct roles and need different messages, and mapping the committee first prevents wasted effort on stakeholders who have no real influence over the decision.
+Multi-threading starts with identifying **who** to engage, not just how many people to add to an email thread. The economic buyer, technical evaluator, and champion play distinct roles and need different messages, and mapping the committee first prevents wasted effort on stakeholders who have no real influence over the decision. See our [guide to identifying the economic buyer](/b2b-sales/how-to-identify-economic-buyer-b2b-sales) for the specific discovery questions that surface this role early.
 
 Accurate mapping goes beyond an org chart. You need to understand informal power: who influences whom, who controls the budget, and who will actually use what you're selling day to day. That qualitative picture matters as much as the formal hierarchy — the same instinct behind building an [ideal customer profile](/b2b-sales/icp-scoring-criteria-b2b-sales) before you ever start prospecting an account.
 
