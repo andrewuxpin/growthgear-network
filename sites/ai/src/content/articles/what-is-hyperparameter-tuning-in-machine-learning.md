@@ -90,6 +90,8 @@ Not all hyperparameters are equal. Tuning the right ones first delivers most of 
 | **Neural Network** | Learning rate, batch size, dropout rate | LR: 0.0001–0.1, batch: 16–256, dropout: 0.1–0.5 |
 | **Random Forest** | Number of trees, max depth, max features | Trees: 100–1000, depth: 5–30, features: sqrt–log2 |
 | **XGBoost / LightGBM** | Learning rate, number of estimators, max depth | LR: 0.01–0.3, estimators: 100–1000, depth: 3–10 |
+
+Notice how much shorter the tuning list is for Random Forest than for XGBoost/LightGBM — that gap in tuning effort is often the deciding factor between the two. Our [random forest vs gradient boosting guide](/machine-learning/random-forest-vs-gradient-boosting-guide) breaks down when that extra tuning investment pays off.
 | **Support Vector Machine** | C (regularisation), kernel, gamma | C: 0.1–100, gamma: scale–auto |
 | **Logistic Regression** | C (inverse regularisation), penalty type | C: 0.01–100, penalty: l1, l2 |
 
