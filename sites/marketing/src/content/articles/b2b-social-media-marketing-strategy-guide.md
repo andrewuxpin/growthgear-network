@@ -183,7 +183,7 @@ Most B2B companies produce video too slowly. Build a "video assembly line": one 
 
 ### Executive thought leadership
 
-Per LinkedIn's own analytics, posts from individual executives outperform brand pages by 5-10x on engagement and reach. Stand up an executive content program with 3-5 leaders — not just the CEO. Marketing should ghostwrite for executives who can't write themselves but always preserve their voice and let them approve. The fastest-growing B2B brands of 2025-2026 (Vanta, Clay, Apollo, Rippling) all run aggressive executive content programs.
+Per LinkedIn's own analytics, posts from individual executives outperform brand pages by 5-10x on engagement and reach. Stand up an executive content program with 3-5 leaders — not just the CEO. Marketing should ghostwrite for executives who can't write themselves but always preserve their voice and let them approve. The fastest-growing B2B brands of 2025-2026 (Vanta, Clay, Apollo, Rippling) all run aggressive executive content programs. If you're deciding whether to run this in-house or bring in outside help, see our comparison of [thought leadership marketing program models](/content-marketing/thought-leadership-marketing-guide) for the cost and scalability tradeoffs of each approach.
 
 ### Document carousels
 

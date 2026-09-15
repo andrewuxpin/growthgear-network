@@ -83,7 +83,7 @@ Maintaining visual consistency across all account-specific materials becomes cri
 
 ### 2. Thought Leadership Content
 
-Positioning your company as an industry authority builds trust and attracts qualified prospects. Thought leadership content should provide unique insights, challenge conventional thinking, and offer forward-looking perspectives.
+Positioning your company as an industry authority builds trust and attracts qualified prospects. Thought leadership content should provide unique insights, challenge conventional thinking, and offer forward-looking perspectives. Before investing further, it's worth mapping which [thought leadership program model](/content-marketing/thought-leadership-marketing-guide) — DIY, ghostwritten, agency-retainer, or hybrid — actually fits your team's current bandwidth.
 
 **Effective formats include:**
 - Executive-authored articles in industry publications

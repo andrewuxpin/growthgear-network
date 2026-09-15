@@ -165,7 +165,7 @@ For budgeting purposes, here are realistic cost-per-piece ranges by depth tier. 
 | **Original research report** | 2,500-5,000 words + data | $8,000-$25,000 | PR-driven thought leadership |
 | **Video + transcript + blog** | 5-10 minute video | $5,000-$15,000 | Multi-channel campaigns |
 
-A reasonable B2B content engine producing eight pieces monthly — four standard articles, two pillar guides, and two short pieces — costs roughly $12,000-$18,000 in agency fees. Before committing to that spend, run the [content marketing ROI math](/content-marketing/how-to-measure-content-marketing-roi) for your specific pipeline metrics.
+A reasonable B2B content engine producing eight pieces monthly — four standard articles, two pillar guides, and two short pieces — costs roughly $12,000-$18,000 in agency fees. Before committing to that spend, run the [content marketing ROI math](/content-marketing/how-to-measure-content-marketing-roi) for your specific pipeline metrics. If the goal is specifically an executive content or original research program rather than general SEO output, compare agency-retainer pricing against the other [thought leadership program models](/content-marketing/thought-leadership-marketing-guide) first — a full retainer isn't always the right starting point.
 
 ## Red Flags and ROI Expectations
 
