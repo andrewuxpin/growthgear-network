@@ -131,7 +131,7 @@ Understanding how the prospect makes buying decisions is critical for [handling 
 
 ### Budget and Authority Questions
 
-These questions are sensitive and should be framed as understanding the prospect's context rather than qualifying them out. The BANT qualification framework (Budget, Authority, Need, Timeline) provides a useful structure, but modern discovery integrates these questions naturally rather than treating them as a checklist:
+These questions are sensitive and should be framed as understanding the prospect's context rather than qualifying them out. The BANT qualification framework (Budget, Authority, Need, Timeline) provides a useful structure, but modern discovery integrates these questions naturally rather than treating them as a checklist — see [NEAT Selling vs. BANT](/sales-techniques/neat-selling-vs-bant-qualification-framework) for a flexible alternative built around this exact problem:
 
 - "How does your team typically budget for solutions in this category?"
 - "Have you allocated budget for this initiative, or would this require a new budget cycle?"

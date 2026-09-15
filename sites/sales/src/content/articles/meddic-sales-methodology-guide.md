@@ -134,7 +134,7 @@ MEDDPICC adds two letters to MEDDIC: **P**aper Process (legal, security, procure
 
 ### MEDDIC vs BANT: Filter vs Qualify
 
-BANT (Budget, Authority, Need, Timing) is a fast inbound lead filter that an SDR or AE can apply in a 15-minute discovery call. It tells you whether the prospect is worth a second meeting. MEDDIC is a deeper qualification framework applied to opportunities already in active pipeline. The relationship is sequential: BANT decides whether a lead converts to an opportunity, then MEDDIC decides whether that opportunity gets pursued at full effort or gets parked.
+BANT (Budget, Authority, Need, Timing) is a fast inbound lead filter that an SDR or AE can apply in a 15-minute discovery call. It tells you whether the prospect is worth a second meeting. MEDDIC is a deeper qualification framework applied to opportunities already in active pipeline. The relationship is sequential: BANT decides whether a lead converts to an opportunity, then MEDDIC decides whether that opportunity gets pursued at full effort or gets parked. Some teams replace BANT's rigid checklist with the more conversational [NEAT Selling framework](/sales-techniques/neat-selling-vs-bant-qualification-framework) once a deal has multiple stakeholders, but the sequential filter-then-qualify relationship with MEDDIC stays the same either way.
 
 ### MEDDIC vs SPIN, Challenger, and Sandler
 

@@ -316,6 +316,8 @@ Modern B2B buying processes have evolved, requiring adaptations to traditional B
 
 **Self-Service Research**: Prospects often research solutions independently before engaging sales, changing how need is expressed and qualified.
 
+Some teams skip adapting BANT altogether and switch frameworks for complex, multi-stakeholder deals instead — see our comparison of [NEAT Selling vs. BANT](/sales-techniques/neat-selling-vs-bant-qualification-framework) for a breakdown of when each framework fits best.
+
 **Budget Flexibility**: Modern procurement processes may allow for budget reallocation or emergency approvals for critical needs.
 
 ## Measuring BANT Qualification Success
